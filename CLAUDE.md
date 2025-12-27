@@ -129,27 +129,64 @@ WIA-Wisdom/
 - Address contemporary challenges
 - Consider future implications
 
-## Slash Commands | 슬래시 명령어
+## 필수 원칙 | Critical Rules
 
-### /wisdom-create [pillar] [topic]
-Create new wisdom content for a specific topic.
+### 웹서치 필수! | Web Search Required!
 
-```bash
-/wisdom-create DHARMIC buddhism/four-noble-truths
+**모든 콘텐츠 생성 시 반드시 WebSearch를 사용하세요:**
+
+```
+필수 검색:
+1. Stanford Encyclopedia of Philosophy
+2. Academic journals
+3. Primary source translations
+4. 한국어 학술 자료
 ```
 
-### /wisdom-compare [tradition1] [tradition2] [theme]
-Create comparative analysis between traditions.
+이유: 정확성과 풍성함을 위해 최신 학술 자료 반영 필수
+
+---
+
+## 슬래시 명령어 | Slash Commands
+
+### /wisdom-list [옵션]
+현황 조회 - 완성/예정 문서 목록
 
 ```bash
-/wisdom-compare DHARMIC HELLENIC consciousness
+/wisdom-list              # 전체 현황
+/wisdom-list 01           # DHARMIC 상세
+/wisdom-list 예정          # 예정 문서
+/wisdom-list 완성          # 완성 문서
 ```
 
-### /wisdom-synthesize [theme]
-Create cross-pillar synthesis on a theme.
+### /wisdom-create [경로]
+새 지혜 문서 생성 (웹서치 필수!)
 
 ```bash
-/wisdom-synthesize ethical-principles
+/wisdom-create 01-DHARMIC/buddhism/core-teachings/four-noble-truths
+/wisdom-create 04-HELLENIC/stoicism/philosophers/marcus-aurelius
+```
+
+### /wisdom-ebook [기둥]
+eBook 생성 (EN/KO 분리)
+
+```bash
+/wisdom-ebook 01-DHARMIC      # DHARMIC eBook
+/wisdom-ebook all              # 전체 eBook
+```
+
+### /wisdom-compare [전통1] [전통2] [주제]
+전통 간 비교 분석
+
+```bash
+/wisdom-compare buddhism stoicism suffering
+```
+
+### /wisdom-synthesize [주제]
+기둥 간 통합 분석
+
+```bash
+/wisdom-synthesize consciousness
 ```
 
 ## Quality Checklist | 품질 체크리스트
