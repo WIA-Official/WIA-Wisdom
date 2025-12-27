@@ -1,199 +1,164 @@
-# Fana | 파나 (فناء)
+# Fana and Baqa | 파나와 바카 (فناء و بقاء)
 
-> Annihilation of the Self: Dying Before You Die
-> 자아의 소멸: 죽기 전에 죽다
+> Annihilation and Subsistence: The Sufi Journey
+> 소멸과 존속: 수피의 여정
 
 ---
 
 ## Overview | 개요
 
 **English:**
-Fana (Arabic: فناء, fanāʾ, "annihilation" or "passing away") is one of the most profound concepts in Sufi mysticism. It refers to the spiritual process through which the individual ego or self (nafs) dissolves in the Divine presence. As the Sufi saying goes, fana means "to die before one dies."
+Fanaa (Arabic: فناء fanāʾ) in Sufism is the "passing away" or "annihilation" of the self. Fana means "to die before one dies," a concept highlighted by famous Persian mystics such as Rumi. In Sufi Islamic mysticism, Fana represents the complete denial of self and the realization of God as a step toward the achievement of union with God.
 
-This experience of annihilation is not nihilistic erasure but a transformative death of the false self that allows the mystic to perceive and unite with ultimate Reality—God (Allah). When the limited self passes away, what remains is the eternal, infinite Divine. Fana is followed by baqa—subsistence in God.
+Baqa (بقاء) is the complementary state of "subsistence" or "remaining" in God. Together, fana and baqa represent the complete Sufi spiritual journey—the death of the ego and the awakening to divine presence.
 
 **한국어:**
-파나(아랍어: فناء, "소멸" 또는 "사라짐")는 수피 신비주의에서 가장 심오한 개념 중 하나입니다. 개별 자아(나프스)가 신성한 현존 안에서 녹아드는 영적 과정을 가리킵니다. 수피의 말처럼, 파나는 "죽기 전에 죽는 것"을 의미합니다.
+파나(아랍어: فناء 파나)는 수피즘에서 자아의 "사라짐" 또는 "소멸"입니다. 파나는 "죽기 전에 죽는다"를 의미하며, 루미와 같은 유명한 페르시아 신비가들이 강조한 개념입니다. 수피 이슬람 신비주의에서 파나는 자아의 완전한 부정과 하나님과의 합일 달성을 향한 단계로서 하나님의 깨달음을 나타냅니다.
 
-이 소멸의 경험은 허무주의적 지움이 아니라 신비가가 궁극적 실재—하나님(알라)—를 인식하고 합일할 수 있게 하는 거짓 자아의 변형적 죽음입니다. 제한된 자아가 사라지면, 남는 것은 영원하고 무한한 신성입니다. 파나 뒤에는 바카—하나님 안에서의 존속—가 따릅니다.
+바카(بقاء)는 하나님 안에서의 "존속" 또는 "남음"의 보완적 상태입니다. 함께, 파나와 바카는 완전한 수피 영적 여정을 나타냅니다.
 
 ---
 
-## Quranic Foundation | 꾸란적 기초
+## The State of Fana | 파나의 상태
 
 **English:**
-The doctrine of fana is rooted in the Quran:
 
-> "All things in creation suffer annihilation and there remains the face of the Lord in its majesty and bounty." (Quran 55:26-27)
+> "In this state of 'annihilation,' the mystic is said to lose all awareness of earthly existence."
 
-> كُلُّ مَنْ عَلَيْهَا فَانٍ ۝ وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ
+### What Fana Means:
+- Complete dissolution of the ego
+- Loss of self-consciousness
+- Perception of only God
+- "Death before death"
 
-Everything created passes away; only God remains. The mystic experiences this truth directly through fana.
+### Different Interpretations:
+> "There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the world (Baqaa). Other Sufis interpret it as breaking down of the individual ego and a recognition of the fundamental unity of God, creation, and the individual self."
 
 **한국어:**
-파나 교리는 꾸란에 뿌리를 두고 있습니다:
 
-> "그 위에 있는 모든 것은 소멸하고, 위엄과 은총의 당신 주님의 얼굴만이 남는다." (꾸란 55:26-27)
+> "이 '소멸'의 상태에서 신비가는 현세적 존재에 대한 모든 자각을 잃는다고 합니다."
 
-창조된 모든 것은 사라지고, 오직 하나님만 남습니다. 신비가는 파나를 통해 이 진리를 직접 경험합니다.
+### 파나의 의미:
+- 자아의 완전한 용해
+- 자아의식의 상실
+- 오직 하나님만의 지각
+- "죽음 전의 죽음"
 
 ---
 
-## Interpretations of Fana | 파나의 해석
+## Fana and Baqa Together | 파나와 바카의 결합
 
 **English:**
-Sufi masters have understood fana in several ways:
 
-### 1. Annihilation of Ego
-The passing away of the limited, egocentric self (nafs) that separates one from God. The false "I" dissolves, revealing the true Self.
+> "In Sufi thought, Fana and Baqa are often seen as complementary. Fana is the annihilation of the self, while Baqa is the realization of the divine presence within and through the individual."
 
-### 2. Union with God (Ittihad)
-Complete merging with the Divine, as taught by Al-Bistami and Al-Hallaj. Hallaj famously declared "Ana al-Haqq" ("I am the Truth/God"), expressing this union.
+### The Journey:
+| Stage | State | Experience |
+|-------|-------|------------|
+| **Before Fana** | Nafs (ego) | Ordinary consciousness |
+| **Fana** | Annihilation | Loss of self, perception of God only |
+| **Baqa** | Subsistence | Living in/through God in the world |
 
-### 3. Dissolution of Duality
-Breaking down the distinction between self and God, recognizing that separation was always an illusion:
-> "Persons having entered this enlightened state are said to obtain absolute awareness of an intrinsic unity (Tawhid) between God and all that exists."
+> "Together, they represent the completion of the spiritual journey, where the seeker, though still living in the world, is fully conscious of Allah's presence in every moment."
 
 **한국어:**
-수피 스승들은 파나를 여러 방식으로 이해했습니다:
 
-### 1. 자아의 소멸
-하나님에서 분리시키는 제한된 이기적 자아(나프스)의 사라짐. 거짓 "나"가 녹아 진정한 자아를 드러냄.
+> "수피 사상에서 파나와 바카는 종종 상호보완적으로 보입니다. 파나는 자아의 소멸이고, 바카는 개인 안에서 그리고 개인을 통한 신성한 현존의 실현입니다."
 
-### 2. 하나님과의 합일 (잇티하드)
-알-비스타미와 알-할라지가 가르친 대로 신과의 완전한 합일. 할라지는 유명하게 "아나 알-하크"("나는 진리/하나님이다")라고 선언.
-
-### 3. 이원성의 해소
-자아와 하나님 사이의 구별 해체, 분리가 항상 환상이었음을 인식.
+| 단계 | 상태 | 경험 |
+|-----|-----|-----|
+| **파나 전** | 나프스 (자아) | 일상적 의식 |
+| **파나** | 소멸 | 자아 상실, 오직 하나님 지각 |
+| **바카** | 존속 | 세상에서 하나님 안에/통해 살기 |
 
 ---
 
-## Stages of Fana | 파나의 단계
+## The Spiritual Path | 영적 경로
 
 **English:**
-Classical Sufism identifies several stages:
 
-| Stage | Description |
-|-------|-------------|
-| **Fana fi'l-Shaykh** | Annihilation in the spiritual master |
-| **Fana fi'l-Rasul** | Annihilation in the Prophet Muhammad |
-| **Fana fi Allah** | Annihilation in God |
-| **Fana 'an al-Fana** | Annihilation of annihilation |
+> "In the Sufi path (tariqa), fana is not an isolated event but the culmination of an inner journey comprising multiple stages (maqamat) and states (ahwal)."
 
-The final stage—passing away from passing away—means losing even the awareness that one has been annihilated. Only God remains.
+### Stages Leading to Fana:
+1. **Tazkiyah al-Nafs** - Purification of the ego
+2. **Dhikr** - Remembrance of God, detachment from world
+3. **Ishq** - Divine love, heart consumed with longing
+4. **Wajd** - Ecstasy, glimpses of the Divine
 
 **한국어:**
-고전 수피즘은 여러 단계를 밝힙니다:
 
-| 단계 | 설명 |
-|-----|-----|
-| **파나 필-쉐이크** | 영적 스승 안에서의 소멸 |
-| **파나 필-라술** | 예언자 무함마드 안에서의 소멸 |
-| **파나 필라** | 하나님 안에서의 소멸 |
-| **파나 안 알-파나** | 소멸의 소멸 |
+> "수피 도(타리카)에서 파나는 고립된 사건이 아니라 여러 단계(마카마트)와 상태(아흐왈)로 구성된 내적 여정의 절정입니다."
+
+### 파나로 이끄는 단계:
+1. **타즈키야 알-나프스** - 자아의 정화
+2. **지크르** - 하나님 기억, 세상으로부터의 분리
+3. **이쉬크** - 신성한 사랑, 그리움으로 가득 찬 마음
+4. **와즈드** - 황홀경, 신성한 것의 엿봄
 
 ---
 
-## Fana and Baqa | 파나와 바카
+## Great Masters | 위대한 스승들
 
 **English:**
-Fana is followed by baqa (بقاء, "subsistence" or "remaining"):
 
-> "Fana: The self is annihilated; the seeker loses all consciousness of ego and perceives only God. Baqa: After fana, the mystic returns to the world, but now lives fully in and through the Divine presence."
+> "Masters such as Junayd of Baghdad, Sari al-Saqati and Abu Yazid al-Bistami developed teachings on the purification of the heart, the stages of the spiritual journey, and the annihilation of the ego in the presence of God."
 
-### The Complete Journey:
-1. **Fana** — The ego dies, separation ends
-2. **Fana 'an al-Fana** — Even awareness of annihilation dissolves
-3. **Baqa** — Subsisting in God, living through God
-4. **Return** — Living in the world while established in the Divine
-
-The mystic who returns from fana sees with God's eyes, hears with God's ears, and acts as an instrument of God's will.
-
-**한국어:**
-파나 뒤에 바카(بقاء, "존속" 또는 "남음")가 따릅니다:
-
-> "파나: 자아가 소멸됨; 구도자는 자아의 모든 의식을 잃고 오직 하나님만 인식. 바카: 파나 후, 신비가는 세상으로 돌아오지만, 이제 완전히 신성한 현존 안에서 그것을 통해 삽니다."
-
----
-
-## Historical Development | 역사적 발전
-
-**English:**
-Key figures in the development of fana:
-
+### Key Figures:
 | Master | Contribution |
 |--------|--------------|
-| **Dhu'l-Nun al-Misri** (d. 860) | First articulated the concept |
-| **Al-Junayd** (d. 910) | Defined it as "subsistence through God after annihilation in God" |
-| **Al-Hallaj** (d. 922) | Publicly proclaimed union; executed for saying "Ana al-Haqq" |
-| **Rumi** (d. 1273) | Expressed fana through poetry and the metaphor of the moth and flame |
-
-Al-Junayd was careful to balance fana with sobriety (sahw), while Hallaj's ecstatic proclamations led to his execution.
+| **Junayd of Baghdad** | Developed "sober" mysticism |
+| **Abu Yazid al-Bistami** | Taught complete union (ittihad) |
+| **Al-Hallaj** | Declared "Ana al-Haqq" (I am the Truth) |
+| **Al-Ghazali** | Systematized Sufi doctrine |
+| **Ibn Arabi** | Developed philosophical mysticism |
+| **Rumi** | Expressed fana in poetry |
 
 **한국어:**
-파나 발전의 주요 인물들:
 
 | 스승 | 기여 |
 |-----|-----|
-| **둘-눈 알-미스리** (d. 860) | 개념을 처음 명확히 함 |
-| **알-주나이드** (d. 910) | "하나님 안에서의 소멸 후 하나님을 통한 존속"으로 정의 |
-| **알-할라지** (d. 922) | 공개적으로 합일 선언; "아나 알-하크"라고 말해 처형됨 |
-| **루미** (d. 1273) | 시와 나방과 불꽃의 비유로 파나 표현 |
+| **바그다드의 주나이드** | "깨어있는" 신비주의 발전 |
+| **아부 야지드 알-비스타미** | 완전한 합일(잇티하드) 가르침 |
+| **알-할라지** | "아나 알-하끄"(나는 진리다) 선언 |
+| **루미** | 시를 통해 파나 표현 |
 
 ---
 
-## The Experience of Fana | 파나의 경험
+## Quranic Basis | 꾸란적 근거
 
 **English:**
-Those who experience fana describe:
 
-> "Fana 'may consist of being absent from [one's] own [ego] attributes, so that he appears to be really mad and to have lost his reason.'"
+> "Similar to other Sufi doctrines, Fana is based on first-party Islamic teachings. Specifically, the Quran says: 'All things in creation suffer annihilation and there remains the face of the Lord in its majesty and bounty.'" (Quran 55:26-27)
 
-### Characteristics:
-- Loss of self-awareness
-- Overwhelming divine presence
-- Ecstatic states (hal)
-- Sometimes appearing "mad" (majdhub)
-- Words fail to describe the experience
-- Temporary or permanent transformation
-
-### The Moth and Flame
-A classic Sufi metaphor: The moth is so attracted to the candle's light that it flies into the flame and is consumed. Only by dying does it truly become one with the light.
+This verse suggests the transience of all created things and the eternal nature of God alone.
 
 **한국어:**
-파나를 경험한 자들의 묘사:
 
-> "파나는 '[자신의] 자아 속성에서 부재하는 것'으로 이루어질 수 있으며, 그래서 정말로 미친 것처럼 보이고 이성을 잃은 것처럼 보입니다."
-
-### 나방과 불꽃
-고전 수피 비유: 나방이 촛불의 빛에 너무 끌려 불꽃으로 날아가 타버립니다. 오직 죽음으로써 진정으로 빛과 하나가 됩니다.
+> "다른 수피 교리와 마찬가지로 파나는 이슬람 가르침에 기초합니다. 구체적으로 꾸란은 말합니다: '창조된 모든 것은 소멸을 겪고, 주님의 얼굴만이 위엄과 은총 안에 남는다.'" (꾸란 55:26-27)
 
 ---
 
-## Comparison with Other Traditions | 다른 전통과의 비교
+## Union vs. Unity | 합일 대 단일
 
 **English:**
-Fana shares similarities with concepts in other mystical traditions:
 
-| Tradition | Concept | Similarity |
-|-----------|---------|------------|
-| Buddhism | Nirvana | Extinction of individual craving |
-| Hinduism | Moksha | Liberation from ego |
-| Christianity | Mystical death | "Not I, but Christ lives in me" |
-| Neoplatonism | Return to the One | Soul's ascent to unity |
+### Different Views:
+> "Another interpretation is that of Fana as being united with the One or the Truth. The two famous exponents of this who contended that fana is total union (ittihad) were Al-Bistami and Al-Hallaj."
 
-However, fana remains distinctly Islamic:
-> "The emphasis is on tawhid (the oneness of God), not dissolution into a pantheistic unity."
+### Orthodox Caution:
+Some scholars distinguish between:
+- **Wahdat al-Shuhud** - Unity of witness (acceptable)
+- **Wahdat al-Wujud** - Unity of being (controversial)
 
 **한국어:**
-파나는 다른 신비 전통의 개념들과 유사점을 공유합니다:
 
-| 전통 | 개념 | 유사점 |
-|-----|-----|-------|
-| 불교 | 열반 | 개인적 갈애의 소멸 |
-| 힌두교 | 목샤 | 자아에서의 해탈 |
-| 기독교 | 신비적 죽음 | "내가 아니라 그리스도가 내 안에 산다" |
-| 신플라톤주의 | 일자에게로의 귀환 | 영혼의 합일로의 상승 |
+### 다른 견해:
+> "또 다른 해석은 파나를 하나 또는 진리와 합일되는 것으로 봅니다."
+
+### 정통의 주의:
+일부 학자들은 구별합니다:
+- **와흐다트 알-슈후드** - 증거의 단일성 (수용 가능)
+- **와흐다트 알-우주드** - 존재의 단일성 (논란)
 
 ---
 
@@ -201,21 +166,21 @@ However, fana remains distinctly Islamic:
 
 | Arabic | Korean | Meaning |
 |--------|--------|---------|
-| Fana | 파나 | Annihilation |
-| Baqa | 바카 | Subsistence |
-| Nafs | 나프스 | Ego, lower self |
-| Tawhid | 타우히드 | Oneness of God |
-| Ittihad | 잇티하드 | Union |
-| Majdhub | 마즈둡 | One attracted/absorbed in God |
+| Fana (فناء) | 파나 | Annihilation |
+| Baqa (بقاء) | 바카 | Subsistence |
+| Nafs (نفس) | 나프스 | Ego/self |
+| Tariqa (طريقة) | 타리카 | Sufi path |
+| Ittihad (اتحاد) | 잇티하드 | Union |
+| Dhikr (ذكر) | 지크르 | Remembrance |
 
 ---
 
 ## References | 참고문헌
 
 - [Fana (Sufism) - Wikipedia](https://en.wikipedia.org/wiki/Fana_(Sufism))
-- [Fana | Meaning, Sufism, & Islam - Britannica](https://www.britannica.com/topic/fana-Sufism)
-- [Fana in Sufism: The Annihilation of Self - TheSufi.com](https://www.thesufi.com/fana-in-sufism-the-annihilation-of-self/)
-- [BAQĀʾ WA FANĀʾ - Encyclopaedia Iranica](https://www.iranicaonline.org/articles/baqa-wa-fana-sufi-term-signifying-subsistence-and-passing-away/)
+- [Fana - Britannica](https://www.britannica.com/topic/fana-Sufism)
+- [Fana in Sufism - TheSufi.com](https://www.thesufi.com/fana-in-sufism-the-annihilation-of-self/)
+- [Fana and Baqa - TDF News](https://news.tehreekdawatefaqr.com/fana-and-baqa/)
 
 ---
 

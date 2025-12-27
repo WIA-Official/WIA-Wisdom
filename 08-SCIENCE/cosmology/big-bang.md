@@ -1,211 +1,179 @@
 # The Big Bang | 빅뱅
 
-> The Origin of the Universe: From Singularity to Cosmos
-> 우주의 기원: 특이점에서 코스모스까지
+> The Origin of the Universe
+> 우주의 기원
 
 ---
 
 ## Overview | 개요
 
 **English:**
-The Big Bang theory is the prevailing cosmological model describing the origin and evolution of the universe. According to this theory, the universe began approximately 13.8 billion years ago from an extremely hot, dense state and has been expanding ever since. It is the most comprehensive framework for explaining cosmic history, supported by multiple lines of observational evidence.
+According to the Big Bang Theory, the universe began as a singularity—a point of infinite density and temperature—around 13.8 billion years ago. This singularity rapidly expanded and cooled, giving rise to the formation of matter and energy. Detailed measurements of the expansion rate of the universe place the initial singularity at an estimated 13.787±0.02 billion years ago, which is considered the age of the universe.
 
-The Big Bang was not an explosion in space but rather an expansion of space itself—with matter, energy, time, and the fundamental forces emerging from this primordial event.
+The Big Bang is not an explosion in space but an expansion of space itself. It represents the beginning of space, time, matter, and energy as we know them.
 
 **한국어:**
-빅뱅 이론은 우주의 기원과 진화를 설명하는 지배적인 우주론적 모델입니다. 이 이론에 따르면, 우주는 약 138억 년 전 극도로 뜨겁고 밀도 높은 상태에서 시작하여 이후 계속 팽창해 왔습니다. 이것은 여러 관측 증거로 뒷받침되는 우주 역사를 설명하는 가장 포괄적인 틀입니다.
+빅뱅 이론에 따르면, 우주는 약 138억 년 전에 특이점—무한한 밀도와 온도의 점—으로 시작했습니다. 이 특이점은 빠르게 팽창하고 냉각되어 물질과 에너지의 형성을 일으켰습니다. 우주 팽창률의 정밀한 측정은 초기 특이점을 약 137.87±0.02억 년 전으로 추정하며, 이것이 우주의 나이로 간주됩니다.
 
-빅뱅은 공간 안에서의 폭발이 아니라 공간 자체의 팽창—물질, 에너지, 시간, 기본 힘이 이 원시적 사건에서 나타난 것—이었습니다.
+빅뱅은 공간에서의 폭발이 아니라 공간 자체의 팽창입니다. 그것은 우리가 아는 공간, 시간, 물질, 에너지의 시작을 나타냅니다.
 
 ---
 
-## Three Pillars of Evidence | 세 기둥 증거
-
-### 1. Cosmic Expansion | 우주 팽창
+## The Singularity | 특이점
 
 **English:**
-In 1929, Edwin Hubble discovered that distant galaxies are moving away from us, with velocity proportional to distance (Hubble's Law). This observation implies:
 
-- The universe is expanding
-- Galaxies are receding in all directions
-- Running the expansion backward leads to a single point of origin
+> "The singularity itself is a point of infinite density where the laws of physics cease to apply."
 
-Current measurements place the Hubble constant at approximately 67-73 km/s per megaparsec, though a discrepancy called "Hubble tension" exists between different measurement methods.
+### The Problem:
+> "Knowledge on the universe's past is incomplete owing to the initial singularity, known as the Big Bang singularity, where all quantities become infinite."
+
+### Quantum Gravity Solutions:
+> "A mathematical singularity appears in classical equations. Many physicists believe quantum gravity removes this infinite point. Models like the Big Bounce replace it with a high-density state."
+
+> "Over the past two decades, loop quantum cosmology (LQC) has been employed to resolve the Big Bang singularity in cosmological models. Within the framework of LQC, quantum geometric effects play a crucial role, replacing the initial singularity with a non-singular quantum bounce."
 
 **한국어:**
-1929년 에드윈 허블은 먼 은하들이 우리에게서 멀어지고 있으며, 속도가 거리에 비례함(허블의 법칙)을 발견했습니다:
 
-- 우주가 팽창하고 있음
-- 은하들이 모든 방향으로 후퇴
-- 팽창을 거꾸로 되돌리면 하나의 기원점으로 귀결
+> "특이점 자체는 물리 법칙이 적용되지 않는 무한 밀도의 점입니다."
 
-현재 측정치는 허블 상수를 약 67-73 km/s/Mpc으로 두지만, "허블 텐션"이라 불리는 서로 다른 측정 방법 간 불일치가 존재합니다.
+### 문제점:
+> "빅뱅 특이점으로 알려진 초기 특이점 때문에 우주의 과거에 대한 지식은 불완전합니다."
+
+### 양자 중력 해결책:
+> "수학적 특이점이 고전 방정식에 나타납니다. 많은 물리학자들은 양자 중력이 이 무한점을 제거한다고 믿습니다."
 
 ---
 
-### 2. Cosmic Microwave Background | 우주 마이크로파 배경
+## Evidence | 증거
 
 **English:**
-The Cosmic Microwave Background (CMB) is leftover radiation from the Big Bang—the oldest light in the universe. Discovered accidentally in 1965 by Penzias and Wilson, the CMB:
 
-- Was emitted 380,000 years after the Big Bang
-- Has cooled to just 2.725 K (-270.425°C) today
-- Fills all of space uniformly
-- Contains tiny temperature fluctuations that seeded galaxy formation
+### Cosmic Microwave Background (CMB):
+> "The cosmic microwave background (CMB) is electromagnetic radiation filling the universe that is a residual effect of the big bang 13.8 billion years ago. Because the expanding universe has cooled since this primordial explosion, the background radiation is in the microwave region of the electromagnetic spectrum."
 
-The CMB is the "baby picture" of the universe, capturing the moment when matter and radiation decoupled.
+> "The cosmic microwave background strengthens the case. This faint radiation fills space uniformly at 2.7 Kelvin, with tiny fluctuations at a level of one part in 100,000. Those fluctuations became the gravitational seeds that later grew into galaxies and clusters."
+
+### Cosmic Expansion:
+> "Galaxies move away from each other at speeds proportional to their distance, measured at roughly 70 kilometers per second per megaparsec. This expansion implies that the universe was once far smaller and denser."
+
+### Key Evidence:
+| Evidence | What It Shows |
+|----------|---------------|
+| **CMB** | Afterglow of the Big Bang at 2.7K |
+| **Redshift** | Galaxies moving away (expansion) |
+| **Abundance of elements** | Hydrogen, helium ratio matches predictions |
+| **Galaxy distribution** | Large-scale structure from early fluctuations |
 
 **한국어:**
-우주 마이크로파 배경(CMB)은 빅뱅에서 남은 복사—우주에서 가장 오래된 빛입니다. 1965년 펜지아스와 윌슨에 의해 우연히 발견된 CMB는:
 
-- 빅뱅 후 38만 년에 방출됨
-- 오늘날 2.725 K(-270.425°C)로 냉각됨
-- 모든 공간을 균일하게 채움
-- 은하 형성의 씨앗이 된 미세한 온도 변동 포함
+### 우주 마이크로파 배경 (CMB):
+> "우주 마이크로파 배경은 138억 년 전 빅뱅의 잔여 효과로 우주를 채우는 전자기 복사입니다."
 
-CMB는 물질과 복사가 분리된 순간을 포착한 우주의 "아기 사진"입니다.
+> "우주 마이크로파 배경은 이 사례를 강화합니다. 이 희미한 복사는 2.7 켈빈에서 균일하게 공간을 채우며, 10만 분의 1 수준의 작은 요동이 있습니다."
+
+| 증거 | 보여주는 것 |
+|-----|----------|
+| **CMB** | 2.7K에서 빅뱅의 잔광 |
+| **적색편이** | 멀어지는 은하들 (팽창) |
+| **원소 풍부도** | 수소, 헬륨 비율이 예측과 일치 |
 
 ---
 
-### 3. Light Element Abundances | 가벼운 원소 비율
+## Cosmic Evolution | 우주 진화
 
 **English:**
-Big Bang nucleosynthesis predicts specific abundances of light elements formed in the first few minutes:
 
-| Element | Predicted | Observed |
-|---------|-----------|----------|
-| Hydrogen | ~75% | ~75% |
-| Helium-4 | ~25% | ~25% |
-| Deuterium | trace | matches |
-| Lithium-7 | trace | matches |
-
-The match between predictions and observations strongly supports the Big Bang model.
+### Timeline:
+| Era | Time | Description |
+|-----|------|-------------|
+| **Planck epoch** | 0 to 10⁻⁴³ s | Laws of physics unknown |
+| **Grand unification** | 10⁻⁴³ to 10⁻³⁶ s | Forces begin separating |
+| **Inflation** | 10⁻³⁶ to 10⁻³² s | Exponential expansion |
+| **Electroweak era** | 10⁻³² to 10⁻¹² s | Particles form |
+| **Hadron era** | 10⁻⁶ to 1 s | Protons, neutrons form |
+| **Nucleosynthesis** | 1 s to 3 min | Light elements form |
+| **Recombination** | 380,000 years | Atoms form, CMB released |
+| **Dark ages** | 380,000 - 150 million years | Before first stars |
+| **First stars** | ~150 million years | Reionization begins |
 
 **한국어:**
-빅뱅 핵합성은 처음 몇 분 동안 형성된 가벼운 원소들의 특정 비율을 예측합니다:
 
-| 원소 | 예측 | 관측 |
+### 타임라인:
+| 시대 | 시간 | 설명 |
 |-----|-----|-----|
-| 수소 | ~75% | ~75% |
-| 헬륨-4 | ~25% | ~25% |
-| 중수소 | 미량 | 일치 |
-| 리튬-7 | 미량 | 일치 |
-
-예측과 관측의 일치는 빅뱅 모델을 강력히 지지합니다.
+| **플랑크 시대** | 0 ~ 10⁻⁴³ 초 | 물리 법칙 미지 |
+| **급팽창** | 10⁻³⁶ ~ 10⁻³² 초 | 지수적 팽창 |
+| **핵합성** | 1초 ~ 3분 | 가벼운 원소 형성 |
+| **재결합** | 38만 년 | 원자 형성, CMB 방출 |
+| **첫 별** | ~1.5억 년 | 재이온화 시작 |
 
 ---
 
-## Timeline of the Universe | 우주의 연대기
+## Inflation Theory | 급팽창 이론
 
 **English:**
 
-| Time After Big Bang | Event |
-|---------------------|-------|
-| 0 | Singularity, all forces unified |
-| 10⁻⁴³ seconds | Planck epoch ends |
-| 10⁻³⁶ seconds | Inflation begins (rapid expansion) |
-| 10⁻³² seconds | Inflation ends |
-| 10⁻⁶ seconds | Quarks form protons and neutrons |
-| 3 minutes | Nucleosynthesis: H, He, Li formed |
-| 380,000 years | Recombination: atoms form, CMB released |
-| 200 million years | First stars ignite |
-| 400 million years | First galaxies form |
-| 9 billion years | Our solar system forms |
-| 13.8 billion years | Today |
+> "Inflation theory was proposed to explain why the universe appears geometrically flat and uniform across vast distances. It suggests a brief burst of exponential expansion lasting less than a trillionth of a second, accounting for similar properties in regions that were never in contact."
+
+### What Inflation Explains:
+- **Flatness problem**: Why is the universe so geometrically flat?
+- **Horizon problem**: Why are distant regions so similar?
+- **Structure formation**: How did galaxies form from tiny fluctuations?
 
 **한국어:**
 
-| 빅뱅 후 시간 | 사건 |
-|------------|-----|
-| 0 | 특이점, 모든 힘 통합 |
-| 10⁻⁴³ 초 | 플랑크 시대 종료 |
-| 10⁻³⁶ 초 | 인플레이션 시작 (급격한 팽창) |
-| 10⁻³² 초 | 인플레이션 종료 |
-| 10⁻⁶ 초 | 쿼크가 양성자와 중성자 형성 |
-| 3분 | 핵합성: H, He, Li 형성 |
-| 38만 년 | 재결합: 원자 형성, CMB 방출 |
-| 2억 년 | 최초의 별 점화 |
-| 4억 년 | 최초의 은하 형성 |
-| 90억 년 | 태양계 형성 |
-| 138억 년 | 오늘날 |
+> "급팽창 이론은 우주가 왜 기하학적으로 평평하고 광대한 거리에 걸쳐 균일해 보이는지 설명하기 위해 제안되었습니다."
+
+### 급팽창이 설명하는 것:
+- **평탄성 문제**: 우주가 왜 그렇게 기하학적으로 평평한가?
+- **지평선 문제**: 먼 영역들이 왜 그렇게 유사한가?
+- **구조 형성**: 은하들이 어떻게 작은 요동에서 형성되었는가?
 
 ---
 
-## Inflation | 인플레이션
+## Dark Energy and Dark Matter | 암흑 에너지와 암흑 물질
 
 **English:**
-Cosmic inflation is a period of exponential expansion in the very early universe (10⁻³⁶ to 10⁻³² seconds). Proposed by Alan Guth in 1980, inflation explains:
 
-- **Flatness problem:** Why the universe is geometrically flat
-- **Horizon problem:** Why distant regions have the same temperature
-- **Monopole problem:** Why magnetic monopoles are absent
+### Dark Energy:
+> "Dark energy plays a critical role in modern cosmology. It accounts for about 68 percent of the universe's total energy content and drives accelerated expansion."
 
-During inflation, the universe expanded faster than the speed of light (space itself can expand without violating relativity).
+> "Observations of distant Type Ia supernovae appear dimmer than expected, indicating space is expanding faster over time."
 
-**한국어:**
-우주 인플레이션은 아주 초기 우주(10⁻³⁶에서 10⁻³² 초)에서의 지수적 팽창 기간입니다. 1980년 앨런 구스가 제안한 인플레이션은 설명합니다:
-
-- **평탄성 문제:** 왜 우주가 기하학적으로 평탄한가
-- **지평선 문제:** 왜 먼 영역이 같은 온도를 갖는가
-- **단극자 문제:** 왜 자기 단극자가 없는가
-
-인플레이션 동안 우주는 빛의 속도보다 빠르게 팽창했습니다 (공간 자체는 상대성이론을 위반하지 않고 팽창할 수 있음).
-
----
-
-## Dark Matter and Dark Energy | 암흑물질과 암흑에너지
-
-**English:**
-Modern cosmology reveals that ordinary matter is only ~5% of the universe:
-
+### Composition of the Universe:
 | Component | Percentage |
 |-----------|------------|
-| Dark Energy | ~68% |
-| Dark Matter | ~27% |
-| Ordinary Matter | ~5% |
-
-- **Dark Matter:** Invisible mass detected through gravitational effects on galaxies
-- **Dark Energy:** Mysterious force causing accelerated expansion
-
-These remain among the greatest mysteries in physics.
+| **Dark energy** | ~68% |
+| **Dark matter** | ~27% |
+| **Ordinary matter** | ~5% |
 
 **한국어:**
-현대 우주론은 보통 물질이 우주의 ~5%에 불과함을 밝힙니다:
+
+### 암흑 에너지:
+> "암흑 에너지는 현대 우주론에서 중요한 역할을 합니다. 우주 총 에너지 함량의 약 68%를 차지하고 가속 팽창을 추진합니다."
 
 | 구성요소 | 비율 |
-|---------|-----|
-| 암흑에너지 | ~68% |
-| 암흑물질 | ~27% |
-| 보통물질 | ~5% |
-
-- **암흑물질:** 은하에 대한 중력 효과로 감지되는 보이지 않는 질량
-- **암흑에너지:** 가속 팽창을 일으키는 신비한 힘
-
-이것들은 물리학에서 가장 큰 미스터리로 남아 있습니다.
+|--------|-----|
+| **암흑 에너지** | ~68% |
+| **암흑 물질** | ~27% |
+| **보통 물질** | ~5% |
 
 ---
 
-## Philosophical Implications | 철학적 함의
+## Recent Research (2025) | 최근 연구 (2025)
 
 **English:**
-The Big Bang raises profound questions:
 
-- **Origins:** What came "before" the Big Bang?
-- **Fine-tuning:** Why are physical constants conducive to life?
-- **Purpose:** Does the universe have meaning?
-- **Contingency:** Why is there something rather than nothing?
+> "Researchers propose that early elliptical galaxies may be responsible for a significant portion of the cosmic microwave background. A team of researchers from the Universities of Bonn, Prague, and Nanjing is challenging what we thought we knew."
 
-The Big Bang neither proves nor disproves the existence of God—it describes *how* the universe began, not *why*.
+> "Their new calculations suggest that the strength of this background radiation may have been significantly overestimated. If their findings are confirmed, it could force scientists to rethink some of the most fundamental ideas in modern cosmology."
 
 **한국어:**
-빅뱅은 심오한 질문들을 제기합니다:
 
-- **기원:** 빅뱅 "이전"에 무엇이 있었는가?
-- **미세 조정:** 왜 물리 상수가 생명에 도움이 되는가?
-- **목적:** 우주에 의미가 있는가?
-- **우연성:** 왜 무(無)가 아니라 유(有)가 있는가?
+> "연구자들은 초기 타원 은하가 우주 마이크로파 배경의 상당 부분을 담당할 수 있다고 제안합니다."
 
-빅뱅은 신의 존재를 증명하지도 반증하지도 않습니다—우주가 *어떻게* 시작되었는지 설명하지, *왜* 시작되었는지는 설명하지 않습니다.
+> "그들의 새로운 계산은 이 배경 복사의 강도가 상당히 과대평가되었을 수 있음을 시사합니다. 그들의 발견이 확인되면, 현대 우주론의 가장 근본적인 아이디어 중 일부를 재고하게 할 수 있습니다."
 
 ---
 
@@ -213,22 +181,21 @@ The Big Bang neither proves nor disproves the existence of God—it describes *h
 
 | English | Korean | Meaning |
 |---------|--------|---------|
-| Big Bang | 빅뱅 | Origin event of the universe |
-| CMB | 우주배경복사 | Cosmic Microwave Background |
-| Hubble Constant | 허블 상수 | Rate of cosmic expansion |
-| Inflation | 인플레이션 | Rapid early expansion |
-| Singularity | 특이점 | Point of infinite density |
-| Dark Matter | 암흑물질 | Invisible gravitating matter |
-| Dark Energy | 암흑에너지 | Force driving acceleration |
+| Big Bang | 빅뱅 | Origin of universe |
+| Singularity | 특이점 | Infinite density point |
+| CMB | 우주 마이크로파 배경 | Cosmic microwave background |
+| Redshift | 적색편이 | Light wavelength stretching |
+| Inflation | 급팽창 | Rapid early expansion |
+| Dark energy | 암흑 에너지 | Accelerating expansion force |
 
 ---
 
 ## References | 참고문헌
 
-- [Cosmic Microwave Background - Wikipedia](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
-- [WMAP Big Bang CMB Test - NASA](https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html)
-- [Hubble Big Bang - NASA Science](https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/)
-- [CMB - Harvard Center for Astrophysics](https://www.cfa.harvard.edu/research/topic/cosmic-microwave-background)
+- [Big Bang - Wikipedia](https://en.wikipedia.org/wiki/Big_Bang)
+- [Big-Bang Cosmology - PDG 2025](https://pdg.lbl.gov/2025/reviews/rpp2024-rev-bbang-cosmology.pdf)
+- [Cosmic Microwave Background - Britannica](https://www.britannica.com/science/cosmic-microwave-background)
+- [New Research 2025 - SciTechDaily](https://scitechdaily.com/rewriting-cosmology-new-calculations-shake-foundations-of-the-big-bang-theory/)
 
 ---
 
