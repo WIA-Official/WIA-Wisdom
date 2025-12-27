@@ -1,7 +1,7 @@
-# Socrates (470-399 BCE) | 소크라테스
+# Socrates | 소크라테스 (Σωκράτης)
 
-> "Know thyself" — The philosopher who taught that the unexamined life is not worth living
-> "너 자신을 알라" — 검토되지 않은 삶은 살 가치가 없다고 가르친 철학자
+> "The unexamined life is not worth living" — The father of Western philosophy
+> "성찰하지 않는 삶은 살 가치가 없다" — 서양 철학의 아버지
 
 ---
 
@@ -9,174 +9,369 @@
 
 **English:**
 
-Socrates (c. 470-399 BCE) stands as one of the most influential figures in Western philosophy, despite leaving no written works. Known through the dialogues of his student Plato, Socrates developed a revolutionary method of inquiry—the dialectic—that remains foundational to philosophical practice.
+Socrates (c. 470-399 BCE) of Athens is considered the founder of Western philosophy and one of the most influential thinkers in human history. Though he wrote nothing himself, his ideas were preserved through the dialogues of his student Plato, shaping the entire trajectory of Western thought.
 
-Born in Athens to a stonemason and a midwife, Socrates described his philosophical work as a kind of "midwifery"—helping others give birth to their own understanding. He famously claimed to know nothing, yet was declared the wisest man in Athens by the Oracle at Delphi precisely because he knew that he did not know.
+Unlike the pre-Socratic philosophers who focused on cosmology and natural science, Socrates turned philosophy toward ethics and the human soul. His central concerns were: How should one live? What is virtue? What is knowledge? His method of relentless questioning—the Socratic method—remains a powerful tool for critical thinking to this day.
 
-His relentless questioning of Athenian values and his influence on young aristocrats led to his trial on charges of "corrupting the youth" and "not believing in the gods of the city." Refusing to compromise his principles or flee, he drank hemlock and became philosophy's first martyr.
+Socrates was sentenced to death by an Athenian jury on charges of impiety and corrupting the youth. He accepted his execution by drinking hemlock, refusing opportunities to escape, choosing to honor the laws of Athens even unto death. His life and death exemplify the philosophical commitment to truth and integrity above all else.
 
 **한국어:**
 
-소크라테스(기원전 약 470-399년)는 아무 저작도 남기지 않았음에도 서양 철학에서 가장 영향력 있는 인물 중 하나로 서 있습니다. 제자 플라톤의 대화편을 통해 알려진 소크라테스는 철학적 실천의 기초로 남아 있는 혁명적인 탐구 방법—변증법—을 발전시켰습니다.
+소크라테스(기원전 약 470-399년)는 서양 철학의 창시자이자 인류 역사상 가장 영향력 있는 사상가 중 한 명으로 여겨집니다. 그 자신은 아무것도 쓰지 않았지만, 그의 제자 플라톤의 대화편을 통해 그의 사상이 보존되어 서양 사상의 전체 궤적을 형성했습니다.
 
-아테네에서 석공과 산파의 아들로 태어난 소크라테스는 자신의 철학적 작업을 일종의 "산파술"—다른 사람들이 자신의 이해를 낳도록 돕는 것—로 묘사했습니다. 그는 아무것도 모른다고 유명하게 주장했지만, 정확히 자신이 모른다는 것을 알았기 때문에 델포이의 신탁에 의해 아테네에서 가장 현명한 사람으로 선언되었습니다.
+우주론과 자연과학에 집중했던 소크라테스 이전의 철학자들과 달리, 소크라테스는 철학을 윤리학과 인간 영혼으로 전환했습니다. 그의 중심적 관심사는: 어떻게 살아야 하는가? 덕이란 무엇인가? 지식이란 무엇인가? 끊임없는 질문의 그의 방법—소크라테스식 방법—은 오늘날까지 비판적 사고를 위한 강력한 도구로 남아 있습니다.
 
-아테네의 가치관에 대한 끊임없는 질문과 젊은 귀족들에 대한 영향력은 "청년들을 타락시키고" "도시의 신들을 믿지 않는다"는 혐의로 재판에 이르게 했습니다. 자신의 원칙을 타협하거나 도망가기를 거부하고, 그는 독미나리즙을 마시고 철학의 첫 순교자가 되었습니다.
+소크라테스는 불경죄와 청년 타락죄로 아테네 배심원에 의해 사형 선고를 받았습니다. 그는 탈출 기회를 거부하고 독배를 마셔 형을 받아들였으며, 죽음에 이르기까지 아테네의 법을 존중하기로 선택했습니다. 그의 삶과 죽음은 무엇보다도 진리와 성실함에 대한 철학적 헌신을 예시합니다.
 
 ---
 
-## "Know Thyself" (γνῶθι σεαυτόν) | 너 자신을 알라
+## Life of Socrates | 소크라테스의 생애
 
 **English:**
 
-"Know thyself" was inscribed at the Temple of Apollo at Delphi, and Socrates made it the cornerstone of his philosophy. For Socrates, self-knowledge is not merely intellectual curiosity but a moral imperative. As he declared in Plato's *Apology*:
+### Early Life
+- Born c. 470 BCE in Athens
+- Father: Sophroniscus (stonemason)
+- Mother: Phaenarete (midwife) — Socrates later compared his philosophical method to midwifery
+- Married to Xanthippe, with whom he had three sons
 
-> "The unexamined life is not worth living."
+### Military Service
+- Served with distinction in the Peloponnesian War
+- Known for physical endurance and courage
+- Fought at Potidaea, Delium, and Amphipolis
 
-Self-knowledge for Socrates is:
-- **Dialectical**: Best achieved through conversation with others
-- **Ongoing**: Never complete—always more to discover
-- **Moral**: The foundation of virtue and the good life
-- **Humble**: Beginning with awareness of one's own ignorance
+### Philosophical Mission
+- Claimed to be on a divine mission from the Oracle at Delphi
+- When told no one was wiser than Socrates, he sought to disprove this by questioning those reputed to be wise
+- Discovered that while others claimed wisdom, he alone knew that he knew nothing
 
-In *Phaedrus*, Socrates admits: "I am not yet able, as the Delphic inscription has it, to know myself." This humility is itself a form of wisdom.
+### Trial and Death (399 BCE)
+- Charged with impiety (not believing in the city's gods) and corrupting the youth
+- Defended himself eloquently but was convicted by a vote of 280 to 221
+- Refused to propose exile; suggested free meals at the Prytaneum instead
+- Sentenced to death by drinking hemlock
+- Spent his last hours discussing the immortality of the soul with friends
 
 **한국어:**
 
-"너 자신을 알라"는 델포이의 아폴로 신전에 새겨져 있었으며, 소크라테스는 이를 자신의 철학의 초석으로 삼았습니다. 소크라테스에게 자기 인식은 단순한 지적 호기심이 아니라 도덕적 의무입니다. 플라톤의 *변명*에서 그가 선언했듯이:
+### 초기 생애
+- 기원전 약 470년 아테네에서 출생
+- 아버지: 소프로니스코스 (석공)
+- 어머니: 파이나레테 (산파) — 소크라테스는 나중에 그의 철학적 방법을 산파술에 비유함
+- 크산티페와 결혼하여 세 아들을 둠
 
-> "검토되지 않은 삶은 살 가치가 없다."
+### 군복무
+- 펠로폰네소스 전쟁에서 뛰어나게 복무
+- 신체적 인내력과 용기로 알려짐
+- 포티다이아, 델리움, 암피폴리스에서 싸움
 
-소크라테스에게 자기 인식은:
-- **변증적**: 다른 사람들과의 대화를 통해 가장 잘 달성됨
-- **진행 중**: 결코 완성되지 않음—항상 더 발견할 것이 있음
-- **도덕적**: 덕과 좋은 삶의 기초
-- **겸손한**: 자신의 무지에 대한 인식에서 시작
+### 철학적 사명
+- 델포이 신탁으로부터 신적 사명을 받았다고 주장
+- 소크라테스보다 지혜로운 자가 없다고 들었을 때, 현명하다고 알려진 이들에게 질문하여 이를 반증하려 함
+- 다른 이들은 지혜를 주장하지만 자신만이 아무것도 모른다는 것을 안다는 것을 발견함
 
-*파이드로스*에서 소크라테스는 인정합니다: "델포이 비문이 말하듯, 나는 아직 나 자신을 알 수 없다." 이 겸손 자체가 지혜의 한 형태입니다.
+### 재판과 죽음 (기원전 399년)
+- 불경죄(도시의 신들을 믿지 않음)와 청년 타락죄로 기소됨
+- 웅변적으로 자신을 변호했으나 280 대 221로 유죄 판결
+- 추방을 제안하기를 거부; 대신 프리타네움에서 무료 식사를 제안
+- 독배를 마시는 사형 선고
+- 마지막 시간을 친구들과 영혼의 불멸성을 논의하며 보냄
 
 ---
 
-## The Socratic Method | 소크라테스적 방법
+## Core Teachings | 핵심 가르침
 
-### Dialectic (διαλεκτική) | 변증법
+### 1. "Know Thyself" (Gnothi Seauton) | "너 자신을 알라"
 
 **English:**
 
-The Socratic Method is a form of cooperative argumentative dialogue. Through systematic questioning, Socrates would:
+This inscription from the Temple of Apollo at Delphi became central to Socratic philosophy. For Socrates, knowing oneself meant:
 
-1. **Elicit a definition**: Ask "What is X?" (justice, virtue, piety, etc.)
-2. **Examine assumptions**: Probe the implications of the definition
-3. **Reveal contradictions**: Show how the definition fails in certain cases
-4. **Refine understanding**: Work toward a better definition
+- Recognizing the limits of one's knowledge
+- Understanding one's true nature and purpose
+- Examining one's beliefs, values, and actions
+- The paradoxical wisdom of knowing that one knows nothing
 
-This process—called *elenchus* (ἔλεγχος)—often led interlocutors to *aporia* (ἀπορία), a state of puzzlement where previous certainties dissolve. Rather than providing answers, Socrates midwifed insights.
+Socrates' claim to wisdom was precisely that he knew his own ignorance, while others falsely believed they possessed knowledge they did not have.
 
 **한국어:**
 
-소크라테스적 방법은 협력적 논쟁 대화의 한 형태입니다. 체계적인 질문을 통해 소크라테스는:
+델포이 아폴론 신전의 이 비문은 소크라테스 철학의 중심이 되었습니다. 소크라테스에게 자기를 아는 것은 다음을 의미했습니다:
 
-1. **정의를 이끌어냄**: "X란 무엇인가?" 묻기 (정의, 덕, 경건 등)
-2. **가정을 검토함**: 정의의 함의를 조사
-3. **모순을 드러냄**: 정의가 특정 경우에 실패함을 보여줌
-4. **이해를 다듬음**: 더 나은 정의를 향해 작업
+- 자신의 지식의 한계를 인식함
+- 자신의 진정한 본성과 목적을 이해함
+- 자신의 믿음, 가치, 행동을 검토함
+- 아무것도 모른다는 것을 아는 역설적 지혜
 
-이 과정—*엘렝코스*(ἔλεγχος)라 불림—은 종종 대화자를 *아포리아*(ἀπορία), 이전의 확신이 녹아내리는 당혹 상태로 이끌었습니다. 답을 제공하기보다 소크라테스는 통찰을 산파했습니다.
+소크라테스가 지혜를 주장한 것은 정확히 그가 자신의 무지를 알았기 때문이며, 반면 다른 이들은 갖고 있지 않은 지식을 가졌다고 잘못 믿었습니다.
 
 ---
 
-## Key Teachings | 핵심 가르침
-
-### Virtue is Knowledge | 덕은 지식이다
+### 2. The Examined Life | 성찰하는 삶
 
 **English:**
-Socrates believed that no one does wrong willingly. If we truly know what is good, we will do it. Vice comes from ignorance; if someone acts wrongly, they have mistaken apparent good for real good.
+
+> "The unexamined life is not worth living for human beings." (Apology 38a)
+
+This famous declaration encapsulates Socrates' conviction that:
+
+- We are all called to reflect upon our beliefs
+- We must account for what we know and do not know
+- We must seek, live by, and defend views that make for a meaningful life
+- Philosophy is not an academic exercise but a way of living
 
 **한국어:**
-소크라테스는 아무도 기꺼이 잘못을 저지르지 않는다고 믿었습니다. 진정으로 무엇이 선인지 알면, 우리는 그것을 행할 것입니다. 악은 무지에서 오며, 누군가 잘못 행동하면, 그들은 겉보기 선을 진정한 선으로 착각한 것입니다.
 
-### Care for the Soul | 영혼 돌봄
+> "성찰하지 않는 삶은 인간에게 살 가치가 없다." (변명 38a)
 
-> "I go about doing nothing else than urging you, young and old alike, not to care for your bodies or for wealth more than for the perfection of your souls."
+이 유명한 선언은 소크라테스의 확신을 함축합니다:
 
-**English:**
-Socrates emphasized care for the soul (psyche) above all external goods. Wealth, reputation, and even life itself matter less than the state of one's soul.
-
-**한국어:**
-소크라테스는 모든 외적 재화보다 영혼(프시케) 돌봄을 강조했습니다. 부, 명성, 심지어 삶 자체도 영혼의 상태보다 덜 중요합니다.
-
-### Socratic Ignorance | 소크라테스적 무지
-
-> "I know that I know nothing."
-
-**English:**
-When the Oracle declared Socrates the wisest, he was puzzled—he knew nothing. Through questioning others, he realized his wisdom lay in acknowledging his ignorance, while others falsely believed they knew.
-
-**한국어:**
-신탁이 소크라테스를 가장 현명하다고 선언했을 때, 그는 당혹했습니다—그는 아무것도 몰랐습니다. 다른 이들을 질문하면서, 그의 지혜는 자신의 무지를 인정하는 데 있고, 다른 이들은 거짓으로 안다고 믿는다는 것을 깨달았습니다.
+- 우리 모두는 자신의 믿음에 대해 성찰하도록 부름받았다
+- 우리가 아는 것과 모르는 것에 대해 해명해야 한다
+- 의미 있는 삶을 만드는 견해를 추구하고, 그에 따라 살고, 방어해야 한다
+- 철학은 학문적 훈련이 아니라 삶의 방식이다
 
 ---
 
-## The Trial and Death | 재판과 죽음
+### 3. Virtue Is Knowledge | 덕은 지식이다
 
 **English:**
 
-In 399 BCE, at age 70, Socrates was tried before 500 Athenian citizens on charges of:
-- Corrupting the youth of Athens
-- Not believing in the gods of the city
-- Introducing new divinities
+Socrates held the controversial view that:
 
-Found guilty by a narrow margin, he was sentenced to death by drinking hemlock. In Plato's *Phaedo*, Socrates spends his final hours discussing the immortality of the soul, then calmly drinks the poison, becoming philosophy's first martyr.
+- **No one does wrong willingly** — evil actions result from ignorance, not malice
+- **Virtue is knowledge** — if you truly know what is good, you will do it
+- **All virtues are one** — courage, justice, temperance, piety all reduce to wisdom
+- **The good life is the virtuous life** — happiness comes from being virtuous, not from wealth or pleasure
 
-His final words, to Crito: "We owe a cock to Asclepius. Do pay it. Don't neglect it."
+This "Socratic intellectualism" was later challenged by Aristotle, who recognized weakness of will (*akrasia*) as a real phenomenon.
 
 **한국어:**
 
-기원전 399년, 70세에 소크라테스는 500명의 아테네 시민 앞에서 재판받았습니다:
-- 아테네 청년들을 타락시킴
-- 도시의 신들을 믿지 않음
-- 새로운 신들을 도입함
+소크라테스는 논쟁적인 견해를 가졌습니다:
 
-근소한 차이로 유죄 판결을 받고, 독미나리즙을 마시는 사형을 선고받았습니다. 플라톤의 *파이돈*에서 소크라테스는 마지막 시간을 영혼의 불멸성을 논하며 보내고, 침착하게 독을 마시며 철학의 첫 순교자가 되었습니다.
+- **아무도 의지적으로 잘못을 저지르지 않는다** — 악한 행위는 악의가 아니라 무지에서 비롯됨
+- **덕은 지식이다** — 진정으로 무엇이 선한지 알면 그것을 행할 것이다
+- **모든 덕은 하나이다** — 용기, 정의, 절제, 경건은 모두 지혜로 환원된다
+- **좋은 삶은 덕스러운 삶이다** — 행복은 부나 쾌락이 아니라 덕스러움에서 온다
 
-크리톤에게 한 마지막 말: "우리는 아스클레피오스에게 수탉 한 마리를 빚졌네. 꼭 갚아주게. 소홀히 하지 말게."
+이 "소크라테스적 지성주의"는 나중에 의지의 약함(*아크라시아*)을 실제 현상으로 인정한 아리스토텔레스에 의해 도전받았습니다.
 
 ---
 
-## The Socratic Legacy | 소크라테스의 유산
+### 4. Care of the Soul | 영혼의 돌봄
 
-| School | Founder | Emphasis |
-|--------|---------|----------|
-| **Academy** | Plato | Forms, dialectic |
-| **Lyceum** | Aristotle | Logic, empiricism |
-| **Cynicism** | Antisthenes | Virtue, simplicity |
-| **Cyrenaics** | Aristippus | Pleasure, immediacy |
-| **Megarians** | Euclid | Logic, paradoxes |
+**English:**
+
+Socrates urged Athenians to care for their souls above all else:
+
+> "I go around doing nothing but persuading both young and old among you not to care for your body or your wealth in preference to or as strongly as for the best possible state of your soul." (Apology 30a-b)
+
+The soul (*psyche*) was, for Socrates, the true self—the seat of reason and moral character.
+
+**한국어:**
+
+소크라테스는 아테네인들에게 무엇보다도 영혼을 돌보라고 촉구했습니다:
+
+> "나는 젊은이와 노인 모두에게 몸이나 재산보다 영혼의 가장 좋은 상태를 우선하거나 강하게 돌보라고 설득하러 다닙니다." (변명 30a-b)
+
+영혼(*프시케*)은 소크라테스에게 진정한 자아—이성과 도덕적 성품의 자리였습니다.
+
+---
+
+## The Socratic Method | 소크라테스식 방법
+
+**English:**
+
+The Socratic method (also called *elenchus*, meaning "refutation" or "cross-examination") is a form of cooperative argumentative dialogue that:
+
+1. **Begins with a question** — "What is justice?" "What is courage?"
+2. **Elicits a definition** — The interlocutor offers an answer
+3. **Examines through questions** — Socrates probes with further questions
+4. **Reveals contradictions** — The initial answer is shown to be inadequate
+5. **Leads to aporia** — A state of puzzlement, recognizing one's ignorance
+6. **Stimulates further inquiry** — The search continues
+
+**Key Features:**
+
+| Feature | Description |
+|---------|-------------|
+| **Irony (εἰρωνεία)** | Socrates feigns ignorance, claiming to learn from others |
+| **Midwifery (μαιευτική)** | Helping others "give birth" to knowledge within themselves |
+| **Refutation (ἔλεγχος)** | Exposing contradictions in beliefs |
+| **Aporia (ἀπορία)** | Productive puzzlement that motivates further inquiry |
+
+**한국어:**
+
+소크라테스식 방법(또한 "반박" 또는 "반대심문"을 의미하는 *엘렝코스*라고도 함)은 다음과 같은 협력적 논증 대화의 형태입니다:
+
+1. **질문으로 시작** — "정의란 무엇인가?" "용기란 무엇인가?"
+2. **정의를 이끌어냄** — 대화 상대가 답을 제공
+3. **질문을 통해 검토** — 소크라테스가 추가 질문으로 탐구
+4. **모순을 드러냄** — 초기 답이 불충분함이 드러남
+5. **아포리아로 이끔** — 자신의 무지를 인식하는 당혹감의 상태
+6. **추가 탐구를 자극** — 탐색이 계속됨
+
+---
+
+## Socrates' Influence | 소크라테스의 영향
+
+**English:**
+
+Gregory Vlastos called the Socratic method "one of humanity's greatest achievements" because it makes philosophical inquiry accessible to everyone.
+
+### Direct Successors:
+- **Plato** — Student who preserved Socratic teachings; developed the Theory of Forms
+- **Xenophon** — Another student; wrote memoirs of Socrates
+- **Antisthenes** — Founded the Cynic school
+- **Aristippus** — Founded the Cyrenaic school (hedonism)
+- **Euclid of Megara** — Founded the Megarian school
+
+### Philosophical Legacy:
+- **Plato's Idealism** — The search for universal definitions became the Theory of Forms
+- **Aristotelian Ethics** — Virtue ethics builds on Socratic insights
+- **Stoicism** — The focus on virtue as the only good
+- **Skepticism** — The recognition of human cognitive limitations
+- **Modern Philosophy** — Critical thinking, questioning assumptions
+
+**한국어:**
+
+그레고리 블라스토스는 소크라테스식 방법을 "인류의 가장 위대한 업적 중 하나"라고 불렀는데, 이는 모든 사람에게 철학적 탐구를 가능하게 하기 때문입니다.
+
+### 직접적 후계자들:
+- **플라톤** — 소크라테스의 가르침을 보존한 제자; 이데아론 발전
+- **크세노폰** — 또 다른 제자; 소크라테스 회고록 집필
+- **안티스테네스** — 키니코스학파 창립
+- **아리스티푸스** — 키레네학파 창립 (쾌락주의)
+- **메가라의 에우클레이데스** — 메가라학파 창립
+
+---
+
+## The Socratic Problem | 소크라테스 문제
+
+**English:**
+
+Since Socrates wrote nothing, we must reconstruct his views from the writings of others. The main sources often conflict:
+
+| Source | Portrayal |
+|--------|-----------|
+| **Plato (early dialogues)** | Ironic questioner, claims no knowledge |
+| **Plato (middle/late dialogues)** | Develops positive doctrines (possibly Plato's own views) |
+| **Xenophon** | More conventional, practical wisdom |
+| **Aristophanes (Clouds)** | Comic caricature, conflated with Sophists |
+| **Aristotle** | Attributes two things: inductive arguments and universal definitions |
+
+Scholars distinguish between the "historical Socrates" and the "Platonic Socrates," recognizing that Plato used Socrates as a character to develop his own philosophy.
+
+**한국어:**
+
+소크라테스가 아무것도 쓰지 않았으므로, 다른 이들의 글에서 그의 견해를 재구성해야 합니다. 주요 출처들은 종종 상충합니다:
+
+학자들은 "역사적 소크라테스"와 "플라톤적 소크라테스"를 구별하며, 플라톤이 자신의 철학을 발전시키기 위해 소크라테스를 캐릭터로 사용했음을 인정합니다.
+
+---
+
+## Key Terms | 주요 용어
+
+| Term | Greek | Meaning | 의미 |
+|------|-------|---------|------|
+| Elenchus | ἔλεγχος | Refutation, cross-examination | 반박, 반대심문 |
+| Aporia | ἀπορία | Puzzlement, impasse | 당혹, 막다른 골목 |
+| Maieutics | μαιευτική | Midwifery (of ideas) | 산파술 (사상의) |
+| Arete | ἀρετή | Virtue, excellence | 덕, 탁월함 |
+| Psyche | ψυχή | Soul | 영혼 |
+| Eudaimonia | εὐδαιμονία | Flourishing, happiness | 행복, 좋은 삶 |
+| Phronesis | φρόνησις | Practical wisdom | 실천적 지혜 |
+| Episteme | ἐπιστήμη | Knowledge | 지식 |
+| Doxa | δόξα | Opinion, belief | 의견, 믿음 |
+
+---
+
+## Primary Sources | 1차 자료
+
+### Plato's Dialogues (featuring Socrates)
+- **Apology** — Socrates' defense at his trial
+- **Crito** — On duty to the state
+- **Phaedo** — On the immortality of the soul; Socrates' death
+- **Euthyphro** — On piety
+- **Meno** — On virtue and knowledge
+- **Protagoras** — On the unity of virtue
+- **Symposium** — On love (Eros)
+- **Republic** — On justice (increasingly Plato's own views)
+
+### Other Sources
+- **Xenophon** — *Memorabilia*, *Apology*, *Symposium*
+- **Aristophanes** — *Clouds* (comic portrayal)
+- **Aristotle** — References in *Metaphysics*, *Nicomachean Ethics*
+
+---
+
+## Practice Application | 실천 적용
+
+**English:**
+
+Socratic wisdom offers guidance for daily life:
+
+1. **Question your assumptions** — What do I really know vs. merely believe?
+2. **Embrace intellectual humility** — Wisdom begins with recognizing ignorance
+3. **Examine your life** — Regular self-reflection is essential
+4. **Prioritize virtue** — Character matters more than wealth or status
+5. **Engage in dialogue** — Truth emerges through conversation, not monologue
+6. **Care for your soul** — Inner development is the highest pursuit
+7. **Accept mortality** — Death is not to be feared by those who have lived well
+
+**한국어:**
+
+소크라테스의 지혜는 일상생활을 위한 지침을 제공합니다:
+
+1. **가정에 질문하라** — 내가 진정 아는 것과 단지 믿는 것은 무엇인가?
+2. **지적 겸손을 받아들이라** — 지혜는 무지를 인식하는 것에서 시작된다
+3. **삶을 성찰하라** — 규칙적인 자기 성찰은 필수적이다
+4. **덕을 우선시하라** — 인격이 부나 지위보다 중요하다
+5. **대화에 참여하라** — 진리는 독백이 아니라 대화를 통해 나타난다
+6. **영혼을 돌보라** — 내적 발전이 가장 높은 추구이다
+7. **죽음을 받아들이라** — 잘 산 자에게 죽음은 두려워할 것이 아니다
 
 ---
 
 ## Cross-References | 상호 참조
 
-### Within Hellenic Thought | 헬레니즘 사상 내
-- **[Logos](../../stoicism/concepts/logos.md)**: Universal reason
-- **[Plato](./plato.md)**: Student and chronicler
-- **[Stoicism](../../stoicism/)**: Socratic virtue ethics
-
-### Other Pillars | 다른 기둥
-- **[Confucius](../../../03-EAST-ASIAN/confucianism/)**: Self-cultivation and virtue
-- **[Buddha](../../../01-DHARMIC/buddhism/)**: Self-examination
-- **[Kant](../../../07-MODERN-PHIL/enlightenment/)**: Sapere Aude
+- **[Logos (Stoicism)](../../stoicism/concepts/logos.md)**: Reason as the governing principle
+- **[Plato](./plato.md)**: Socrates' greatest student
+- **[Aristotle](./aristotle.md)**: Developed virtue ethics further
+- **[Marcus Aurelius](../../stoicism/philosophers/marcus-aurelius.md)**: Stoic who embodied examined life
+- **[Four Noble Truths (Buddhism)](../../../01-DHARMIC/buddhism/core-teachings/four-noble-truths.md)**: Another tradition emphasizing self-examination
+- **[Confucius](../../../03-EAST-ASIAN/confucianism/)**: Eastern parallel in virtue ethics
 
 ---
 
 ## Sources | 출처
 
-- [Socrates - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/socrates/)
-- [Know Thyself - Wikipedia](https://en.wikipedia.org/wiki/Know_thyself)
-- [Socratic Self-Knowledge - Penn State](https://sites.psu.edu/moore/self-knowledge/)
-- [Know Thyself - The Collector](https://www.thecollector.com/socratic-self-knowledge-true-meaning-of-know-thyself/)
+### Academic Sources
+- [Internet Encyclopedia of Philosophy - "Socrates"](https://iep.utm.edu/socrates/)
+- [Stanford Encyclopedia of Philosophy - "Socrates"](https://plato.stanford.edu/entries/socrates/)
+- [Wikipedia - "Socratic Method"](https://en.wikipedia.org/wiki/Socratic_method)
+- [BYU Aporia - "The Virtue of Socratic Dialectic"](https://aporia.byu.edu/pdfs/andersen-the_virtue_of_socratic_dialectic.pdf)
+- Vlastos, Gregory. *Socrates: Ironist and Moral Philosopher*. Cambridge, 1991.
+
+### Educational Resources
+- [The Collector - "What Is the Socratic Method?"](https://www.thecollector.com/what-is-socratic-method-philosophy/)
+- [Colorado State - "The Socratic Method"](https://tilt.colostate.edu/the-socratic-method/)
+- [Encyclopedia.com - "Dialogue and Dialectics"](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/dialogue-and-dialectics-socratic)
+
+### Korean Sources
+- [나무위키 - 소크라테스](https://namu.wiki/w/소크라테스)
+- [위키백과 - 문답법](https://ko.wikipedia.org/wiki/문답법)
+- [위키백과 - 너 자신을 알라](https://ko.wikipedia.org/wiki/너_자신을_알라)
+- [미로츄 - 소크라테스, 문답법으로 무지를 일깨워준 철학자](https://mirochuu.com/socrates/)
 
 ---
 
-**γνῶθι σεαυτόν · Know Thyself · 너 자신을 알라**
+**Γνῶθι σεαυτόν**
+*Gnothi Seauton*
+*"Know Thyself"*
+*"너 자신을 알라"*
+
+---
+
 **弘益人間 · Benefit All Humanity**
