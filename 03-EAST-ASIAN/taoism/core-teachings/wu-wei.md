@@ -1,179 +1,211 @@
-# Wu Wei (無爲) - Non-Action | 무위 (無爲) - 하지 않음
+# Wu Wei | 무위 (無為)
 
-> Effortless action: flowing with the Tao rather than forcing against it
-> 힘들이지 않는 행함: 도에 거스르지 않고 흐르기
+> Effortless Action: The Art of Non-Doing
+> 무위자연: 하지 않음의 기술
 
 ---
 
 ## Overview | 개요
 
 **English:**
+Wu wei (traditional Chinese: 無為; pinyin: wúwéi) is a concept from ancient Chinese philosophy that literally means "not-acting" or "non-doing," variously interpreted and translated as actionlessness, inaction, or effortless action. It is a foundational concept in Taoism, emphasizing living in harmony with the Tao, the fundamental principle that underlies the universe.
 
-Wu Wei (Chinese: 無爲, pinyin: wú wéi) literally means "non-action" or "not-doing," but this translation can mislead. Wu Wei does not mean passivity or inaction. Rather, it describes a state of effortless action—being so aligned with the natural flow of things that one acts without forcing, striving, or struggling.
-
-As philosopher Alan Watts explained, Wu Wei can be understood as "not-forcing" or "the art of getting out of one's own way." The Tao Te Ching states: "The Tao does nothing, and yet nothing is left undone" (道無為而無不為). This paradox captures the essence: when we stop interfering with nature's course, things accomplish themselves.
-
-Wu Wei is like water flowing downstream—the river is not pushed from behind nor pulled from ahead; it simply follows gravity, finding the path of least resistance while accomplishing great things.
+Wu wei does not mean passivity or laziness, but rather aligned action—moving with the natural flow of reality rather than against it. It is the art of accomplishing without forcing.
 
 **한국어:**
+무위(無為, 병음: wúwéi)는 고대 중국 철학의 개념으로, 문자적으로 "행동하지 않음" 또는 "하지 않음"을 의미하며, 무행동, 비행동, 또는 힘들이지 않는 행동으로 다양하게 해석되고 번역됩니다. 도교의 기초 개념으로, 우주의 근본 원리인 도와 조화롭게 사는 것을 강조합니다.
 
-무위(無爲, 중국어 병음: wú wéi)는 문자 그대로 "하지 않음" 또는 "행하지 않음"을 의미하지만, 이 번역은 오해를 불러일으킬 수 있습니다. 무위는 수동성이나 비행동을 의미하지 않습니다. 오히려 힘들이지 않는 행함—사물의 자연스러운 흐름과 너무나 일치하여 강요하거나 애쓰거나 분투하지 않고 행하는 상태를 묘사합니다.
-
-철학자 앨런 왓츠가 설명했듯이, 무위는 "강요하지 않음" 또는 "자신의 길에서 벗어나는 기술"로 이해될 수 있습니다. 도덕경은 말합니다: "도는 하지 않으면서도 하지 않음이 없다"(道無為而無不為). 이 역설이 본질을 담고 있습니다: 우리가 자연의 과정을 방해하는 것을 멈추면, 사물이 스스로 이루어집니다.
-
-무위는 물이 하류로 흐르는 것과 같습니다—강물은 뒤에서 밀리지도 앞에서 당겨지지도 않습니다; 단순히 중력을 따라 최소 저항의 길을 찾으면서 위대한 일을 이룹니다.
+무위는 수동성이나 게으름을 의미하지 않고, 오히려 조화된 행동—현실의 자연스러운 흐름을 거스르지 않고 함께 움직이는 것을 의미합니다.
 
 ---
 
-## The Paradox | 역설
-
-> **為無為，則無不治**
-> *Act without acting, and nothing will remain unordered.*
-> 함이 없이 하면, 다스려지지 않는 것이 없다.
-> — Tao Te Ching, Chapter 3
-
-> **道常無為而無不為**
-> *The Tao constantly does nothing, yet nothing remains undone.*
-> 도는 항상 하지 않으면서도 하지 않음이 없다.
-> — Tao Te Ching, Chapter 37
+## Origins in the Tao Te Ching | 도덕경에서의 기원
 
 **English:**
-The paradox resolves when we understand that "not acting" means not acting *against* the natural order. The sage accomplishes much precisely because they don't waste energy on artificial striving.
+
+> "Wu wei originates from ancient Chinese philosophy and is a core principle of Taoism. It dates back to the foundational text of Taoism, the Tao Te Ching, attributed to the sage Lao Tzu."
+
+> "The best-known use of the term wuwei is found in the Daodejing, a philosophical and spiritual text written about 300 BCE and featuring naturalistic and quasi-mystical overtones."
+
+### Key Passages:
+- Chapter 37: "The Tao does nothing, yet nothing is left undone"
+- Chapter 43: "The softest thing overcomes the hardest"
+- Chapter 48: "Less and less is done until non-action is achieved"
 
 **한국어:**
-"하지 않음"이 자연 질서에 *거스르지* 않음을 의미한다는 것을 이해하면 역설이 해소됩니다. 성인은 인위적 노력에 에너지를 낭비하지 않기 때문에 정확히 많은 것을 이룹니다.
+
+> "무위는 고대 중국 철학에서 기원하며 도교의 핵심 원리입니다. 도교의 기초 문헌인 도덕경에서 유래하며, 현자 노자에게 귀속됩니다."
+
+### 핵심 구절:
+- 37장: "도는 아무것도 하지 않지만, 하지 않는 것이 없다"
+- 43장: "가장 부드러운 것이 가장 단단한 것을 이긴다"
+- 48장: "줄이고 또 줄여 무위에 이른다"
 
 ---
 
-## What Wu Wei Is NOT | 무위가 아닌 것
+## Not Passivity, But Aligned Action | 수동성이 아닌 조화된 행동
 
-| ❌ Not This | ✅ But This |
-|-------------|-------------|
-| Laziness | Effortless efficiency |
-| Passivity | Responsive action |
-| Giving up | Letting go of forcing |
-| Doing nothing | Acting without strain |
-| Resignation | Alignment with nature |
+**English:**
+
+> "Practicing wu wei does not imply passivity or inaction; instead, it suggests a gentle, flowing approach to life, akin to how water navigates its course."
+
+> "It doesn't mean not acting, it means 'effortless action' or 'actionless action'. It means being at peace while engaged in the most frenetic tasks so that one can carry these out with maximum skill and efficiency."
+
+### What Wu Wei IS:
+- Aligned action
+- Flowing with circumstances
+- Natural responsiveness
+- Effortless effectiveness
+
+### What Wu Wei is NOT:
+- Laziness
+- Passivity
+- Withdrawal
+- Indifference
+
+**한국어:**
+
+> "무위를 실천하는 것은 수동성이나 비행동을 의미하지 않습니다; 대신, 물이 그 경로를 찾아가는 것처럼 삶에 대한 부드럽고 흐르는 접근을 제안합니다."
+
+### 무위가 무엇인가:
+- 조화된 행동
+- 상황과 함께 흐름
+- 자연스러운 반응성
+- 힘들이지 않는 효율성
+
+### 무위가 아닌 것:
+- 게으름
+- 수동성
+- 철수
+- 무관심
 
 ---
 
 ## The Water Metaphor | 물의 비유
 
-> **上善若水。水善利萬物而不爭。**
-> *The highest good is like water. Water benefits all things without competing.*
-> 최고의 선은 물과 같다. 물은 만물을 이롭게 하면서 다투지 않는다.
-> — Tao Te Ching, Chapter 8
-
-**English:**
-Water exemplifies Wu Wei:
-- It flows to the lowest places (humility)
-- It takes the shape of its container (adaptability)
-- It carves canyons over time (gentle persistence)
-- It nourishes without demanding (generosity)
-- It moves around obstacles rather than forcing through (flexibility)
-
-**한국어:**
-물은 무위를 예시합니다:
-- 가장 낮은 곳으로 흐른다 (겸손)
-- 그릇의 형태를 취한다 (적응성)
-- 시간이 지나면 협곡을 깎는다 (부드러운 지속성)
-- 요구하지 않으면서 기른다 (관대함)
-- 장애물을 뚫지 않고 돌아간다 (유연성)
-
----
-
-## Zhuangzi's Illustrations | 장자의 예시
-
-### The Butcher Ding | 포정해우(庖丁解牛)
-
-**English:**
-In the *Zhuangzi*, Cook Ding butchers an ox with such effortless skill that his knife never dulls. He follows the natural gaps in the animal, never forcing his blade against bone. He explains: "I follow the Tao of the ox." This is Wu Wei in craft—mastery through alignment, not force.
-
-**한국어:**
-장자에서 요리사 정(丁)은 힘들이지 않는 기술로 소를 도축하여 그의 칼이 결코 무뎌지지 않습니다. 그는 동물의 자연스러운 틈을 따르며, 칼날을 뼈에 대고 강요하지 않습니다. 그는 설명합니다: "저는 소의 도를 따릅니다." 이것이 기예에서의 무위—힘이 아닌 조화를 통한 숙달입니다.
-
-### The Swimmer | 물에서 헤엄치는 사람
-
-**English:**
-Zhuangzi describes a man who swims effortlessly in dangerous rapids where others drown. His secret? "I enter with the inflow and exit with the outflow, following the Way of the water." He doesn't fight the current; he becomes one with it.
-
-**한국어:**
-장자는 다른 사람들이 익사하는 위험한 급류에서 힘들이지 않고 헤엄치는 사람을 묘사합니다. 그의 비결? "저는 들어오는 물과 함께 들어가고 나가는 물과 함께 나가며, 물의 도를 따릅니다." 그는 물살과 싸우지 않습니다; 그와 하나가 됩니다.
-
----
-
-## Practice Application | 실천 적용
-
 **English:**
 
-Cultivating Wu Wei:
+> "The Dao De Jing points out that we should be like water, which is 'submissive and weak' and 'yet which can't be surpassed for attacking what is hard and strong.' Through gentle persistence and a compliance with the specific shape of a problem, an obstacle can be worked round and gradually eroded."
 
-1. **Notice forcing**: When are you pushing against the current?
-2. **Pause before acting**: Is this action aligned with nature?
-3. **Reduce interference**: Can you accomplish more by doing less?
-4. **Trust timing**: Wait for the right moment rather than forcing
-5. **Embrace imperfection**: Let things unfold naturally
-
-Modern applications:
-- **Leadership**: Empower others rather than micromanage
-- **Creativity**: Allow inspiration to flow; don't force output
-- **Relationships**: Accept people as they are
-- **Health**: Practices like Tai Chi embody Wu Wei
-- **Problem-solving**: Step back; solutions often emerge when we stop grasping
+### Water's Wisdom:
+| Quality | Lesson |
+|---------|--------|
+| Softness | Overcomes hardness |
+| Flexibility | Adapts to any container |
+| Persistence | Wears down stone |
+| Seeking low places | Humility and receptivity |
+| Nourishing all | Selfless benefit |
 
 **한국어:**
 
-무위 함양:
+> "도덕경은 우리가 물처럼 되어야 한다고 지적합니다. 물은 '순종적이고 약하지만' '단단하고 강한 것을 공격하는 데는 능가할 수 없습니다.'"
 
-1. **강요 알아차리기**: 언제 물살을 거스르고 있는가?
-2. **행동 전 멈추기**: 이 행동이 자연과 조화하는가?
-3. **간섭 줄이기**: 덜 함으로써 더 이룰 수 있는가?
-4. **때를 신뢰하기**: 강요하지 말고 적절한 순간을 기다리기
-5. **불완전함 품기**: 사물이 자연스럽게 펼쳐지도록 하기
-
-현대적 적용:
-- **리더십**: 미시관리하지 말고 타인에게 권한 부여
-- **창의성**: 영감이 흐르도록 허용; 결과물 강요하지 않기
-- **관계**: 사람들을 있는 그대로 받아들이기
-- **건강**: 태극권 같은 수련이 무위를 체현
-- **문제 해결**: 한 발 물러서기; 해결책은 우리가 움켜쥐기를 멈출 때 종종 나타남
+| 특성 | 교훈 |
+|-----|-----|
+| 부드러움 | 단단함을 극복 |
+| 유연성 | 어떤 용기에도 적응 |
+| 지속성 | 돌을 닳게 함 |
+| 낮은 곳을 찾음 | 겸손과 수용성 |
 
 ---
 
-## Key Terms | 주요 용어
+## Living in Harmony with the Tao | 도와 조화롭게 살기
 
-| Term | Chinese | Korean | Meaning |
-|------|---------|--------|---------|
-| Wu Wei | 無爲 | 무위 | Non-action, effortless action |
-| Ziran | 自然 | 자연 | Naturalness, spontaneity |
-| You Wei | 有爲 | 유위 | Purposeful action (opposite) |
-| Bu Zheng | 不爭 | 부쟁 | Non-contention |
+**English:**
+
+> "According to Taoism, through wu wei individuals do not act to stop the universe's naturally occurring events but rather accept them. Those who live by wu wei allow the Tao to flow through them."
+
+> "Wu wei is a foundational concept in Taoism, an ancient Chinese philosophy that emphasizes living in harmony with the Tao, or the fundamental principle that underlies the universe. It encourages individuals to align with the natural flow of life rather than resist or manipulate it for personal gain."
+
+### Key Principles:
+1. Accept what is
+2. Respond naturally
+3. Don't force
+4. Trust the process
+5. Let go of ego
+
+**한국어:**
+
+> "도교에 따르면, 무위를 통해 개인은 우주의 자연 발생적 사건들을 막기 위해 행동하지 않고 오히려 그것들을 수용합니다. 무위로 사는 사람들은 도가 그들을 통해 흐르도록 합니다."
+
+### 핵심 원리:
+1. 있는 그대로 수용
+2. 자연스럽게 반응
+3. 강요하지 않음
+4. 과정을 신뢰
+5. 자아를 내려놓음
 
 ---
 
-## Cross-References | 상호 참조
+## Modern Interpretation | 현대적 해석
 
-### Within Taoism | 도가 내
+**English:**
 
-- **[Tao (道)](./tao.md)**: The source that Wu Wei follows
-- **[Ziran (自然)](./ziran.md)**: Naturalness that Wu Wei expresses
+> "Edward Slingerland, in his book *Effortless Action*, defines wu wei as 'a state of personal harmony in which actions flow freely and instantly from one's spontaneous inclinations—without the need for extended deliberation or inner struggle.'"
 
-### Other Pillars | 다른 기둥
+> "Non-doing doesn't mean laziness. It means aligned doing. It means releasing the need to grip everything so tightly. It means remembering that presence is more useful than pressure."
 
-- **[Stoic Acceptance](../../../04-HELLENIC/stoicism/)**: Amor fati parallels
-- **[Flow State](../../../08-SCIENCE/psychology/)**: Psychological flow
-- **[Surrender](../../../06-MYSTICAL/)**: Mystical letting go
+### Practical Application:
+- In work: Flow state, natural productivity
+- In relationships: Non-manipulation, authentic connection
+- In conflict: Non-resistance, strategic flexibility
+- In creativity: Spontaneous expression
+
+**한국어:**
+
+> "에드워드 슬링거랜드는 그의 책 *힘들이지 않는 행동*에서 무위를 '행동이 자유롭고 즉각적으로 자신의 자발적 성향에서 흐르는 개인적 조화의 상태—확장된 숙고나 내적 투쟁 없이'로 정의합니다."
+
+### 실제 적용:
+- 일에서: 몰입 상태, 자연스러운 생산성
+- 관계에서: 비조작, 진정한 연결
+- 갈등에서: 비저항, 전략적 유연성
+- 창의성에서: 자발적 표현
 
 ---
 
-## Sources | 출처
+## The Sage and Wu Wei | 성인과 무위
 
-### Academic | 학술
+**English:**
+
+> "The Daodejing characterizes nonaction as both the manner in which the Way constantly generates the cosmos and the method through which the sage-king, or ideal ruler, most effectively governs."
+
+### The Sage:
+- Acts without acting
+- Teaches without speaking
+- Leads without forcing
+- Accomplishes without claiming credit
+
+**한국어:**
+
+> "도덕경은 무위를 도가 끊임없이 우주를 생성하는 방식이자 성인 왕, 또는 이상적 통치자가 가장 효과적으로 통치하는 방법으로 특징짓습니다."
+
+### 성인:
+- 행동 없이 행동
+- 말하지 않고 가르침
+- 강요 없이 이끔
+- 공로를 주장하지 않고 성취
+
+---
+
+## Key Terms | 핵심 용어
+
+| Chinese | Korean | Meaning |
+|---------|--------|---------|
+| 無為 (Wúwéi) | 무위 | Non-action |
+| 道 (Dào) | 도 | The Way |
+| 自然 (Zìrán) | 자연 | Naturalness |
+| 德 (Dé) | 덕 | Virtue/Power |
+| 柔 (Róu) | 유 | Softness |
+
+---
+
+## References | 참고문헌
+
 - [Wu Wei - Wikipedia](https://en.wikipedia.org/wiki/Wu_wei)
 - [Wuwei - Britannica](https://www.britannica.com/topic/wuwei-Chinese-philosophy)
-- [Wu-Wei: Acting without Desire - 1000-Word Philosophy](https://1000wordphilosophy.com/2019/06/03/wu-wei-acting-without-desire/)
+- [Wu Wei: The Action of Non-Action - Learn Religions](https://www.learnreligions.com/wu-wei-the-action-of-non-action-3183209)
+- [Wu Wei - The School of Life](https://www.theschooloflife.com/article/wu-wei-doing-nothing/)
 
 ---
 
-**無爲而無不爲 · Do nothing, yet nothing is left undone**
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - 인류를 이롭게 하라*
