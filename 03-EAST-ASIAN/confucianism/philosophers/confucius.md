@@ -1,229 +1,304 @@
 # Confucius (孔子) | 공자
 
-> The Great Teacher: Cultivating Virtue Through Ritual and Relationships
-> 위대한 스승: 예와 관계를 통한 덕의 함양
+> The First Teacher and founding sage of the Confucian tradition (551-479 BCE)
+> 유학의 창시자이자 만세사표 (기원전 551-479)
 
 ---
 
 ## Overview | 개요
 
 **English:**
-Confucius (551–479 BCE), known in Chinese as Kongzi or Kong Qiu, is the most influential philosopher in Chinese history. His teachings, collected in the *Analects* (*Lunyu*) by his disciples, established the ethical and political foundations of East Asian civilization for over two millennia.
 
-Confucius lived during the chaotic Spring and Autumn period, when the Zhou dynasty's authority had collapsed and warfare was endemic. In response, he developed a philosophy centered on cultivating virtue (*de*), particularly through proper relationships, ritual propriety (*li*), and the ideal of the noble person (*junzi*).
+Confucius (孔子; pinyin: Kǒngzǐ; c. 551 – c. 479 BCE), born Kong Qiu (孔丘), is traditionally considered the paragon of Chinese sages and one of the most influential thinkers in human history. Better known in China as "Master Kong" (*Kongzi*), his influence upon East Asian intellectual and social history is immeasurable.
 
-Though he saw himself as a transmitter rather than an innovator—preserving the wisdom of the ancient sages—Confucius transformed Chinese thought by insisting that virtue could be cultivated through education and practice, not merely inherited through noble birth.
+His philosophical teachings, called Confucianism (儒家, *Rujia*), emphasized personal and governmental morality, harmonious social relationships, righteousness, kindness, sincerity, and a ruler's responsibilities to lead by virtue rather than force. His sayings and biographical fragments are recorded in the *Analects* (論語, *Lunyu*), which remains the primary source for understanding his thought.
+
+Confucius saw himself not as an innovator but as a "transmitter who invented nothing"—preserving and interpreting the wisdom of the ancient sages. Yet in this transmission, he created something profoundly new: a humanistic philosophy focused on ethical cultivation and social harmony that shaped Chinese civilization for over two millennia.
 
 **한국어:**
-공자 (기원전 551-479), 중국어로 공쯔 또는 공추로 알려진, 중국 역사에서 가장 영향력 있는 철학자입니다. 제자들이 *논어* (*룬위*)에 수집한 그의 가르침은 2천 년 이상 동아시아 문명의 윤리적, 정치적 기초를 확립했습니다.
 
-공자는 주 왕조의 권위가 붕괴하고 전쟁이 만연했던 혼란한 춘추 시대에 살았습니다. 이에 대응하여 그는 덕 (*더*)의 함양, 특히 적절한 관계, 예의 바른 예법 (*리*), 고상한 인격자 (*쥔쯔*)의 이상을 중심으로 한 철학을 발전시켰습니다.
+공자(孔子, 기원전 약 551-479), 본명 공구(孔丘)는 전통적으로 중국 성인의 표상이자 인류 역사상 가장 영향력 있는 사상가 중 한 분으로 여겨집니다. 중국에서는 "공부자"(*孔夫子*)로 더 잘 알려진 그의 동아시아 지적·사회적 역사에 대한 영향은 헤아릴 수 없습니다.
 
-그는 자신을 혁신자가 아닌 전달자로 보았지만—고대 성인들의 지혜를 보존하는—공자는 덕이 귀족 출생으로 단순히 상속되는 것이 아니라 교육과 실천을 통해 함양될 수 있다고 주장함으로써 중국 사상을 변형시켰습니다.
+그의 철학적 가르침인 유학(儒學)은 개인과 정부의 도덕성, 조화로운 사회 관계, 의로움, 인자함, 성실, 그리고 힘이 아닌 덕으로 이끌어야 할 통치자의 책임을 강조했습니다. 그의 어록과 전기적 단편들은 *논어*(論語)에 기록되어 있으며, 이것이 그의 사상을 이해하는 일차 자료로 남아 있습니다.
+
+공자는 자신을 혁신자가 아닌 "아무것도 발명하지 않은 전달자"로 보았습니다—고대 성인들의 지혜를 보존하고 해석하는 것. 그러나 이 전달에서 그는 심오하게 새로운 것을 창조했습니다: 윤리적 수양과 사회 조화에 초점을 맞춘 인본주의 철학으로, 이천 년 이상 중국 문명을 형성했습니다.
 
 ---
 
-## Core Concepts | 핵심 개념
+## Biography | 생애
 
-### Ren (仁) - Humaneness | 인 - 인간다움
-
-**English:**
-*Ren* is the cardinal Confucian virtue, variously translated as humaneness, benevolence, or human-heartedness:
-
-> One of the fundamental Confucian values, Confucius saw filial piety as the first step toward moral excellence, which he believed lay in the attainment of the cardinal virtue, ren (humanity).
-
-Ren involves:
-- Loving others as members of human community
-- Treating others with consideration and respect
-- Developing one's humanity through relationships
-- The capacity for empathy and reciprocity
-
-**한국어:**
-*인*은 근본적인 유교 덕목으로, 인간다움, 자비, 인간적 마음으로 다양하게 번역됩니다:
-
-> 근본적인 유교 가치 중 하나로, 공자는 효를 도덕적 우수성을 향한 첫 단계로 보았으며, 이것이 근본 덕인 인 (인간다움)의 달성에 있다고 믿었습니다.
-
-인은 다음을 포함합니다:
-- 인간 공동체의 구성원으로서 타인을 사랑
-- 배려와 존중으로 타인을 대함
-- 관계를 통해 자신의 인간성을 발전
-- 공감과 호혜성의 능력
-
-### Li (禮) - Ritual Propriety | 예 - 예절
+### Early Life | 초기 생애
 
 **English:**
-*Li* encompasses ritual, propriety, and proper conduct—the external expression of inner virtue:
 
-> He taught that one's individual desires do not need to be suppressed, but that people should be educated to reconcile their desires via li, rituals and forms of propriety.
+Confucius was born in 551 BCE in the city of Qufu in the state of Lu (present-day Shandong province) into a family of low-ranking nobles. His father, Kong He, was a minor noble who served as a military commander. Confucius grew up in poverty after his father died when he was only three years old.
 
-Li includes:
-- Proper conduct in ceremonies and daily life
-- Appropriate behavior in social relationships
-- Traditional customs and manners
-- The harmony between inner feeling and outer expression
+Despite humble circumstances, Confucius devoted himself to learning from an early age. He mastered the "Six Arts" (六藝): ritual, music, archery, charioteering, calligraphy, and mathematics. He began teaching around age 30, attracting disciples from various social backgrounds.
 
 **한국어:**
-*예*는 의례, 예절, 적절한 행동—내적 덕의 외적 표현—을 포괄합니다:
 
-> 그는 개인의 욕망이 억압될 필요가 없고, 사람들이 예, 의례와 예법의 형식을 통해 그들의 욕망을 조화시키도록 교육받아야 한다고 가르쳤습니다.
+공자는 기원전 551년 노나라 곡부(현 산동성)에서 하급 귀족 가문에 태어났습니다. 아버지 공흘은 군사 지휘관을 지낸 하급 귀족이었습니다. 공자는 세 살 때 아버지가 돌아가신 후 가난하게 자랐습니다.
 
-예는 다음을 포함합니다:
-- 의식과 일상생활에서의 적절한 행동
-- 사회적 관계에서의 적합한 행동
-- 전통적 관습과 예절
-- 내적 감정과 외적 표현 사이의 조화
+비천한 환경에도 불구하고, 공자는 어릴 때부터 학문에 헌신했습니다. 육예(六藝): 예(禮), 악(樂), 사(射), 어(御), 서(書), 수(數)를 통달했습니다. 약 30세에 가르치기 시작하여 다양한 사회 배경의 제자들을 끌어들였습니다.
 
-### Xiao (孝) - Filial Piety | 효
+### Political Career | 정치 경력
 
 **English:**
-*Xiao* is devotion to one's parents and ancestors, the foundation of all virtue:
 
-> Filial piety is a foundational concept in the thought of Confucius... In the Classic of Filial Piety, Confucius says that "filial piety is the root of virtue and the basis of philosophy."
+Confucius held various minor government positions in Lu. Around age 50, he briefly served as Minister of Crime, but his reforms met with opposition. Frustrated by the inability to implement his vision, he left Lu and spent approximately 14 years traveling through various Chinese states, seeking a ruler who would adopt his principles.
 
-> Filial piety does not demand unconditional submissiveness to parental authority but recognition of and reverence for the source of life. The purpose of filial piety is to enable both parent and child to flourish.
+This wandering period, though politically unsuccessful, allowed Confucius to refine his teachings and deepen his understanding of governance and human nature.
 
 **한국어:**
-*효*는 부모와 조상에 대한 헌신으로, 모든 덕의 기초입니다:
 
-> 효는 공자 사상의 기초 개념입니다... 효경에서 공자는 "효는 덕의 근본이자 철학의 기초"라고 말합니다.
+공자는 노나라에서 여러 하급 관직을 역임했습니다. 약 50세에 잠시 사구(司寇)를 지냈으나 개혁이 반대에 부딪혔습니다. 자신의 비전을 실현하지 못함에 좌절하여 노나라를 떠나 약 14년간 여러 나라를 돌아다니며 자신의 원칙을 채택할 군주를 찾았습니다.
 
-> 효는 부모 권위에 대한 무조건적 복종을 요구하지 않고 생명의 원천에 대한 인정과 경의를 요구합니다. 효의 목적은 부모와 자식 모두가 번영하도록 하는 것입니다.
+정치적으로는 성공하지 못했지만, 이 주유(周遊) 기간은 공자로 하여금 가르침을 다듬고 통치와 인간 본성에 대한 이해를 심화하게 했습니다.
 
-### Junzi (君子) - The Noble Person | 군자
+### Final Years | 말년
 
 **English:**
-The *junzi* (gentleman, noble person) is Confucius's moral ideal:
 
-> Many of the short passages from the Analects describe the development of a set of ideal behaviors associated with the moral ideal of the "way" (dao) of the "gentleman" (junzi).
+Confucius returned to Lu in his late 60s and spent his final years teaching and editing the classical texts. He reportedly edited the *Book of Documents* (書經), *Book of Poetry* (詩經), and *Spring and Autumn Annals* (春秋). He died in 479 BCE at age 72 or 73.
 
-The junzi:
-- Cultivates virtue through constant self-improvement
-- Practices humaneness in all relationships
-- Follows propriety in conduct
-- Leads by moral example, not force
+After his death, his disciples collected his sayings into the *Analects*, and his influence grew steadily until Confucianism became the official state philosophy of the Han dynasty (206 BCE – 220 CE).
 
 **한국어:**
-*군자* (신사, 고상한 인격자)는 공자의 도덕적 이상입니다:
 
-> 논어의 많은 짧은 구절들은 "군자"의 "도"의 도덕적 이상과 연관된 이상적 행동의 집합의 발전을 묘사합니다.
+공자는 60대 후반에 노나라로 돌아와 말년을 가르치고 고전을 편찬하며 보냈습니다. *서경*(書經), *시경*(詩經), *춘추*(春秋)를 편찬한 것으로 전해집니다. 기원전 479년 72-73세에 서거했습니다.
 
-군자는:
-- 지속적인 자기 개선을 통해 덕을 함양
-- 모든 관계에서 인간다움을 실천
-- 행동에서 예를 따름
+사후 제자들이 그의 어록을 *논어*로 엮었고, 그의 영향력은 한나라(기원전 206-기원후 220)에서 유학이 공식 국가 철학이 될 때까지 꾸준히 성장했습니다.
+
+---
+
+## Core Philosophy | 핵심 철학
+
+### Ren (仁) - Humaneness | 인(仁) - 어짊
+
+**English:**
+
+The central concept in Confucius's philosophy is **ren** (仁), variously translated as humaneness, benevolence, or goodness. This character appears 109 times in the *Analects*. Ren represents:
+
+- Love and care for others
+- The highest moral achievement
+- The foundation of all virtues
+
+> "Wishing to establish oneself, one establishes others; wishing to develop oneself, one develops others." (*Analects* 6:30)
+
+Ren is not just a feeling but an active practice of treating others with the same consideration one would want for oneself.
+
+**한국어:**
+
+공자 철학의 중심 개념은 **인**(仁)으로, 어짊, 인자함, 선함 등으로 번역됩니다. 이 글자는 *논어*에 109회 등장합니다. 인은 다음을 대표합니다:
+
+- 타인에 대한 사랑과 배려
+- 최고의 도덕적 성취
+- 모든 덕의 기초
+
+> "자기가 서고자 하면 남을 세워주고, 자기가 이루고자 하면 남을 이루게 해준다." (*논어* 6:30)
+
+인은 단순한 감정이 아니라 자신이 원하는 대우를 남에게도 베푸는 능동적 실천입니다.
+
+---
+
+### Li (禮) - Ritual Propriety | 예(禮) - 예의범절
+
+**English:**
+
+**Li** (禮) refers to ritual propriety—the proper forms of conduct, etiquette, and ceremonial behavior that maintain social harmony. Li includes:
+
+- Religious rituals and ancestral rites
+- Rules of social etiquette
+- Norms of proper behavior in relationships
+
+For Confucius, li was the instrument through which family, state, and world could be aligned with Heaven's moral order. Li gives external form to the internal virtue of ren.
+
+**한국어:**
+
+**예**(禮)는 예의범절—사회 조화를 유지하는 적절한 행동 양식, 에티켓, 의례적 행동—을 가리킵니다. 예는 다음을 포함합니다:
+
+- 종교 의례와 조상 제사
+- 사회적 예절 규칙
+- 관계에서의 적절한 행동 규범
+
+공자에게 예는 가정, 국가, 세계가 하늘의 도덕 질서와 일치할 수 있게 하는 도구였습니다. 예는 내적 덕인 인에 외적 형태를 부여합니다.
+
+---
+
+### Junzi (君子) - The Exemplary Person | 군자(君子) - 모범적 인격
+
+**English:**
+
+**Junzi** (君子), literally "son of a lord," was redefined by Confucius to mean a person of noble character and ethical virtue—regardless of birth. The junzi:
+
+- Cultivates virtue through continuous self-improvement
+- Leads by moral example rather than force
+- Balances inner cultivation with proper external behavior
+- Serves as a model for society
+
+> "The junzi seeks harmony, not uniformity; the petty person seeks uniformity, not harmony." (*Analects* 13:23)
+
+**한국어:**
+
+**군자**(君子), 문자적으로 "임금의 아들"은 공자에 의해 출생과 관계없이 고귀한 인격과 윤리적 덕을 갖춘 사람을 의미하도록 재정의되었습니다. 군자는:
+
+- 지속적 자기 수양으로 덕을 함양
 - 힘이 아닌 도덕적 모범으로 이끔
+- 내적 수양과 적절한 외적 행동의 균형
+- 사회의 모델 역할
+
+> "군자는 화합하되 동일하지 않고, 소인은 동일하되 화합하지 않는다." (*논어* 13:23)
 
 ---
 
-## The Rectification of Names | 정명 (正名)
+### Zhengming (正名) - Rectification of Names | 정명(正名) - 명분 바로잡기
 
 **English:**
-Confucius taught that social order depends on calling things by their proper names:
 
-> The analysis of the need to raise officials' behavior to reflect the way that they identify and describe themselves is known as the rectification of names, and Confucius stated that the rectification of names should be the first responsibility of a ruler upon taking office.
+**Zhengming** (正名) means the "rectification of names"—the idea that social disorder arises when words no longer correspond to reality. When Confucius was asked what he would do first if given political authority, he answered:
 
-> Confucius believed that social order broke down due to a failure to correctly perceive and understand reality. Confucius stressed that the gentleman must use the correct terms and call people, things, and places by their proper names.
+> "Surely rectify names... If names are not correct, speech will not accord with reality; if speech does not accord with reality, affairs will not be successful." (*Analects* 13:3)
 
-When a king acts as a true king should, a father as a father should, etc., order is maintained.
+A father should act like a father, a ruler like a ruler. Language and behavior must align.
 
 **한국어:**
-공자는 사회 질서가 사물을 적절한 이름으로 부르는 것에 달려 있다고 가르쳤습니다:
 
-> 관리들의 행동을 그들이 자신을 식별하고 묘사하는 방식을 반영하도록 높이는 필요의 분석은 정명으로 알려져 있으며, 공자는 정명이 통치자가 취임할 때 첫 번째 책임이어야 한다고 말했습니다.
+**정명**(正名)은 "이름을 바로잡음"—말이 더 이상 현실과 일치하지 않을 때 사회 무질서가 발생한다는 생각입니다. 공자가 정치적 권위를 갖는다면 무엇을 먼저 하겠느냐는 질문에 답했습니다:
 
-> 공자는 사회 질서가 실재를 올바르게 인식하고 이해하지 못함으로 인해 무너졌다고 믿었습니다. 공자는 군자가 올바른 용어를 사용하고 사람, 사물, 장소를 적절한 이름으로 불러야 한다고 강조했습니다.
+> "반드시 이름을 바로잡겠다... 이름이 바르지 않으면 말이 순조롭지 못하고, 말이 순조롭지 못하면 일이 이루어지지 않는다." (*논어* 13:3)
 
-왕이 진정한 왕답게, 아버지가 아버지답게 행동할 때, 질서가 유지됩니다.
+아버지는 아버지답게, 임금은 임금답게 행동해야 합니다. 언어와 행동이 일치해야 합니다.
 
 ---
 
-## Politics as Rectification | 정치와 정명
+## The Analects (論語) | 논어
 
 **English:**
-Confucius believed rulers should govern by moral example:
 
-> Rulers should begin by rectifying their own conduct; that is, they are to be examples who govern by moral leadership and exemplary teaching rather than by force.
+The *Analects* (*Lunyu*, 論語) is the primary source for Confucius's teachings. It is a compilation of his sayings and conversations with disciples, collected after his death. The text:
 
-> When asked about government, Confucius replied, "To govern means to rectify. If you lead with correctness, who will dare not to be correct?"
+- Opens with the character 學 (learning), emphasizing study's importance
+- Contains approximately 500 chapters across 20 books
+- Presents Confucius's thought through dialogue rather than systematic exposition
+- Became one of the "Four Books" (四書) in Neo-Confucianism
 
-> Confucius judged a good ruler by his possession of de ('virtue'): a sort of moral force that allows those in power to rule and gain the loyalty of others without the need for physical coercion.
+> "Is it not a pleasure, having learned something, to practice it? Is it not a joy to have friends come from afar?" (*Analects* 1:1)
 
 **한국어:**
-공자는 통치자가 도덕적 모범으로 다스려야 한다고 믿었습니다:
 
-> 통치자는 자신의 행동을 바로잡는 것으로 시작해야 합니다; 즉, 그들은 힘이 아닌 도덕적 지도력과 모범적 가르침으로 다스리는 본보기가 되어야 합니다.
+*논어*(論語)는 공자 가르침의 일차 자료입니다. 그의 어록과 제자들과의 대화를 사후 엮은 것입니다. 이 텍스트는:
 
-> 정치에 대해 물었을 때, 공자는 답했습니다, "다스림은 바로잡음을 의미한다. 당신이 올바름으로 이끌면, 누가 감히 올바르지 않겠는가?"
+- 學(배움) 글자로 시작하여 학문의 중요성 강조
+- 20편에 걸쳐 약 500장 포함
+- 체계적 서술보다 대화로 공자 사상 제시
+- 성리학의 "사서"(四書) 중 하나가 됨
+
+> "배우고 때때로 익히면 또한 기쁘지 아니한가? 벗이 먼 곳에서 오면 또한 즐겁지 아니한가?" (*논어* 1:1)
 
 ---
 
-## The Analects | 논어
+## Influence in Korea | 한국에서의 영향
 
 **English:**
-The *Analects* (*Lunyu*, "Selected Sayings") is the primary source for Confucius's teachings:
 
-- Compiled by disciples after his death
-- Contains dialogues, aphorisms, and brief narratives
-- 20 books, approximately 500 passages
-- Foundation of Confucian education for millennia
+Confucianism entered Korea during the Three Kingdoms period (57 BCE – 668 CE) and became the dominant ideology during the Joseon dynasty (1392-1897). Korean Neo-Confucians like Yi Hwang (Toegye) and Yi I (Yulgok) developed Chinese Neo-Confucianism into even more sophisticated forms.
 
-Famous passages include the "Golden Rule": "Do not do to others what you would not want done to yourself."
+Confucian values continue to shape Korean society today:
+- Emphasis on education and self-improvement
+- Respect for elders and hierarchical relationships
+- Importance of family and filial piety
+- Social harmony and proper conduct
 
 **한국어:**
-*논어* (*룬위*, "선별된 말씀")는 공자 가르침의 주요 출처입니다:
 
-- 그의 사후 제자들이 편찬
-- 대화, 격언, 짧은 서사 포함
-- 20편, 약 500개 구절
-- 수천 년간 유교 교육의 기초
+유학은 삼국시대(기원전 57-기원후 668)에 한국에 들어와 조선 왕조(1392-1897) 동안 지배 이념이 되었습니다. 이황(퇴계), 이이(율곡) 같은 한국 성리학자들은 중국 성리학을 더욱 정교한 형태로 발전시켰습니다.
 
-유명한 구절은 "황금률"을 포함합니다: "자기가 원하지 않는 것을 남에게 하지 말라."
+유교적 가치는 오늘날에도 한국 사회를 형성합니다:
+- 교육과 자기 계발 강조
+- 연장자와 위계적 관계 존중
+- 가족과 효의 중요성
+- 사회 조화와 적절한 행실
 
 ---
 
-## Legacy | 유산
+## Practice Application | 실천 적용
 
 **English:**
-Confucius's influence extends across East Asia:
 
-- **China**: State ideology for most of imperial history
-- **Korea**: Joseon dynasty adopted Neo-Confucianism
-- **Japan**: Shaped samurai ethics and education
-- **Vietnam**: Influenced bureaucratic system
-- **Modern world**: Resurging interest in Confucian ethics
+Confucius's teachings for modern practice:
+
+1. **Continuous Learning** (學): Never stop learning and self-improvement
+2. **Self-Cultivation** (修身): Work daily on your character
+3. **Filial Piety** (孝): Honor and care for parents and elders
+4. **Loyalty** (忠): Be faithful in relationships and duties
+5. **Reciprocity** (恕): Do not impose on others what you would not want for yourself
 
 **한국어:**
-공자의 영향은 동아시아 전역에 걸쳐 확장됩니다:
 
-- **중국**: 제국 역사 대부분의 국가 이념
-- **한국**: 조선 왕조가 성리학 채택
-- **일본**: 사무라이 윤리와 교육 형성
-- **베트남**: 관료 체제에 영향
-- **현대 세계**: 유교 윤리에 대한 관심 부활
+현대 수행을 위한 공자의 가르침:
+
+1. **계속적 배움** (學): 배움과 자기 계발을 멈추지 않기
+2. **수신** (修身): 매일 인격 수양하기
+3. **효** (孝): 부모와 연장자 공경하고 돌보기
+4. **충** (忠): 관계와 의무에 성실하기
+5. **서** (恕): 자기가 원하지 않는 것을 남에게 베풀지 않기
+
+---
+
+## Key Terms | 주요 용어
+
+| Term | Hanja | Korean | Meaning |
+|------|-------|--------|---------|
+| Kongzi | 孔子 | 공자 | Master Kong (Confucius) |
+| Ren | 仁 | 인 | Humaneness, Benevolence |
+| Li | 禮 | 예 | Ritual Propriety |
+| Junzi | 君子 | 군자 | Exemplary Person |
+| Xue | 學 | 학 | Learning, Study |
+| Xiao | 孝 | 효 | Filial Piety |
+| Zhong | 忠 | 충 | Loyalty |
+| Shu | 恕 | 서 | Reciprocity |
 
 ---
 
 ## Cross-References | 상호 참조
 
-- [[03-EAST-ASIAN/confucianism/core-teachings/ren|Ren (仁)]] - Humaneness
-- [[03-EAST-ASIAN/confucianism/core-teachings/li|Li (禮)]] - Ritual Propriety
-- [[03-EAST-ASIAN/confucianism/texts/analects|The Analects]] - Primary text
-- [[04-HELLENIC/classical/concepts/virtue-arete|Virtue (Arete)]] - Greek parallel
-- [[03-EAST-ASIAN/confucianism/texts/mencius|Mencius]] - Major successor
+### Within East Asian Thought | 동아시아 사상 내
+
+- **[Ren (仁)](../core-teachings/ren.md)**: Central virtue
+- **[Li (禮)](../core-teachings/li.md)**: Ritual propriety
+- **[Junzi (君子)](../core-teachings/junzi.md)**: The exemplary person
+- **[Analects](../texts/analects.md)**: Primary text
+- **[Mencius](mencius.md)**: Greatest disciple tradition
+
+### Other Pillars | 다른 기둥
+
+- **[Hongik Ingan](../../korean/core-teachings/hongik-ingan.md)**: Korean humanistic ideal
+- **[Virtue Ethics](../../../04-HELLENIC/stoicism/concepts/virtue-ethics.md)**: Western parallel
+- **[Plato](../../../04-HELLENIC/classical/philosophers/plato.md)**: Comparable Western sage
 
 ---
 
-## References | 참고문헌
+## Sources | 출처
 
-- [Stanford Encyclopedia of Philosophy: Confucius](https://plato.stanford.edu/entries/confucius/)
-- [Britannica: Confucianism - The Analects](https://www.britannica.com/topic/Confucianism/The-Analects-as-the-embodiment-of-Confucian-ideas)
-- [Wikipedia: Analects](https://en.wikipedia.org/wiki/Analects)
-- [Wikipedia: Filial Piety](https://en.wikipedia.org/wiki/Filial_piety)
-- Confucius. *The Analects* (trans. D.C. Lau)
-- Fingarette, Herbert. *Confucius: The Secular as Sacred*
+### Academic | 학술
+
+- [Confucius - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/confucius/)
+- [Confucius - Internet Encyclopedia of Philosophy](https://iep.utm.edu/confucius/)
+- [Confucius - Wikipedia](https://en.wikipedia.org/wiki/Confucius)
+- [Confucius - Britannica](https://www.britannica.com/biography/Confucius)
+
+### Primary Texts | 원전
+
+- *Lunyu* (論語, The Analects)
+- *Shujing* (書經, Book of Documents)
+- *Shijing* (詩經, Book of Poetry)
 
 ---
 
-**弘益人間 · 인류를 널리 이롭게**
+**孔子 · 공자 · Confucius**
 
-*Last Updated: 2025-12-27*
+**弘益人間 · Benefit All Humanity**
+
+---
+
+*This document is part of [WIA-Wisdom](https://github.com/WIA-Official/WIA-Wisdom), the 9 Pillars of Human Wisdom project.*
