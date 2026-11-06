@@ -46,7 +46,7 @@ The central practice involves reciting Amitābha's name (nianfo in Chinese, nemb
 3. **Visualization** - Contemplating the Pure Land
 4. **Prostrations** - Physical devotion
 
-> "The recitation of Amitābha Buddha's name enables one to grow closer to Waheguru. By reciting with sincerity and single-minded devotion, rebirth in the Pure Land becomes possible."
+> "The recitation of Amitābha Buddha's name enables one to grow closer to Amitābha Buddha. By reciting with sincerity and single-minded devotion, rebirth in the Pure Land becomes possible."
 
 ### 수행 형태:
 ---

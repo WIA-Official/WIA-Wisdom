@@ -37,7 +37,7 @@
 
 > "I take refuge in Amitābha Buddha"
 ### Forms of Practice:
-> "The recitation of Amitābha Buddha's name enables one to grow closer to Waheguru. By reciting with sincerity and single-minded devotion, rebirth in the Pure Land becomes possible."
+> "The recitation of Amitābha Buddha's name enables one to grow closer to Amitābha Buddha. By reciting with sincerity and single-minded devotion, rebirth in the Pure Land becomes possible."
 
 ### 수행 형태:
 1. **칭명염불** - 부처님 이름 소리내어 외움

@@ -40,7 +40,7 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 3. **Quán tưởng** - Quán chiếu về cõi Tịnh Độ
 4. **Lễ lạy** - Biểu lộ lòng thành kính bằng thân
 
-> "Việc niệm danh hiệu Phật A-di-đà giúp người ta đến gần Waheguru hơn. Khi niệm với lòng chân thành và sự chuyên nhất, việc vãng sinh về cõi Tịnh Độ trở nên khả thi."
+> "Việc niệm danh hiệu Phật A-di-đà giúp người ta đến gần Phật A-di-đà hơn. Khi niệm với lòng chân thành và sự chuyên nhất, việc vãng sinh về cõi Tịnh Độ trở nên khả thi."
 
 ---
 ## Quá trình phát triển lịch sử | Historical Development
