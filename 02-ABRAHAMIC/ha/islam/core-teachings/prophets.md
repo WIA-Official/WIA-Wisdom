@@ -31,24 +31,24 @@ Dukkan Manzanni annabawa ne, amma ba dukkan annabawa ne manzanni ba. Misali, Mus
 
 Annabawa biyar, waɗanda ake kira Ulul Azmi ("Masu Ƙarfin Azama"), suna da mafi girman daraja:
 
-### 1. Nuhu (Noah) | Nuh (Noah)
+### 1. Nuhu | Nuh (Noah)
 - Ya yi wa'azi har shekara 950
 - Ya tsira daga ambaliyar ruwa wadda ta kasance hukuncin Allah ga kafirai
 - Jirginsa ya ɗauki muminai zuwa aminci
 
-### 2. Ibrahim (Abraham) | Ibrahim (Abraham)
+### 2. Ibrahim | Ibrahim (Abraham)
 - Uban tauhidi
-- Ya gina Ka'aba tare da ɗansa Isma'il
-- Kakan Larabawa ta hanyar Isma'il da Yahudawa ta hanyar Ishaƙa
+- Ya gina Ka'aba tare da ɗansa Isma'ila
+- Kakan Larabawa ta hanyar Isma'ila da Yahudawa ta hanyar Ishaƙa
 - Ya yi tsayayya da bautar gumaka a ƙasarsa
 
-### 3. Musa (Moses) | Musa (Moses)
+### 3. Musa | Musa (Moses)
 - Shi ne annabin da aka fi ambata a cikin Alƙur'ani
 - Ya karɓi Attaura (Tawrat)
 - Ya fitar da Banu Isra'ila daga bauta a Masar
 - Ana kiransa "Kalīm Allah" (wanda ya yi magana kai tsaye da Allah)
 
-### 4. Isa (Jesus) | Isa (Jesus)
+### 4. Isa | Isa (Jesus)
 - An haife shi daga Budurwa Maryamu (Maryam)
 - Ya yi mu'ujizozi da izinin Allah
 - Ya karɓi Injila (Injil)
@@ -72,9 +72,9 @@ Muhimman annabawa a al'adar Musulunci sun haɗa da:
 | Adamu | آدم | Mutum na farko kuma annabi |
 | Idris | إدريس | Annabi na farko-farko, ana danganta shi da Anuhu (Enoch) |
 | Ibrahim | إبراهيم | Uban tauhidi |
-| Isma'il | إسماعيل | Kakan Larabawa |
+| Isma'ila | إسماعيل | Kakan Larabawa |
 | Ishaƙa | إسحاق | Kakan Banu Isra'ila |
-| Yaƙub | يعقوب | Isra'ila, uban kabilu goma sha biyu |
+| Yaƙubu | يعقوب | Isra'ila, uban kabilu goma sha biyu |
 | Yusufu | يوسف | An sayar da shi bauta, ya hau mulki a Masar |
 | Musa | موسى | Ya kawo Attaura |
 | Dawuda | داود | Ya karɓi Zabura (Zabur) |
@@ -97,12 +97,12 @@ Musulunci yana koyar da cewa littattafan da suka gabata (Attaura, Zabura, Injila
 > "Annabi na ƙarshe a Musulunci shi ne Muhammadu ɗan Abdullahi, wanda Musulmi suka yi imani da shi a matsayin 'Hatimin Annabawa' (Khatam an-Nabiyyin), wanda aka saukar masa da Alƙur'ani."
 
 ### Muhimman Abubuwa: | Key Points:
-- An haife shi a Makka, shekara ta 570 bayan Annabi Isa
+- An haife shi a Makka, shekara ta 570 Miladiyya
 - Ya karɓi wahayi na farko yana da shekara 40
-- Ya yi hijira zuwa Madina (Hijra) a shekara ta 622 bayan Annabi Isa
+- Ya yi hijira zuwa Madina (Hijra) a shekara ta 622 Miladiyya
 - Ya kafa al'ummar Musulmi ta farko (Ummah)
-- Ya rasu a shekara ta 632 bayan Annabi Isa
-- Koyi da shi (Sunna) abin koyi ne ga rayuwar Musulmi
+- Ya rasu a shekara ta 632 Miladiyya
+- Sunnarsa (Sunna) ita ce abin koyi ga rayuwar Musulmi
 
 Bayan Muhammadu, babu wani annabi da zai zo—saƙon Musulunci ya cika.
 

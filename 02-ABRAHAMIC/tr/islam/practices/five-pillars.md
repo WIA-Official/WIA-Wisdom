@@ -17,7 +17,7 @@ Hz. Muhammed (sallallâhü aleyhi ve sellem), İslam'ın "beş şart üzerine bi
 Şehadet, İslam'ın özü olan inanç esasıdır; kişiyi Müslüman yapan iman ikrarıdır:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Allah'tan başka ilah yoktur ve Muhammed Allah'ın elçisidir."
+> "Allah'tan başka ilah yoktur ve Muhammed Allah'ın Resûlüdür."
 
 ### İki Bölüm | Two Parts
 
@@ -34,15 +34,15 @@ Müslümanlar, belirlenen vakitlerde, Mekke'deki Kâbe'ye yönelerek günde beş
 
 | Namaz | Arapça | Vakit |
 |--------|--------|------|
-| Sabah (Fajr) | الفجر | Şafak |
-| Öğle (Dhuhr) | الظهر | Öğle |
+| Sabah (Fecr) | الفجر | Şafak |
+| Öğle (Zuhr) | الظهر | Öğle |
 | İkindi (Asr) | العصر | İkindi |
-| Akşam (Maghrib) | المغرب | Gün batımı |
-| Yatsı (Isha) | العشاء | Gece |
+| Akşam (Mağrib) | المغرب | Gün batımı |
+| Yatsı (İşâ) | العشاء | Gece |
 
 ### Namazın Unsurları | Elements of Prayer
 
-- Namazdan önce abdest (wudu) alınması
+- Namazdan önce abdest (vudû) alınması
 - Ayakta durma, rükû, secde ve oturma
 - Kur'an âyetlerinin okunması
 - Kıbleye (Mekke yönüne) yönelme
@@ -54,7 +54,7 @@ Müslümanlar, belirlenen vakitlerde, Mekke'deki Kâbe'ye yönelerek günde beş
 
 ## 3. Zekât | 3. Zakat (Almsgiving)
 
-Zekât, servetin bir bölümünün ihtiyaç sahiplerine verilmesi farzıdır:
+Zekât, servetin bir bölümünü ihtiyaç sahiplerine vermeyi emreden farzdır:
 
 > "Nisap olarak bilinen belirli bir miktarın üzerinde mala sahip olan, şartları taşıyan her yetişkin Müslüman, bu malın %2,5'ini yılda bir kez zekât olarak vermelidir."
 
@@ -66,9 +66,9 @@ Zekât, servetin bir bölümünün ihtiyaç sahiplerine verilmesi farzıdır:
 - Eşitsizliği azaltır
 - Toplumsal bağları güçlendirir
 
-### Zekât Verilecekler (Kur'an 9:60'taki sekiz sınıf) | Recipients (eight categories in Quran 9:60)
+### Zekât Verilecekler (Tevbe 9/60'taki sekiz sınıf) | Recipients (eight categories in Quran 9:60)
 
-Fakirler, miskinler, zekât toplayan görevliler, kalpleri İslam'a ısındırılacak olanlar, köleleri azat etme, borçlular, Allah yolunda olanlar, yolda kalmış ihtiyaç sahibi yolcular.
+Fakirler, miskinler, zekât toplayan görevliler, kalpleri İslam'a ısındırılacak olanlar, azat edilecek köleler, borçlular, Allah yolunda olanlar, yolda kalmış ihtiyaç sahibi yolcular.
 
 ---
 
@@ -103,7 +103,7 @@ Hac, bedenen ve maddi olarak gücü yeten her Müslümanın ömründe en az bir 
 | Gün | Ritüel |
 |-----|--------|
 | 1 | İhram (kutsal hâl), Tavaf (Kâbe çevresinde 7 kez dönme) |
-| 2-3 | Arafat'ta vakfe (wuquf), Mina'da şeytan taşlama |
+| 2-3 | Arafat'ta vakfe (vukûf), Mina'da şeytan taşlama |
 | 4-5 | Kurban Bayramı kurbanı, taşlamanın devamı, Tavaf-ı İfâda (ziyaret tavafı) |
 
 ### Önemi | Significance
@@ -125,14 +125,14 @@ Hac, bedenen ve maddi olarak gücü yeten her Müslümanın ömründe en az bir 
 
 | Arapça | Anlamı |
 |--------|---------|
-| Arkān | Şartlar, temeller |
-| Shahada | İman ikrarı |
-| Salat | Ritüel namaz |
-| Zakat | Farz olan sadaka |
-| Sawm | Oruç |
-| Hajj | Mekke'ye hac yolculuğu |
-| Taqwa | Allah bilinci |
-| Ummah | Dünya çapındaki Müslüman topluluk |
+| Erkân | Şartlar, temeller |
+| Şehâdet | İman ikrarı |
+| Salât | Namaz |
+| Zekât | Farz olan sadaka |
+| Savm | Oruç |
+| Hac | Mekke'ye hac yolculuğu |
+| Takvâ | Allah bilinci |
+| Ümmet | Dünya çapındaki Müslüman topluluk |
 
 ---
 

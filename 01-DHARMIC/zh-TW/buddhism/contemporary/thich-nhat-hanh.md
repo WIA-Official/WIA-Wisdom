@@ -43,7 +43,7 @@
 
 > 首批成員於 1966 年 2 月受戒，並發願研習與實踐入世佛教的十四條戒律。
 
-> 截至 2020 年，相即宗（Order of Interbeing）已有一千多位核心成員。
+> 截至 2020 年，相即共修團（Order of Interbeing）已有一千多位核心成員。
 
 入世佛教包括：
 - 將正念運用於社會議題
@@ -63,11 +63,11 @@
 
 ## 2024 年的發展 | 2024 Developments
 
-> 過去幾年來，國際梅村團體與世界各地的學者及研究者的交流日益密切，他們希望在學術場域中研究並應用 Thay 的教導。
+> 過去幾年來，國際梅村團體與世界各地的學者及研究者的交流日益密切，他們希望在學術場域中研究並應用一行禪師的教導。
 
 > 近期的例子包括：哈佛大學一行禪師公共衛生正念中心（Thich Nhat Hanh Center for Mindfulness in Public Health）的成立、鹿野苑寺（Deer Park Monastery）持續舉辦的「佛陀科學家禪修營」（The Buddha the Scientist Retreat），以及 Elli Weisbaum 博士將梅村正念修習引入醫療照護場域的工作。
 
-> 2024 年 3 月 27 日（星期三），舉辦了一場特別的線上直播活動「科學與正念：邁向理解與療癒的道路」（Science & Mindfulness: Pathways Towards Understanding & Healing），由探討 Thay 的教導與當代研究交會處的學者共同主講。
+> 2024 年 3 月 27 日（星期三），舉辦了一場特別的線上直播活動「科學與正念：邁向理解與療癒的道路」（Science & Mindfulness: Pathways Towards Understanding & Healing），由探討一行禪師的教導與當代研究交會處的學者共同主講。
 
 ---
 
@@ -82,8 +82,8 @@
 - **觸地**：與祖先連結
 
 他著名的教導：
-> 「平和就是每一步。」
-> 「我已到了，我已回家。」
+> 「步步安樂行。」
+> 「我已到了，我已到家。」
 
 ---
 

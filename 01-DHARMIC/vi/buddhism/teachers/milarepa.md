@@ -6,7 +6,7 @@
 
 ## Tổng quan | Overview
 
-Milarepa (khoảng 1028/40–1111/23) là một hành giả du-già, nhà thơ của Phật giáo Tây Tạng, và là một trong những nhân vật được yêu mến nhất của Phật giáo Tây Tạng. Cuộc đời ngài, từ một kẻ sát nhân dùng hắc thuật để báo thù cho gia đình, trở thành một bậc thầy giác ngộ thành tựu quả vị Phật ngay trong một đời, đã truyền cảm hứng cho các hành giả suốt gần một thiên niên kỷ.
+Milarepa (khoảng 1028/40–1111/23) là một hành giả du-già, nhà thơ Phật giáo Tây Tạng, và là một trong những nhân vật được yêu mến nhất của Phật giáo Tây Tạng. Cuộc đời ngài, từ một kẻ sát nhân dùng hắc thuật để báo thù cho gia đình, trở thành một bậc thầy giác ngộ thành tựu quả vị Phật ngay trong một đời, đã truyền cảm hứng cho các hành giả suốt gần một thiên niên kỷ.
 
 > Milarepa nổi tiếng với những bài ca (*doha*) và thi kệ, diễn đạt tinh túy của giáo pháp Phật đà bằng ngôn ngữ sống động, dễ hiểu. Tiểu sử của ngài cho thấy rằng bất kỳ ai cũng có thể giác ngộ, dù tội lỗi quá khứ ra sao, nhờ lòng sùng kính chân thật và sự kiên trì.
 
@@ -50,7 +50,7 @@ Các chủ đề trong những bài ca của ngài:
 
 ## Giáo lý và thực hành | Teachings and Practice
 
-> Phương pháp của Milarepa nhấn mạnh kinh nghiệm trực tiếp hơn là học vấn kinh viện. Ngài tu tập Sáu pháp du-già của Naropa và thiền Đại Thủ Ấn (Mahāmudrā) trong những điều kiện hết sức khắc nghiệt.
+> Phương pháp của Milarepa nhấn mạnh kinh nghiệm trực tiếp hơn là học vấn kinh viện. Ngài tu tập Sáu pháp Du-già của Naropa và thiền Đại Thủ Ấn (Mahāmudrā) trong những điều kiện hết sức khắc nghiệt.
 
 Những giáo lý chính:
 - **Tummo** (nội nhiệt): Phát sinh hơi ấm nhờ thiền định

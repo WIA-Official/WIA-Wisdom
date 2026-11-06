@@ -45,7 +45,7 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 
 ### Los primeros concilios:
 
-| Concilio | Año | Aporte |
+| Concilio | Año | Aportación |
 |---------|------|--------------|
 | **Nicea I** | 325 | Afirmó que el Hijo es «de la misma sustancia» que el Padre |
 | **Constantinopla I** | 381 | Afirmó la divinidad del Espíritu Santo |
@@ -55,8 +55,8 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 > «Creemos en un solo Dios, Padre todopoderoso... y en un solo Señor Jesucristo, Hijo unigénito de Dios... y en el Espíritu Santo, Señor y dador de vida...»
 
 ### Términos clave:
-- **Homoousios** (ὁμοούσιος): «De la misma sustancia»; el Padre y el Hijo comparten la misma esencia divina
-- **Hypostasis** (ὑπόστασις): Persona o subsistencia; la existencia distinta de cada persona
+- ***Homoousios*** (ὁμοούσιος): «De la misma sustancia»; el Padre y el Hijo comparten la misma esencia divina
+- **Hipóstasis** (ὑπόστασις): Persona o subsistencia; la existencia distinta de cada persona
 
 ---
 ## Explicaciones teológicas | Theological Explanations
@@ -73,13 +73,13 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 - ❌ **Subordinacionismo**: El Hijo o el Espíritu como inferiores al Padre
 
 ---
-## Perspectivas según las confesiones | Denominational Perspectives
+## Perspectivas confesionales | Denominational Perspectives
 
 | Tradición | Énfasis |
 |-----------|----------|
-| **Ortodoxa oriental** | El Espíritu procede solo del Padre (sin Filioque) |
-| **Católica romana** | El Espíritu procede del Padre y del Hijo (Filioque) |
-| **Protestante** | En general sigue la formulación occidental |
+| **Iglesia ortodoxa** | El Espíritu procede solo del Padre (sin Filioque) |
+| **Iglesia católica** | El Espíritu procede del Padre y del Hijo (Filioque) |
+| **Iglesias protestantes** | En general sigue la formulación occidental |
 
 ### La controversia del Filioque:
 La Iglesia occidental añadió «y del Hijo» (*filioque*) al credo, afirmando que el Espíritu procede del Padre y del Hijo. La Iglesia oriental rechazó esta adición, lo que contribuyó al Gran Cisma de 1054.
@@ -103,7 +103,7 @@ La Iglesia occidental añadió «y del Hijo» (*filioque*) al credo, afirmando q
 | Español | Griego/Latín | Significado |
 |---------|-------------|---------|
 | Trinidad | Trinitas | Tres en uno |
-| Persona | Hypostasis | Subsistencia distinta |
+| Persona | Hipóstasis | Subsistencia distinta |
 | Esencia | Ousia | Naturaleza divina |
 | Consustancial | Homoousios | Misma sustancia |
 | Procesión | Processio | Origen del Espíritu |

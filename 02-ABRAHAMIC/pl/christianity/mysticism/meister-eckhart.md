@@ -25,9 +25,9 @@ Bóg przekracza wszystkie pojęcia, obrazy i słowa. Aby naprawdę poznać Boga,
 
 ---
 
-## Boże narodzenie | The Divine Birth
+## Boskie narodzenie | The Divine Birth
 
-> „W przeciwieństwie do większości ówczesnych kaznodziejów, którzy koncentrowali się na grzechu i wiecznej karze, Eckhart opisał proces, który nazwał »bożym narodzeniem«, w którym prawdziwie wierzący mogą doświadczyć Boga bezpośrednio w sobie.”
+> „W przeciwieństwie do większości ówczesnych kaznodziejów, którzy koncentrowali się na grzechu i wiecznej karze, Eckhart opisał proces, który nazwał »boskim narodzeniem«, w którym prawdziwie wierzący mogą doświadczyć Boga bezpośrednio w sobie.”
 
 ### Dno duszy:
 > „Zamiast próbować poznawać Boga z zewnątrz, przez zmysły i intelekt, powinniśmy próbować poznawać Go od wewnątrz, z tej boskiej obecności, która już jest w każdym z nas. Eckhart nazywał tę obecność »boską iskrą«.”
@@ -39,7 +39,7 @@ Bóg przekracza wszystkie pojęcia, obrazy i słowa. Aby naprawdę poznać Boga,
 
 ## Wyzbycie się (Gelassenheit) | Detachment (Gelassenheit)
 
-> „Średniowieczny mistyk z Nadrenii, Mistrz Eckhart, kładł nacisk na oderwanie. Uważał je za cnotę większą nawet niż miłość. O ile miłość może aktywnie prowadzić szukającego ku Bogu, o tyle oderwanie sprawia, że to Bóg przychodzi do szukającego.”
+> „Średniowieczny mistyk z Nadrenii, Mistrz Eckhart, kładł nacisk na oderwanie. Uważał je za cnotę większą nawet niż miłość. O ile miłość może aktywnie prowadzić szukającego ku Bogu, o tyle oderwanie zmusza Boga, by przyszedł do szukającego.”
 
 ### Co to oznacza:
 - Porzucenie wszelkich przywiązań
@@ -78,7 +78,7 @@ W dnie duszy nie ma różnicy między Bogiem a duszą – jest tylko jedność.
 | Abgeschiedenheit | Odosobnienie od wszystkich rzeczy |
 | Gottesgeburt | Narodzenie Boga w duszy |
 | Seelengrund | Dno duszy |
-| Funklein | Boska iskra |
+| Fünklein | Boska iskra |
 
 ---
 
@@ -91,4 +91,4 @@ W dnie duszy nie ma różnicy między Bogiem a duszą – jest tylko jedność.
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 – Przynosić pożytek całej ludzkości*

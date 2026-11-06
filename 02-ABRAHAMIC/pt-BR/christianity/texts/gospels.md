@@ -101,7 +101,7 @@ A maioria dos estudiosos acredita que Marcos foi escrito primeiro e que Mateus e
   3. "Eu sou a porta" (10:9)
   4. "Eu sou o bom pastor" (10:11)
   5. "Eu sou a ressurreição e a vida" (11:25)
-  6. "Eu sou o caminho, a verdade e a vida" (14:6)
+  6. "Eu sou o caminho, e a verdade, e a vida" (14:6)
   7. "Eu sou a videira verdadeira" (15:1)
 - Sete "sinais" (milagres) que demonstram a glória de Jesus
 - Longo discurso de despedida (capítulos 13-17)
@@ -116,7 +116,7 @@ A maioria dos estudiosos acredita que Marcos foi escrito primeiro e que Mateus e
 | Abertura | Genealogia | Batismo | Dedicatória | Hino ao Logos |
 | Jesus como | Messias/Rei | Servo | Salvador | Verbo divino |
 | Público | Judeu | Romano | Gentio | Universal |
-| Exclusivo de | Sermão do Monte | Final abrupto | Filho Pródigo | Ditos "Eu Sou" |
+| Exclusivo | Sermão do Monte | Final abrupto | Filho Pródigo | Ditos "Eu Sou" |
 | Tom | Didático | Urgente | Compassivo | Místico |
 
 ---
@@ -143,9 +143,9 @@ A teoria dominante (Hipótese das Duas Fontes) propõe que:
 ### O Reino de Deus | Kingdom of God
 
 Central nos Evangelhos Sinóticos é a proclamação de Jesus sobre o Reino de Deus (ou "Reino dos Céus", em Mateus). Esse Reino é:
-- Já presente no ministério de Jesus ("O Reino de Deus está no meio de vós")
+- Já presente no ministério de Jesus ("O reino de Deus está entre vós")
 - Ainda por vir em plenitude
-- Alcançado pelo arrependimento e pela fé
+- Nele se entra pelo arrependimento e pela fé
 - Caracterizado por justiça, paz e alegria
 
 ---
@@ -179,7 +179,7 @@ Os Evangelhos Sinóticos contêm aproximadamente 40 parábolas: histórias curta
 
 ### Fontes Primárias | Primary Sources
 - O Novo Testamento
-- Evangelho de Mateus, Marcos, Lucas e João
+- Evangelhos de Mateus, Marcos, Lucas e João
 
 ### Fontes Acadêmicas | Academic Sources
 - [Gospel - Wikipedia](https://en.wikipedia.org/wiki/Gospel)

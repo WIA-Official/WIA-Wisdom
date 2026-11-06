@@ -19,7 +19,7 @@ Tawhidi ndiyo kifungu cha kwanza kabisa cha tamko la imani ya Waislamu. Kulingan
 ### Tamko Lenyewe | The Declaration:
 **Kiarabu:** لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ
 
-**Tafsiri:** "Hakuna mungu ila Allah, na Muhammad ni Mtume wake."
+**Tafsiri:** "Hakuna mungu apasaye kuabudiwa isipokuwa Allah, na Muhammad ni Mtume wake."
 
 > "Shahada ni kauli ya mdomo ya Tawhidi, inayothibitisha imani katika umoja wa Allah na utume wa Muhammad (rehema na amani ziwe juu yake)."
 
@@ -29,11 +29,11 @@ Tawhidi ndiyo kifungu cha kwanza kabisa cha tamko la imani ya Waislamu. Kulingan
 
 > "Wanazuoni wa Kiislamu wameainisha Tawhidi katika aina tatu zinazohusiana."
 
-### 1. Tawhidi ar-Rubūbiyyah (Uungu wa Uumbaji na Utawala) | Tawhid al-Rububiyyah (Lordship)
+### 1. Tawhidi ar-Rubūbiyyah (Uola na Ulezi) | Tawhid al-Rububiyyah (Lordship)
 > "Tawhidi ar-Rubūbiyyah inarejelea umoja wa Mwenyezi Mungu kuhusu utawala wake juu ya ulimwengu. Inasisitiza kwamba Allah ndiye Muumba, Mruzuku na Mdhibiti pekee wa kila kitu."
 
 ### 2. Tawhidi al-Uluhiyyah (Ibada) | Tawhid al-Uluhiyyah (Worship)
-> "Tawhidi al-Uluhiyyah inathibitisha umoja wa Allah katika ibada. Waislamu wanaamini kwamba vitendo vyote vya ibada, dua na unyenyekevu lazima vielekezwe kwa Allah peke yake, huku wakikataa aina yoyote ya kumshirikisha au kuwa na mshirika katika ibada."
+> "Tawhidi al-Uluhiyyah inathibitisha umoja wa Allah katika ibada. Waislamu wanaamini kwamba vitendo vyote vya ibada, dua na unyenyekevu lazima vielekezwe kwa Allah peke yake, huku wakikataa aina yoyote ya kumshirikisha Allah au kumfanyia mshirika katika ibada."
 
 ### 3. Tawhidi al-Asmā’ wa Sifāt (Majina na Sifa) | Tawhid al-Asma wa Sifat (Names and Attributes)
 > "Tawhidi al-Asmā’ wa Sifāt inarejelea upekee wa majina na sifa za Allah. Kipengele hiki kinakiri kwamba Allah ana sifa kamilifu zisizo na kifani."
@@ -52,21 +52,21 @@ Tawhidi ndiyo kifungu cha kwanza kabisa cha tamko la imani ya Waislamu. Kulingan
 | **Fiche (Shirk Khafi)** | Namna fiche za uaminifu uliogawanyika |
 
 ### Uzito Wake | The Gravity:
-Shirki ni dhambi ambayo Allah hatamsamehe mtu anayekufa bila kutubu kuiacha (Qur'ani 4:48).
+Shirki ni dhambi ambayo Allah hatamsamehe mtu anayekufa bila kuitubia (Qur'ani 4:48).
 
 ---
 
-## Mitazamo ya Kitaalamu | Scholarly Approaches
+## Mitazamo ya Wanazuoni | Scholarly Approaches
 
 > "Kuelewa maana ya 'tawhidi' ni mojawapo ya masuala yenye mjadala mkubwa zaidi miongoni mwa Waislamu. Wanazuoni wa Kiislamu wana mitazamo tofauti ya kuielewa, ikijumuisha mtazamo wa kimaandiko, mtazamo wa kiitikadi, mtazamo wa kifalsafa, na mtazamo wa Kisufi na Kiirfani."
 
 ### Madhehebu ya Kiitikadi | Theological Schools:
 | Madhehebu | Msisitizo |
 |-----------|-----------|
-| **Ash'ari** | Itikadi ya kimantiki yenye mipaka ya kimapokeo |
+| **Ash'ari** | Elimu ya akida inayotumia akili ndani ya mipaka ya mapokeo |
 | **Maturidi** | Akili na ufunuo kwa uwiano |
 | **Athari** | Mtazamo wa kimaandiko wa dhahiri |
-| **Sufi/Irfani** | Umoja wa kiuzoefu na Mwenyezi Mungu |
+| **Sufi/Irfani** | Kuungana kiroho na Mwenyezi Mungu kwa uzoefu |
 
 > "Katika historia yote ya Kiislamu, madhehebu mbalimbali ya kiitikadi yameibuka, kila moja likiwa na mtazamo wake wa kuelewa majina na sifa za Allah."
 
@@ -74,12 +74,12 @@ Shirki ni dhambi ambayo Allah hatamsamehe mtu anayekufa bila kutubu kuiacha (Qur
 
 ## Umuhimu katika Maisha ya Kila Siku | Significance in Daily Life
 
-> "Kulingana na elimu ya itikadi ya Kiislamu, Tawhidi ni kanuni ya msingi inayoamua jinsi unavyoelewa kila kitu kihalisi—ibada, maadili, sayansi, mahusiano, kusudi, na uhalisia wenyewe. Kila fundisho moja katika Uislamu linatokana na Tawhidi."
+> "Kulingana na elimu ya itikadi ya Kiislamu, Tawhidi ni kanuni ya msingi inayoamua jinsi unavyoelewa kila kitu kihalisi—ibada, maadili, sayansi, mahusiano, kusudi, na uhalisia wenyewe. Kila fundisho la Uislamu linatokana na Tawhidi."
 
 ### Matumizi | Applications:
 | Eneo | Maana Yake |
 |------|------------|
-| **Ibada** | Sala zote huelekezwa kwa Allah peke yake |
+| **Ibada** | Ibada na dua zote huelekezwa kwa Allah peke yake |
 | **Maadili** | Kutii amri za Allah |
 | **Sheria** | Sheria ya Kiislamu (Sharia) inaakisi mapenzi ya Mungu |
 | **Sayansi** | Ulimwengu unaakisi umoja wa Mungu |
@@ -108,4 +108,4 @@ Shirki ni dhambi ambayo Allah hatamsamehe mtu anayekufa bila kutubu kuiacha (Qur
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Kuwanufaisha wanadamu wote*

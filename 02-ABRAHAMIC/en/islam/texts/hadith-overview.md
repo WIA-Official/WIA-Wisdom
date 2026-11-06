@@ -129,8 +129,8 @@ Scholars developed rigorous methods to authenticate hadith:
 - Uprightness (adalah)
 - Precision (dabt)
 - Continuous chain (ittisal)
-- No hidden defects (salama min shudhdh)
-- No irregularity (salama min illa)
+- No irregularity (salama min shudhūdh)
+- No hidden defects (salama min ʿilla)
 
 ### 하디스 비평:
 | 방법 | 목적 |

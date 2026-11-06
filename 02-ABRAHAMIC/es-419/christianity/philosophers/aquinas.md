@@ -8,7 +8,7 @@
 
 Santo Tomás de Aquino (1225–1274) fue un fraile dominico italiano, filósofo, sacerdote católico y Doctor de la Iglesia. Fue un filósofo, teólogo y jurista de enorme influencia dentro de la tradición de la escolástica. Su obra monumental, la *Suma Teológica*, sigue siendo la síntesis más completa de la teología cristiana y la filosofía aristotélica.
 
-> Santo Tomás es conocido sobre todo por sus cinco argumentos sobre la existencia de Dios (las «Cinco Vías»), su doctrina de la ley natural y su síntesis de la fe y la razón. Mostró que la fe y la razón no se oponen, sino que son caminos complementarios hacia la verdad.
+> Santo Tomás es conocido sobre todo por sus cinco argumentos de la existencia de Dios (las «Cinco Vías»), su doctrina de la ley natural y su síntesis de la fe y la razón. Mostró que la fe y la razón no se oponen, sino que son caminos complementarios hacia la verdad.
 
 El papa Pío V lo declaró Doctor de la Iglesia en 1567, y se lo considera el mayor teólogo y filósofo de la Iglesia católica.
 
@@ -16,7 +16,7 @@ El papa Pío V lo declaró Doctor de la Iglesia en 1567, y se lo considera el ma
 
 ## Las Cinco Vías | The Five Ways
 
-> En la *Suma Teológica*, santo Tomás presenta cinco argumentos sobre la existencia de Dios, conocidos como las «Cinco Vías» (*Quinque Viae*).
+> En la *Suma Teológica*, santo Tomás presenta cinco argumentos de la existencia de Dios, conocidos como las «Cinco Vías» (*Quinque Viae*).
 
 | Vía | Argumento | Conclusión |
 |-----|-----------|------------|
@@ -48,7 +48,7 @@ Cuatro tipos de ley:
 
 ## La fe y la razón | Faith and Reason
 
-> Santo Tomás sostuvo que la fe y la razón no se oponen, sino que se complementan. Algunas verdades son accesibles solo a la razón (por ejemplo, la existencia de Dios), mientras que otras requieren la revelación (por ejemplo, la Trinidad).
+> Santo Tomás sostuvo que la fe y la razón no se oponen, sino que se complementan. Algunas verdades son accesibles a la razón por sí sola (por ejemplo, la existencia de Dios), mientras que otras requieren la revelación (por ejemplo, la Trinidad).
 
 > «La gracia no destruye la naturaleza, sino que la perfecciona.»
 
@@ -94,4 +94,4 @@ Estructura:
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Beneficiar a toda la humanidad**

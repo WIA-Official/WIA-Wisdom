@@ -32,12 +32,12 @@ Tujuan utama salat adalah sebagai sarana berkomunikasi dengan Allah. Penekanan l
 | Sikap | Bahasa Arab | Keterangan |
 |---------|---------|-------------|
 | **Berdiri** | Qiyam | Membaca Al-Qur'an |
-| **Rukuk** | Ruku | Membungkuk pada pinggang |
+| **Rukuk** | Ruku' | Membungkuk pada pinggang |
 | **Sujud** | Sujud | Dahi menyentuh tanah |
-| **Duduk** | Juloos | Di antara dua sujud |
+| **Duduk** | Julus | Di antara dua sujud |
 
 ### Bacaan Utama:
-> "Setelah berdiri, orang yang salat beralih ke rukuk dan membaca 'subhana rabbiyal azim' ('Mahasuci Tuhanku, Yang Mahaagung'). Setelah itu dilanjutkan dengan sujud sambil membaca 'subhana rabbiyal a'laa' ('Mahasuci Tuhanku, Yang Mahatinggi')."
+> "Setelah berdiri, orang yang salat beralih ke rukuk dan membaca *subhana rabbiyal 'azhim* ('Mahasuci Tuhanku Yang Mahaagung'). Setelah itu dilanjutkan dengan sujud sambil membaca *subhana rabbiyal a'la* ('Mahasuci Tuhanku Yang Mahatinggi')."
 
 ---
 ## Persiapan | Preparation
@@ -46,10 +46,10 @@ Tujuan utama salat adalah sebagai sarana berkomunikasi dengan Allah. Penekanan l
 > "Ajaran Islam mewajibkan umat Muslim melakukan pembasuhan ritual pada tangan, kaki, lengan, dan tungkai, yang disebut wudu, sebelum salat."
 
 ### Syarat-syarat:
-- Badan bersih (wudu)
-- Tempat bersih
-- Pakaian bersih
-- Pakaian yang sopan
+- Badan suci (berwudu)
+- Tempat suci
+- Pakaian suci
+- Pakaian yang menutup aurat
 - Menghadap kiblat (arah Makkah)
 
 ---
@@ -77,7 +77,7 @@ Tujuan utama salat adalah sebagai sarana berkomunikasi dengan Allah. Penekanan l
 ## Istilah Kunci | Key Terms
 | Bahasa Arab | Makna |
 |--------|---------|
-| Salat (صلاة) | Doa/ibadah salat |
+| Salat (صلاة) | Ibadah salat |
 | Rakaat (Rak'ah) | Satuan salat |
 | Wudu (وضوء) | Bersuci secara ritual |
 | Kiblat (Qibla) | Arah Makkah |

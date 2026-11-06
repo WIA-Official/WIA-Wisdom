@@ -20,9 +20,9 @@ Nguyên Hiểu cũng đáng chú ý bởi đường lối gần gũi với quả
 
 Sinh năm 617 vào thời Tam Quốc, Nguyên Hiểu xuất gia từ sớm và nhanh chóng nổi bật nhờ sự học vấn uyên bác. Ngài thông suốt Tam tạng kinh điển Phật giáo và hình thành những kiến giải về sau chín muồi thành hệ thống triết học độc đáo của mình.
 
-Truyền thuyết nổi tiếng về sự giác ngộ của ngài gắn với chuyến đi sang nhà Đường (Trung Hoa) cùng người bạn đồng tu là Nghĩa Tương (Uisang). Một đêm nọ, khát nước cùng cực, Nguyên Hiểu tìm được một chiếc bầu nước và uống một cách biết ơn. Khi thức dậy và phát hiện đó là một chiếc sọ người chứa đầy nước mưa và côn trùng, ngài chợt cảm thấy ghê tởm — rồi đạt đến sự giác ngộ sâu xa:
+Truyền thuyết nổi tiếng về sự giác ngộ của ngài gắn với chuyến đi sang nhà Đường (Trung Hoa) cùng người bạn đồng tu là Nghĩa Tương (Uisang). Một đêm nọ, khát nước cùng cực, Nguyên Hiểu tìm được một bầu nước và uống với lòng biết ơn. Khi thức dậy và phát hiện đó là một chiếc sọ người chứa đầy nước mưa và côn trùng, ngài chợt cảm thấy ghê tởm — rồi đạt đến sự giác ngộ sâu xa:
 
-> "Tâm sinh thì các pháp sinh; tâm diệt thì cái bầu sọ người cũng chẳng còn liên quan."
+> "Tâm sinh thì các pháp sinh; tâm diệt thì chiếc sọ người kia cũng chẳng còn gì đáng bận tâm."
 
 Nhận ra rằng mọi nhận thức đều do tâm tạo, Nguyên Hiểu bỏ chuyến đi Trung Hoa. Ngài không còn cần tìm cầu Chánh pháp ở nơi nào khác.
 
@@ -30,7 +30,7 @@ Nhận ra rằng mọi nhận thức đều do tâm tạo, Nguyên Hiểu bỏ c
 
 ### Phật giáo đại chúng | Popular Buddhism
 
-Khác với phần lớn các vị tăng thuộc giới thượng lưu, Nguyên Hiểu chọn đem Phật giáo đến với dân thường. Ngài phá giới, kết hôn với công chúa góa bụa Yoseok và có con là học giả Tiết Thông (Seol Chong). Thay vì xem đó là sự sa sút, có thể nhìn đó như sự thể hiện chính giáo lý của ngài — mọi hình tướng đều do tâm tạo; thánh và phàm không tách rời nhau.
+Khác với phần lớn các vị tăng thuộc giới thượng lưu, Nguyên Hiểu chọn đem Phật giáo đến với dân thường. Ngài phá giới, kết hôn với công chúa góa chồng Dao Thạch (Yoseok) và có con là học giả Tiết Thông (Seol Chong). Thay vì xem đó là sự sa đọa, có thể nhìn đó như sự thể hiện chính giáo lý của ngài — mọi hình tướng đều do tâm tạo; thánh và phàm không tách rời nhau.
 
 Ngài rong ruổi qua các làng mạc, vừa hát vừa múa, đưa giáo pháp Phật đến với những nông dân không biết đọc kinh:
 
@@ -60,7 +60,7 @@ Phương pháp của ngài được tóm lược trong *Thập môn hòa tránh 
 Nền tảng siêu hình của triết học Nguyên Hiểu là thuyết **Nhất tâm** (*ilsim*, 一心), rút từ *Đại thừa khởi tín luận* (*Dasheng Qixin Lun*). Nhất tâm:
 
 - Là nguồn gốc của cả giác ngộ lẫn mê lầm
-- Có hai phương diện: thanh tịnh (như lai tạng, tathāgatagarbha) và ô nhiễm (a-lại-da thức, ālaya-vijñāna)
+- Có hai phương diện: thanh tịnh (Như Lai tạng, tathāgatagarbha) và ô nhiễm (A-lại-da thức, ālaya-vijñāna)
 - Là nền tảng chung để dung hòa mọi giáo lý Phật giáo
 
 Với Nguyên Hiểu, mọi giáo pháp của Phật đều là phương tiện thiện xảo (*upāya*) phát sinh từ Nhất tâm để thích ứng với các căn cơ và hoàn cảnh khác nhau. Chúng là những con sóng trên cùng một đại dương.
@@ -69,7 +69,7 @@ Với Nguyên Hiểu, mọi giáo pháp của Phật đều là phương tiện 
 
 ### Thông Phật giáo (通佛教) - Phật giáo dung thông | T'ong Pulgyo (通佛教) - Interpenetrated Buddhism
 
-Nguyên Hiểu thường gọi đường lối của mình là **Thông Phật giáo** (T'ong Pulgyo, 通佛教, "Phật giáo dung thông"), dựa trên siêu hình học Hoa Nghiêm (華嚴) về sự tương nhập lẫn nhau. Các nguyên tắc chính:
+Nguyên Hiểu thường gọi đường lối của mình là **Thông Phật giáo** (T'ong Pulgyo, 通佛教, "Phật giáo dung thông"), dựa trên siêu hình học Hoa Nghiêm (華嚴) về sự tương tức tương nhập. Các nguyên tắc chính:
 
 - Mọi pháp đều là không, do đó không bị chướng ngại
 - Mọi giáo pháp của Phật đều bao hàm lẫn nhau
@@ -83,9 +83,9 @@ Tầm nhìn này báo trước những nỗ lực về sau của Phật giáo H�
 
 | Tác phẩm | Tên tiếng Hàn (phiên âm) | Nội dung |
 |------|--------|---------|
-| 十門和諍論 | Simmun Hwajaeng Non | Mười phương diện hòa giải |
+| 十門和諍論 | Simmun Hwajaeng Non | Mười môn hòa giải các tranh luận |
 | 大乘起信論疏 | Gisillon So | Chú giải Đại thừa khởi tín luận |
-| 金剛三昧經論 | Geumgang Sammaegyeong Non | Chú giải Kim cang tam muội kinh |
+| 金剛三昧經論 | Geumgang Sammaegyeong Non | Chú giải Kinh Kim Cang Tam-muội |
 | 華嚴經疏 | Hwaeomsgyeong So | Chú giải Kinh Hoa Nghiêm |
 | 法華宗要 | Beophwa Jongyo | Cương yếu Kinh Pháp Hoa |
 
@@ -132,7 +132,7 @@ Những lời dạy của Nguyên Hiểu cho việc thực hành ngày nay:
 
 ### Trong tư tưởng Hàn Quốc | Within Korean Thought
 
-- **[Tri Nột (Jinul)](jinul.md)**: Người kế thừa truyền thống hòa hội
+- **[Trí Nột (Jinul)](jinul.md)**: Người kế thừa truyền thống hòa hội
 - **[Hoằng ích nhân gian (Hongik Ingan)](../core-teachings/hongik-ingan.md)**: Chủ nghĩa phổ quát của Hàn Quốc
 
 ### Các trụ cột khác | Other Pillars
@@ -154,4 +154,4 @@ Những lời dạy của Nguyên Hiểu cho việc thực hành ngày nay:
 
 ---
 
-*Tài liệu này là một phần của [WIA-Wisdom](https://github.com/WIA-Official/WIA-Wisdom), dự án 9 Trụ cột Trí tuệ Nhân loại.*
+*Tài liệu này là một phần của [WIA-Wisdom](https://github.com/WIA-Official/WIA-Wisdom), dự án Chín Trụ cột Trí tuệ Nhân loại.*

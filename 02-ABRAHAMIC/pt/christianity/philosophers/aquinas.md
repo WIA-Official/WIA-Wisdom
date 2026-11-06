@@ -24,7 +24,7 @@ Foi declarado Doutor da Igreja pelo Papa Pio V em 1567 e é considerado o maior 
 | **Segunda Via** | Causalidade | Tem de existir uma Causa Primeira |
 | **Terceira Via** | Contingência | Tem de existir um Ser Necessário |
 | **Quarta Via** | Gradação | Tem de existir um Ser Máximo |
-| **Quinta Via** | Teleologia | Tem de existir um Desígnio Inteligente |
+| **Quinta Via** | Teleologia | Tem de existir um Ordenador Inteligente |
 
 > «A existência de Deus pode ser provada por cinco vias... A primeira e mais manifesta é a que se toma do movimento.»
 
@@ -48,7 +48,7 @@ Quatro tipos de lei:
 
 ## Fé e razão | Faith and Reason
 
-> Tomás de Aquino defendeu que a fé e a razão não se opõem, mas se completam. Algumas verdades são acessíveis só à razão (por exemplo, a existência de Deus), enquanto outras exigem a revelação (por exemplo, a Trindade).
+> Tomás de Aquino defendeu que a fé e a razão não se opõem, mas se completam. Algumas verdades são acessíveis à razão por si só (por exemplo, a existência de Deus), enquanto outras exigem a revelação (por exemplo, a Trindade).
 
 > «A graça não destrói a natureza, mas aperfeiçoa-a.»
 
@@ -68,8 +68,8 @@ A harmonia:
 
 Estrutura:
 - **Primeira Parte**: Deus, a criação, os anjos, o ser humano
-- **Primeira Parte da Segunda Parte**: a felicidade, os atos humanos, as virtudes, a lei
-- **Segunda Parte da Segunda Parte**: as virtudes e os vícios em particular
+- **Primeira Secção da Segunda Parte**: a felicidade, os atos humanos, as virtudes, a lei
+- **Segunda Secção da Segunda Parte**: as virtudes e os vícios em particular
 - **Terceira Parte**: Cristo, os sacramentos (incompleta)
 
 > Tomás de Aquino morreu antes de concluir a *Suma*. No fim da vida, teve uma experiência mística, depois da qual disse: «Tudo o que escrevi parece-me palha, comparado com o que me foi agora revelado.»
@@ -94,4 +94,4 @@ Estrutura:
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Beneficiar toda a humanidade**

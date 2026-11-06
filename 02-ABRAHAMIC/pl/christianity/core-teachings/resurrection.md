@@ -14,12 +14,12 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 
 ## Centralne znaczenie teologiczne | Theological Centrality
 
-> „Zmartwychwstanie Chrystusa jest centralnym wydarzeniem wiary chrześcijańskiej i w istocie całej historii świata. Jeśli Jezus nie powstał cieleśnie z martwych po trzech dniach, chrześcijaństwo jest fałszywe, a wszyscy ludzie pozostają martwi w swoich grzechach.”
+> „Zmartwychwstanie Chrystusa jest centralnym wydarzeniem wiary chrześcijańskiej i w istocie całej historii świata. Jeśli Jezus nie zmartwychwstał w ciele po trzech dniach, chrześcijaństwo jest fałszywe, a wszyscy ludzie pozostają martwi w swoich grzechach.”
 
 ### Dlaczego zmartwychwstanie ma znaczenie:
 | Znaczenie | Sens |
 |-----------|------|
-| **Usprawiedliwienie (wyrok na korzyść)** | Bóg ogłosił Jezusa sprawiedliwym |
+| **Rehabilitacja** | Bóg ogłosił Jezusa sprawiedliwym |
 | **Boskość** | Potwierdza, że Jezus jest Synem Bożym |
 | **Zwycięstwo** | Śmierć i grzech zostały pokonane |
 | **Nadzieja** | Obietnica zmartwychwstania wierzących |
@@ -33,8 +33,8 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 
 > „W tradycji chrześcijańskiej zmartwychwstanie cielesne było przywróceniem do życia przemienionego ciała, ożywianego przez Ducha, jak opisują to Paweł i autorzy Ewangelii, co doprowadziło do powstania chrześcijaństwa.”
 
-### Nie duch:
-> „Co istotne, Jezus nie powstał ponownie jako zwykły duch. Jego zmartwychwstanie nie było również jedynie wydarzeniem w umysłach apostołów, którzy mieli subiektywną świadomość jego duchowej obecności. Jezus powstał ponownie w ciele i duszy.”
+### Nie zjawa:
+> „Co istotne, Jezus nie zmartwychwstał jako zwykły duch. Jego zmartwychwstanie nie było również jedynie wydarzeniem w umysłach apostołów, którzy mieli subiektywną świadomość jego duchowej obecności. Jezus zmartwychwstał z ciałem i duszą.”
 
 ---
 
@@ -46,7 +46,7 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 
 ### Żydowska nadzieja zmartwychwstania:
 - Faryzeusze potwierdzali zmartwychwstanie
-- Księga Daniela 12,2 zapowiedziała je w proroctwie
+- Księga Daniela (Dn 12,2) zapowiadała je proroczo
 - Męczennicy machabejscy oczekiwali go
 - Jezus rozszerzył tę nadzieję
 
@@ -56,7 +56,7 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 
 > „Historycznie i teologicznie zmartwychwstanie oznacza obietnicę nowego życia. W kalendarzu liturgicznym Wielkanoc jest latarnią nadziei, przypominającą wiernym o niepojętej miłości i ofierze Jezusa Chrystusa.”
 
-> „Dla pierwszych chrześcijan Wielkanoc celebruje usprawiedliwienie Chrystusa, który został niesprawiedliwie stracony; potwierdza jego pełną boskość i pełne człowieczeństwo; upamiętnia początek nowego stworzenia; i przypomina chrześcijanom, że uczestniczą w tym dziele nowego stworzenia.”
+> „Dla pierwszych chrześcijan Wielkanoc celebruje rehabilitację Chrystusa, który został niesprawiedliwie stracony; potwierdza jego pełną boskość i pełne człowieczeństwo; upamiętnia początek nowego stworzenia; i przypomina chrześcijanom, że uczestniczą w tym dziele nowego stworzenia.”
 
 ---
 
@@ -67,7 +67,7 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 ### Poglądy:
 | Stanowisko | Opis |
 |------------|------|
-| **Tradycyjne ortodoksyjne** | Dosłowne, fizyczne, cielesne zmartwychwstanie |
+| **Tradycyjne, prawowierne** | Dosłowne, fizyczne, cielesne zmartwychwstanie |
 | **Liberalne/symboliczne** | Interpretacja duchowa/metaforyczna |
 | **Pogląd N.T. Wrighta** | Wydarzenie historyczne; przemienione ciało |
 
@@ -79,12 +79,12 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 ## Świadectwa biblijne | Biblical Accounts
 
 ### Relacje Ewangelii:
-- **Mateusz 28**: Anioł przy pustym grobie; Jezus się ukazuje
-- **Marek 16**: Kobiety przy grobie; lęk i zdumienie
-- **Łukasz 24**: Droga do Emaus; ukazania fizyczne
-- **Jan 20–21**: Wątpliwości Tomasza; śniadanie nad jeziorem
+- **Mt 28**: Anioł przy pustym grobie; Jezus się ukazuje
+- **Mk 16**: Kobiety przy grobie; lęk i zdumienie
+- **Łk 24**: Droga do Emaus; cielesne ukazania się
+- **J 20–21**: Wątpliwości Tomasza; śniadanie nad jeziorem
 
-### Świadectwo Pawła (1 List do Koryntian 15,3-8):
+### Świadectwo Pawła (1 Kor 15,3-8):
 - Chrystus umarł za grzechy
 - Został pochowany
 - Został wskrzeszony trzeciego dnia
@@ -112,4 +112,4 @@ Dla chrześcijan wydarzenie to ma nie tylko wymiar historyczny, lecz także sote
 
 ---
 
-*弘益人間 - Przynoś pożytek ludzkości*
+*弘益人間 – Przynosić pożytek całej ludzkości*

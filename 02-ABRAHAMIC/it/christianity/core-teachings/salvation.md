@@ -33,13 +33,13 @@ I cristiani credono che, poiché la natura umana è profondamente corrotta dal p
 
 ### Brani principali:
 
-> **Lettera agli Efesini 2,8-9**: «Per grazia infatti siete salvati mediante la fede; e ciò non viene da voi, ma è dono di Dio; né viene dalle opere, perché nessuno possa vantarsene.»
+> **Efesini 2,8-9**: «Per grazia infatti siete salvati mediante la fede; e ciò non viene da voi, ma è dono di Dio; né viene dalle opere, perché nessuno possa vantarsene.»
 
-> **Lettera ai Romani 10,9**: «Poiché se con la tua bocca proclamerai: "Gesù è il Signore!", e con il tuo cuore crederai che Dio lo ha risuscitato dai morti, sarai salvo.»
+> **Romani 10,9**: «Perché se con la tua bocca proclamerai: “Gesù è il Signore!”, e con il tuo cuore crederai che Dio lo ha risuscitato dai morti, sarai salvo.»
 
-> **Vangelo secondo Giovanni 3,16**: «Dio infatti ha tanto amato il mondo da dare il suo Figlio unigenito, perché chiunque crede in lui non muoia, ma abbia la vita eterna.»
+> **Giovanni 3,16**: «Dio infatti ha tanto amato il mondo da dare il Figlio unigenito, perché chiunque crede in lui non vada perduto, ma abbia la vita eterna.»
 
-> **Atti degli Apostoli 4,12**: «In nessun altro c'è salvezza; non vi è infatti altro nome dato agli uomini sotto il cielo, nel quale è stabilito che noi possiamo essere salvati.»
+> **Atti 4,12**: «In nessun altro c'è salvezza; non vi è infatti, sotto il cielo, altro nome dato agli uomini, nel quale è stabilito che noi siamo salvati.»
 
 ---
 
@@ -84,7 +84,7 @@ Pone l'accento sulla *theosis* (divinizzazione): la partecipazione alla natura d
 |--------|---------|
 | **Sostituzione penale** | Cristo ha portato su di sé la punizione del peccato |
 | **Christus Victor** | Cristo ha sconfitto il male e la morte |
-| **Influsso morale** | L'amore di Cristo ci trasforma |
+| **Influenza morale** | L'amore di Cristo ci trasforma |
 | **Riscatto** | Cristo ha pagato il prezzo della nostra libertà |
 | **Soddisfazione** | Cristo ha ristabilito l'onore di Dio |
 

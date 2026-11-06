@@ -82,7 +82,7 @@ Los rabinos del Talmud se clasifican en dos grupos:
 
 - Vivieron durante el período de la Guemará (h. 220-500 e. c.)
 - Sus opiniones aparecen en la Guemará
-- Se les considera de menor autoridad que a los tanaítas
+- Se les considera de menor autoridad que los tanaítas
 
 Las enseñanzas de los tanaítas tienen mayor peso porque vivieron más cerca de la revelación del Sinaí.
 
@@ -95,7 +95,7 @@ El Talmud abarca mucho más que la ley:
 | Contenido | Descripción |
 |---------|-------------|
 | **Halajá** | Discusiones y dictámenes legales |
-| **Hagadá** | Relatos, parábolas, teología |
+| **Agadá** | Relatos, parábolas, teología |
 | **Ética** | Orientación moral |
 | **Historia** | Relatos históricos |
 | **Ciencia** | Medicina, astronomía, etc. |
@@ -131,7 +131,7 @@ El estudio del Talmud sigue siendo central en la educación judía:
 
 - **Yeshivot** (academias): estudio tradicional e intensivo
 - **Daf Yomi** (la Página Diaria): programa mundial que completa el Talmud en 7,5 años
-- **Javruta** (compañerismo): estudio tradicional en parejas
+- **Javruta** (estudio en compañía): estudio tradicional en parejas
 - **Estudio académico moderno**: enfoques histórico-críticos
 
 La conclusión de un ciclo de Daf Yomi se celebra con grandes encuentros llamados Siyum HaShas.
@@ -146,7 +146,7 @@ La conclusión de un ciclo de Daf Yomi se celebra con grandes encuentros llamado
 | Mishná | Repetición, ley oral |
 | Guemará | Complemento, comentario |
 | Halajá | Ley judía |
-| Hagadá | Narración, tradición |
+| Agadá | Narración, tradición |
 | Tanaítas | Maestros de la Mishná |
 | Amoraítas | Intérpretes de la Guemará |
 

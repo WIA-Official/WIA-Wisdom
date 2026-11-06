@@ -8,9 +8,9 @@
 
 Śūnyatā (tiếng Phạn: शून्यता, "tánh Không", "sự trống không") là một trong những khái niệm thâm sâu nhất và cũng thường bị hiểu lầm nhất trong triết học Phật giáo. Là trung tâm của Phật giáo Đại thừa, khái niệm này chỉ sự vắng mặt của tự tánh (*svabhāva*) trong mọi hiện tượng. Tánh Không không có nghĩa là hư vô, mà là mọi sự vật đều trống không về bản chất độc lập, thường hằng và cố định.
 
-> "Sắc tức thị Không, Không tức thị Sắc" — câu nói nổi tiếng này trong *Bát-nhã Tâm kinh* nắm bắt giáo lý nghịch lý rằng thực tại quy ước và tánh Không tối hậu không phải là hai thứ riêng biệt.
+> "Sắc tức là Không, Không tức là Sắc" — câu nói nổi tiếng này trong *Bát-nhã Tâm kinh* nắm bắt giáo lý nghịch lý rằng thực tại quy ước và tánh Không tối hậu không phải là hai thứ riêng biệt.
 
-Học thuyết về tánh Không được Nāgārjuna (Long Thọ, khoảng 150–250 CE), vị sáng lập học phái Trung quán (Mādhyamaka), hệ thống hóa.
+Học thuyết về tánh Không được Nāgārjuna (Long Thọ, khoảng năm 150–250 sau Công nguyên), vị sáng lập học phái Trung quán (Mādhyamaka), hệ thống hóa.
 
 ---
 
@@ -23,7 +23,7 @@ Những hiểu lầm thường gặp:
 - **Không phải một bản chất**: Tánh Không không phải là một "thứ" đang tồn tại
 - **Không phải sự chán nản hay tuyệt vọng**: Chứng ngộ tánh Không là giải thoát
 
-> "Tánh Không bị nắm bắt sai lầm cũng như người bắt rắn nhầm đầu." — Nāgārjuna (Long Thọ)
+> "Nắm bắt tánh Không sai lầm cũng như bắt rắn sai đầu." — Nāgārjuna (Long Thọ)
 
 Tự thân tánh Không cũng là không — nó không phải là một thực thể tuyệt đối hay tối hậu, mà là cách các sự vật thật sự là.
 
@@ -33,7 +33,7 @@ Tự thân tánh Không cũng là không — nó không phải là một thực 
 
 > *Mūlamadhyamakakārikā* (Trung quán luận tụng, tức Những bài kệ căn bản về Trung đạo) của Nāgārjuna đã đặt nền tảng triết học cho việc thấu hiểu tánh Không.
 
-> "Pháp nào do duyên khởi, pháp ấy được giải thích là Không. Đó là giả danh, và đó cũng là Trung đạo."
+> "Các pháp do nhân duyên sinh, ta nói tức là Không, cũng gọi là giả danh, cũng là nghĩa Trung đạo."
 
 Những luận điểm chính:
 
@@ -61,11 +61,11 @@ Những luận điểm chính:
 
 > *Bát-nhã Tâm kinh* (*Prajñāpāramitā Hṛdaya*) cô đúc tinh túy của văn học Bát-nhã-ba-la-mật-đa:
 
-> "Sắc tức thị Không, Không tức thị Sắc. Không chẳng khác Sắc, Sắc chẳng khác Không."
+> "Sắc tức là Không, Không tức là Sắc. Không chẳng khác Sắc, Sắc chẳng khác Không."
 
 > "Không có mắt, tai, mũi, lưỡi, thân, ý... không có khổ, tập, diệt, đạo, không có trí cũng không có đắc."
 
-> Bồ-tát Avalokiteśvara (Quán Tự Tại), quán chiếu sâu xa, thấy năm uẩn đều là Không và vượt qua mọi khổ ách.
+> Bồ-tát Avalokiteśvara (Quán Tự Tại), khi thực hành sâu xa Bát-nhã-ba-la-mật-đa, soi thấy năm uẩn đều không và vượt qua mọi khổ ách.
 
 ---
 
@@ -95,8 +95,8 @@ Những luận điểm chính:
 
 - [Stanford Encyclopedia of Philosophy: Śūnyatā](https://plato.stanford.edu/entries/shunyata/)
 - [Wikipedia: Śūnyatā](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
-- Nāgārjuna. *Mūlamadhyamakakārikā* (trans. Jay Garfield)
-- Thich Nhat Hanh. *The Heart of Understanding*
+- Nāgārjuna. *Mūlamadhyamakakārikā* (bản dịch của Jay Garfield)
+- Thích Nhất Hạnh. *The Heart of Understanding*
 
 ---
 

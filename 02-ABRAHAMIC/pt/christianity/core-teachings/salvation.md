@@ -6,7 +6,7 @@
 
 ## Visão geral | Overview
 
-A salvação (em grego: σωτηρία, *soteria*), no Cristianismo, designa o resgate do ser humano do pecado e das suas consequências — a morte e a separação de Deus — por meio da morte e ressurreição de Cristo. Esta doutrina, chamada soteriologia (do grego *soter*, «salvador»), é central na fé cristã e foi entendida de diversas maneiras nas diferentes tradições.
+A salvação (em grego: σωτηρία, *soteria*), no cristianismo, designa o resgate do ser humano do pecado e das suas consequências — a morte e a separação de Deus — por meio da morte e ressurreição de Cristo. Esta doutrina, chamada soteriologia (do grego *soter*, «salvador»), é central na fé cristã e foi entendida de diversas maneiras nas diferentes tradições.
 
 Os cristãos creem que, porque a natureza humana está fundamentalmente corrompida pelo pecado, a graça de Deus é necessária para a salvação. Embora as várias confissões sublinhem aspetos diferentes — a fé, as obras, os sacramentos, a predestinação —, todas concordam que a salvação vem, em última instância, por Jesus Cristo.
 
@@ -58,7 +58,7 @@ Os cristãos creem que, porque a natureza humana está fundamentalmente corrompi
 ## Perspetivas das diferentes confissões | Denominational Perspectives
 
 ### Perspetiva católica:
-> «A perspetiva católica afirma que Jesus mereceu a graça da justificação, que não é apenas a remissão do pecado, mas a infusão das virtudes da fé, da esperança e da caridade. O cristão justificado encontra-se em estado de graça, que pode ser perdido pelo cometimento de pecado mortal.»
+> «A perspetiva católica afirma que Jesus mereceu a graça da justificação, que não é apenas a remissão do pecado, mas a infusão das virtudes da fé, da esperança e da caridade. O cristão justificado encontra-se em estado de graça, que pode ser perdido quando se comete um pecado mortal.»
 
 ### Perspetiva protestante (reformada):
 Sublinha a salvação somente pela graça (*sola gratia*), somente pela fé (*sola fide*):
@@ -114,4 +114,4 @@ Sublinha a *theosis* (divinização) — a participação na natureza divina por
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Beneficiar toda a humanidade*

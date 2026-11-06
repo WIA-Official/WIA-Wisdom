@@ -18,10 +18,10 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 ### Cực Lạc (Sukhāvatī – Cõi An Lạc):
 | Đặc điểm | Mô tả |
 |---------|-------------|
-| **Đấng kiến tạo** | Đức Phật A-di-đà, qua vô số kiếp tích lũy công đức |
+| **Người kiến lập** | Đức Phật A-di-đà, qua vô lượng kiếp tích lũy công đức |
 | **Vị trí** | Phương Tây, tính từ thế giới của chúng ta |
 | **Điều kiện** | Không có khổ đau, môi trường hoàn hảo cho việc tu tập |
-| **Cách đến được** | Nhờ đức tin và pháp tu niệm Phật (nembutsu) |
+| **Cách vãng sinh** | Nhờ đức tin và pháp tu niệm Phật (nembutsu) |
 
 ### Đặc tính:
 - Mặt đất bằng vàng và các loại châu báu quý giá
@@ -54,7 +54,7 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 | **Thân Loan (Shinran)** | 1173–1263 | Sáng lập Tịnh Độ Chân tông (Jōdo Shinshū) |
 | **Nguyên Tín (Genshin)** | 942–1017 | Soạn *Vãng sinh yếu tập* (*Ōjōyōshū*) về giáo lý Tịnh Độ |
 
-### Ba bộ kinh Tịnh Độ:
+### Tịnh Độ tam kinh:
 1. Kinh Vô Lượng Thọ (Larger Sukhāvatīvyūha Sūtra) (無量壽經)
 2. Kinh A-di-đà (Shorter Amitābha Sūtra) (阿彌陀經)
 3. Kinh Quán Vô Lượng Thọ (Amitāyurdhyāna Sūtra) (觀無量壽經)
@@ -71,7 +71,7 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 > "Pháp Nhiên (Hōnen) tin rằng phần lớn con người không đủ khả năng tự mình đạt được quả vị Phật, mà phải nương vào sự cứu giúp của Đức Phật A-di-đà (Amida)."
 
 ### Bản nguyện:
-Đại nguyện thứ mười tám của Đức Phật A-di-đà hứa rằng tất cả chúng sinh nào chân thành mong cầu vãng sinh về cõi Tịnh Độ của Ngài và xưng niệm danh hiệu Ngài thì sẽ được sinh về nơi ấy.
+Đại nguyện thứ mười tám của Đức Phật A-di-đà hứa rằng hết thảy chúng sinh nào chí thành mong cầu vãng sinh về cõi Tịnh Độ của Ngài và xưng niệm danh hiệu Ngài thì sẽ được sinh về nơi ấy.
 
 ---
 ## Các tông phái | Schools
@@ -81,7 +81,7 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 | **Tịnh Độ tông (Jōdo-shū)** | Nhật Bản | Pháp Nhiên (Hōnen) |
 | **Tịnh Độ Chân tông (Jōdo Shinshū)** | Nhật Bản | Thân Loan (Shinran) |
 | **Hoa Nghiêm Tịnh Độ** | Trung Quốc | Cách tiếp cận dung hợp |
-| **Tịnh Độ Hàn Quốc** | Hàn Quốc | Một phần của Phật giáo hợp nhất |
+| **Tịnh Độ Hàn Quốc** | Hàn Quốc | Một phần của nền Phật giáo dung thông |
 
 ---
 ## Thuật ngữ chủ chốt | Key Terms
@@ -89,9 +89,9 @@ Pháp tu cốt lõi là niệm danh hiệu Phật A-di-đà (tiếng Hán: nianf
 |------|--------|---------|
 | Nianfo/Nembutsu | 念佛 | Niệm Phật |
 | Amitābha | 阿彌陀佛 | Đức Phật Vô Lượng Quang |
-| Sukhāvatī | 極樂淨土 | Cõi An Lạc |
+| Sukhāvatī | 極樂淨土 | Cõi Cực Lạc |
 | Tariki | 他力 | Tha lực |
-| Ōjō | 往生 | Vãng sinh về cõi Tịnh Độ |
+| Ōjō | 往生 | Vãng sinh Tịnh Độ |
 ---
 ## Tài liệu tham khảo | References
 

@@ -6,7 +6,7 @@
 
 ## Vue d'ensemble | Overview
 
-La Trinité est la doctrine centrale du christianisme majoritaire. Elle affirme que Dieu existe en trois personnes distinctes — le Père, le Fils (Jésus-Christ) et le Saint-Esprit — qui ne font qu'un par l'essence, la nature et l'être. Cette doctrine distingue le christianisme des autres religions monothéistes et a été affirmée par les conciles œcuméniques depuis le IVe siècle.
+La Trinité est la doctrine centrale du christianisme historique. Elle affirme que Dieu existe en trois Personnes distinctes — le Père, le Fils (Jésus-Christ) et le Saint-Esprit — qui ne font qu'un par l'essence, la nature et l'être. Cette doctrine distingue le christianisme des autres religions monothéistes et a été affirmée par les conciles œcuméniques depuis le IVe siècle.
 
 Bien que le mot « Trinité » n'apparaisse pas dans la Bible, les chrétiens croient que ce concept est révélé dans toute l'Écriture. La doctrine a été formulée de façon officielle pour expliquer comment Dieu peut être un tout en étant Père, Fils et Esprit — chacun pleinement divin, sans que cela fasse trois dieux, mais un seul Dieu.
 
@@ -27,8 +27,8 @@ Bien que le mot « Trinité » n'apparaisse pas dans la Bible, les chrétiens cr
 1. **Un seul Dieu** : il n'y a qu'un seul Dieu (monothéisme)
 2. **Trois Personnes** : le Père, le Fils et l'Esprit sont des personnes distinctes
 3. **Pleine divinité** : chaque Personne est pleinement Dieu
-4. **Coégales** : les Personnes sont égales en gloire et en majesté
-5. **Coéternelles** : aucune n'est avant ou après les autres
+4. **Coégalité** : les Personnes sont égales en gloire et en majesté
+5. **Coéternité** : aucune n'est avant ou après les autres
 
 ---
 
@@ -58,8 +58,8 @@ Bien que le mot « Trinité » n'apparaisse pas dans la Bible, les chrétiens cr
 > « Nous croyons en un seul Dieu, le Père tout-puissant… et en un seul Seigneur, Jésus-Christ, le Fils unique de Dieu… et en l'Esprit Saint, qui est Seigneur et qui donne la vie… »
 
 ### Termes clés :
-- **Homoousios** (ὁμοούσιος) : « de même substance » — le Père et le Fils partagent la même essence divine
-- **Hypostasis** (ὑπόστασις) : personne ou subsistance — l'existence distincte de chaque Personne
+- ***Homoousios*** (ὁμοούσιος) : « de même substance » — le Père et le Fils partagent la même essence divine
+- **Hypostase** (*hypostasis*, ὑπόστασις) : personne ou subsistance — l'existence distincte de chaque Personne
 
 ---
 
@@ -71,7 +71,7 @@ Bien que le mot « Trinité » n'apparaisse pas dans la Bible, les chrétiens cr
 - Les Personnes se distinguent par leurs relations
 
 ### Ce que la Trinité n'est pas :
-- ❌ **Le modalisme** : Dieu passant d'un « mode » à un autre parmi trois
+- ❌ **Le modalisme** : Dieu qui se manifesterait successivement sous trois « modes »
 - ❌ **Le trithéisme** : trois dieux séparés
 - ❌ **L'arianisme** : le Fils comme être créé
 - ❌ **Le subordinatianisme** : le Fils ou l'Esprit inférieur au Père

@@ -8,18 +8,18 @@
 
 Tövhid (Tawhid) hərfi mənada "birləşdirmək" və ya "bir etmək" deməkdir və İslamda təkallahlılıq (monoteizm) prinsipinə işarə edir. O, dinin mərkəzi və ən vacib anlayışıdır; müsəlmanın bütün dini bağlılığı məhz buna əsaslanır. Tövhid Allahın bölünməz şəkildə bir (əhəd, *ahad*) və tək (vahid, *wahid*) olduğunu qəti şəkildə bildirir.
 
-Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. İslam teologiyasına görə, o, hər şeyi — ibadəti, əxlaqı, elmi, münasibətləri, həyatın məqsədini və reallığın özünü — necə dərk etdiyinizi müəyyən edən əsas prinsipdir.
+Tövhid kəlmeyi-şəhadətin ilk və ən başlıca rüknüdür. İslam ilahiyyatına görə, o, hər şeyi — ibadəti, əxlaqı, elmi, münasibətləri, həyatın məqsədini və reallığın özünü — necə dərk etdiyinizi müəyyən edən əsas prinsipdir.
 
 ---
 
 ## Şəhadət kəlməsi | The Shahada
 
-> "Tövhid müsəlmanın təslimiyyət şəhadətinin ən başlıca maddəsidir. İslam iman bəyanatının (şəhadət) birinci hissəsi Allahın birliyinə inamın bəyan edilməsidir."
+> "Tövhid müsəlmanın təslimiyyət şəhadətinin ən başlıca rüknüdür. İslam iman bəyanatının (şəhadət) birinci hissəsi Allahın birliyinə inamın bəyan edilməsidir."
 
-### Bəyanat:
+### Bəyanat: | The Declaration:
 **Ərəbcə:** لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ
 
-**Tərcümə:** "Allahdan başqa ilah yoxdur və Muhəmməd Onun elçisidir."
+**Tərcümə:** "Allahdan başqa ilah yoxdur və Muhəmməd Onun rəsuludur."
 
 > "Şəhadət Allahın birliyinə və Muhəmmədin (s.ə.s.) peyğəmbərliyinə inamı təsdiq edən tövhidin şifahi ifadəsidir."
 
@@ -29,13 +29,13 @@ Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. �
 
 > "İslam alimləri tövhidi bir-biri ilə bağlı üç növə ayırmışlar."
 
-### 1. Tövhid ər-Rübubiyyə (Rəbblik) | Tawhid al-Rububiyyah
+### 1. Tövhid ər-Rübubiyyə (Rəbblik) | Tawhid al-Rububiyyah (Lordship)
 > "Tövhid ər-Rübubiyyə Allahın kainat üzərindəki rəbblik hakimiyyəti baxımından birliyinə işarə edir. O, Allahın hər şeyin yeganə yaradanı, ruzi verəni və idarə edəni olduğunu vurğulayır."
 
-### 2. Tövhid əl-Uluhiyyə (İbadət) | Tawhid al-Uluhiyyah
-> "Tövhid əl-Uluhiyyə Allahın ibadətdə birliyini təsdiq edir. Müsəlmanlar inanırlar ki, bütün ibadət, dua və səmimi bağlılıq aktları yalnız Allaha yönəlməlidir; ibadətdə hər hansı şəriklik və ortaqlıq rədd edilir."
+### 2. Tövhid əl-Uluhiyyə (İbadət) | Tawhid al-Uluhiyyah (Worship)
+> "Tövhid əl-Uluhiyyə Allahın ibadətdə birliyini təsdiq edir. Müsəlmanlar inanırlar ki, bütün ibadət, dua və ixlaslı bağlılıq əməlləri yalnız Allaha yönəlməlidir; ibadətdə hər hansı şəriklik və ortaqlıq rədd edilir."
 
-### 3. Tövhid əl-Əsma və's-Sifat (Adlar və sifətlər) | Tawhid al-Asma wa Sifat
+### 3. Tövhid əl-Əsma və's-Sifat (Adlar və sifətlər) | Tawhid al-Asma wa Sifat (Names and Attributes)
 > "Tövhid əl-Əsma və's-Sifat Allahın ad və sifətlərinin bənzərsizliyinə işarə edir. Bu cəhət Allahın kamil və tayı-bərabəri olmayan keyfiyyətlərə malik olduğunu qəbul edir."
 
 ---
@@ -44,14 +44,14 @@ Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. �
 
 > "Qurana görə, ilahilik xüsusiyyətini başqa bir şeyə və ya kəsə aid etmək şirk sayılır; sonradan tövbə edilməzsə, bu bağışlanmaz günahdır."
 
-### Şirkin növləri:
+### Şirkin növləri: | Types of Shirk:
 | Növ | Təsvir |
 |------|-------------|
 | **Böyük (Şirk Əkbər)** | İbadətdə Allaha şərik qoşmaq |
-| **Kiçik (Şirk Əsğər)** | Gizli çoxallahlılıq (ibadətdə riyakarlıq) |
+| **Kiçik (Şirk Əsğər)** | Gizli şirk (ibadətdə riyakarlıq) |
 | **Gizli (Şirk Xəfi)** | Bölünmüş sədaqətin incə formaları |
 
-### Ağırlığı:
+### Ağırlığı: | The Gravity:
 Şirk, insan ondan tövbə etmədən ölərsə, Allahın bağışlamayacağı yeganə günahdır (Quran 4:48).
 
 ---
@@ -60,7 +60,7 @@ Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. �
 
 > "'Tövhid' anlayışının mənasını dərk etmək müsəlmanlar arasında ən çox mübahisə doğuran məsələlərdən biridir. İslam alimlərinin onu anlamağa müxtəlif yanaşmaları var: mətnçi yanaşma, kəlam (teoloji) yanaşma, fəlsəfi yanaşma, habelə sufi və irfani yanaşma."
 
-### Kəlam məktəbləri:
+### Kəlam məktəbləri: | Theological Schools:
 | Məktəb | Vurğu |
 |--------|----------|
 | **Əşəri** | Ənənəvi hədlər daxilində rasional kəlam |
@@ -74,9 +74,9 @@ Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. �
 
 ## Gündəlik həyatda əhəmiyyəti | Significance in Daily Life
 
-> "İslam teologiyasına görə, tövhid hər şeyi — ibadəti, əxlaqı, elmi, münasibətləri, həyatın məqsədini və reallığın özünü — necə dərk etdiyinizi müəyyən edən əsas prinsipdir. İslamdakı hər bir təlim tövhiddən qaynaqlanır."
+> "İslam ilahiyyatına görə, tövhid hər şeyi — ibadəti, əxlaqı, elmi, münasibətləri, həyatın məqsədini və reallığın özünü — necə dərk etdiyinizi müəyyən edən əsas prinsipdir. İslamdakı hər bir təlim tövhiddən qaynaqlanır."
 
-### Tətbiqlər:
+### Tətbiqlər: | Applications:
 | Sahə | Nəticə |
 |------|-------------|
 | **İbadət** | Bütün dua yalnız Allaha yönəlir |
@@ -108,4 +108,4 @@ Tövhid müsəlmanın iman gətirmə şəhadətinin ən başlıca maddəsidir. �
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - İnsanlığa fayda ver*

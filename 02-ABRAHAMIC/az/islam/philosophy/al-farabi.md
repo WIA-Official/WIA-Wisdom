@@ -1,4 +1,4 @@
-# Əl-Farabi (الفارابي) | Al-Farabi (الفارابي)
+# Fərabi (الفارابي) | Al-Farabi (الفارابي)
 
 > İkinci Müəllim: Fəzilətli şəhər, peyğəmbərlik və Platon ilə Aristotelin ahəngdarlığı
 
@@ -6,9 +6,9 @@
 
 ## Ümumi baxış | Overview
 
-Əbu Nəsr əl-Farabi (təxminən 872–950-ci illər), Aristotelden sonra "İkinci Müəllim" kimi tanınan, görkəmli erkən İslam filosofudur; siyasi fəlsəfə, metafizika, məntiq və musiqi fəlsəfəsi sahələrinə mühüm töhfələr vermişdir. O, xüsusilə Platon və Aristotel fəlsəfələrini uzlaşdırmaq cəhdi ilə tanınır.
+Əbu Nəsr Fərabi (təxminən 872–950-ci illər), Aristoteldən sonra "İkinci Müəllim" kimi tanınan, görkəmli erkən İslam filosofudur; siyasi fəlsəfə, metafizika, məntiq və musiqi fəlsəfəsi sahələrinə mühüm töhfələr vermişdir. O, xüsusilə Platon və Aristotel fəlsəfələrini uzlaşdırmaq cəhdi ilə tanınır.
 
-> Əl-Farabinin *Fəzilətli şəhər* (*əl-Mədinə əl-Fadilə*) əsəri Platonun *Dövlət* əsərini İslam kontekstinə uyğunlaşdıraraq fəlsəfi hikməti peyğəmbərlik vəhyi ilə birləşdirən filosof-peyğəmbərin idarə etdiyi ideal dövləti təsvir edir.
+> Fərabinin *Fəzilətli şəhər* (*əl-Mədinə əl-Fadilə*) əsəri Platonun *Dövlət* əsərini İslam kontekstinə uyğunlaşdıraraq fəlsəfi hikməti peyğəmbərlik vəhyi ilə birləşdirən filosof-peyğəmbərin idarə etdiyi ideal dövləti təsvir edir.
 
 Onun əsərləri sonrakı İslam filosoflarına, o cümlədən İbn Sinaya və İbn Rüşdə, eləcə də yəhudi və xristian sxolastlarına dərin təsir göstərmişdir.
 
@@ -16,7 +16,7 @@ Onun əsərləri sonrakı İslam filosoflarına, o cümlədən İbn Sinaya və �
 
 ## Fəzilətli şəhər | The Virtuous City
 
-> Əl-Farabinin baş əsəri fəlsəfi prinsiplərlə idarə olunan ideal şəhər-dövləti təsvir edir. Fəzilətli şəhər sağlam bədən kimi üzvi bir bütövdür və hər hissə öz layiqli funksiyasını yerinə yetirir.
+> Fərabinin baş əsəri fəlsəfi prinsiplərlə idarə olunan ideal şəhər-dövləti təsvir edir. Fəzilətli şəhər sağlam bədən kimi üzvi bir bütövdür və hər hissə öz layiqli funksiyasını yerinə yetirir.
 
 > "Fəzilətli şəhər kamil və sağlam bir bədənə bənzəyir; onun bütün üzvləri canlının həyatını kamil etmək üçün əməkdaşlıq edir."
 
@@ -30,7 +30,7 @@ Onun əsərləri sonrakı İslam filosoflarına, o cümlədən İbn Sinaya və �
 
 ## Fəlsəfə və peyğəmbərlik | Philosophy and Prophecy
 
-> Əl-Farabinin ən yenilikçi töhfəsi peyğəmbərliyin insan ruhunun təbii kamilliyi olduğu nəzəriyyəsi idi.
+> Fərabinin ən yenilikçi töhfəsi peyğəmbərliyin insan ruhunun təbii kamilliyi olduğu nəzəriyyəsi idi.
 
 > Peyğəmbər həqiqəti təxəyyül və vəhy vasitəsilə alır, filosof isə ona əqli sübut yolu ilə çatır. Hər ikisi eyni həqiqətə çatır, lakin müxtəlif yollarla.
 
@@ -46,21 +46,21 @@ Peyğəmbər-filosof:
 
 ## Platon və Aristotelin uzlaşdırılması | Harmonizing Plato and Aristotle
 
-> Əl-Farabi "Platon və Aristotelin ahəngdarlığı" haqqında risalə yazaraq onlar arasındakı zahiri ziddiyyətlərin səthi olduğunu iddia etmişdir.
+> Fərabi "Platon və Aristotelin ahəngdarlığı" haqqında risalə yazaraq onlar arasındakı zahiri ziddiyyətlərin səthi olduğunu iddia etmişdir.
 
 > "Hər ikisinin məqsədi eynidir və onlar arasında ixtilaf yoxdur."
 
 Onun sintezi:
 - Platon və Aristotel eyni həqiqəti axtarır
 - Fərqlər metoddadır, mahiyyətdə deyil
-- Hər ikisi əqli və fəzilətı vurğulayır
+- Hər ikisi əqlə və fəzilətə önəm verir
 - Yeni-platonçu feyz (emanasiya) onları birləşdirir
 
 ---
 
 ## Feyz və əqllər | Emanation and the Intellects
 
-> Əl-Farabi varlığın Birinci Səbəbdən əqllər iyerarxiyası vasitəsilə axdığı yeni-platonçu feyz (emanasiya) kosmologiyasını qəbul etmişdir.
+> Fərabi varlığın Birinci Səbəbdən əqllər iyerarxiyası vasitəsilə axdığı yeni-platonçu feyz (emanasiya) kosmologiyasını qəbul etmişdir.
 
 Feyz silsiləsi:
 1. **Vahid/Birinci Səbəb** →
@@ -75,7 +75,7 @@ Feyz silsiləsi:
 
 ## Musiqi və məntiq | Music and Logic
 
-> Əl-Farabi həm də musiqi ustası idi və təsirli *Böyük musiqi kitabı* (*Kitab əl-Musiqi əl-Kəbir*) əsərini yazmışdır.
+> Fərabi həm də musiqi ustası idi və təsirli *Böyük musiqi kitabı* (*Kitab əl-Musiqi əl-Kəbir*) əsərini yazmışdır.
 
 > O, musiqini həm riyazi, həm də psixoloji elm hesab edir, ahəngi kainatın və ruhun nizamı ilə əlaqələndirirdi.
 
@@ -97,8 +97,8 @@ O, həmçinin məntiq haqqında geniş yazmış, elmləri təsnif etmiş və mə
 - [Stanford Encyclopedia of Philosophy: Al-Farabi](https://plato.stanford.edu/entries/al-farabi/)
 - [Internet Encyclopedia of Philosophy: Al-Farabi](https://iep.utm.edu/alfarabi/)
 - [Wikipedia: Al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi)
-- Al-Farabi. *The Virtuous City* (trans. Richard Walzer)
+- Al-Farabi. *The Virtuous City* (tərc. Richard Walzer)
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Bütün bəşəriyyətə fayda ver**

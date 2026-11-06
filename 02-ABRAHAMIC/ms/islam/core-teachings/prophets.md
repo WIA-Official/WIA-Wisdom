@@ -6,7 +6,7 @@
 
 ## Gambaran Keseluruhan | Overview
 
-Dalam kepercayaan Islam, para nabi (bahasa Arab: أنبياء, anbiyā') ialah insan-insan terpilih yang diutus oleh Allah untuk membimbing umat manusia sepanjang sejarah. Al-Quran menyebut dua puluh lima orang nabi dengan nama, manakala tradisi Islam berpegang bahawa jumlah keseluruhan nabi adalah kira-kira 124,000 orang. Semua nabi menyampaikan mesej asas yang sama: keesaan Allah (tauhid), menyembah Allah semata-mata, menjauhi penyembahan berhala, dan beriman kepada Hari Kiamat.
+Dalam kepercayaan Islam, para nabi (bahasa Arab: أنبياء, anbiyā') ialah insan-insan terpilih yang diutus oleh Allah untuk membimbing umat manusia sepanjang sejarah. Al-Quran menyebut dua puluh lima orang nabi dengan nama, manakala tradisi Islam berpegang bahawa jumlah keseluruhan nabi adalah kira-kira 124,000 orang. Semua nabi menyampaikan risalah asas yang sama: keesaan Allah (tauhid), menyembah Allah semata-mata, menjauhi penyembahan berhala, dan beriman kepada Hari Kiamat.
 
 Umat Islam beriman bahawa terdapat rangkaian kenabian yang berterusan bermula daripada Adam, manusia pertama, hingga Muhammad, nabi terakhir dan "Penutup Para Nabi" (Khatam an-Nabiyyin). Rangkaian ini merangkumi tokoh-tokoh yang dihormati dalam agama Yahudi dan Kristian: Ibrahim, Musa, Daud dan Isa.
 
@@ -21,7 +21,7 @@ Islam membezakan dua jenis nabi:
 | **Nabi** | نبي | Memelihara dan mengajarkan wahyu yang sedia ada |
 | **Rasul** (Utusan) | رسول | Membawa kitab atau syariat yang baharu |
 
-> "Nabi ialah seorang nabi yang datang untuk memelihara mesej yang sedia ada, manakala Rasul ialah seorang utusan yang datang dengan wahyu daripada Allah untuk mengubah sesebuah masyarakat daripada kejahilan kepada iman yang murni."
+> "Nabi ialah seorang yang diutus untuk memelihara risalah yang sedia ada, manakala Rasul ialah seorang utusan yang datang dengan wahyu daripada Allah untuk mengubah sesebuah masyarakat daripada kejahilan kepada iman yang murni."
 
 Setiap rasul ialah nabi, tetapi tidak semua nabi ialah rasul. Sebagai contoh, Musa ialah seorang rasul yang menerima Taurat, manakala nabi-nabi selepas baginda dalam kalangan Bani Israel ialah nabi yang meneruskan ajaran baginda.
 
@@ -49,7 +49,7 @@ Lima orang nabi yang dikenali sebagai Ulul Azmi ("Mereka yang Memiliki Keazaman 
 - Digelar "Kalīm Allah" (yang berbicara secara langsung dengan Allah)
 
 ### 4. Isa (Nabi Isa) | Isa (Jesus)
-- Dilahirkan oleh Maryam, seorang perawan
+- Dilahirkan oleh Maryam, seorang dara
 - Melakukan mukjizat dengan izin Allah
 - Menerima Injil
 - Diangkat oleh Allah (tidak disalib menurut pandangan Islam)
@@ -70,7 +70,7 @@ Antara nabi utama dalam tradisi Islam ialah:
 | Nabi | Bahasa Arab | Kepentingan |
 |---------|--------|--------------|
 | Adam | آدم | Manusia dan nabi pertama |
-| Idris | إدريس | Nabi awal, dikenal pasti dengan Enoch |
+| Idris | إدريس | Nabi awal, dikenal pasti sebagai Henokh |
 | Ibrahim | إبراهيم | Bapa tauhid |
 | Ismail | إسماعيل | Moyang bangsa Arab |
 | Ishaq | إسحاق | Moyang Bani Israel |
@@ -97,7 +97,7 @@ Islam mengajarkan bahawa kitab-kitab terdahulu (Taurat, Zabur, Injil) mengandung
 > "Nabi terakhir dalam Islam ialah Muhammad bin ʿAbdullāh, yang diyakini oleh umat Islam sebagai 'Penutup Para Nabi' (Khatam an-Nabiyyin), yang kepadanya Al-Quran diwahyukan."
 
 ### Perkara Utama: | Key Points:
-- Dilahirkan di Mekah pada tahun 570 M
+- Dilahirkan di Makkah pada tahun 570 M
 - Menerima wahyu pertama pada usia 40 tahun
 - Berhijrah ke Madinah (Hijrah) pada tahun 622 M
 - Menubuhkan masyarakat Islam yang pertama (Ummah)
@@ -114,7 +114,7 @@ Selepas Muhammad, tiada lagi nabi—mesej Islam telah sempurna.
 |--------|--------|---------|
 | Nabi | Nabi | Pesuruh yang menerima wahyu |
 | Rasul | Rasul | Utusan |
-| Ulul Azmi | Ulul Azmi | Nabi yang berazam teguh |
+| Ulul Azmi | Ulul Azmi | Nabi yang memiliki keazaman teguh |
 | Khatam | Khatam | Penutup |
 | Wahi | Wahyu | Wahyu |
 | Ummah | Ummah | Masyarakat |

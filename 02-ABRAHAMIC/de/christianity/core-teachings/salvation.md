@@ -33,13 +33,13 @@ Christen glauben, dass die menschliche Natur grundlegend von der Sünde verderbt
 
 ### Wichtige Bibelstellen:
 
-> **Epheser 2,8-9**: „Denn aus Gnade seid ihr gerettet durch Glauben, und das nicht aus euch: Gottes Gabe ist es; nicht aus Werken, damit niemand sich rühme.“
+> **Epheser 2,8-9**: „Denn aus Gnade seid ihr durch den Glauben gerettet, nicht aus euch – Gott hat es geschenkt –, nicht aus Werken, damit keiner sich rühmen kann.“
 
-> **Römer 10,9**: „Denn wenn du mit deinem Mund bekennst: ‚Jesus ist der Herr‘, und in deinem Herzen glaubst: ‚Gott hat ihn von den Toten auferweckt‘, so wirst du gerettet werden.“
+> **Römer 10,9**: „Wenn du mit deinem Mund bekennst: ‚Jesus ist der Herr‘, und in deinem Herzen glaubst: ‚Gott hat ihn von den Toten auferweckt‘, so wirst du gerettet werden.“
 
 > **Johannes 3,16**: „Denn so sehr hat Gott die Welt geliebt, dass er seinen einzigen Sohn hingab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat.“
 
-> **Apostelgeschichte 4,12**: „Und in keinem anderen ist das Heil zu finden. Denn es ist uns Menschen kein anderer Name unter dem Himmel gegeben, durch den wir gerettet werden sollen.“
+> **Apostelgeschichte 4,12**: „Und in keinem anderen ist das Heil; denn es ist uns Menschen kein anderer Name unter dem Himmel gegeben, durch den wir gerettet werden sollen.“
 
 ---
 
@@ -66,7 +66,7 @@ Betont die Erlösung allein aus Gnade (sola gratia) allein durch den Glauben (so
 - Bedingungslose Erwählung durch Gott
 - Begrenzte Sühne (oder besondere Erlösung)
 - Unwiderstehliche Gnade
-- Beharren der Heiligen
+- Beharrlichkeit der Heiligen
 
 ### Arminianische/methodistische Sicht:
 > „Klassische Arminianer betonen, dass Gottes freie Gnade (zuvorkommende Gnade) den Menschen befähigt, auf die durch Christus angebotene Erlösung frei zu antworten oder sie abzulehnen.“

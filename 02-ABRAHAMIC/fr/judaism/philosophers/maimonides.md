@@ -10,13 +10,13 @@ Moïse ben Maïmon (1138–1204), communément appelé Maïmonide ou le Rambam, 
 
 > La grande réalisation de Maïmonide fut la synthèse de la philosophie aristotélicienne et de la théologie juive, montrant que la foi et la raison sont compatibles. Son *Guide des égarés* demeure l'œuvre la plus importante de la philosophie juive médiévale.
 
-Sa codification de la loi juive (*Michné Torah*) et ses Treize Principes de la foi continuent de façonner la pensée et la pratique juives.
+Sa codification de la loi juive (*Michné Torah*) et ses treize principes de la foi continuent de façonner la pensée et la pratique juives.
 
 ---
 
 ## Le Guide des égarés | Guide for the Perplexed
 
-> Le *Guide des égarés* (*Moreh Nevukhim*) fut écrit pour ceux qui étaient « perplexes » devant les conflits apparents entre la philosophie et l'Écriture.
+> Le *Guide des égarés* (*Moré Nevoukhim*) fut écrit pour ceux qui étaient « perplexes » devant les conflits apparents entre la philosophie et l'Écriture.
 
 > Maïmonide écrivit pour le Juif instruit que troublaient les contradictions apparentes entre la révélation et la raison, entre la foi et la philosophie.
 
@@ -69,7 +69,7 @@ Exemples :
 
 ## Michné Torah | Mishneh Torah
 
-> Le *Michné Torah* est la codification exhaustive de toute la loi juive par Maïmonide. Il demeure l'une des œuvres les plus influentes de la halakha.
+> Le *Michné Torah* est la codification exhaustive de toute la loi juive par Maïmonide. Il demeure l'un des ouvrages les plus influents de la halakha.
 
 > « Mon but était de composer un ouvrage grâce auquel on pourrait apprendre toute la Loi orale sans avoir à consulter aucun autre livre. »
 
@@ -83,7 +83,7 @@ Structure :
 
 ## Influence | Influence
 
-> « De Moïse à Moïse, il n'y eut personne comme Moïse. » Cette parole reflète le statut unique de Maïmonide dans l'histoire juive.
+> « De Moïse à Moïse, il ne s'est levé personne comme Moïse. » Cette parole reflète le statut unique de Maïmonide dans l'histoire juive.
 
 Influence sur :
 - La loi et la pratique juives
@@ -98,7 +98,7 @@ Influence sur :
 
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristote]] - Fondement philosophique
 - [[02-ABRAHAMIC/christianity/philosophers/aquinas|Thomas d'Aquin]] - Synthèse parallèle
-- [[02-ABRAHAMIC/islam/philosophy/averroes|Averroès]] - Contemporain islamique
+- [[02-ABRAHAMIC/islam/philosophy/averroes|Averroès]] - Contemporain musulman
 - [[06-MYSTICAL/kabbalah/concepts/tikkun-olam|Tikkoun olam]] - Pensée juive
 
 ---

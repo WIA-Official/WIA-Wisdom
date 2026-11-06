@@ -21,7 +21,7 @@ Nach dem Konsens der Forschung:
 | Markus | ca. 65–70 n. Chr. | Römische Christen |
 | Matthäus | ca. 80–90 n. Chr. | Judenchristen |
 | Lukas | ca. 80–90 n. Chr. | Heidenchristen |
-| Johannes | ca. 90–100 n. Chr. | Universell/theologisch |
+| Johannes | ca. 90–100 n. Chr. | Universal/theologisch |
 
 Die meisten Forscher gehen davon aus, dass Markus zuerst verfasst wurde und dass Matthäus und Lukas unabhängig voneinander das Markusevangelium als Quelle benutzten, daneben eine hypothetische Sammlung von Jesusworten, die „Q“ genannt wird (von deutsch Quelle). Dies ist als „Zwei-Quellen-Theorie“ bekannt.
 
@@ -37,13 +37,13 @@ Die meisten Forscher gehen davon aus, dass Markus zuerst verfasst wurde und dass
 
 **Wesentliche Merkmale:**
 - Beginnt mit einem Stammbaum, der Jesus auf Abraham und David zurückführt
-- Betont die Erfüllung der Weissagungen des Alten Testaments („Das geschah, damit erfüllt würde, was der Prophet gesagt hat …“)
+- Betont die Erfüllung der Weissagungen des Alten Testaments („Dies geschah, damit sich erfüllte, was durch den Propheten gesagt worden ist …“)
 - Enthält fünf große Lehrreden (in Anlehnung an die fünf Bücher Mose):
   1. Bergpredigt (Kapitel 5–7)
   2. Aussendungsrede (Kapitel 10)
   3. Gleichnisse vom Himmelreich (Kapitel 13)
   4. Gemeinderede (Kapitel 18)
-  5. Rede auf dem Ölberg (Kapitel 24–25)
+  5. Endzeitrede auf dem Ölberg (Kapitel 24–25)
 - Starke Betonung des Himmelreichs
 - Jesus als der neue Mose, der eine neue Tora gibt
 
@@ -59,7 +59,7 @@ Die meisten Forscher gehen davon aus, dass Markus zuerst verfasst wurde und dass
 - Kürzestes Evangelium, handlungsorientiert („sogleich“ kommt über 40-mal vor)
 - Keine Geburtsgeschichte; beginnt mit Johannes dem Täufer
 - Betont die Taten Jesu stärker als seine Lehren
-- „Messiasgeheimnis“ – Jesus gebietet den Menschen oft, seine Identität nicht zu offenbaren
+- „Messiasgeheimnis“ – Jesus verbietet den Menschen oft, seine Identität bekannt zu machen
 - Schwerpunkt auf Kreuz und Leiden
 - Der ursprüngliche Schluss (16,8) ist abrupt: Die Frauen fliehen voll Furcht vom leeren Grab
 - Stellt die Nachfolge als Weg mit Jesus bis zum Kreuz dar
@@ -75,7 +75,7 @@ Die meisten Forscher gehen davon aus, dass Markus zuerst verfasst wurde und dass
 **Wesentliche Merkmale:**
 - Das literarisch anspruchsvollste Griechisch unter den Evangelien
 - Ausführliche Geburtsgeschichte (Engel, Hirten, Simeon, Hanna)
-- Wird in der Apostelgeschichte fortgesetzt (Lukas und Apostelgeschichte als zweibändiges Werk)
+- Wird in der Apostelgeschichte fortgesetzt (Lukasevangelium und Apostelgeschichte als lukanisches Doppelwerk)
 - Betont:
   - Jesu Mitgefühl mit den Armen, den Frauen, den Sündern und den Ausgestoßenen
   - Die Rolle des Heiligen Geistes
@@ -99,13 +99,13 @@ Die meisten Forscher gehen davon aus, dass Markus zuerst verfasst wurde und dass
   1. „Ich bin das Brot des Lebens“ (6,35)
   2. „Ich bin das Licht der Welt“ (8,12)
   3. „Ich bin die Tür“ (10,9)
-  4. „Ich bin der gute Hirte“ (10,11)
+  4. „Ich bin der gute Hirt“ (10,11)
   5. „Ich bin die Auferstehung und das Leben“ (11,25)
   6. „Ich bin der Weg und die Wahrheit und das Leben“ (14,6)
   7. „Ich bin der wahre Weinstock“ (15,1)
 - Sieben „Zeichen“ (Wunder), die die Herrlichkeit Jesu erweisen
 - Ausführliche Abschiedsreden (Kapitel 13–17)
-- Betonung von Liebe, Glauben, ewigem Leben und gegenseitigem Bleiben
+- Betonung von Liebe, Glauben, ewigem Leben und dem Bleiben in Christus
 
 ---
 
@@ -179,7 +179,7 @@ Die synoptischen Evangelien enthalten etwa 40 Gleichnisse – kurze Erzählungen
 
 ### Primärquellen | Primary Sources
 - Das Neue Testament
-- Evangelium nach Matthäus, Markus, Lukas und Johannes
+- Die Evangelien nach Matthäus, Markus, Lukas und Johannes
 
 ### Wissenschaftliche Quellen | Academic Sources
 - [Gospel - Wikipedia](https://en.wikipedia.org/wiki/Gospel)

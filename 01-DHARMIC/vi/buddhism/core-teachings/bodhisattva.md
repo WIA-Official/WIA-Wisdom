@@ -17,7 +17,7 @@ Lý tưởng Bồ Tát là cốt lõi của Phật giáo Đại thừa, biểu t
 > "Bồ-đề tâm (nghĩa đen là 'tâm giác ngộ') chỉ chí nguyện sâu xa đạt quả vị Phật để giải thoát tất cả chúng sinh. Trong Phật giáo Đại thừa, đó vừa là cốt lõi động lực của con đường Bồ Tát, vừa là trạng thái tâm làm nền tảng cho đạo đức hành xử, thiền định và nghi lễ."
 
 ### Sự khởi sinh của Bồ-đề tâm:
-> "Theo truyền thống, con đường tu tập tâm linh của Bồ Tát được cho là bắt đầu bằng biến cố mang tính cách mạng gọi là 'phát khởi Tâm giác ngộ' (bodhicittotpāda), tức là ước nguyện thành Phật để giúp đỡ tất cả chúng sinh."
+> "Theo truyền thống, con đường tu tập tâm linh của Bồ Tát được cho là bắt đầu bằng một biến cố mang tính bước ngoặt căn bản gọi là 'phát khởi Tâm giác ngộ' (bodhicittotpāda), tức là ước nguyện thành Phật để giúp đỡ tất cả chúng sinh."
 
 ### Hai phương diện:
 | Loại | Mô tả |
@@ -74,7 +74,7 @@ Lý tưởng Bồ Tát là cốt lõi của Phật giáo Đại thừa, biểu t
 
 ## Các vị Bồ Tát nổi tiếng | Famous Bodhisattvas
 
-> "Các vị Bồ Tát được toàn thể Phật giáo tôn kính gồm có Di Lặc, vị sẽ kế tục đức Thích Ca Mâu Ni làm vị Phật kế tiếp ở thế giới này, và Quán Thế Âm (Avalokiteshvara), được gọi là Chenrezi ở Tây Tạng, Quan Âm ở Trung Hoa và Kannon ở Nhật Bản."
+> "Các vị Bồ Tát được toàn thể Phật giáo tôn kính gồm có Di Lặc, vị sẽ kế tục đức Thích Ca Mâu Ni làm vị Phật kế tiếp ở thế giới này, và Quán Thế Âm (Avalokiteshvara), được gọi là Chenrezi ở Tây Tạng, Quan Âm (Guanyin) ở Trung Hoa và Kannon ở Nhật Bản."
 
 | Bồ Tát | Đặc tính | Tên gọi ở Đông Á |
 |-------------|-----------|-------------------|
@@ -92,9 +92,9 @@ Lý tưởng Bồ Tát là cốt lõi của Phật giáo Đại thừa, biểu t
 
 | Tiếng Phạn | Hán Việt | Ý nghĩa |
 |----------|--------|---------|
-| Bodhisattva | Bồ Tát (菩薩) | Bậc hữu tình giác ngộ |
+| Bodhisattva | Bồ Tát (菩薩) | Giác hữu tình (chúng sinh giác ngộ) |
 | Bodhicitta | Bồ-đề tâm (菩提心) | Tâm giác ngộ |
-| Pāramitā | Ba-la-mật (波羅蜜) | Sự viên mãn |
+| Pāramitā | Ba-la-mật (波羅蜜) | Đáo bỉ ngạn (sự hoàn hảo) |
 | Karuṇā | Bi (悲) | Lòng bi mẫn |
 | Prajñā | Bát-nhã (般若) | Trí tuệ |
 | Śūnyatā | Không (空) | Tánh Không |

@@ -1,4 +1,4 @@
-# Ibn Rushd (ابن رشد Ibn Rushd) | Averroes
+# Ibnu Rusyd (ابن رشد Ibn Rushd) | Averroes
 
 > Sang Pengulas: Aristotle, Akal, dan Keharmonian antara Falsafah dan Agama
 
@@ -6,7 +6,7 @@
 
 ## Gambaran Keseluruhan | Overview
 
-Ibn Rushd (1126–1198), yang dikenali di Barat sebagai Averroes, ialah seorang polimatik dan ahli perundangan Islam dari Andalusia yang menulis tentang falsafah, teologi, perubatan, astronomi, fizik, dan undang-undang. Beliau paling terkenal melalui ulasan-ulasannya yang luas terhadap karya Aristotle, yang menyebabkan beliau digelar "Sang Pengulas" di Eropah zaman pertengahan.
+Ibnu Rusyd (1126–1198), yang dikenali di Barat sebagai Averroes, ialah seorang polimat dan ahli perundangan Islam dari Andalusia yang menulis tentang falsafah, teologi, perubatan, astronomi, fizik, dan undang-undang. Beliau paling terkenal melalui ulasan-ulasannya yang luas terhadap karya Aristotle, yang menyebabkan beliau digelar "Sang Pengulas" di Eropah zaman pertengahan.
 
 > Averroes berhujah bahawa falsafah dan agama tidak bertentangan tetapi saling melengkapi—kedua-duanya membawa kepada kebenaran, walaupun melalui kaedah yang berbeza. Pembelaannya terhadap penyelidikan rasional dalam Islam dan ulasan-ulasannya terhadap Aristotle sangat mempengaruhi falsafah Islam dan skolastisisme Kristian zaman pertengahan.
 
@@ -30,7 +30,7 @@ Matlamat beliau ialah memulihkan Aristotle yang sebenar daripada penyelewengan N
 
 ## Keharmonian Falsafah dan Agama | Harmony of Philosophy and Religion
 
-> Dalam *Risalah Penentu* (*Fasl al-Maqal*), Averroes berhujah bahawa falsafah bukan sahaja dibenarkan, malah dituntut oleh syariat Islam bagi mereka yang mampu melakukannya.
+> Dalam *Risalah Penentu* (*Fasl al-Maqal*), Averroes berhujah bahawa falsafah bukan sahaja dibenarkan, malah dituntut oleh syariat Islam ke atas mereka yang mampu melakukannya.
 
 > "Kebenaran tidak bertentangan dengan kebenaran. Falsafah dan wahyu kedua-duanya benar, dan jika kelihatan berlaku pertentangan, tafsiran alegori terhadap kitab suci diperlukan."
 
@@ -53,17 +53,17 @@ Hujah beliau:
 
 ---
 
-## Kerancuan Kerancuan | Incoherence of the Incoherence
+## Kecelaruan dalam Kecelaruan | Incoherence of the Incoherence
 
-> *Kerancuan Kerancuan* (*Tahafut al-Tahafut*) ialah jawapan Averroes kepada karya Al-Ghazali, *Kerancuan Para Failasuf* (*Tahafut al-Falasifah*), yang telah menyerang falsafah sebagai berbahaya kepada iman.
+> *Kecelaruan dalam Kecelaruan* (*Tahafut al-Tahafut*) ialah jawapan Averroes kepada karya al-Ghazali, *Kecelaruan Para Failasuf* (*Tahafut al-Falasifah*), yang telah menyerang falsafah sebagai berbahaya kepada iman.
 
 Averroes mempertahankan:
 - Keabadian alam
-- Kausaliti dan hukum alam
+- Sebab-akibat (kausaliti) dan hukum alam
 - Kaedah falsafah
 - Rasionaliti iman
 
-> Jika Al-Ghazali melihat falsafah sebagai melemahkan agama, Averroes melihatnya sebagai ungkapan tertinggi agama.
+> Jika al-Ghazali melihat falsafah sebagai melemahkan agama, Averroes melihatnya sebagai ungkapan tertinggi agama.
 
 ---
 

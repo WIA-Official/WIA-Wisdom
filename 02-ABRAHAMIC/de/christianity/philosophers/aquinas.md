@@ -1,6 +1,6 @@
 # Thomas von Aquin (Sanctus Thomas Aquinas) | Thomas Aquinas (Sanctus Thomas Aquinas)
 
-> Der Engelgleiche Lehrer (Doctor Angelicus): Glaube und Vernunft, das Naturrecht und die fünf Wege
+> Der engelgleiche Lehrer (Doctor Angelicus): Glaube und Vernunft, das Naturrecht und die fünf Wege
 
 ---
 
@@ -68,7 +68,7 @@ Die Harmonie:
 
 Aufbau:
 - **Teil I**: Gott, Schöpfung, Engel, Menschen
-- **Teil II-I**: Glückseligkeit, menschliche Handlungen, Tugenden, Gesetz
+- **Teil I-II**: Glückseligkeit, menschliche Handlungen, Tugenden, Gesetz
 - **Teil II-II**: Einzelne Tugenden und Laster
 - **Teil III**: Christus, Sakramente (unvollendet)
 

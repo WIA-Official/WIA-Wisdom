@@ -25,14 +25,14 @@ Amalan-amalan ini menyatukan kepercayaan dengan perbuatan, sekali gus menunjukka
 
 > **أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱللَّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللَّٰهِ**
 
-"Aku bersaksi bahawa tiada tuhan selain Allah, dan aku bersaksi bahawa Muhammad ialah Rasulullah."
+"Aku bersaksi bahawa tiada Tuhan melainkan Allah, dan aku bersaksi bahawa Muhammad itu pesuruh Allah."
 
 ---
 
 Syahadah ialah pengakuan utama dalam iman Islam. Ia terdiri daripada dua kesaksian:
 
-1. **Tauhid** — "Tiada tuhan selain Allah" menegaskan keesaan Allah yang mutlak
-2. **Risalah** — "Muhammad ialah Rasulullah" menegaskan kenabian Muhammad
+1. **Tauhid** — "Tiada Tuhan melainkan Allah" menegaskan keesaan Allah yang mutlak
+2. **Risalah** — "Muhammad itu pesuruh Allah" menegaskan kenabian Muhammad
 
 Seseorang menjadi Muslim dengan melafazkan Syahadah dalam bahasa Arab secara ikhlas, dengan kefahaman dan keyakinan. Pengakuan ini juga dilafazkan semasa azan (seruan solat), semasa solat itu sendiri, dan pada saat-saat penting dalam kehidupan.
 
@@ -49,7 +49,7 @@ Solat ialah sembahyang berstruktur yang dilaksanakan lima kali sehari pada waktu
 | Solat | Bahasa Arab | Waktu | Waktu (huraian) |
 |--------|--------|------|------|
 | **Subuh** (Fajr) | فَجْر | Fajar (sebelum matahari terbit) | Fajar (sebelum matahari terbit) |
-| **Zuhur** (Dhuhr) | ظُهْر | Tengah hari (selepas matahari melepasi tengah langit) | Tengah hari (selepas matahari melepasi tengah langit) |
+| **Zohor** (Dhuhr) | ظُهْر | Tengah hari (selepas matahari melepasi tengah langit) | Tengah hari (selepas matahari melepasi tengah langit) |
 | **Asar** (Asr) | عَصْر | Petang | Petang |
 | **Maghrib** | مَغْرِب | Senja (sejurus selepas matahari terbenam) | Senja (sejurus selepas matahari terbenam) |
 | **Isyak** (Isha) | عِشَاء | Malam (selepas syafak hilang) | Malam (selepas syafak hilang) |
@@ -61,7 +61,7 @@ Solat ialah sembahyang berstruktur yang dilaksanakan lima kali sehari pada waktu
 3. **Qiyam** — Berdiri dan membaca Surah al-Fatihah serta ayat-ayat lain
 4. **Rukuk** (*ruku'*) — Membungkuk dengan tangan di atas lutut
 5. **Sujud** — Sujud dengan dahi menyentuh tanah
-6. **Tasyahhud** — Duduk dan membaca syahadah
+6. **Tasyahud** — Duduk dan membaca syahadah
 7. **Taslim** — Menutup solat dengan "As-salamu alaykum" (Salam sejahtera ke atas kamu)
 
 ---
@@ -81,8 +81,8 @@ Zakat ialah pemberian wajib sebahagian daripada harta kepada mereka yang memerlu
   2. Miskin (*al-masakin*)
   3. Amil (pengutip zakat)
   4. Muallaf (mereka yang dilunakkan hatinya)
-  5. Hamba yang hendak memerdekakan diri (membebaskan hamba)
-  6. Orang yang berhutang (gharimin)
+  5. Riqab (memerdekakan hamba)
+  6. Gharimin (orang yang berhutang)
   7. Fi sabilillah (pada jalan Allah)
   8. Ibnu sabil (musafir yang memerlukan)
 
@@ -100,13 +100,13 @@ Puasa (*sawm*) ialah ibadah wajib berpuasa pada bulan Ramadan, bulan kesembilan 
 
 - **Takwa**: Puasa memupuk kesedaran terhadap Allah dan disiplin diri
 - **Kesyukuran**: Kekurangan sementara memperbaharui penghargaan terhadap nikmat Allah
-- **Empati**: Merasai lapar menumbuhkan kesepaduan dengan golongan miskin
+- **Empati**: Merasai lapar menumbuhkan rasa senasib dengan golongan miskin
 - **Al-Quran**: Ramadan ialah bulan al-Quran mula diturunkan
 
-**Keringanan**: Orang tua, orang sakit, wanita mengandung, wanita menyusukan anak, wanita haid dan musafir boleh diberi keringanan, dengan peruntukan untuk mengganti hari-hari yang ditinggalkan atau membayar ganti rugi (fidyah).
+**Keringanan**: Orang tua, orang sakit, wanita mengandung, wanita menyusukan anak, wanita haid dan musafir boleh diberi keringanan, dengan peruntukan untuk mengganti hari-hari yang ditinggalkan atau membayar fidyah (tebusan).
 
 **Malam Istimewa:**
-- **Laylat al-Qadr** (Malam Lailatul Qadar): Malam al-Quran diturunkan, lebih baik daripada seribu bulan (Surah 97)
+- **Lailatul Qadar** (Malam al-Qadar): Malam al-Quran diturunkan, lebih baik daripada seribu bulan (Surah 97)
 
 ---
 
@@ -120,7 +120,7 @@ Haji ialah ibadah tahunan ke Makkah yang wajib ditunaikan sekurang-kurangnya sek
 
 1. **Ihram**: Memasuki keadaan suci menurut syarak; memakai pakaian putih yang ringkas yang menghapuskan perbezaan kelas, kebangsaan dan budaya
 
-2. **Tawaf**: Mengelilingi Kaabah tujuh kali dengan arah berlawanan jam
+2. **Tawaf**: Mengelilingi Kaabah tujuh kali mengikut arah lawan jam
 
 3. **Sa'i**: Berjalan tujuh kali antara bukit Safa dan Marwah, memperingati pencarian air oleh Hajar
 
@@ -153,7 +153,7 @@ Haji ialah lambang perpaduan umat Islam yang amat kuat. Berjuta-juta jemaah dari
 | Ihram | إِحْرَام | Keadaan suci menurut syarak | Keadaan suci menurut syarak |
 | Kaabah | كَعْبَة | Binaan suci berbentuk kubus di Makkah | Binaan suci berbentuk kubus di Makkah |
 | Tawaf | طَوَاف | Mengelilingi | Mengelilingi |
-| Umrah | عُمْرَة | Ibadah haji kecil | Ibadah haji kecil |
+| Umrah | عُمْرَة | Haji kecil | Haji kecil |
 
 ---
 
@@ -189,7 +189,7 @@ Bersama-sama, rukun-rukun ini menjangkau semua dimensi kewujudan manusia: keperc
 ## Sumber Utama | Primary Sources
 
 ### Hadis tentang Lima Rukun Islam | Hadith on the Five Pillars
-> "Islam dibina atas lima [perkara]: bersaksi bahawa tiada tuhan selain Allah dan bahawa Muhammad ialah Rasulullah, mendirikan solat, menunaikan zakat, mengerjakan haji ke Baitullah, dan berpuasa pada bulan Ramadan." (Sahih al-Bukhari, Sahih Muslim)
+> "Islam itu dibina atas lima [perkara]: penyaksian bahawa tiada Tuhan melainkan Allah dan bahawa Muhammad itu pesuruh Allah, mendirikan solat, mengeluarkan zakat, mengerjakan haji ke Baitullah dan berpuasa pada bulan Ramadan." (Sahih al-Bukhari, Sahih Muslim)
 
 ### Rujukan Al-Quran | Quranic References
 - **Syahadah**: Surah 3:18, 47:19
@@ -231,4 +231,4 @@ Lima Rukun Islam menawarkan hikmah praktikal untuk kehidupan seharian:
 
 ---
 ---
-**弘益人間 · Manfaat bagi Seluruh Manusia**
+**弘益人間 · Memberi Manfaat kepada Seluruh Umat Manusia**

@@ -6,7 +6,7 @@
 
 ## Gabatarwa | Overview
 
-Ibn Rushd (1126–1198), wanda ake kira Averroes a Yammacin duniya, ɗan Andalus ne Musulmi, masanin ilimi da yawa kuma alƙali (masanin shari'a), wanda ya rubuta kan falsafa, ilimin tauhidi, likitanci, ilimin taurari, ilimin kimiyyar halitta, da shari'a. Ya shahara musamman saboda tafsirinsa masu yawa kan Aristotle, wanda ya sa aka ba shi laƙabin "Mai Sharhi" a Turai ta zamanin tsakiya.
+Ibn Rushd (1126–1198), wanda ake kira Averroes a Yammacin duniya, ɗan Andalus ne Musulmi, masanin ilimi da yawa kuma alƙali (masanin shari'a), wanda ya rubuta kan falsafa, ilimin tauhidi, likitanci, ilimin taurari, ilimin kimiyyar halitta, da shari'a. Ya shahara musamman saboda sharhohinsa masu yawa kan Aristotle, wanda ya sa aka ba shi laƙabin "Mai Sharhi" a Turai ta zamanin tsakiya.
 
 > Averroes ya yi hujja cewa falsafa da addini ba abokan gaba ba ne, sai dai suna cika juna—dukansu suna kai ga gaskiya, ko da yake ta hanyoyi daban-daban. Kare bincike na hankali a cikin Musulunci da sharhinsa kan Aristotle sun yi tasiri sosai a kan falsafar Musulunci da kuma ilimin makarantar Kiristoci (scholasticism) na zamanin tsakiya.
 
@@ -18,11 +18,11 @@ Thomas Aquinas ya ambaci Averroes fiye da kowane mai sharhi, kuma tasirinsa ya k
 
 > Averroes ya rubuta matakai uku na sharhi kan ayyukan Aristotle:
 
-1. **Gajerun Sharhohi** (*Jami*): Taƙaitattun bayani ga masu farawa
+1. **Gajerun Sharhohi** (*Jami*): Taƙaitattun bayanai ga masu farawa
 2. **Sharhohi na Tsakiya** (*Talkhis*): Bayani da wasu kalmomi ga ɗalibai na tsaka-tsaki
 3. **Dogayen Sharhohi** (*Tafsir*): Cikakken nazari layi bayan layi
 
-> "Aristotle ya assasa kuma ya cika ilimin mantiƙi, ilimin kimiyyar halitta, da ilimin metaphysics. Babu wanda ya zo bayansa da ya iya ƙara wani abu a rubuce-rubucensa."
+> "Aristotle ya assasa kuma ya cika ilimin mantiƙi, ilimin kimiyyar halitta, da metafisika. Babu wanda ya zo bayansa da ya iya ƙara wani abu a rubuce-rubucensa."
 
 Burinsa shi ne ya dawo da Aristotle na gaskiya daga gurɓacewar Neoplatonism, kuma ya yi amfani da hanyar falsafa a dukkan fannonin bincike.
 
@@ -46,8 +46,8 @@ Hujjarsa:
 
 > Fassarar Averroes ta koyarwar Aristotle game da hankali ta jawo muhawara. Ya bambanta tsakanin:
 
-- **Hankali na kayan aiki**: Na mutum ɗaya, mai karɓa kawai, yana karɓar surori
-- **Hankali mai aiki**: Na dukkan al'umma, madawwami, yana haskaka gaskiya
+- **Hankali na madda**: Na mutum ɗaya, mai karɓa kawai, yana karɓar surori
+- **Hankali mai aiki**: Na gama-gari, madawwami, yana haskaka gaskiya
 
 > Wasu sun fassara Averroes da cewa yana koyarwa cewa akwai hankali ɗaya kawai ga dukkan bil'adama—wanda ya kai ga musun dawwamar mutum ɗaya. Wannan "Averroism" Coci ta la'ance shi, amma ya yi tasiri a kan ilimin makarantar Latin (Latin Scholasticism).
 
@@ -61,7 +61,7 @@ Averroes yana kare:
 - Dawwamar duniya
 - Sabubba da dokar halitta
 - Hanyar falsafa
-- Hankalce na imani
+- Dacewar imani da hankali
 
 > Inda Al-Ghazali ya ga falsafa a matsayin mai rushe addini, Averroes ya gan ta a matsayin mafi girman bayyanar addini.
 
@@ -71,16 +71,16 @@ Averroes yana kare:
 
 > Tasirin Averroes a kan tunanin zamanin tsakiya ya yi girma ƙwarai:
 
-- Aristotelianism na Thomas Aquinas
+- Bin falsafar Aristotle na Thomas Aquinas
 - Averroism na Latin a Jami'ar Paris
 - Falsafar Yahudawa (Maimonides, Gersonides)
-- Humanism na zamanin Renaissance
+- Falsafar ɗan Adam (humanism) ta zamanin Farfaɗowa (Renaissance)
 
 > Dante ya sanya Averroes a Limbo tare da sauran arna masu halaye nagari, yana kiransa "wanda ya yi babban sharhi."
 
 ---
 
-## Nassoshi na Haɗi | Cross-References
+## Duba Kuma | Cross-References
 
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristotle]] - Maudu'in sharhohin
 - [[02-ABRAHAMIC/christianity/philosophers/aquinas|Thomas Aquinas]] - Kwatankwacin Kirista

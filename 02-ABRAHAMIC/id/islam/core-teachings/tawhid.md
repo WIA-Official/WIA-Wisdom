@@ -6,9 +6,9 @@
 
 ## Gambaran Umum | Overview
 
-Tauhid (*tawhid*), yang secara harfiah berarti "menyatukan" atau "menjadikan satu", merujuk pada prinsip monoteisme dalam Islam. Tauhid adalah konsep yang paling pokok dan terpenting dalam agama ini, yang menjadi landasan seluruh ketaatan beragama seorang Muslim. Tauhid menegaskan dengan tanpa keraguan bahwa Allah itu Esa yang tidak terbagi (*ahad*) dan Tunggal (*wahid*).
+Tauhid (*tawhid*), yang secara harfiah berarti "menyatukan" atau "menjadikan satu", merujuk pada prinsip monoteisme dalam Islam. Tauhid adalah konsep yang paling pokok dan terpenting dalam agama ini, yang menjadi landasan seluruh ketaatan beragama seorang Muslim. Tauhid menegaskan tanpa keraguan sedikit pun bahwa Allah itu Esa yang tidak terbagi (*ahad*) dan Tunggal (*wahid*).
 
-Tauhid merupakan butir terdepan dalam pengakuan iman seorang Muslim. Menurut teologi Islam, tauhid adalah prinsip dasar yang menentukan cara seseorang memahami segala sesuatu secara harfiah—ibadah, akhlak, ilmu pengetahuan, hubungan antarmanusia, tujuan hidup, dan hakikat realitas itu sendiri.
+Tauhid merupakan butir terdepan dalam pengakuan iman seorang Muslim. Menurut teologi Islam, tauhid adalah prinsip dasar yang menentukan cara seseorang memahami secara harfiah segala sesuatu—ibadah, akhlak, ilmu pengetahuan, hubungan antarmanusia, tujuan hidup, dan hakikat realitas itu sendiri.
 
 ---
 
@@ -21,7 +21,7 @@ Tauhid merupakan butir terdepan dalam pengakuan iman seorang Muslim. Menurut teo
 
 **Terjemahan:** "Tiada tuhan selain Allah, dan Muhammad adalah utusan-Nya."
 
-> "Syahadat adalah ungkapan lisan dari tauhid, yang menegaskan keyakinan akan keesaan Allah dan kenabian Muhammad (saw)."
+> "Syahadat adalah ungkapan lisan dari tauhid, yang menegaskan keyakinan akan keesaan Allah dan kenabian Muhammad saw.."
 
 ---
 
@@ -29,11 +29,11 @@ Tauhid merupakan butir terdepan dalam pengakuan iman seorang Muslim. Menurut teo
 
 > "Para ulama Islam mengelompokkan tauhid ke dalam tiga jenis yang saling berkaitan."
 
-### 1. Tauhid Rububiyah (Ketuhanan sebagai Penguasa) | Tawhid al-Rububiyyah (Lordship)
+### 1. Tauhid Rububiyah (Keesaan Allah sebagai Rabb) | Tawhid al-Rububiyyah (Lordship)
 > "Tauhid Rububiyah merujuk pada keesaan Allah dalam hal kekuasaan-Nya atas alam semesta. Tauhid ini menekankan bahwa Allah adalah satu-satunya pencipta, pemelihara, dan pengatur segala sesuatu."
 
 ### 2. Tauhid Uluhiyah (Peribadatan) | Tawhid al-Uluhiyyah (Worship)
-> "Tauhid Uluhiyah menegaskan keesaan Allah dalam ibadah. Umat Islam meyakini bahwa segala bentuk ibadah, doa, dan pengabdian harus ditujukan semata-mata kepada Allah, dengan menolak segala bentuk persekutuan atau penyekutuan dalam ibadah."
+> "Tauhid Uluhiyah menegaskan keesaan Allah dalam ibadah. Umat Islam meyakini bahwa segala bentuk ibadah, doa, dan pengabdian harus ditujukan semata-mata kepada Allah, tanpa menyekutukan-Nya dengan apa pun dalam ibadah."
 
 ### 3. Tauhid Asma wa Sifat (Nama dan Sifat) | Tawhid al-Asma wa Sifat (Names and Attributes)
 > "Tauhid Asma wa Sifat merujuk pada kekhasan nama-nama dan sifat-sifat Allah. Aspek ini mengakui bahwa Allah memiliki sifat-sifat yang sempurna dan tiada bandingannya."
@@ -48,7 +48,7 @@ Tauhid merupakan butir terdepan dalam pengakuan iman seorang Muslim. Menurut teo
 | Jenis | Keterangan |
 |------|-------------|
 | **Besar (Syirik Akbar)** | Menyekutukan Allah dengan sesuatu dalam ibadah |
-| **Kecil (Syirik Asghar)** | Politeisme tersembunyi (riya dalam ibadah) |
+| **Kecil (Syirik Asghar)** | Syirik tersembunyi (riya dalam ibadah) |
 | **Tersembunyi (Syirik Khafi)** | Bentuk-bentuk halus dari kesetiaan yang terbagi |
 
 ### Beratnya Dosa Syirik:
@@ -66,7 +66,7 @@ Syirik adalah satu-satunya dosa yang tidak akan diampuni Allah jika seseorang me
 | **Asy'ariyah** | Teologi rasional dengan batas-batas tradisional |
 | **Maturidiyah** | Keseimbangan antara akal dan wahyu |
 | **Atsariyah** | Pendekatan tekstual secara harfiah |
-| **Sufi/Irfani** | Kesatuan yang dialami secara langsung dengan Allah |
+| **Sufi/Irfani** | Pengalaman penyatuan rohani dengan Allah secara langsung |
 
 > "Sepanjang sejarah Islam, berbagai mazhab teologi telah muncul, masing-masing dengan pendekatannya sendiri dalam memahami nama-nama dan sifat-sifat Allah."
 
@@ -74,7 +74,7 @@ Syirik adalah satu-satunya dosa yang tidak akan diampuni Allah jika seseorang me
 
 ## Makna Penting dalam Kehidupan Sehari-hari | Significance in Daily Life
 
-> "Menurut teologi Islam, tauhid adalah prinsip dasar yang menentukan cara seseorang memahami segala sesuatu secara harfiah—ibadah, akhlak, ilmu pengetahuan, hubungan antarmanusia, tujuan hidup, dan hakikat realitas itu sendiri. Setiap ajaran dalam Islam bersumber dari tauhid."
+> "Menurut teologi Islam, tauhid adalah prinsip dasar yang menentukan cara seseorang memahami secara harfiah segala sesuatu—ibadah, akhlak, ilmu pengetahuan, hubungan antarmanusia, tujuan hidup, dan hakikat realitas itu sendiri. Setiap ajaran dalam Islam bersumber dari tauhid."
 
 ### Penerapan:
 | Bidang | Implikasi |
@@ -94,7 +94,7 @@ Syirik adalah satu-satunya dosa yang tidak akan diampuni Allah jika seseorang me
 | Tawhid (توحيد) | Tauhid | Keesaan ilahi |
 | Allah (الله) | Allah | Tuhan |
 | Shahada (شهادة) | Syahadat | Pernyataan iman |
-| Shirk (شرك) | Syirik | Politeisme |
+| Shirk (شرك) | Syirik | Menyekutukan Allah |
 | Ahad (أحد) | Ahad | Esa (dalam zat) |
 | Wahid (واحد) | Wahid | Satu (tunggal) |
 

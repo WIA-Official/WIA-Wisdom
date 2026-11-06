@@ -14,7 +14,7 @@ Los cristianos creen que, puesto que la naturaleza humana está fundamentalmente
 ## Conceptos clave | Key Concepts
 
 ### La salvación incluye:
-> «En teología, la salvación designa una obra de Dios en favor de los hombres, que comprende la redención, la reconciliación, la propiciación, la convicción de pecado, el arrepentimiento, la fe, la regeneración, el perdón, la justificación, la santificación, la preservación y la glorificación».
+> «En teología, la salvación designa una obra de Dios en favor de los seres humanos, que comprende la redención, la reconciliación, la propiciación, la convicción de pecado, el arrepentimiento, la fe, la regeneración, el perdón, la justificación, la santificación, la preservación y la glorificación».
 
 | Término | Significado |
 |------|---------|
@@ -24,7 +24,7 @@ Los cristianos creen que, puesto que la naturaleza humana está fundamentalmente
 | **Glorificación** | Transformación final en la eternidad |
 
 ### La gracia y la fe:
-> «La salvación es el don gratuito de Dios al hombre, por gracia mediante la fe, enteramente aparte de las obras humanas».
+> «La salvación es el don gratuito de Dios al ser humano, por gracia mediante la fe, enteramente aparte de las obras humanas».
 
 ---
 ## Fundamento bíblico | Biblical Foundation
@@ -51,13 +51,13 @@ Los cristianos creen que, puesto que la naturaleza humana está fundamentalmente
 | **Futuro** | Glorificación | «Seré salvo» de la presencia del pecado |
 
 ---
-## Perspectivas denominacionales | Denominational Perspectives
+## Perspectivas confesionales | Denominational Perspectives
 
 ### La visión católica:
 > «La visión católica sostiene que Jesús mereció la gracia de la justificación, que no es solo la remisión del pecado, sino la infusión de las virtudes de la fe, la esperanza y la caridad. El cristiano justificado se encuentra en estado de gracia, el cual puede perderse al cometer un pecado mortal».
 
 ### La visión protestante (reformada):
-Subraya la salvación solo por gracia (*sola gratia*) mediante la fe sola (*sola fide*):
+Subraya la salvación por la sola gracia (*sola gratia*) mediante la sola fe (*sola fide*):
 - Depravación total de la naturaleza humana
 - Elección incondicional por parte de Dios
 - Expiación limitada (o redención particular)

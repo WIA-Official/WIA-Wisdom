@@ -15,7 +15,7 @@ El enfoque apofático de Eckhart —describir a Dios mediante la negación, subr
 ## El camino apofático | The Apophatic Way
 
 ### Vía negativa:
-> "La teología negativa de Maestro Eckhart, o teología apofática, comenzó definiendo lo que Dios no es. Este proceso, similar a la negación del zen, busca llegar a un estado de la mente y del espíritu en el que solo Dios pueda entrar."
+> "La teología negativa de Maestro Eckhart, o teología apofática, comenzaba por definir lo que Dios no es. Este proceso, similar a la negación del zen, busca llegar a un estado de la mente y del espíritu en el que solo Dios pueda entrar."
 
 ### Más allá de todos los nombres:
 Dios trasciende todos los conceptos, imágenes y palabras. Para conocer verdaderamente a Dios, debemos soltar nuestras ideas sobre Dios.
@@ -64,7 +64,7 @@ Dios trasciende todos los conceptos, imágenes y palabras. Para conocer verdader
 En el fondo del alma no hay distinción entre Dios y el alma, solo unidad.
 
 ### Dichos famosos:
-> "El ojo con el que veo a Dios es el mismo ojo con el que Dios me ve a mí."
+> "El ojo con el que veo a Dios es el mismo ojo con el que Dios me ve."
 
 > "Si la única oración que dijeras en tu vida fuera 'gracias', eso bastaría."
 
@@ -78,7 +78,7 @@ En el fondo del alma no hay distinción entre Dios y el alma, solo unidad.
 | Abgeschiedenheit | Apartamiento de todas las cosas |
 | Gottesgeburt | Nacimiento de Dios en el alma |
 | Seelengrund | Fondo del alma |
-| Funklein | Chispa divina |
+| Fünklein | Chispa divina |
 
 ---
 
@@ -91,4 +91,4 @@ En el fondo del alma no hay distinción entre Dios y el alma, solo unidad.
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Beneficiar a toda la humanidad*

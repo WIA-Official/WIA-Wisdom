@@ -18,7 +18,7 @@ Los cristianos creen que, debido a que la naturaleza humana está fundamentalmen
 > "En teología, la salvación denota una obra de Dios en favor de los seres humanos, que incluye la redención, la reconciliación, la propiciación, la convicción, el arrepentimiento, la fe, la regeneración, el perdón, la justificación, la santificación, la preservación y la glorificación."
 
 | Término | Significado |
-|------|---------|
+|---------|-------------|
 | **Redención** | Ser rescatado de la esclavitud del pecado |
 | **Justificación** | Ser declarado justo delante de Dios |
 | **Santificación** | Ser hecho santo con el transcurso del tiempo |
@@ -55,7 +55,7 @@ Los cristianos creen que, debido a que la naturaleza humana está fundamentalmen
 
 ---
 
-## Perspectivas denominacionales | Denominational Perspectives
+## Perspectivas de las distintas tradiciones | Denominational Perspectives
 
 ### Visión católica:
 > "La visión católica sostiene que Jesús mereció la gracia de la justificación, que no es solo la remisión del pecado, sino la infusión de las virtudes de fe, esperanza y caridad. El cristiano justificado se encuentra en estado de gracia, el cual puede perderse al cometer un pecado mortal."
@@ -69,7 +69,7 @@ Enfatiza la salvación solo por gracia (*sola gratia*) mediante la fe sola (*sol
 - Perseverancia de los santos
 
 ### Visión arminiana/metodista:
-> "Los arminianos clásicos enfatizan que la gracia libre de Dios (la gracia preveniente) capacita a los seres humanos para responder libremente a la salvación ofrecida por medio de Cristo, o para rechazarla."
+> "Los arminianos clásicos enfatizan que la libre gracia de Dios (la gracia preveniente) capacita a los seres humanos para responder libremente a la salvación ofrecida por medio de Cristo, o para rechazarla."
 
 ### Visión ortodoxa:
 Enfatiza la *theosis* (divinización): la participación en la naturaleza divina mediante los sacramentos y la vida espiritual.

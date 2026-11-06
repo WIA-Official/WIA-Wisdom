@@ -1,24 +1,24 @@
-# Al-Farabi (الفارابي) | Al-Farabi (الفارابي)
+# Al-Farabi (الفارابي) | Al-Farabi
 
-> Macallinka Labaad: Magaalada Fadilada leh, Nabinimada, iyo Isku-dubaridka Aflaadoon iyo Aristotle
+> Macallinka Labaad: Magaalada Fadiilada leh, Nabinimada, iyo Isku-dubaridka Aflaadoon iyo Aristotle
 
 ---
 
 ## Guudmar | Overview
 
-Abu Nasr al-Farabi (qiyaastii 872–950 AD), oo loo yaqaan "Macallinka Labaad" (Aristotle ka dib), wuxuu ahaa feylasuuf Islaami ah oo caan ah oo hore u soo maray, wuxuuna wax weyn ku soo kordhiyay falsafadda siyaasadda, metafisigiska, mantiqa, iyo falsafadda muusikada. Waxaa si gaar ah looga yaqaan isku-daygiisii uu ku isku dubaridayay falsafadaha Aflaadoon (Plato) iyo Aristotle.
+Abu Nasr al-Farabi (qiyaastii 872–950 M), oo loo yaqaan "Macallinka Labaad" (Aristotle ka dib), wuxuu ahaa feylasuuf caan ah oo ka mid ahaa feylasuufyadii hore ee Islaamka, wuxuuna wax weyn ku soo kordhiyay falsafadda siyaasadda, metafisigiska, mantiqa, iyo falsafadda muusikada. Waxaa si gaar ah looga yaqaan isku-daygiisii uu ku isku dubaridayay falsafadaha Aflaadoon (Plato) iyo Aristotle.
 
-> Buugga al-Farabi ee *Magaalada Fadilada leh* (*al-Madina al-Fadila*) wuxuu *Jumhuuriyadda* Aflaadoon ku beegay duruufaha Islaamka, wuxuuna ku tilmaamay dowladda ugu fiican oo uu xukumo feylasuuf-nabi isku daraya xikmadda falsafadeed iyo waxyiga nabinimo.
+> Buugga al-Farabi ee *Magaalada Fadiilada leh* (*al-Madina al-Fadila*) wuxuu *Jumhuuriyadda* Aflaadoon ku beegay duruufaha Islaamka, wuxuuna ku tilmaamay dowladda ugu fiican oo uu xukumo feylasuuf-nabi isku daraya xikmadda falsafadeed iyo waxyiga nabinimo.
 
 Shaqadiisu aad bay u saamaysay feylasuufyadii Islaamka ee dambe, oo ay ku jiraan Ibn Siinaa (Avicenna) iyo Ibn Rushd (Averroes), iyo sidoo kale aqoonyahannadii iskoolasatikada Yuhuudda iyo Masiixiyadda.
 
 ---
 
-## Magaalada Fadilada leh | The Virtuous City
+## Magaalada Fadiilada leh | The Virtuous City
 
-> Shaqada ugu weyn ee al-Farabi waxay qeexaysaa magaalo-dowlad ugu fiican oo ay xukumaan mabaadi'da falsafadda. Magaalada fadilada lehi waa dhammaan nidaamsan oo noole ah, sida jidh caafimaad qaba, halkaas oo qayb kasta oo ka mid ah ay gudato shaqadeeda ku habboon.
+> Shaqada ugu weyn ee al-Farabi waxay qeexaysaa magaalo-dowlad ugu fiican oo ay xukumaan mabaadi'da falsafadda. Magaalada fadiilada lehi waa hal kul oo nool oo nidaamsan, sida jidh caafimaad qaba, halkaas oo qayb kasta oo ka mid ah ay gudato shaqadeeda ku habboon.
 
-> "Magaalada fadilada lehi waxay u eg tahay jidh dhammaystiran oo caafimaad qaba, oo xubnihiisa oo dhan ay wada shaqeeyaan si nolosha xayawaanka loo dhammaystiro."
+> "Magaalada fadiilada lehi waxay u eg tahay jidh dhammaystiran oo caafimaad qaba, oo xubnihiisa oo dhan ay wada shaqeeyaan si nolosha xayawaanka loo dhammaystiro."
 
 Qaab-dhismeedka magaalada:
 - **Taliyaha**: Feylasuuf-nabiga yaqaan runta
@@ -30,12 +30,12 @@ Qaab-dhismeedka magaalada:
 
 ## Falsafadda iyo Nabinimada | Philosophy and Prophecy
 
-> Wax-ku-biirinta al-Farabi ee ugu cusbayd waxay ahayd aragtidiisa nabinimada oo ah dhammaystirka dabiiciga ah ee naftii aadanaha.
+> Wax-ku-biirinta al-Farabi ee ugu cusbayd waxay ahayd aragtidiisa nabinimada oo ah dhammaystirka dabiiciga ah ee nafta aadanaha.
 
 > Nabigu runta wuxuu ku helaa male-awaalka iyo waxyiga, halka feylasuufku ku gaadho caddaymo caqli ah. Labaduba waxay gaadhaan runta isku mid ah, laakiin waxay maraan wado kala duwan.
 
 Nabiga-feylasuufka:
-- Wuxuu runta ka helaa Caqliga Firfircoon (Active Intellect)
+- Wuxuu runta ka helaa Caqliga Firfircoon (al-Caql al-Facaal)
 - Wuxuu ku gudbiyaa sawirro iyo astaamo
 - Wuxuu xukumaa magaalada ugu fiican
 - Wuxuu isku daraa fikirka iyo ficilka
@@ -53,29 +53,29 @@ Nabiga-feylasuufka:
 Isku-darkiisu:
 - Aflaadoon iyo Aristotle labaduba waxay raadiyaan runta isku mid ah
 - Kala duwanaanshuhu waa habka, ma aha mawduucyada asaasiga ah
-- Labaduba waxay xooga saaraan caqliga iyo fadilada
-- Soo-baxa Neoplatoonigga (emanation) ayaa isku xira
+- Labaduba waxay xooga saaraan caqliga iyo fadiilada
+- Aragtida soo-baxa (fayd) ee Neoplatoonigga ayaa isku xirta labadooda
 
 ---
 
 ## Soo-baxa iyo Caqliyada | Emanation and the Intellects
 
-> Al-Farabi wuxuu qaatay cosmology Neoplatoonig ah oo ku saabsan soo-baxa, halkaas oo jiritaanku uga qulqulo Sababta Koowaad isagoo maraya kala-sarreyn caqliyo ah.
+> Al-Farabi wuxuu qaatay aragti koon oo Neoplatooni ah oo ku saabsan soo-baxa (fayd), halkaas oo jiritaanku uga qulqulo Sababta Koowaad isagoo maraya kala-sarreyn caqliyo ah.
 
 Soo-baxa:
 1. **Midka/Sababta Koowaad** →
 2. **Caqliga Koowaad** →
-3. **Dhulgariirrada Samada (Celestial Spheres)** →
+3. **Falakyada Samada** →
 4. **Caqliga Firfircoon** →
 5. **Naftii Aadanaha**
 
-> Caqliga Firfircoon wuxuu iftiimiyaa maskaxaha aadanaha, isagoo awood u siinaya aqoonta. Cosmology-gani wuxuu saameeyay Ibn Siinaa iyo falsafadda Islaamka ee dambe.
+> Caqliga Firfircoon wuxuu iftiimiyaa maskaxaha aadanaha, isagoo awood u siinaya aqoonta. Aragtidan koonku waxay saameysay Ibn Siinaa iyo falsafadda Islaamka ee dambe.
 
 ---
 
 ## Muusikada iyo Mantiqa | Music and Logic
 
-> Al-Farabi wuxuu kaloo ahaa ustaad muusikada ah, wuxuuna qoray buuggii saamaynta lahaa ee *Buugga Weyn ee Muusikada* (*Kitab al-Musiqi al-Kabir*).
+> Al-Farabi wuxuu kaloo ahaa ustaad muusiko, wuxuuna qoray buuggii saamaynta lahaa ee *Buugga Weyn ee Muusikada* (*Kitab al-Musiqi al-Kabir*).
 
 > Wuxuu muusikada u arkay cilmi xisaabeed iyo mid nafsaani ah labadaba, isagoo ku xiraya iswaafajinta nidaamka koonka iyo naftaba.
 
@@ -101,4 +101,4 @@ Wuxuu kaloo si ballaaran wax uga qoray mantiqa, isagoo kala saaray cilmiyada, un
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Aadanaha oo dhan u faa'iidee**

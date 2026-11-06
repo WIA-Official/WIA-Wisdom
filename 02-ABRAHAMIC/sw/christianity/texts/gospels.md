@@ -23,7 +23,7 @@ Kulingana na makubaliano ya wasomi:
 | Luka | takriban 80-90 BK | Wakristo wa Mataifa |
 | Yohana | takriban 90-100 BK | Hadhira ya wote/ya kitheolojia |
 
-Wasomi wengi wanaamini kwamba Marko iliandikwa kwanza, na kwamba Mathayo na Luka kila moja kwa kujitegemea ilitumia Marko kama chanzo, pamoja na chanzo cha semi cha kudhaniwa kinachoitwa "Q" (kutoka neno la Kijerumani Quelle, "chanzo"). Hii inajulikana kama "Nadharia ya Vyanzo Viwili."
+Wasomi wengi wanaamini kwamba Marko iliandikwa kwanza, na kwamba Mathayo na Luka kila moja kwa kujitegemea ilitumia Marko kama chanzo, pamoja na chanzo cha semi kinachodhaniwa kuwepo, kiitwacho "Q" (kutoka neno la Kijerumani Quelle, "chanzo"). Hii inajulikana kama "Nadharia ya Vyanzo Viwili."
 
 ---
 
@@ -36,8 +36,8 @@ Wasomi wengi wanaamini kwamba Marko iliandikwa kwanza, na kwamba Mathayo na Luka
 **Yesu anavyoonyeshwa:** Masihi aliyeahidiwa, Mfalme wa Wayahudi
 
 **Sifa Kuu:**
-- Inaanza na ukoo unaomfuatilia Yesu hadi kwa Abrahamu na Daudi
-- Inasisitiza kutimia kwa unabii wa Agano la Kale ("Hili lilitukia ili litimie neno lililosemwa na nabii...")
+- Inaanza na ukoo unaomfuatilia Yesu hadi kwa Ibrahimu na Daudi
+- Inasisitiza kutimia kwa unabii wa Agano la Kale ("Hayo yote yamekuwa ili litimie neno lililonenwa na nabii...")
 - Ina sehemu tano kuu za mafundisho (zinazoakisi vitabu vitano vya Musa):
   1. Hotuba ya Mlimani (Sura 5-7)
   2. Hotuba ya Kimisionari (Sura 10)
@@ -88,19 +88,19 @@ Wasomi wengi wanaamini kwamba Marko iliandikwa kwanza, na kwamba Mathayo na Luka
 
 ## Injili ya Yohana | The Gospel of John
 
-**Mwandishi:** Kimapokeo anahusishwa na Yohana Mtume, "mwanafunzi mpendwa."
+**Mwandishi:** Kimapokeo anahusishwa na Mtume Yohana, "yule mwanafunzi aliyependwa na Yesu."
 **Hadhira:** Wote; mkazo wa kitheolojia na kiroho
-**Yesu anavyoonyeshwa:** Neno wa milele (Logos), Mwana wa Mungu aliye wa kimungu
+**Yesu anavyoonyeshwa:** Neno wa milele (Logos), Mwana wa Mungu mwenye Uungu
 
 **Sifa Kuu:**
 - Utangulizi wa kitheolojia na kifalsafa kwa kiwango cha juu: "Hapo mwanzo kulikuwako Neno"
 - Haina mifano (tofauti na Injili Sinoptiki)
-- Kauli saba za "MIMI NDIMI" zinazofunua utambulisho wa kimungu wa Yesu:
+- Kauli saba za "MIMI NDIMI" zinazofunua utambulisho wa Kiungu wa Yesu:
   1. "Mimi ndimi chakula cha uzima" (6:35)
   2. "Mimi ndimi nuru ya ulimwengu" (8:12)
   3. "Mimi ndimi mlango" (10:9)
   4. "Mimi ndimi mchungaji mwema" (10:11)
-  5. "Mimi ndimi huo ufufuo na uzima" (11:25)
+  5. "Mimi ndimi huo ufufuo, na uzima" (11:25)
   6. "Mimi ndimi njia, na kweli, na uzima" (14:6)
   7. "Mimi ndimi mzabibu wa kweli" (15:1)
 - "Ishara" saba (miujiza) zinazodhihirisha utukufu wa Yesu
@@ -113,8 +113,8 @@ Wasomi wengi wanaamini kwamba Marko iliandikwa kwanza, na kwamba Mathayo na Luka
 
 | Kipengele | Mathayo | Marko | Luka | Yohana |
 |--------|---------|------|------|------|
-| Mwanzo | Ukoo | Ubatizo | Wakfu | Wimbo wa Logos |
-| Yesu kama | Masihi/Mfalme | Mtumishi | Mwokozi | Neno la Kimungu |
+| Mwanzo | Ukoo | Ubatizo | Tabaruku kwa Theofilo | Wimbo wa Logos |
+| Yesu kama | Masihi/Mfalme | Mtumishi | Mwokozi | Neno la Kiungu |
 | Hadhira | Wayahudi | Warumi | Mataifa | Wote |
 | Ya pekee kwa | Hotuba ya Mlimani | Mwisho wa ghafla | Mwana Mpotevu | Kauli za "MIMI NDIMI" |
 | Mwelekeo | Wa kufundisha | Wa dharura | Wa huruma | Wa kifumbo |
@@ -143,7 +143,7 @@ Nadharia kuu (Nadharia ya Vyanzo Viwili) inapendekeza:
 ### Ufalme wa Mungu | Kingdom of God
 
 Kiini cha Injili Sinoptiki ni tangazo la Yesu kuhusu Ufalme wa Mungu (au "Ufalme wa Mbinguni" katika Mathayo). Ufalme huu:
-- Tayari upo katika huduma ya Yesu ("Ufalme wa Mungu u katikati yenu")
+- Tayari upo katika huduma ya Yesu ("ufalme wa Mungu umo ndani yenu")
 - Hata hivyo bado utakuja katika utimilifu wake
 - Huingiwa kwa toba na imani
 - Una sifa za haki, amani, na furaha
@@ -179,7 +179,7 @@ Injili Sinoptiki zina takriban mifano 40—hadithi fupi zinazotumia picha za mai
 
 ### Vyanzo vya Msingi | Primary Sources
 - Agano Jipya
-- Injili ya Mathayo, Marko, Luka, Yohana
+- Injili za Mathayo, Marko, Luka na Yohana
 
 ### Vyanzo vya Kitaaluma | Academic Sources
 - [Gospel - Wikipedia](https://en.wikipedia.org/wiki/Gospel)
@@ -190,4 +190,4 @@ Injili Sinoptiki zina takriban mifano 40—hadithi fupi zinazotumia picha za mai
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 · Kuwanufaisha wanadamu wote*

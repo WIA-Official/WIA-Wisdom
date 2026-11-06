@@ -6,9 +6,9 @@
 
 ## Gambaran Umum | Overview
 
-Lima Rukun Islam (bahasa Arab: أركان الإسلام, Arkān al-Islām) adalah amalan ibadah pokok yang menjadi fondasi kehidupan seorang Muslim. Kelima rukun itu ialah: Syahadat (pernyataan iman), Salat (shalat), Zakat (pemberian sedekah wajib), Saum (puasa), dan Haji (ibadah ke Tanah Suci).
+Lima Rukun Islam (bahasa Arab: أركان الإسلام, Arkān al-Islām) adalah amalan ibadah pokok yang menjadi fondasi kehidupan seorang Muslim. Kelima rukun itu ialah: Syahadat (pernyataan iman), Salat (sembahyang), Zakat (pemberian sedekah wajib), Saum (puasa), dan Haji (ibadah ke Tanah Suci).
 
-Nabi Muhammad ﷺ (semoga damai menyertainya) menjelaskan bahwa Islam "dibangun di atas lima" tiang (Al-Bukhari dan Muslim). Amalan-amalan ini wajib bagi setiap Muslim dewasa yang mampu melaksanakannya, serta berfungsi menguatkan iman setiap pribadi, menumbuhkan kesadaran akan Allah (taqwa), dan membangun kebersamaan dalam umat Muslim sedunia (Ummah).
+Nabi Muhammad saw. menjelaskan bahwa Islam "dibangun di atas lima" tiang (HR. al-Bukhari dan Muslim). Amalan-amalan ini wajib bagi setiap Muslim dewasa yang mampu melaksanakannya, serta berfungsi menguatkan iman setiap pribadi, menumbuhkan kesadaran akan Allah (takwa), dan membangun kebersamaan dalam umat Muslim sedunia (Ummah).
 
 ---
 
@@ -28,7 +28,7 @@ Seseorang menjadi Muslim dengan mengucapkan pernyataan ini secara tulus dan penu
 
 ---
 
-## 2. Salat (Shalat) | 2. Salat (Prayer)
+## 2. Salat (Sembahyang) | 2. Salat (Prayer)
 
 Umat Muslim melaksanakan salat lima kali sehari pada waktu-waktu yang telah ditentukan, dengan menghadap Ka'bah di Mekah:
 
@@ -68,7 +68,7 @@ Zakat adalah kewajiban mengeluarkan sebagian harta kepada mereka yang membutuhka
 
 ### Penerima (delapan golongan dalam Al-Qur'an 9:60) | Recipients (eight categories in Quran 9:60)
 
-Fakir, miskin, amil zakat, mualaf (mereka yang hatinya perlu dilunakkan), pembebasan budak, orang yang berutang, pejuang di jalan Allah, dan musafir yang kehabisan bekal.
+Fakir, miskin, amil zakat, mualaf (mereka yang hatinya perlu dilunakkan), pembebasan budak, orang yang berutang, orang yang berjuang di jalan Allah (fi sabilillah), dan musafir yang kehabisan bekal.
 
 ---
 
@@ -88,7 +88,7 @@ Saum adalah puasa pada bulan suci Ramadan, bulan kesembilan dalam kalender Hijri
 
 ### Keringanan | Exemptions
 
-Mereka yang sakit, dalam perjalanan, hamil, menyusui, lanjut usia, atau sedang haid dapat memperoleh keringanan, dengan kewajiban mengganti hari-hari puasa di lain waktu atau memberikan sedekah pengganti.
+Mereka yang sakit, dalam perjalanan, hamil, menyusui, lanjut usia, atau sedang haid dapat memperoleh keringanan, dengan kewajiban mengganti hari-hari puasa di lain waktu atau memberikan sedekah pengganti (fidyah).
 
 ---
 
@@ -127,7 +127,7 @@ Haji adalah ibadah ke Mekah yang wajib dilaksanakan setiap Muslim sekurang-kuran
 |--------|---------|
 | Arkān | Tiang, fondasi |
 | Shahada | Pernyataan iman |
-| Salat | Salat (ibadah ritual) |
+| Salat | Sembahyang (ibadah ritual) |
 | Zakat | Sedekah wajib |
 | Sawm | Puasa |
 | Hajj | Ibadah haji ke Mekah |

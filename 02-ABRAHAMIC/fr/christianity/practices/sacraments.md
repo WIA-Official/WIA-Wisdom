@@ -8,7 +8,7 @@
 
 Les sacrements sont des rites sacrés du christianisme, considérés comme des signes visibles et des canaux efficaces de la grâce de Dieu pour tous ceux qui les reçoivent avec les dispositions requises. Le mot « sacrement » vient du latin *sacramentum*, qui signifie serment sacré ou mystère.
 
-Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occident : le baptême, la confirmation, l'eucharistie, la pénitence, l'ordre, le mariage et l'extrême-onction. Ils furent confirmés par le concile de Trente (1545-1563). Les Églises protestantes classiques (luthérienne, anglicane, réformée) ne reconnaissent que deux sacrements — le baptême et l'eucharistie — comme institués par le Christ dans les Évangiles.
+Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occident : le baptême, la confirmation, l'eucharistie, la pénitence, l'ordre, le mariage et l'extrême-onction. Ils furent confirmés par le concile de Trente (1545-1563). Les Églises protestantes historiques (luthérienne, anglicane, réformée) ne reconnaissent que deux sacrements — le baptême et l'eucharistie — comme institués par le Christ dans les Évangiles.
 
 ---
 ## Classification des sacrements | Classification of Sacraments
@@ -22,7 +22,7 @@ Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occide
 ---
 ## Les sept sacrements | The Seven Sacraments
 
-### 1. Le baptême (世禮) :
+### 1. Le baptême (洗禮) :
 
 > « Par le baptême, nous devenons membres de l'Église, le Corps du Christ. »
 
@@ -61,7 +61,7 @@ Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occide
 - Préparation à la mort
 - Pardon des péchés
 
-### 6. L'ordre (敍品) :
+### 6. L'ordre (神品) :
 
 - Ordination des diacres, des prêtres et des évêques
 - Service de l'Église
@@ -90,7 +90,7 @@ Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occide
 
 | Tradition | Sacrements | Compréhension |
 |-----------|------------|---------------|
-| **Luthérienne** | Baptême, eucharistie, (pénitence) | Moyens de la grâce |
+| **Luthérienne** | Baptême, eucharistie, (pénitence) | Moyens de grâce |
 | **Réformée** | Baptême, eucharistie | Signes et sceaux de l'alliance |
 | **Anglicane** | Baptême, eucharistie + 5 autres | Signes extérieurs d'une grâce intérieure |
 | **Baptiste** | Baptême, Cène du Seigneur | Ordonnances, et non sacrements |
@@ -111,7 +111,7 @@ Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occide
 
 ### L'eucharistie :
 
-> « Pendant la messe, le prêtre consacre le pain et le vin, qui sont transsubstantiés en le corps et le sang du Christ. »
+> « Pendant la messe, le prêtre consacre le pain et le vin, qui, par la transsubstantiation, deviennent le corps et le sang du Christ. »
 
 | Élément | Conception catholique | Conception protestante |
 |---------|---------------|-----------------|
@@ -124,10 +124,10 @@ Au XIIe siècle, Pierre Lombard définit sept sacrements pour l'Église d'Occide
 | Tradition | Nombre | Conception |
 |-----------|--------|------|
 | **Catholique romaine** | 7 | Canaux de la grâce institués par le Christ |
-| **Orthodoxe orientale** | 7 (mystères) | Mystères divins pour le salut |
+| **Orthodoxe** | 7 (mystères) | Mystères divins pour le salut |
 | **Luthérienne** | 2-3 | Promesses de l'Évangile accompagnées d'éléments visibles |
 | **Réformée/presbytérienne** | 2 | Signes et sceaux de la grâce de l'alliance |
-| **Méthodiste** | 2 | Moyens de la grâce |
+| **Méthodiste** | 2 | Moyens de grâce |
 | **Baptiste** | 2 (ordonnances) | Actes symboliques d'obéissance |
 | **Quaker** | 0 | Primauté de l'expérience intérieure sur les formes extérieures |
 

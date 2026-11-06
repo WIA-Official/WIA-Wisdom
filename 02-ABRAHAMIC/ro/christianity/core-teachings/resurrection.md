@@ -6,7 +6,7 @@
 
 ## Prezentare generală | Overview
 
-Învierea lui Iisus este credința creștină că Dumnezeu l-a ridicat pe Iisus din morți a treia zi după răstignirea sa, începând – sau restabilind – viața sa înălțată ca Hristos și Domn. În teologia creștină, învierea este „misterul central al credinței creștine”.
+Învierea lui Iisus este credința creștină că Dumnezeu L-a înviat pe Iisus din morți a treia zi după răstignirea Sa, începând – sau restabilind – viața Sa preaslăvită ca Hristos și Domn. În teologia creștină, învierea este „taina centrală al credinței creștine”.
 
 Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: este temelia mântuirii, biruința asupra morții și promisiunea unei vieți noi pentru toți credincioșii.
 
@@ -20,7 +20,7 @@ Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: est
 
 | Semnificație | Înțeles |
 |--------------|---------|
-| **Îndreptățire** | Dumnezeu l-a declarat pe Iisus drept |
+| **Îndreptățire** | Dumnezeu L-a arătat pe Iisus drept |
 | **Dumnezeire** | Confirmă că Iisus este Fiul lui Dumnezeu |
 | **Biruință** | Moartea și păcatul sunt înfrânte |
 | **Nădejde** | Promisiunea învierii credincioșilor |
@@ -36,7 +36,7 @@ Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: est
 
 ### Nu un duh fără trup: | Not a Ghost:
 
-> „Este important de reținut că Iisus nu a înviat ca un simplu duh. Învierea sa nu a avut loc nici doar în mintea apostolilor, care ar fi avut o conștiință subiectivă a prezenței Sale duhovnicești. Iisus a înviat cu trup și suflet.”
+> „Este important de reținut că Iisus nu a înviat ca un simplu duh. Învierea Sa nu a avut loc nici doar în mintea apostolilor, care ar fi avut o conștiință subiectivă a prezenței Sale duhovnicești. Iisus a înviat cu trup și suflet.”
 
 ---
 
@@ -59,7 +59,7 @@ Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: est
 
 > „Din punct de vedere istoric și teologic, Învierea semnifică promisiunea vieții noi. În calendarul liturgic, Paștile stau ca un far al nădejdii, amintind credincioșilor de iubirea și jertfa nepătrunse ale lui Iisus Hristos.”
 
-> „Pentru primii creștini, Paștile celebrează îndreptățirea lui Hristos, cel executat pe nedrept; afirmă deplina Sa dumnezeire și deplina Sa omenitate; comemorează începutul noii creații; și le amintesc creștinilor că sunt părtași la această lucrare a noii creații.”
+> „Pentru primii creștini, Paștile celebrează îndreptățirea lui Hristos, Cel osândit pe nedrept; afirmă deplina Sa dumnezeire și deplina Sa omenitate; comemorează începutul noii creații; și le amintesc creștinilor că sunt părtași la această lucrare a noii creații.”
 
 ---
 
@@ -77,7 +77,7 @@ Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: est
 
 ### Perspective academice: | Scholarly Perspectives:
 
-> „Potrivit lucrării influente a lui N.T. Wright, răspunsul primilor creștini a fost că Iisus fusese într-adevăr ridicat trupește din morți; de aceea l-au proclamat ca „fiu al lui Dumnezeu” mesianic. Niciun istoric modern nu a venit cu o explicație mai convingătoare.”
+> „Potrivit lucrării influente a lui N.T. Wright, răspunsul primilor creștini a fost că Iisus fusese într-adevăr ridicat trupește din morți; de aceea L-au propovăduit ca «Fiu al lui Dumnezeu» mesianic. Niciun istoric modern nu a venit cu o explicație mai convingătoare.”
 
 ---
 
@@ -88,7 +88,7 @@ Pentru creștini, acest eveniment nu este doar istoric, ci și soteriologic: est
 - **Matei 28**: Îngerul la mormântul gol; Iisus se arată
 - **Marcu 16**: Femeile la mormânt; teamă și uimire
 - **Luca 24**: Drumul spre Emaus; arătări fizice
-- **Ioan 20-21**: Îndoiala lui Toma; masa de dimineață de lângă mare
+- **Ioan 20-21**: Îndoiala lui Toma; prânzul de pe țărmul mării
 
 ### Mărturia lui Pavel (1 Corinteni 15:3-8): | Paul's Testimony (1 Corinthians 15:3-8):
 

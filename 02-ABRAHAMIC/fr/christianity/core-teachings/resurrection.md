@@ -6,7 +6,7 @@
 
 ## Vue d'ensemble | Overview
 
-La résurrection de Jésus est la foi des chrétiens selon laquelle Dieu a ressuscité Jésus d'entre les morts le troisième jour après sa crucifixion, inaugurant — ou rétablissant — sa vie glorieuse comme Christ et Seigneur. Dans la théologie chrétienne, la résurrection est « le mystère central de la foi chrétienne ».
+La résurrection de Jésus désigne la croyance chrétienne selon laquelle Dieu a ressuscité Jésus d'entre les morts le troisième jour après sa crucifixion, inaugurant — ou rétablissant — sa vie glorieuse comme Christ et Seigneur. Dans la théologie chrétienne, la résurrection est « le mystère central de la foi chrétienne ».
 
 Pour les chrétiens, cet événement n'est pas seulement historique, mais aussi sotériologique : il est le fondement du salut, la victoire sur la mort et la promesse d'une vie nouvelle pour tous les croyants.
 
@@ -14,7 +14,7 @@ Pour les chrétiens, cet événement n'est pas seulement historique, mais aussi 
 
 ## La centralité théologique | Theological Centrality
 
-> « La résurrection du Christ est l'événement central de la foi chrétienne et, de fait, de toute l'histoire du monde. Si Jésus n'est pas ressuscité corporellement d'entre les morts après trois jours, le christianisme est faux et tous les hommes demeurent morts dans leurs péchés. »
+> « La résurrection du Christ est l'événement central de la foi chrétienne et, de fait, de toute l'histoire du monde. Si Jésus n'est pas ressuscité corporellement d'entre les morts après trois jours, le christianisme est faux et tous les êtres humains demeurent morts dans leurs péchés. »
 
 ### Pourquoi la résurrection est essentielle :
 | Portée | Signification |
@@ -31,10 +31,10 @@ Pour les chrétiens, cet événement n'est pas seulement historique, mais aussi 
 
 > « Par résurrection, les théologiens n'entendent pas quelque chose comme vivre éternellement dans une existence spirituelle, mais vivre de nouveau sur le mode corporel après la mort du corps, revenir d'entre les morts dans de vrais corps, mais en définitive dans des corps transformés. »
 
-> « Pour la tradition chrétienne, la résurrection corporelle fut la restitution à la vie d'un corps transformé, animé par l'Esprit, tel que le décrivent Paul et les auteurs des évangiles, ce qui a conduit à la fondation du christianisme. »
+> « Pour la tradition chrétienne, la résurrection corporelle fut la restitution à la vie d'un corps transformé, animé par l'esprit, tel que le décrivent Paul et les auteurs des évangiles, ce qui a conduit à la fondation du christianisme. »
 
 ### Pas un fantôme :
-> « Il est important de noter que Jésus n'est pas ressuscité comme un simple esprit. Sa résurrection n'a pas non plus eu lieu seulement dans l'esprit des apôtres, qui auraient eu une conscience subjective de sa présence spirituelle. Jésus est ressuscité dans son corps et son âme. »
+> « Il est important de noter que Jésus n'est pas ressuscité comme un simple esprit. Sa résurrection n'a pas non plus eu lieu seulement dans l'esprit des apôtres, qui auraient eu une conscience subjective de sa présence spirituelle. Jésus est ressuscité corps et âme. »
 
 ---
 
@@ -72,7 +72,7 @@ Pour les chrétiens, cet événement n'est pas seulement historique, mais aussi 
 | **Point de vue de N. T. Wright** | Événement historique ; corps transformé |
 
 ### Perspectives savantes :
-> « Selon l'influent travail de N. T. Wright, la réponse des premiers chrétiens était que Jésus avait bel et bien été ressuscité corporellement d'entre les morts ; c'est pourquoi ils l'acclamaient comme le « fils de Dieu » messianique. Aucun historien moderne n'a proposé d'explication plus convaincante. »
+> « Selon l'influent travail de N. T. Wright, la réponse des premiers chrétiens était que Jésus avait bel et bien été ressuscité corporellement d'entre les morts ; c'est pourquoi ils l'acclamaient comme le “fils de Dieu” messianique. Aucun historien moderne n'a proposé d'explication plus convaincante. »
 
 ---
 

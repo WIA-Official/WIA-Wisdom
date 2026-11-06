@@ -6,7 +6,7 @@
 
 ## Gambaran Keseluruhan | Overview
 
-Hadis (bahasa Arab: حديث, jamak: *ahadith*) ialah himpunan sabda, perbuatan dan perakuan (taqrir) Nabi Muhammad ﷺ, yang dimuliakan oleh umat Islam sebagai sumber utama hukum agama dan panduan akhlak di samping al-Quran. Al-Quran ialah kalam Allah secara langsung, manakala hadis menggambarkan Sunnah (jalan) Nabi—teladan hidup tentang cara mengamalkan ajaran al-Quran.
+Hadis (bahasa Arab: حديث, jamak: *ahadith*) ialah himpunan sabda, perbuatan dan perakuan (taqrir) Nabi Muhammad SAW, yang dimuliakan oleh umat Islam sebagai sumber utama hukum agama dan panduan akhlak di samping al-Quran. Al-Quran ialah kalam Allah secara langsung, manakala hadis menggambarkan Sunnah (jalan) Nabi—teladan hidup tentang cara mengamalkan ajaran al-Quran.
 
 Hadis disampaikan secara lisan oleh para Sahabat Nabi, kemudian dicatat dalam bentuk bertulis bermula awal tahun 700-an Masihi. Koleksi yang paling berautoriti dihimpunkan pada abad ke-9 dan ke-10 oleh para ulama yang menyusun kaedah yang ketat untuk mengesahkan kesahihannya.
 
@@ -23,8 +23,8 @@ Hadis disampaikan secara lisan oleh para Sahabat Nabi, kemudian dicatat dalam be
 ### Contoh:
 ```
 ISNAD: "Abu Hurairah meriwayatkan bahawa Rasulullah bersabda..."
-MATAN: "Setiap amalan dinilai berdasarkan niat, dan setiap orang akan 
-        diberi ganjaran mengikut niatnya."
+MATAN: "Sesungguhnya setiap amalan itu bergantung kepada niat, dan 
+        setiap orang hanya mendapat apa yang dia niatkan."
 ```
 
 ---
@@ -35,17 +35,17 @@ MATAN: "Setiap amalan dinilai berdasarkan niat, dan setiap orang akan
 | Jenis | Bahasa Arab | Huraian |
 |------|--------|-------------|
 | **Sahih** | صحيح | Sah/tulen - tahap kebolehpercayaan tertinggi |
-| **Hasan** | حسن | Baik - perawi yang boleh dipercayai dengan ingatan yang agak lemah |
-| **Da'if** | ضعيف | Lemah - kekurangan pada sanad atau matan |
-| **Mawdu'** | موضوع | Palsu - ditolak sebagai dusta |
+| **Hasan** | حسن | Baik - perawi yang boleh dipercayai tetapi hafalannya kurang sedikit kekuatannya |
+| **Dhaif** | ضعيف | Lemah - kekurangan pada sanad atau matan |
+| **Maudhu'** | موضوع | Palsu - ditolak sebagai dusta |
 
 ### Mengikut Sumber:
 | Jenis | Huraian |
 |------|-------------|
-| **Hadis Nabawi** | Tradisi kenabian |
+| **Hadis Nabawi** | Sabda Nabi |
 | **Hadis Qudsi** | Hadis suci - kalam Allah melalui Nabi |
 
-> "Hadis Qudsi ialah sabda Nabi Muhammad yang diwahyukan kepada baginda oleh Allah Yang Maha Kuasa. Berbeza daripada kebanyakan hadis yang merupakan Hadis Nabawi, autoritinya dikembalikan bukan kepada Nabi, tetapi kepada Yang Maha Kuasa."
+> "Hadis Qudsi ialah sabda Nabi Muhammad yang diwahyukan kepada baginda oleh Allah Yang Maha Kuasa. Berbeza daripada kebanyakan hadis yang merupakan Hadis Nabawi, autoritinya disandarkan bukan kepada Nabi, tetapi kepada Allah Yang Maha Kuasa."
 
 ---
 
@@ -68,7 +68,7 @@ MATAN: "Setiap amalan dinilai berdasarkan niat, dan setiap orang akan
 ## Hadis Terkenal | Famous Hadith
 
 ### Tentang Niat:
-> "Setiap amalan dinilai berdasarkan niat, dan setiap orang akan diberi ganjaran mengikut niatnya." (Bukhari)
+> "Sesungguhnya setiap amalan itu bergantung kepada niat, dan setiap orang hanya mendapat apa yang dia niatkan." (Bukhari)
 
 ### Tentang Persaudaraan:
 > "Tidak sempurna iman salah seorang daripada kamu sehingga dia mengasihi saudaranya sebagaimana dia mengasihi dirinya sendiri." (Bukhari, Muslim)
@@ -77,20 +77,20 @@ MATAN: "Setiap amalan dinilai berdasarkan niat, dan setiap orang akan
 > "Menuntut ilmu itu wajib ke atas setiap Muslim." (Ibn Majah)
 
 ### Tentang Kelembutan:
-> "Allah itu Maha Lembut dan menyukai kelembutan dalam segala perkara." (Bukhari, Muslim)
+> "Sesungguhnya Allah Maha Lembut dan menyukai kelembutan dalam semua urusan." (Bukhari, Muslim)
 
 ### Tentang Akhlak:
-> "Sebaik-baik kamu ialah orang yang paling baik akhlaknya." (Bukhari)
+> "Sesungguhnya sebaik-baik kamu ialah orang yang paling baik akhlaknya." (Bukhari)
 
 ---
 
 ## Peranan dalam Hukum Islam | Role in Islamic Law
 
-### Sumber Perundangan Islam (Usul Fiqh):
+### Sumber Hukum Islam:
 1. **al-Quran** - Sumber utama, kalam Allah
 2. **Hadis/Sunnah** - Sumber kedua, teladan Nabi
 3. **Ijmak** (*Ijma'*) - Kesepakatan para ulama
-4. **Qiyas** - Penaakulan secara analogi
+4. **Qiyas** - Analogi hukum
 
 > "Hadis pada asasnya ialah sabda, perbuatan dan tindakan Muhammad. Hadis berbeza daripada al-Quran, tetapi menyediakan panduan untuk menjalani kehidupan yang suci berdasarkan kehidupan Nabi sendiri."
 
@@ -110,7 +110,7 @@ Para ulama menyusun kaedah yang ketat untuk mengesahkan hadis:
 
 ### Kriteria Penilaian Perawi:
 - Keadilan (*adalah*)
-- Ketepatan hafalan (*dabt*)
+- Kekuatan dan ketepatan hafalan (*dabt*)
 - Sanad bersambung (*ittisal*)
 - Tiada kecacatan tersembunyi (*salama min shudhdh*)
 - Tiada kejanggalan (*salama min illa*)
@@ -121,19 +121,19 @@ Para ulama menyusun kaedah yang ketat untuk mengesahkan hadis:
 
 > "Terdapat banyak riwayat tentang kelebihan menghafaz, memelihara dan mengajarkan empat puluh hadis."
 
-Yang paling terkenal ialah **Hadis Arba'in karya Imam al-Nawawi**, iaitu himpunan ajaran asas yang merangkumi prinsip teras Islam.
+Yang paling terkenal ialah **Hadis 40 Imam al-Nawawi**, iaitu himpunan ajaran asas yang merangkumi prinsip teras Islam.
 
 ---
 
 ## Istilah Utama | Key Terms
-| Bahasa Arab | Maksud |
-|--------|---------|
-| حديث (Hadith) | Tradisi/sabda |
-| سنة (Sunnah) | Jalan Nabi |
-| إسناد (Isnad) | Rantaian periwayatan |
-| متن (Matn) | Kandungan teks |
-| صحيح (Sahih) | Sahih/tulen |
-| راوي (Rawi) | Perawi |
+| Bahasa Arab | Sebutan Melayu | Maksud |
+|--------|--------|---------|
+| حديث (Hadith) | Hadis | Riwayat/sabda |
+| سنة (Sunnah) | Sunnah | Jalan Nabi |
+| إسناد (Isnad) | Isnad/Sanad | Rantaian periwayatan |
+| متن (Matn) | Matan | Kandungan teks |
+| صحيح (Sahih) | Sahih | Tulen |
+| راوي (Rawi) | Rawi | Perawi |
 
 ---
 
@@ -144,4 +144,4 @@ Yang paling terkenal ialah **Hadis Arba'in karya Imam al-Nawawi**, iaitu himpuna
 - [Sunnah.com - Hadith Collections](https://sunnah.com/)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Memberi manfaat kepada seluruh umat manusia*

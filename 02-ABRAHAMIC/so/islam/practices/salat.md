@@ -1,4 +1,4 @@
-# Salaadda (Salaadda Islaamka) | Salat (Islamic Prayer)
+# Salaadda (Salaadda Islaamka) | Salat (Islamic Prayer) (الصلاة)
 
 > Shanta Salaadood ee Maalinlaha ah
 
@@ -6,83 +6,83 @@
 
 ## Guudmar | Overview
 
-Salaadda (Carabi: ٱلصَّلَاةُ, aṣ-Ṣalāh), oo sidoo kale loo yaqaan Namaaz, waa ibaadada rasmiga ah ee Islaamka, waxayna ka kooban tahay taxane salaado ah oo la fuliyo waqtiyo go'an maalin kasta. Salaaddu waa mid ka mid ah shanta tiir ee Islaamka, waana ibaado aasaasi ah oo Muslimiintu fuliyaan.
+Salaadda (Carabi: ٱلصَّلَاةُ, aṣ-Ṣalāh), oo sidoo kale loo yaqaan Namaaz, waa cibaadada rasmiga ah ee Islaamka, waxayna ka kooban tahay taxane salaado ah oo la fuliyo waqtiyo go'an maalin kasta. Salaaddu waa mid ka mid ah shanta tiir ee Islaamka, waana cibaado aasaasi ah oo Muslimiintu fuliyaan.
 
-Ujeedada ugu weyn ee salaadda waa inay noqoto habka lala xiriiro Allah. Waxyaabaha kale ee muhiimadda la siiyo waxaa ka mid ah nadiifinta qalbiga, ku dhawaanshaha Ilaah, iyo xoojinta iimaanka.
+Ujeedada ugu weyn ee salaadda waa inay noqoto habka lala xiriiro Allaah. Waxyaabaha kale ee muhiimadda la siiyo waxaa ka mid ah nadiifinta qalbiga, ku dhawaanshaha Eebbe, iyo xoojinta iimaanka.
 
 ---
 ## Shanta Salaadood ee Maalinlaha ah | The Five Daily Prayers
 
-> "Muslimiintu waxay tukadaan ugu yaraan shan jeer maalintii, salaadahooda fardiga ah (waajibka ah) waxaa loo yaqaan Fajr (kahor waaberigii), Dhuhr (duhurkii), Asr (galabtii dambe), Maghrib (qorrax-dhaca), iyo Isha (habeenkii), iyagoo had iyo jeer wajahaya Kacbada."
+> "Muslimiintu waxay tukadaan ugu yaraan shan jeer maalintii, salaadahooda fardiga ah (waajibka ah) waxaa loo yaqaan Subax/Fajar (waaberiga ka hor), Duhur (duhurkii), Casar (galabnimada dambe), Maqrib (qorrax-dhaca), iyo Cishe (habeenkii), iyagoo had iyo jeer u jeeda Kacbada."
 
 | Salaad | Carabi | Waqtiga | Macnaha |
 |--------|--------|------|---------|
-| **Fajr** | الفجر | Kahor waaberigii | Waaberi |
-| **Dhuhr** | الظهر | Ka dib duhurka | Duhur |
-| **Asr** | العصر | Galabtii dambe | Galab |
-| **Maghrib** | المغرب | Qorrax-dhaca | Qorrax-dhac |
-| **Isha** | العشاء | Habeenkii | Habeen |
+| **Fajar** | الفجر | Waaberiga ka hor | Waaberi |
+| **Duhur** | الظهر | Ka dib duhurka | Duhur |
+| **Casar** | العصر | Galabtii dambe | Galab |
+| **Maqrib** | المغرب | Qorrax-dhaca | Qorrax-dhac |
+| **Cishe** | العشاء | Habeenkii | Habeen |
 
 ---
 ## Sida Salaadda Loo Fuliyo | How Prayer is Performed
 
-> "Salaadahan waxay ka kooban yihiin cutubyo la yiraahdo rak'ah, waxayna ka kooban yihiin meelaynno jidh oo gaar ah, akhrinta Qur'aanka, iyo ducooyin ka timid Sunnada, waxaana la fuliyaa iyadoo la wajahayo jihada Kacbada ee Makka (qibla)."
+> "Salaadahan waxay ka kooban yihiin cutubyo la yiraahdo rakco (rak'ah), waxayna leeyihiin qaabab jireed oo gaar ah, akhrinta Qur'aanka, iyo ducooyin ka timid Sunnada, waxaana la fuliyaa iyadoo loo jeedo jihada Kacbada ee Makka (qiblada)."
 
-### Afarta Meelayn | The Four Postures:
-| Meelayn | Carabi | Sharaxaad |
+### Afarta Qaab | The Four Postures:
+| Qaabka | Carabi | Sharaxaad |
 |---------|--------|-------------|
-| **Istaagid** | Qiyam | Akhrinta Qur'aanka |
-| **Rukuuc** | Ruku | Dhexda oo la foorarsado |
+| **Istaagga** | Qiyam | Akhrinta Qur'aanka |
+| **Rukuuc** | Ruku | Foorarsiga dhexda |
 | **Sujuud** | Sujud | Foodda oo dhulka la dhigo |
-| **Fadhiisasho** | Juloos | Inta u dhexaysa labada sujuud |
+| **Fadhiga** | Juloos | Inta u dhexaysa labada sujuud |
 
 ### Akhrinta Muhiimka ah | Key Recitations:
-> "Ka dib istaagidda, kuwa tukanaya waxay u gudbaan rukuuc, waxayna leeyihiin 'subhana rabbiyal azim' ('Waa nasahan yahay Rabbigayga Weyn'). Waxaa ku xiga sujuud iyagoo leh 'subhana rabbiyal a'laa' ('Waa nasahan yahay Rabbigayga Sare')."
+> "Ka dib istaagidda, kuwa tukanaya waxay u gudbaan rukuuc, waxayna yiraahdaan 'Subxaana Rabbiyal Cadiim' ('Waxaa la nazihay Rabbigayga Weyn'). Waxaa ku xiga sujuud iyagoo leh 'Subxaana Rabbiyal Aclaa' ('Waxaa la nazihay Rabbigayga Sare')."
 
 ---
 ## Diyaarinta | Preparation
 
-### Wudu (Dhaqidda Cibaadada) | Wudu (Ritual Washing):
-> "Waxbarashada Islaamku waxay Muslimiinta ku waajibisaa inay dhaqaan gacmaha, cagaha, dhudhunnada iyo lugaha, taas oo la yiraahdo Wudhu, kahor intaysan tukan."
+### Weyso (Dhaqidda Cibaadada) | Wudu (Ritual Washing):
+> "Waxbarashada Islaamku waxay Muslimiinta ku waajibisaa inay si cibaadeed u dhaqaan calaacalaha, cagaha, gacmaha iyo lugaha, taas oo la yiraahdo weyso (wuduu'), ka hor intaysan tukan."
 
 ### Shuruudaha | Requirements:
-- Jidh nadiif ah (wudu)
+- Jidh nadiif ah (weyso)
 - Meel nadiif ah
-- Dharka oo nadiif ah
-- Labbiska xishoodka leh
-- Wajahidda qibla (jihada Makka)
+- Dhar nadiif ah
+- Labbis asturan
+- U jeedsashada qiblada (jihada Makka)
 
 ---
 ## Muhiimadda Ruuxiga ah | Spiritual Significance
 
-> "Tukashada salaadda waxay ujeedadeedu tahay inay noqoto ibaado ruuxi ah oo qoto dheer oo ku xidha dhammaan Muslimiinta Allah iyo midba midka kale. Meelaynta salaadaha shan waqti oo kala duwan maalin kasta waxay dejisaa qaab ay Muslimiintu maalintooda ku habeeyaan."
+> "Tukashada salaadda waxay ujeedadeedu tahay inay noqoto cibaado ruuxi ah oo qoto dheer oo dhammaan Muslimiinta ku xidha Allaah iyo midba midka kale. Kala-qaybinta salaadaha shan waqti oo kala duwan maalin kasta waxay dejisaa qaab ay Muslimiintu maalintooda ku habeeyaan."
 
 ### Ujeedooyinka | Purposes:
 | Ujeedo | Faa'iido |
 |---------|---------|
-| **Xiriir** | Xiriir toos ah oo lala yeesho Allah |
+| **Xiriir** | Xiriir toos ah oo lala yeesho Allaah |
 | **Nadiifin** | Nadiifinta qalbiga |
-| **Dhawaansho** | Ku dhawaanshaha Ilaah |
+| **Dhawaansho** | Ku dhawaanshaha Eebbe |
 | **Anshax** | Habaynta maalinta |
 | **Bulsho** | Midnimo lala yeesho dhammaan Muslimiinta |
 
-> "Waxaa la rumaysan yahay in nafta u baahan tahay salaad iyo ku dhawaanshaha Allah si ay u noqoto mid la nafaqeeyey oo caafimaad qabta."
+> "Waxaa la rumaysan yahay in nafta u baahan tahay salaad iyo ku dhawaanshaha Allaah si ay u ahaato mid la nafaqeeyey oo caafimaad qabta."
 
 ---
 ## Dhaqanka Casriga ah | Modern Practice
 
-> "Horumarka tignoolajiyaddu wuxuu fududeeyey ilaalinta salaadda joogtada ah. Muuqaalada waxbarashadu waxay u suurtagaliyaan Muslimiinta cusub iyo carruurta inay barto sida loo tukado; waqtiyada salaadda oo si cilmiyeysan loo xisaabiyey waxay Muslimiinta siiyaan hab sahlan oo lagu ogaado waqtiyada la tukanayo; barnaamijyada taleefanka casriga ah waxaa ku jira Qur'aanno dijitaal ah iyo xasuusin toos ah oo dhex-dhigta adhaanka shan jeer maalintii."
+> "Horumarka tignoolajiyaddu wuxuu fududeeyey ilaalinta salaadda joogtada ah. Muuqaalada waxbarashadu waxay u suurtagaliyaan Muslimiinta cusub iyo carruurta inay bartaan sida loo tukado; waqtiyada salaadda oo si cilmiyeysan loo xisaabiyey waxay Muslimiinta siiyaan hab sahlan oo lagu ogaado waqtiyada la tukanayo; barnaamijyada taleefanka casriga ah waxaa ku jira Qur'aanno dijitaal ah iyo xasuusin toos ah oo shan jeer maalintii dhawaajiya aadaanka."
 
 ---
 ## Erayada Muhiimka ah | Key Terms
 | Carabi | Soomaali | Macnaha |
 |--------|---------|---------|
-| Salah (صلاة) | Salaad | Tukasho |
-| Rak'ah | Rakaca | Cutubka salaadda |
-| Wudu (وضوء) | Wudo | Dhaqidda cibaadada |
+| Salah (صلاة) | Salaad | Cibaadada salaadda |
+| Rak'ah | Rakco | Cutubka salaadda |
+| Wudu (وضوء) | Weyso | Dhaqidda cibaadada |
 | Qibla | Qiblada | Jihada Makka |
-| Adhan (أذان) | Adhaan | Wicitaanka salaadda |
-| Sujud | Sujuud | Sujuud |
+| Adhan (أذان) | Aadaan | Wicitaanka salaadda |
+| Sujud | Sujuud | Foodda oo dhulka la dhigo |
 
 ---
 ## Tixraacyo | References

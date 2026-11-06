@@ -16,9 +16,9 @@ Il suo pensiero ha plasmato le dottrine del peccato originale, della grazia divi
 
 ## Le Confessioni | The Confessions
 
-> Le *Confessioni* (ca. 397–400 d.C.) sono la prima autobiografia dell'Occidente e uno dei libri più influenti della letteratura cristiana. Ripercorrono il cammino spirituale di Agostino dal peccato alla salvezza.
+> Le *Confessioni* (397–400 d.C. ca.) sono la prima autobiografia dell'Occidente e uno dei libri più influenti della letteratura cristiana. Ripercorrono il cammino spirituale di Agostino dal peccato alla salvezza.
 
-> «Tardi ti ho amato, bellezza così antica e così nuova! Tardi ti ho amato... Tu eri dentro di me, ma io ero fuori di me.»
+> «Tardi ti amai, bellezza così antica e così nuova! Tardi ti amai... Tu eri dentro di me, ma io ero fuori di me.»
 
 Temi principali:
 - **Inquietudine**: il desiderio che l'anima ha di Dio
@@ -37,7 +37,7 @@ Temi principali:
 Dottrine principali:
 - **Peccato originale**: colpa e corruzione ereditate
 - **Depravazione totale**: la volontà non è in grado di scegliere il bene senza la grazia
-- **Predestinazione**: la scelta sovrana di Dio degli eletti
+- **Predestinazione**: la scelta sovrana degli eletti da parte di Dio
 - **Grazia irresistibile**: la chiamata efficace di Dio
 
 > «Da' ciò che comandi, e comanda ciò che vuoi.» Questa preghiera riassume la concezione agostiniana della grazia: senza l'aiuto divino, nessuna realizzazione umana è possibile.
@@ -70,10 +70,10 @@ Concetti centrali:
 
 ## Riferimenti incrociati | Cross-References
 
-- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Tommaso d'Aquino]] - La sintesi scolastica
-- [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] - Grazia e fede
-- [[07-MODERN-PHIL/existentialism/philosophers/kierkegaard|Kierkegaard]] - Disperazione e grazia
-- [[04-HELLENIC/neoplatonism/philosophers/plotinus|Plotino]] - L'influsso neoplatonico
+- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Tommaso d'Aquino]] — La sintesi scolastica
+- [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] — Grazia e fede
+- [[07-MODERN-PHIL/existentialism/philosophers/kierkegaard|Kierkegaard]] — Disperazione e grazia
+- [[04-HELLENIC/neoplatonism/philosophers/plotinus|Plotino]] — L'influsso neoplatonico
 
 ---
 

@@ -26,7 +26,7 @@ Fu dichiarato Dottore della Chiesa da papa Pio V nel 1567 ed è considerato il p
 | **Quarta Via** | I gradi | Deve esistere un Essere sommo |
 | **Quinta Via** | La teleologia | Deve esistere un'Intelligenza ordinatrice |
 
-> «L'esistenza di Dio si può provare in cinque modi... La prima via, e la più evidente, è quella che si desume dal moto.»
+> «L'esistenza di Dio si può provare per cinque vie... La prima e più evidente è quella che si desume dal moto.»
 
 ---
 
@@ -34,7 +34,7 @@ Fu dichiarato Dottore della Chiesa da papa Pio V nel 1567 ed è considerato il p
 
 > Tommaso elaborò la teoria della legge naturale più influente della tradizione occidentale. La legge naturale è la partecipazione della legge eterna nella creatura razionale.
 
-> «La legge naturale non è altro che la partecipazione della legge eterna nella creatura razionale.»
+> «La legge naturale non è altro che la partecipazione della legge eterna nella creatura ragionevole.»
 
 Quattro tipi di legge:
 1. **Legge eterna**: il piano razionale di Dio per la creazione
@@ -42,7 +42,7 @@ Quattro tipi di legge:
 3. **Legge umana**: le leggi stabilite dall'autorità umana
 4. **Legge divina**: la legge rivelata nella Sacra Scrittura
 
-> La legge naturale è conoscibile mediante la ragione ed è universale per tutti gli esseri umani. Il suo primo precetto: «Il bene deve essere fatto e perseguito, e il male deve essere evitato.»
+> La legge naturale è conoscibile mediante la ragione ed è universale per tutti gli esseri umani. Il suo primo precetto: «Il bene è da farsi e da cercarsi, il male è da evitarsi.»
 
 ---
 
@@ -72,16 +72,16 @@ Struttura:
 - **Seconda Parte della Seconda Parte**: le virtù e i vizi in particolare
 - **Terza Parte**: Cristo, i sacramenti (incompiuta)
 
-> Tommaso morì prima di aver completato la *Summa*. Verso la fine della vita ebbe un'esperienza mistica, dopo la quale disse: «Tutto ciò che ho scritto mi sembra paglia in confronto a ciò che mi è stato rivelato.»
+> Tommaso morì prima di aver completato la *Summa*. Verso la fine della vita ebbe un'esperienza mistica, dopo la quale disse: «Tutto ciò che ho scritto mi sembra paglia in confronto a ciò che ora mi è stato rivelato.»
 
 ---
 
 ## Rimandi ad altri documenti | Cross-References
 
-- [[04-HELLENIC/classical/philosophers/aristotle|Aristotele]] - Fondamento filosofico
-- [[02-ABRAHAMIC/christianity/philosophers/augustine|Agostino]] - Eredità teologica
-- [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] - Un approccio diverso
-- [[02-ABRAHAMIC/islam/philosophy/al-farabi|Al-Farabi]] - Influsso della filosofia islamica
+- [[04-HELLENIC/classical/philosophers/aristotle|Aristotele]] — Fondamento filosofico
+- [[02-ABRAHAMIC/christianity/philosophers/augustine|Agostino]] — Eredità teologica
+- [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] — Un approccio diverso
+- [[02-ABRAHAMIC/islam/philosophy/al-farabi|Al-Farabi]] — Influsso della filosofia islamica
 
 ---
 

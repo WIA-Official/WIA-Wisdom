@@ -6,7 +6,7 @@
 
 ## Visión general | Overview
 
-San Agustín de Hipona (354–430 d. C.) fue teólogo, filósofo y obispo de Hipona Regia, en el África del Norte romana. Es una de las figuras más importantes en el desarrollo del cristianismo occidental y de la filosofía occidental. Sus escritos influyeron en la formación de la filosofía y del cristianismo de Occidente, y se le considera uno de los Padres de la Iglesia más importantes de la Iglesia latina durante la época patrística.
+San Agustín de Hipona (354–430 d. C.) fue teólogo, filósofo y obispo de Hipona Regia, en el norte de África romano. Es una de las figuras más importantes en el desarrollo del cristianismo occidental y de la filosofía occidental. Sus escritos influyeron en la formación de la filosofía y del cristianismo de Occidente, y se le considera uno de los Padres de la Iglesia más importantes de la Iglesia latina durante la época patrística.
 
 > «Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti». Esta célebre frase de sus *Confesiones* resume el itinerario espiritual y la teología de Agustín.
 
@@ -18,7 +18,7 @@ Su pensamiento dio forma a las doctrinas del pecado original, la gracia divina, 
 
 > Las *Confesiones* (h. 397–400 d. C.) son la primera autobiografía occidental y uno de los libros más influyentes de la literatura cristiana. Recorren el itinerario espiritual de Agustín, del pecado a la salvación.
 
-> «¡Tarde te amé, belleza tan antigua y tan nueva! ¡Tarde te amé!... Tú estabas dentro de mí, y yo fuera de mí».
+> «¡Tarde te amé, hermosura tan antigua y tan nueva, tarde te amé!... Tú estabas dentro de mí y yo fuera».
 
 Temas clave:
 - **Inquietud**: el anhelo del alma por Dios
@@ -38,9 +38,9 @@ Doctrinas clave:
 - **Pecado original**: culpa y corrupción heredadas
 - **Depravación total**: la voluntad incapaz de elegir el bien sin la gracia
 - **Predestinación**: la elección soberana de Dios sobre los elegidos
-- **Gracia irresistible**: el llamado eficaz de Dios
+- **Gracia irresistible**: el llamamiento eficaz de Dios
 
-> «Da lo que mandas, y manda lo que quieras». Esta oración resume la comprensión agustiniana de la gracia: sin la capacitación divina, el logro humano es imposible.
+> «Da lo que mandas, y manda lo que quieras». Esta oración resume la comprensión agustiniana de la gracia: sin el auxilio divino, el logro humano es imposible.
 
 ---
 
@@ -48,7 +48,7 @@ Doctrinas clave:
 
 > Escrita en respuesta al saqueo de Roma en el año 410 d. C., *La ciudad de Dios* (*De civitate Dei*) contrapone la «Ciudad de Dios» a la «Ciudad de los hombres».
 
-> «Dos amores fundaron dos ciudades: el amor propio, hasta el desprecio de Dios, la terrena; el amor de Dios, hasta el desprecio de sí, la celestial».
+> «Dos amores fundaron dos ciudades: el amor propio hasta el desprecio de Dios, la terrena; y el amor de Dios hasta el desprecio de sí, la celestial».
 
 Conceptos centrales:
 - **Dos ciudades**: amores y destinos opuestos

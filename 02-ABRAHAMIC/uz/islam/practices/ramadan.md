@@ -6,35 +6,35 @@
 
 ## Umumiy ma'lumot | Overview
 
-Ramazon (arabcha: رمضان) — islom qamariy taqvimining to'qqizinchi oyi va islomdagi eng muqaddas oy. Shu oyda butun dunyo musulmonlari islomning besh ustunidan biri bo'lmish sovm (ro'za)ni tong otishidan quyosh botishigacha tutadilar. Ramazon — shunchaki yeyish va ichishdan tiyilish emas, balki ma'naviy poklanish, tafakkur, ibodatning kuchayishi va Alloh taolo (subhanahu va taolo) bilan aloqaning chuqurlashuvi oyidir.
+Ramazon (arabcha: رمضان) — islom qamariy taqvimining to'qqizinchi oyi va islomdagi eng muqaddas oy. Shu oyda butun dunyo musulmonlari islomning besh ruknidan biri bo'lmish savm (ro'za)ni tong otishidan quyosh botishigacha tutadilar. Ramazon — shunchaki yeyish va ichishdan tiyilish emas, balki ma'naviy poklanish, tafakkur, ibodatning ziyoda bo'lishi va Alloh (subhanahu va taolo) bilan bog'liqlikning chuqurlashuvi oyidir.
 
-"Ramazon" so'zi arabcha "ramdh" (رمض) ildizidan kelib chiqqan bo'lib, "o'ta issiq" yoki "yondiruvchi" ma'nolarini anglatadi — bu ro'za gunohlarni kuydirishi, ma'naviy iliqlik hosil qilishi va ibodatni kuchaytirishiga ishora qiladi. Eng muhimi, Ramazon — Qur'on Payg'ambar Muhammad (sallallohu alayhi va sallam)ga ilk bor nozil qilingan oy bo'lib, u ilohiy vahiy bilan alohida bog'liq oydir.
+"Ramazon" so'zi arabcha "ramdh" (رمض) o'zagidan kelib chiqqan bo'lib, "o'ta issiq" yoki "kuydiruvchi" ma'nolarini anglatadi — bu ro'za gunohlarni kuydirib yuborishi, ma'naviy iliqlik hosil qilishi va ibodatni kuchaytirishiga ishora qiladi. Eng muhimi, Ramazon — Qur'on Payg'ambar Muhammadga ilk bor nozil qilingan oy bo'lib, u ilohiy vahiy bilan alohida bog'liq oydir.
 
 ---
 
 ## Qur'ondagi asos | Quranic Foundation
 
-> "Ramazon oyi — odamlar uchun hidoyat, hidoyatning ravshan dalillari va haq bilan botilni ajratuvchi mezon sifatida Qur'on nozil qilingan oydir." (Qur'on 2:185)
+> "Ramazon oyi — odamlar uchun hidoyat va to'g'ri yo'l hamda ajrim (haq bilan botilni ajratuvchi) bo'lgan ochiq oyatlar sifatida Qur'on nozil qilingan oydir." (Qur'on 2:185)
 
-### Laylat al-Qadr (Qadr kechasi):
+### Laylatul qadr (Qadr kechasi):
 - Qur'on ilk bor nozil qilingan kecha
 - Ramazonning oxirgi o'n kechasi ichiga to'g'ri keladi
-- "Ming oydan yaxshiroq" (Qur'on 97:3)
+- "Ming oydan yaxshiroqdir" (Qur'on 97:3)
 - Farishtalar ilohiy barakalar bilan tushadilar
 
 ---
 
 ## Ma'naviy foydalar | Spiritual Benefits
 
-> "Musulmonlar Ramazonni Allohning amri sifatida tutadilar. Bu — ma'naviy poklanish, tafakkur va ibodat oyidir."
+> "Musulmonlar Ramazonni Allohning (subhanahu va taolo) amri sifatida tutadilar. Bu — ma'naviy poklanish, tafakkur va ibodat oyidir."
 
-### Taqvoni (Allohni anglashni) rivojlantirish:
+### Taqvoni (Allohni doimo yodda tutishni) rivojlantirish:
 | Jihat | Rivojlanish |
 |--------|-------------|
-| **Ogohlik** | Allohning hozir-u nozirligini doimo anglash |
-| **O'zini tiyish** | Istak va xohishlarni nazorat qilish |
-| **Mas'uliyat** | Mas'uliyat hissining kuchayishi |
-| **Tobelik** | Allohga suyanishni anglash |
+| **Ogohlik** | Allohning hozir-u nozirligini doimo his qilish |
+| **Nafsni tiyish** | Istak va havasni jilovlash |
+| **Hisob berish** | Mas'uliyat hissining kuchayishi |
+| **Tavakkul** | Allohga suyanishni anglash |
 
 ### Ilohiy mukofotlar:
 > "Aytilishicha, Alloh muborak oyni ro'za, namoz va sidqidil niyat bilan o'tkazganlarning o'tgan gunohlarini kechiradi."
@@ -43,19 +43,19 @@ Ramazon (arabcha: رمضان) — islom qamariy taqvimining to'qqizinchi oyi va 
 
 ---
 
-## Ro'za (sovm) | The Fast (Sawm)
+## Ro'za (savm) | The Fast (Sawm)
 
 ### Talablar:
-- **Boshlanishi**: tong (bomdod) otishidan oldin
+- **Boshlanishi**: tong otishidan oldin (bomdod)
 - **Tugashi**: quyosh botganda (shom)
-- **Tiyilinadigan narsalar**: taom, ichimlik, chekish, jinsiy aloqa
+- **Tiyilinadigan narsalar**: taom, ichimlik, chekish, jinsiy yaqinlik
 - **Davomiyligi**: butun oy (29–30 kun)
 
 ### Kundalik tartib:
 | Taom | Vaqti | Nomi |
 |------|------|------|
-| Tong oldidagi taom | Bomdoddan oldin | Suhur/Sahar |
-| Og'iz ochish | Shom vaqtida | Iftor |
+| Tong oldidagi taom | Bomdoddan oldin | Saharlik (suhur) |
+| Og'iz ochish | Shom vaqtida | Iftorlik (iftor) |
 
 ### Istisnolar:
 - Balog'atga yetmagan bolalar
@@ -68,15 +68,15 @@ Ramazon (arabcha: رمضان) — islom qamariy taqvimining to'qqizinchi oyi va 
 
 ## Ibodat amallari | Worship Practices
 
-### Taroveh namozlari:
-> "Ramazon davomida ko'plab musulmonlar masjidga borib, bir necha soat namoz o'qiydilar. Kunlik besh vaqt namozdan tashqari, musulmonlar taroveh deb ataladigan maxsus namozni ado etadilar."
+### Tarovih namozlari:
+> "Ramazon davomida ko'plab musulmonlar masjidga borib, bir necha soat namoz o'qiydilar. Kunlik besh vaqt namozdan tashqari, musulmonlar tarovih deb ataladigan maxsus namozni ado etadilar."
 
-### Kuchaytirilgan ibodat:
+### Ziyoda ibodat:
 | Amal | Tavsif |
 |----------|-------------|
 | **Qur'on tilovati** | Oy davomida Qur'onni to'liq xatm qilish |
-| **Taroveh** | Uzaytirilgan kechki namozlar |
-| **E'tikof** | Masjidda ma'naviy xilvat (oxirgi 10 kun) |
+| **Tarovih** | Uzaytirilgan kechki namozlar |
+| **E'tikof** | Masjidda ibodat uchun xilvatga chekinish (oxirgi 10 kun) |
 | **Sadaqa** | Ko'paytirilgan xayr-ehson |
 | **Zikr** | Allohni yod etish |
 
@@ -95,27 +95,27 @@ Ramazon (arabcha: رمضان) — islom qamariy taqvimining to'qqizinchi oyi va 
 
 ---
 
-## Iyd al-Fitr (Ramazon hayiti) | Eid al-Fitr
+## Ramazon hayiti (Iyd al-fitr) | Eid al-Fitr
 
-Oy Iyd al-Fitr ("Ro'za tutishni yakunlash bayrami") bilan yakunlanadi:
+Oy Ramazon hayiti — Iyd al-fitr ("Ro'za tugashi bayrami") bilan yakunlanadi:
 - Uch kunlik bayram
-- Maxsus jamoat namozi
-- Zakot al-fitr (kambag'allarga xayr-ehson)
-- Dasturxon va qarindoshlarni ziyorat qilish
+- Maxsus jamoat namozi (hayit namozi)
+- Fitr sadaqasi (zakotul fitr — kambag'allarga beriladigan sadaqa)
+- Ziyofatlar va qarindoshlarni ziyorat qilish
 - Sovg'a almashish
 
 ---
 
 ## Asosiy atamalar | Key Terms
-| Arabcha | Talaffuzi | Ma'nosi |
+| Arabcha | O'zbekcha | Ma'nosi |
 |--------|--------|---------|
-| صوم/صيام (Sawm) | Sovm | Ro'za |
+| صوم/صيام (Sawm) | Savm | Ro'za |
 | رمضان (Ramadan) | Ramazon | Muqaddas oy |
-| سحور (Suhur) | Suhur | Tong oldidagi taom |
-| إفطار (Iftar) | Iftor | Og'iz ochish |
-| تقوى (Taqwa) | Taqvo | Allohni anglash, taqvodorlik |
-| تراويح (Tarawih) | Taroveh | Kechki namozlar |
-| ليلة القدر (Laylat al-Qadr) | Laylat al-Qadr | Qadr kechasi |
+| سحور (Suhur) | Saharlik | Tong oldidagi taom |
+| إفطار (Iftar) | Iftorlik | Og'iz ochish |
+| تقوى (Taqwa) | Taqvo | Allohni doimo yodda tutish, taqvodorlik |
+| تراويح (Tarawih) | Tarovih | Kechki namozlar |
+| ليلة القدر (Laylat al-Qadr) | Laylatul qadr | Qadr kechasi |
 
 ---
 
@@ -127,4 +127,4 @@ Oy Iyd al-Fitr ("Ro'za tutishni yakunlash bayrami") bilan yakunlanadi:
 
 ---
 
-*弘益人間 - Insoniyatga naf keltir*
+**弘益人間 · Benefit All Humanity**

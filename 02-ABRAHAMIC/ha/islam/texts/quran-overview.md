@@ -6,7 +6,7 @@
 
 ## Bayani Gabaɗaya | Overview
 
-Alƙur'ani (Larabci: القرآن, al-Qur'ān, "Karatu") shi ne babban littafin addini na Musulunci. Musulmi sun yi imani cewa maganar Allah (Allāh) ce kai tsaye, wadda aka saukar wa Annabi Muhammadu ta hannun mala'ika Jibrilu (Jibrīl). Saukar wahayin ta ɗauki kusan shekara 23, ta fara a shekara ta 610 bayan haihuwar Annabi Isa (CE), lokacin da Muhammadu yake da shekara 40, ta kuma ƙare a shekara ta 632 (CE), wato shekarar rasuwarsa.
+Alƙur'ani (Larabci: القرآن, al-Qur'ān, "Karatu") shi ne babban littafin addini na Musulunci. Musulmi sun yi imani cewa maganar Allah (Allāh) ce kai tsaye, wadda aka saukar wa Annabi Muhammadu ta hannun mala'ika Jibrilu (Jibrīl). Saukar wahayin ta ɗauki kusan shekara 23, ta fara a shekara ta 610 Miladiyya, lokacin da Muhammadu yake da shekara 40, ta kuma ƙare a shekara ta 632 Miladiyya, wato shekarar rasuwarsa.
 
 Ana ɗaukar Alƙur'ani a matsayin wahayi na ƙarshe kuma cikakke, mai gaskata littattafan da suka gabace shi, ciki har da Attaura da Linjila, kuma mai shafe hukuncinsu. Shi ne babban tushen shari'ar Musulunci (Sharīʿah), da ilimin akida, da jagora ga dukkan fannonin rayuwar Musulmi.
 
@@ -20,7 +20,7 @@ An tsara Alƙur'ani kamar haka:
 |-----------|-------------|
 | **Sura 114** | Babuka, masu aya daga 3 zuwa 286 |
 | **Aya kimanin 6,200** | Ayoyi (a zahirin harshe: "alamomi") |
-| **Juz'i 30** | Sassa don karatu |
+| **Juzu'i 30** | Sassa don karatu |
 
 Ba a jera surorin bisa tsarin lokacin saukarsu ba, sai dai gabaɗaya bisa tsawonsu, daga mafi tsawo zuwa mafi gajarta (ban da babin buɗewa, Al-Fātiḥah). Kowace sura, in ban da ta tara (At-Tawbah), tana farawa da Bismillah: "Da sunan Allah, Mai rahama, Mai jinƙai."
 
@@ -32,9 +32,9 @@ Musulmi sun yi imani cewa an saukar da Alƙur'ani ga Muhammadu a biranen Makka d
 
 ### Wahayin Farko | The First Revelation
 
-Ana ɗaukar ayoyi biyar na farko na Suratul Alaƙ (96:1-5) a matsayin wahayin farko, wanda ya samu a lokacin da Muhammadu yake kaɗaici a kogon Hira:
+Ana ɗaukar ayoyi biyar na farko na Suratul Alaƙ (96:1-5) a matsayin wahayin farko, wanda Muhammadu ya karɓa a lokacin da yake keɓewa a kogon Hira:
 
-> "Karanta! Da sunan Ubangijinka wanda ya halitta—ya halicci mutum daga gudan jini. Karanta! Kuma Ubangijinka shi ne Mafi Karimci."
+> "Ka yi karatu da sunan Ubangijinka wanda Ya yi halitta—Ya halitta mutum daga gudan jini. Ka yi karatu! Kuma Ubangijinka ne Mafi karimci."
 
 ### Surorin Makka da na Madina | Meccan vs. Medinan Surahs
 
@@ -80,10 +80,10 @@ An kiyaye Alƙur'ani ta hanyoyi kamar haka:
 ### Rubutaccen Tarawa | Written Compilation
 
 - A farko an rubuta shi a kan ganyen dabino, da ƙasusuwa, da fata
-- An tattara shi a littafi guda (muṣḥaf) a zamanin Halifa Usman (644-656 CE)
-- Mus'hafin Usman ya zama ingantaccen rubutu na yau da kullum
+- An tattara shi a littafi guda (muṣḥaf) a zamanin Halifa Usman (644-656 Miladiyya)
+- Mus'hafin Usman ya zama rubutun da aka amince da shi a matsayin mizani
 
-Tsarin Alƙur'ani mai kiɗa da waƙa yana sauƙaƙa haddace shi, kuma shi ne littafin da aka fi haddacewa a tarihin ɗan Adam.
+Salon Alƙur'ani mai kari da daɗin sauti yana sauƙaƙa haddace shi, kuma shi ne littafin da aka fi haddacewa a tarihin ɗan Adam.
 
 ---
 
@@ -92,7 +92,7 @@ Tsarin Alƙur'ani mai kiɗa da waƙa yana sauƙaƙa haddace shi, kuma shi ne lit
 Ana ɗaukar Alƙur'ani a matsayin babban aikin adabi na Larabci na gargajiya:
 
 - Musulmi sun yi imani cewa ba za a iya fassara cikakkiyar ma'anarsa ba
-- Ana karatu da Larabci ko da menene harshen uwar mai karatun
+- Ana karatu da Larabci ko mene ne harshen uwa na mai karatu
 - Alƙur'ani ya yi tasiri sosai wajen tsara Larabci na zamani
 - Ana ɗaukar fassarori a matsayin "fassarar ma'ana" (tafsīr)
 
@@ -133,7 +133,7 @@ Ana ɗaukar karatu a matsayin ibada, kuma kyakkyawan karatun Alƙur'ani yana da 
 | Sūrah | Sura | Babi |
 | Āyah | Aya | Aya, alama |
 | Waḥy | Wahayi | Wahayin Allah |
-| Ḥāfiẓ | Hafiz | Wanda ya haddace Alƙur'ani |
+| Ḥāfiẓ | Hafizi | Wanda ya haddace Alƙur'ani |
 | Tajwīd | Tajwidi | Ilimin kyautata karatu |
 | Tafsīr | Tafsiri | Fassarar Alƙur'ani |
 

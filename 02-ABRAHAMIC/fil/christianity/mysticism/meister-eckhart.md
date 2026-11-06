@@ -21,25 +21,25 @@ Ang pamamaraang apopatiko ni Eckhart—ang paglalarawan sa Diyos sa pamamagitan 
 Ang Diyos ay higit sa lahat ng konsepto, larawan, at salita. Upang tunay na makilala ang Diyos, kailangan nating bitiwan ang ating mga ideya tungkol sa Diyos.
 
 ### Ang Ulap ng Di-Pagkaalam:
-> "Ang mistiko ay lumilipat sa kaalamang apopatiko—ang pagkilala sa Diyos sa pamamagitan ng di-pagkaalam. Ito ang ulap na tinutukoy sa *The Cloud of Unknowing*, kung saan ang isip ay napapatahimik sa harap ng hiwaga ng Diyos."
+> "Ang mistiko ay lumilipat sa kaalamang apopatiko—ang pagkilala sa Diyos sa pamamagitan ng di-pagkaalam. Ito ang ulap na tinutukoy sa *Ang Ulap ng Di-Pagkaalam* (*The Cloud of Unknowing*), kung saan ang isip ay napapatahimik sa harap ng hiwaga ng Diyos."
 
 ---
 
 ## Ang Banal na Pagsilang | The Divine Birth
 
-> "Hindi tulad ng karamihan sa mga mangangaral noong kaniyang panahon, na nakatuon sa kasalanan at walang hanggang parusa, inilarawan ni Eckhart ang isang proseso na tinawag niyang 'ang banal na pagsilang,' kung saan ang mga tunay na mananampalataya ay maaaring direktang maranasan ang Diyos sa kanilang kalooban."
+> "Hindi tulad ng karamihan sa mga mangangaral noong kaniyang panahon, na nakatuon sa kasalanan at walang hanggang parusa, inilarawan ni Eckhart ang isang proseso na tinawag niyang 'ang banal na pagsilang,' kung saan ang mga tunay na mananampalataya ay maaaring tuwirang maranasan ang Diyos sa kanilang kalooban."
 
 ### Ang Saligan ng Kaluluwa:
 > "Sa halip na subukang kilalanin ang Diyos mula sa labas, sa pamamagitan ng ating mga pandama at isip, dapat nating subukang kilalanin siya mula sa loob, mula sa banal na presensiyang nasa bawat isa sa atin. Tinawag ni Eckhart ang presensiyang ito na 'ang banal na kislap.'"
 
 ### Ang Proseso ng Pagsilang:
-> "Sa pamamagitan ng mapagnilay-nilay na proseso ng pagwawalang-laman sa sarili, o 'pagbibitiw,' ang naghahanap ay direktang makakatagpo sa Diyos na nasa loob."
+> "Sa pamamagitan ng mapagnilay-nilay na proseso ng pagwawalang-laman sa sarili, o 'pagpapaubaya,' ang naghahanap ay direktang makakatagpo sa Diyos na nasa loob."
 
 ---
 
 ## Pagbibitiw (Gelassenheit) | Detachment (Gelassenheit)
 
-> "Binigyang-diin ng mistikong medyebal ng Rhineland na si Meister Eckhart ang pagbibitiw. Para sa kaniya, ito ay isang kabutihang higit pa kaysa pag-ibig. Bagaman ang pag-ibig ay maaaring aktibong magdala sa naghahanap patungo sa Diyos, ang pagbibitiw ay nag-uudyok sa Diyos na lumapit sa naghahanap."
+> "Binigyang-diin ng mistikong medyebal ng Rhineland na si Meister Eckhart ang pagbibitiw. Para sa kaniya, ito ay isang birtud na higit pa sa pag-ibig. Bagaman ang pag-ibig ay maaaring aktibong magdala sa naghahanap patungo sa Diyos, ang pagbibitiw ay pumipilit sa Diyos na lumapit sa naghahanap."
 
 ### Ang Kahulugan Nito:
 - Pagbibitiw sa lahat ng pagkapit

@@ -1,28 +1,28 @@
-# Thomas Aquinas (Sanctus Thomas Aquinas) | Thomas Aquinas
+# Thomas wa Akwino (Sanctus Thomas Aquinas) | Thomas Aquinas
 
-> Daktari Malaika: Imani na Akili, Sheria ya Asili, na Njia Tano
+> Mwalimu Malaika: Imani na Akili, Sheria ya Asili, na Njia Tano
 
 ---
 
 ## Muhtasari | Overview
 
-Mtakatifu Thomas Aquinas (1225–1274) alikuwa bruda wa Shirika la Wadominiko kutoka Italia, mwanafalsafa, padri wa Kanisa Katoliki, na Mwalimu wa Kanisa. Alikuwa mwanafalsafa, mwanateolojia na mwanasheria mwenye ushawishi mkubwa sana katika mapokeo ya usomi wa kisholastiki (*scholasticism*). Kazi yake kuu, *Summa Theologica*, bado ni muhtasari kamili zaidi wa mchanganyiko wa teolojia ya Kikristo na falsafa ya Aristotle.
+Mtakatifu Thomas wa Akwino (1225–1274) alikuwa mtawa wa Shirika la Wadominiko kutoka Italia, mwanafalsafa, padri wa Kanisa Katoliki, na Mwalimu wa Kanisa. Alikuwa mwanafalsafa, mwanatheolojia na mwanasheria mwenye ushawishi mkubwa sana katika mapokeo ya falsafa ya Kisholastiki. Kazi yake kuu, *Summa Theologica*, bado ni muhtasari kamili zaidi wa mchanganyiko wa theolojia ya Kikristo na falsafa ya Aristotle.
 
-> Aquinas anajulikana zaidi kwa hoja zake tano za kuthibitisha kuwepo kwa Mungu ("Njia Tano"), mafundisho yake kuhusu sheria ya asili, na mchanganyiko wake wa imani na akili. Alionyesha kwamba imani na akili havipingani, bali ni njia zinazokamilishana kuelekea kweli.
+> Akwino anajulikana zaidi kwa hoja zake tano za kuthibitisha kuwepo kwa Mungu ("Njia Tano"), mafundisho yake kuhusu sheria ya asili, na mchanganyiko wake wa imani na akili. Alionyesha kwamba imani na akili havipingani, bali ni njia zinazokamilishana kuelekea kweli.
 
-Alitangazwa kuwa Mwalimu wa Kanisa na Papa Pius V mwaka 1567, na anachukuliwa kuwa mwanateolojia na mwanafalsafa mkuu kuliko wote wa Kanisa Katoliki.
+Alitangazwa kuwa Mwalimu wa Kanisa na Papa Pius V mwaka 1567, na anachukuliwa kuwa mwanatheolojia na mwanafalsafa mkuu kuliko wote wa Kanisa Katoliki.
 
 ---
 
 ## Njia Tano | The Five Ways
 
-> Katika *Summa Theologica*, Aquinas anawasilisha hoja tano za kuthibitisha kuwepo kwa Mungu, zinazojulikana kama "Njia Tano" (*Quinque Viae*).
+> Katika *Summa Theologica*, Akwino anawasilisha hoja tano za kuthibitisha kuwepo kwa Mungu, zinazojulikana kama "Njia Tano" (*Quinque Viae*).
 
 | Njia | Hoja | Hitimisho |
 |-----|----------|------------|
-| **Njia ya Kwanza** | Mwendo | Lazima awepo Mwendeshaji Asiyeendeshwa |
+| **Njia ya Kwanza** | Mwendo | Lazima awepo Msogezaji Asiyesogezwa |
 | **Njia ya Pili** | Sababu | Lazima iwepo Sababu ya Kwanza |
-| **Njia ya Tatu** | Kutokuwa na uhakika wa kuwepo | Lazima awepo Mwenye Kuwepo kwa Lazima |
+| **Njia ya Tatu** | Kuwepo kusiko kwa lazima | Lazima awepo Mwenye Kuwepo kwa Lazima |
 | **Njia ya Nne** | Viwango | Lazima awepo Mwenye Ukamilifu wa Juu Kabisa |
 | **Njia ya Tano** | Kusudi | Lazima awepo Mbuni Mwenye Akili |
 
@@ -32,7 +32,7 @@ Alitangazwa kuwa Mwalimu wa Kanisa na Papa Pius V mwaka 1567, na anachukuliwa ku
 
 ## Sheria ya Asili | Natural Law
 
-> Aquinas alikuza nadharia yenye ushawishi mkubwa zaidi ya sheria ya asili katika mapokeo ya Magharibi. Sheria ya asili ni ushiriki wa sheria ya milele katika viumbe wenye akili.
+> Akwino alikuza nadharia yenye ushawishi mkubwa zaidi ya sheria ya asili katika mapokeo ya Magharibi. Sheria ya asili ni ushiriki wa sheria ya milele katika viumbe wenye akili.
 
 > "Sheria ya asili si kitu kingine isipokuwa ushiriki wa kiumbe mwenye akili katika sheria ya milele."
 
@@ -48,11 +48,11 @@ Aina nne za sheria:
 
 ## Imani na Akili | Faith and Reason
 
-> Aquinas alihoji kwamba imani na akili havipingani, bali vinakamilishana. Baadhi ya kweli zinaweza kufikiwa kwa akili peke yake (kwa mfano, kuwepo kwa Mungu), ilhali nyingine zinahitaji ufunuo (kwa mfano, Utatu Mtakatifu).
+> Akwino alifundisha kwamba imani na akili havipingani, bali vinakamilishana. Baadhi ya kweli zinaweza kufikiwa kwa akili peke yake (kwa mfano, kuwepo kwa Mungu), ilhali nyingine zinahitaji ufunuo (kwa mfano, Utatu Mtakatifu).
 
 > "Neema haiharibu asili bali huikamilisha."
 
-> "Falsafa ni mjakazi wa teolojia." Akili inaweza kumfikisha mtu kwenye kizingiti cha imani, ingawa imani inapita akili.
+> "Falsafa ni mjakazi wa theolojia." Akili inaweza kumfikisha mtu kwenye kizingiti cha imani, ingawa imani inapita akili.
 
 Upatanifu huo:
 - Akili inaweza kuthibitisha baadhi ya kweli za kimungu
@@ -64,7 +64,7 @@ Upatanifu huo:
 
 ## Summa Theologica | The Summa Theologica
 
-> *Summa Theologica* ni kazi bora ya Aquinas, iliyokusudiwa kuwa mwongozo kwa wanaoanza masomo ya teolojia. Inashughulikia karibu kila swali kuu la teolojia na falsafa ya Kikristo.
+> *Summa Theologica* ni kazi bora ya Akwino, iliyokusudiwa kuwa mwongozo kwa wanaoanza masomo ya theolojia. Inashughulikia karibu kila swali kuu la theolojia na falsafa ya Kikristo.
 
 Muundo:
 - **Sehemu ya I**: Mungu, uumbaji, malaika, binadamu
@@ -72,14 +72,14 @@ Muundo:
 - **Sehemu ya II-II**: Fadhila na maovu mahususi
 - **Sehemu ya III**: Kristo, sakramenti (haikukamilika)
 
-> Aquinas alifariki kabla ya kukamilisha *Summa*. Karibu na mwisho wa maisha yake, alipata tukio la kifumbo, na baada yake alisema, "Yote niliyoandika yanaonekana kama majani makavu ukilinganisha na yale ambayo sasa yamefunuliwa kwangu."
+> Akwino alifariki kabla ya kukamilisha *Summa*. Karibu na mwisho wa maisha yake, alipata tukio la kifumbo, na baada yake alisema, "Yote niliyoandika yanaonekana kama majani makavu ukilinganisha na yale ambayo sasa yamefunuliwa kwangu."
 
 ---
 
 ## Marejeo Mtambuko | Cross-References
 
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristotle]] - Msingi wa kifalsafa
-- [[02-ABRAHAMIC/christianity/philosophers/augustine|Augustine]] - Urithi wa kitheolojia
+- [[02-ABRAHAMIC/christianity/philosophers/augustine|Augustino]] - Urithi wa kitheolojia
 - [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] - Mtazamo tofauti
 - [[02-ABRAHAMIC/islam/philosophy/al-farabi|Al-Farabi]] - Ushawishi wa falsafa ya Kiislamu
 
@@ -90,8 +90,8 @@ Muundo:
 - [Stanford Encyclopedia of Philosophy: Aquinas](https://plato.stanford.edu/entries/aquinas/)
 - [Internet Encyclopedia of Philosophy: Aquinas](https://iep.utm.edu/aquinas/)
 - [Wikipedia: Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas)
-- Aquinas, Thomas. *Summa Theologica* (trans. Fathers of the English Dominican Province)
+- Aquinas, Thomas. *Summa Theologica* (tafsiri ya Fathers of the English Dominican Province)
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Kuinufaisha binadamu wote**

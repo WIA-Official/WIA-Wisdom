@@ -6,7 +6,7 @@
 
 ## Tổng quan | Overview
 
-Trí Nột (tiếng Hàn: Jinul; Hán tự: 知訥; 1158–1210), còn được biết đến với thụy hiệu **Phổ Chiếu Quốc sư** (Bojo Guksa, 普照國師, "Quốc sư Phổ Chiếu"), là nhân vật quan trọng nhất của Phật giáo Hàn Quốc thời Goryeo (Cao Ly) và là người sáng lập Tông Tào Khê (Jogye) đã được cải cách, hiện vẫn là tổ chức Phật giáo chủ yếu tại Hàn Quốc.
+Trí Nột (tiếng Hàn: Jinul; Hán tự: 知訥; 1158–1210), còn được biết đến với thụy hiệu **Phổ Chiếu Quốc sư** (Bojo Guksa, 普照國師, "Quốc sư Phổ Chiếu"), là nhân vật quan trọng nhất của Phật giáo Hàn Quốc thời Goryeo (Cao Ly) và là người sáng lập Tông Tào Khê (Jogye) cải cách, hiện vẫn là tổ chức Phật giáo chủ yếu tại Hàn Quốc.
 
 Trí Nột đã giải quyết một trong những mối căng thẳng dai dẳng nhất của Phật giáo: mối quan hệ giữa **đốn ngộ** (*don-o*, 頓悟) và **tiệm tu** (*jeom-su*, 漸修). Công thức nổi tiếng của ngài, "đốn ngộ tiệm tu" (*dono jeomsu*, 頓悟漸修), đã mở ra một con đường thực hành vừa tôn trọng tính tức thời của sự giác ngộ, vừa tôn trọng sự cần thiết của việc tu tập có kỷ luật.
 
@@ -16,7 +16,7 @@ Bằng việc dung hòa thiền định Seon (Thiền) với Gyo (Giáo, nghiên
 ## Tiểu sử | Biography
 ### Thuở thiếu thời và xuất gia | Early Life and Ordination
 
-Sinh năm 1158 dưới triều đại Goryeo, Trí Nột xuất gia làm tăng sĩ năm lên bảy tuổi. Ngài học cả Thiền lẫn Phật giáo giáo lý, và ngày càng nhận ra khoảng cách giữa lý tưởng Phật giáo với sự suy đồi của các thiết chế đương thời.
+Sinh năm 1158 dưới triều đại Goryeo, Trí Nột xuất gia làm tăng sĩ năm lên bảy tuổi. Ngài học cả Thiền lẫn Giáo (Phật học kinh điển), và ngày càng nhận ra khoảng cách giữa lý tưởng Phật giáo với sự suy đồi của các thiết chế đương thời.
 
 Năm 1182, lúc 25 tuổi, khi đọc *Pháp Bảo Đàn Kinh* của Lục Tổ, ngài đã trải nghiệm lần giác ngộ đầu tiên. Những lần giác ngộ sau đó đến qua việc nghiên cứu *Kinh Hoa Nghiêm* (Avatamsaka) và ngữ lục của Đại Huệ Tông Cảo (大慧宗杲, 1089-1163).
 
@@ -70,7 +70,7 @@ Trí Nột dạy ba lối tu tập, phù hợp với các căn cơ khác nhau:
 
 1. **Định Huệ Đẳng Trì môn** (定慧等持門): Tu thiền định và trí tuệ song song
 2. **Tín Giải môn** (信解門): Dựa trên việc học giáo lý và niềm tin nơi Phật tánh của chính mình
-3. **Kính Tiệt môn** (徑截門): Trực tiếp tham cứu qua việc tham *thoại đầu* (*hwadu*, 話頭)
+3. **Kính Tiệt môn** (徑截門): Trực tiếp tham cứu qua pháp khán *thoại đầu* (*hwadu*, 話頭)
 
 Phương pháp *thoại đầu* (*hwadu*), mà Trí Nột học từ các trước tác của Đại Huệ, đã trở thành trọng tâm của việc thực hành Thiền Hàn Quốc.
 
@@ -95,7 +95,7 @@ Vào cuối thế kỷ 20, thiền sư Hàn Quốc **Seongcheol** (Tánh Triệt
 
 Điều này làm dấy lên cuộc tranh luận sôi nổi trong giới Phật giáo Hàn Quốc. Những người ủng hộ Trí Nột đáp lại:
 
-- Quan điểm của Seongcheol có thể phù hợp với những người hiếm có có căn cơ tối thượng
+- Quan điểm của Seongcheol có thể phù hợp với số ít người có căn cơ tối thượng
 - Đối với đa số hành giả, giáo huấn của Trí Nột vẫn thiết thực và từ bi
 - Bản thân cuộc tranh luận tiếp nối truyền thống tham cứu triết học nghiêm túc của Trí Nột
 
@@ -119,14 +119,14 @@ Lời dạy của Trí Nột dành cho hành giả thời nay:
 1. **Tin vào bản tánh của mình**: Bắt đầu với niềm tin rằng tâm mình vốn đã là tâm Phật
 2. **Đừng bỏ qua các giai đoạn**: Giác ngộ là tức thời, nhưng sự chuyển hóa cần tu tập bền bỉ
 3. **Quân bình**: Tu dưỡng cả thiền định (*samādhi*) lẫn trí tuệ (*prajñā*)
-4. **Học và ngồi thiền**: Hiểu biết giáo lý và tọa thiền hỗ trợ lẫn nhau
+4. **Học giáo và tọa thiền**: Hiểu biết giáo lý và tọa thiền hỗ trợ lẫn nhau
 5. **Kiên nhẫn**: Thói quen của nhiều đời không tan biến trong một đêm
 
 ---
 ## Thuật ngữ chính | Key Terms
 | Thuật ngữ | Hán tự | Tiếng Hàn | Ý nghĩa |
 |------|-------|--------|---------|
-| Trí Nột (Jinul) | 知訥 | Jinul | "Biết và nói ngọng" |
+| Trí Nột (Jinul) | 知訥 | Jinul | "Biết và ấp úng" |
 | Phổ Chiếu Quốc sư (Bojo Guksa) | 普照國師 | Bojo Guksa | Quốc sư Phổ Chiếu |
 | Đốn ngộ tiệm tu (Dono Jeomsu) | 頓悟漸修 | Dono Jeomsu | Ngộ đến tức thì, tu dần dần |
 | Thoại đầu (Hwadu) | 話頭 | Hwadu | Câu then chốt (đầu của công án) |

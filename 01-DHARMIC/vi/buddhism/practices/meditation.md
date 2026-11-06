@@ -12,7 +12,7 @@ Thiền định Phật giáo bao gồm nhiều phương pháp rèn luyện tâm 
 
 ## Các loại hình cốt lõi | Core Types
 
-### Samatha (止) - An trú tĩnh lặng | Samatha(止) - Calm Abiding
+### Samatha (止) - An trú tĩnh lặng | Samatha - Calm Abiding
 
 Samatha, nghĩa là "tĩnh lặng", "an tịnh" hay "sự thanh thản của tâm thức", là pháp tu phát triển định sâu bằng cách đặt tâm vào một đối tượng duy nhất. Thường được gọi là "an trú trong bình an" hay "thiền định", samatha làm cho tâm vững vàng bằng việc nuôi dưỡng sự chú tâm ổn định, không dao động.
 
@@ -26,7 +26,7 @@ Nhờ tu tập bền bỉ, hành giả dần dần đi vào những trạng thá
 
 ---
 
-### Vipassanā (觀) - Thiền quán | Vipassanā(觀) - Insight Meditation
+### Vipassanā (觀) - Thiền quán | Vipassanā - Insight Meditation
 
 Vipassanā, nghĩa là "tuệ quán" hay "thấy rõ", là hình thức thiền định xưa nhất của Phật giáo, bắt nguồn trực tiếp từ Kinh Niệm Xứ (Satipaṭṭhāna Sutta, Các nền tảng của chánh niệm). Đó là sự tu dưỡng chánh niệm một cách trực tiếp và tuần tự, tức là sự nhận biết rõ ràng điều đang diễn ra đúng như khi nó diễn ra.
 
@@ -54,7 +54,7 @@ Mối quan hệ này có thể hiểu như sau:
 
 Phong trào Vipassanā xuất hiện tại Miến Điện (Myanmar) vào thế kỷ 20, phổ biến pháp thiền "tuệ quán thuần túy" nhằm phát triển trí tuệ thấy rõ ba đặc tính của hiện hữu. Các nhân vật chủ chốt gồm có Mahasi Sayadaw, S.N. Goenka và Ledi Sayadaw.
 
-Từ thập niên 1950, phong trào này đã được ưa chuộng trên toàn thế giới. Các nhánh phát triển ở phương Tây từ thập niên 1970 đã tiến triển thành pháp tu "chánh niệm" phần lớn được thế tục hóa. Cách tiếp cận hiện đại này, được định nghĩa là "sự nhận biết nảy sinh khi ta chú tâm một cách có chủ đích, trong giây phút hiện tại, và không phán xét" (Jon Kabat-Zinn), đã đi vào tâm lý học, y học và giáo dục chính thống.
+Từ thập niên 1950, phong trào này đã được ưa chuộng trên toàn thế giới. Các nhánh phát triển ở phương Tây từ thập niên 1970 đã tiến triển thành pháp tu "chánh niệm" phần lớn được thế tục hóa. Cách tiếp cận hiện đại này, được định nghĩa là "sự nhận biết khởi sinh khi ta chú tâm một cách có chủ đích, trong giây phút hiện tại, và không phán xét" (Jon Kabat-Zinn), đã đi vào tâm lý học, y học và giáo dục chính thống.
 
 ---
 
@@ -72,7 +72,7 @@ Kinh Niệm Xứ (Satipaṭṭhāna Sutta) nêu ra bốn nền tảng để thi�
    - Các trạng thái của tâm thức, sự có mặt hay vắng mặt của các tâm sở
 
 4. **Dhammānupassanā (法念處)** - Niệm pháp
-   - Năm triền cái, các uẩn, các xứ (căn và trần), các chi giác ngộ (thất giác chi), Tứ diệu đế
+   - Năm triền cái, các uẩn, các xứ (căn và trần), các chi giác ngộ (thất giác chi), Tứ Diệu Đế
 
 ---
 
@@ -82,13 +82,13 @@ Kinh Niệm Xứ (Satipaṭṭhāna Sutta) nêu ra bốn nền tảng để thi�
 
 Sự tu dưỡng tình thương và thiện chí vô điều kiện đối với mọi chúng sinh, tiến dần từ chính mình đến những người thân yêu, người trung tính, người khó khăn, và sau cùng là tất cả hữu tình.
 
-### Thiền tông (禪) | Zen/Seon(禪)
+### Thiền tông (禪) | Zen/Seon
 
 Nhấn mạnh việc chỉ thẳng vào tâm qua tọa thiền (zazen), công án (koan, những câu hỏi nghịch lý) và shikantaza (chỉ quản đả tọa, tức chỉ ngồi). Các truyền thống lớn gồm Lâm Tế (臨濟, Rinzai) và Tào Động (曹洞, Soto).
 
 ### Quán tưởng Tây Tạng (藏傳 觀想) | Tibetan Visualization (藏傳 觀想)
 
-Những pháp tu phức hợp liên quan đến việc quán tưởng chư thần linh, mạn-đà-la và các kênh năng lượng như phương pháp chuyển hóa và giác ngộ.
+Những pháp tu phức hợp liên quan đến việc quán tưởng chư bổn tôn, mạn-đà-la và các kênh năng lượng như phương pháp chuyển hóa và giác ngộ.
 
 ---
 

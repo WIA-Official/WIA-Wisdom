@@ -1,4 +1,4 @@
-# Averroes (ابن رشد Ibn Rushd) | Averroes
+# Ibn Rushd – Averroes (ابن رشد) | Averroes
 
 > Sharhlovchi: Arastu, aql va falsafa bilan dinning uyg'unligi
 
@@ -8,7 +8,7 @@
 
 Ibn Rushd (1126–1198), G'arbda Averroes nomi bilan tanilgan, andalusiyalik musulmon qomusiy olim va faqih bo'lib, falsafa, kalom, tibbiyot, astronomiya, fizika va huquq sohalarida asarlar yozgan. U Arastu asarlariga yozgan keng sharhlari bilan mashhur bo'lib, shu sharhlari tufayli o'rta asr Yevropasida «Sharhlovchi» unvoniga sazovor bo'lgan.
 
-> Averroes falsafa va din bir-biriga qarama-qarshi emas, balki bir-birini to'ldiradi, ikkalasi ham haqiqatga olib boradi, faqat usullari turlicha, deb ta'kidlagan. Uning islom doirasida aqliy tadqiqotni himoya qilishi va Arastu asarlariga yozgan sharhlari islom falsafasiga ham, o'rta asr xristian sxolastikasiga ham chuqur ta'sir ko'rsatdi.
+> Averroes falsafa va din bir-biriga qarama-qarshi emas, balki bir-birini to'ldiradi, ikkalasi ham haqiqatga olib boradi, faqat usullari turlicha, deb ta'kidlagan. Uning islom doirasida aqliy tadqiqotni himoya qilishi va Arastu asarlariga yozgan sharhlari islom falsafasiga ham, o'rta asr nasroniy sxolastikasiga ham chuqur ta'sir ko'rsatdi.
 
 Foma Akvinskiy Averroesga boshqa har qanday sharhlovchidan ko'ra ko'proq murojaat qilgan, uning ta'siri Maymonid orqali yahudiy falsafasiga ham yetib borgan.
 
@@ -46,16 +46,16 @@ Uning dalillari:
 
 > Averroesning Arastu aql haqidagi ta'limotiga bergan sharhi munozarali bo'lgan. U quyidagilarni farqlagan:
 
-- **Moddiy aql**: individual, sust, shakllarni qabul qiladi
+- **Moddiy aql**: individual, passiv, shakllarni qabul qiladi
 - **Faol aql**: umumiy, abadiy, haqiqatni yoritadi
 
-> Ba'zilar Averroesni butun insoniyat uchun faqat bitta aql bor, deb o'rgatgan, bu esa individual o'lmaslikni inkor etishga olib keladi, deb talqin qilgan. Bu «averroizm» cherkov tomonidan qoralangan, ammo lotin sxolastikasiga ta'sir ko'rsatgan.
+> Ba'zilar Averroes ta'limotini butun insoniyat uchun faqat bitta aql bor, degan ma'noda talqin qilgan — bu esa individual o'lmaslikni inkor etishga olib keladi. Bu «averroizm» cherkov tomonidan qoralangan, ammo lotin sxolastikasiga ta'sir ko'rsatgan.
 
 ---
 
-## Ziddiyatning ziddiyati | Incoherence of the Incoherence
+## Raddiyaning raddiyasi | Incoherence of the Incoherence
 
-> «Tahofut at-tahofut» (*Tahafut al-Tahafut*) Averroesning al-G'azzoliyning «Tahofut al-falosifa» («Faylasuflarning ziddiyati») asariga javobidir; al-G'azzoliy bu asarida falsafani imon uchun xavfli deb hujum qilgan edi.
+> «Tahofut at-tahofut» – «Raddiyaning raddiyasi» (*Tahafut al-Tahafut*) Averroesning al-G'azzoliyning «Tahofut al-falosifa» («Faylasuflar raddiyasi») asariga javobidir; al-G'azzoliy bu asarida falsafani imon uchun xavfli deb hujum qilgan edi.
 
 Averroes quyidagilarni himoya qiladi:
 - Olamning azaliyligi
@@ -83,7 +83,7 @@ Averroes quyidagilarni himoya qiladi:
 ## O'zaro havolalar | Cross-References
 
 - [[04-HELLENIC/classical/philosophers/aristotle|Arastu]] - Sharhlar mavzusi
-- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Foma Akvinskiy]] - Xristian parallel
+- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Foma Akvinskiy]] - Nasroniylikdagi muqobili
 - [[02-ABRAHAMIC/judaism/philosophers/maimonides|Maymonid]] - Yahudiy zamondosh
 - [[02-ABRAHAMIC/islam/philosophy/al-farabi|al-Forobiy]] - Islomdagi salaf
 

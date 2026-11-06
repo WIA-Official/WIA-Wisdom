@@ -1,8 +1,4 @@
-# 慈悲禪修 | Metta Bhavana （自悲冥想 removed）
-
-Wait—I must output only the document. Final:
-
-# 慈心禪（Metta Bhavana）| Metta Bhavana （慈悲冥想）
+# 慈心禪（慈悲冥想） | Metta Bhavana
 
 > 慈心禪：對一切眾生培養無量的善意
 
@@ -10,9 +6,9 @@ Wait—I must output only the document. Final:
 
 ## 概述 | Overview
 
-Metta Bhavana（巴利語：「慈愛的培育」）是佛教最古老的禪修形式之一，傳承延續逾二千五百年而未曾中斷。「metta」一詞源自巴利語中表示「朋友」的詞（mitra），雖然通常譯為「慈愛」，佛教學者菩提比丘（Bhikkhu Bodhi）則將它譯為「親切友善」。「Bhavana」意指培育或發展——這不僅是一種冥想，更是對心的系統性訓練。
+慈心禪（Metta Bhavana，巴利語：「慈心的培育」）是佛教最古老的禪修形式之一，傳承延續逾二千五百年而未曾中斷。「慈」（mettā）一詞源自巴利語中表示「朋友」的詞（mitra），雖然通常譯為「慈愛」，佛教學者菩提比丘（Bhikkhu Bodhi）則將它譯為「親切友善」。「修習」（bhāvanā）意指培育或發展——這不僅是一種冥想，更是對心的系統性訓練。
 
-慈（metta）是四梵住（Brahmaviharas，即「梵天的住處」）之一，其餘三者為悲（karuna）、喜（mudita）與捨（upekkha）。這四者共同構成佛教情感培育的基礎。
+慈（metta）是四梵住（Brahmavihāra，神聖的住處）之一，其餘三者為悲（karuna）、喜（mudita）與捨（upekkha）。這四者共同構成佛教情感培育的基礎。
 
 ---
 ## 歷史起源 | Historical Origins
@@ -30,7 +26,7 @@ Metta Bhavana（巴利語：「慈愛的培育」）是佛教最古老的禪修�
 1. **自己**：從自己開始——你無法給出自己所沒有的
 2. **所愛之人**：容易對其生起愛的人
 3. **中立的人**：對其感到漠然的人
-4. **有困難的人**：與你有衝突的人
+4. **難相處的人**：與你有衝突的人
 5. **四者平等**：不加分別地擴展慈愛
 6. **十方一切眾生**：向所有方向散播慈愛
 
@@ -51,19 +47,19 @@ Metta Bhavana（巴利語：「慈愛的培育」）是佛教最古老的禪修�
 慈的「遠敵」是仇恨或惡意——一種明顯與之對立的心態。「近敵」（表面上類似慈、實則隱微地與之相違的特質）則是貪著或執取的愛。真正的慈是無條件且不占有的。
 
 ### 佛典中所述的利益 | Benefits in Buddhist Texts
-《慈經》與註釋書describe 慈心修習的十一種利益：
+《慈經》與註釋書記載慈心修習的十一種功德：
 
-1. 安樂入睡
-2. 安樂醒來
-3. 不做惡夢
+1. 安眠
+2. 安寤
+3. 不見惡夢
 4. 為人所愛
 5. 為非人所愛
 6. 諸天（天界眾生）守護
-7. 火、毒與刀兵不能傷害
-8. 心很快得以專注
-9. 面色光潤
-10. 臨終不昏亂
-11. 若未能更進一步證入，則往生梵天界
+7. 火、毒、刀杖不能害
+8. 心速得定
+9. 顏色光澤
+10. 臨終不昏昧
+11. 若未通達更高證悟，則生梵天界
 
 ---
 ## 現代科學研究 | Modern Scientific Research
@@ -98,8 +94,8 @@ Metta Bhavana（巴利語：「慈愛的培育」）是佛教最古老的禪修�
 
 - [[01-DHARMIC/buddhism/practices/meditation|佛教禪修]] - 更廣的脈絡
 - [[01-DHARMIC/buddhism/core-teachings/four-noble-truths|四聖諦]] - 基礎教義
-- [[02-ABRAHAMIC/christianity/core-teachings/love-agape|基督宗教的阿加佩]] - 普世之愛的對應
-- [[05-INDIGENOUS/african/philosophy/ubuntu|烏班圖]] - 「因為有我們，所以有我」
+- [[02-ABRAHAMIC/christianity/core-teachings/love-agape|基督宗教的聖愛（Agape）]] - 普世之愛的對應
+- [[05-INDIGENOUS/african/philosophy/ubuntu|烏班圖（Ubuntu）]] - 「因為有我們，所以有我」
 ---
 ## 參考文獻 | References
 
@@ -115,4 +111,4 @@ Metta Bhavana（巴利語：「慈愛的培育」）是佛教最古老的禪修�
 
 ### 當代修習
 ---
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · 利益全人類**

@@ -6,7 +6,7 @@
 
 ## Gambaran Keseluruhan | Overview
 
-Ramadan (bahasa Arab: رمضان) ialah bulan kesembilan dalam takwim lunar Islam dan bulan yang paling suci dalam Islam. Pada bulan ini, umat Islam di seluruh dunia menunaikan sawm (puasa) dari terbit fajar hingga terbenam matahari, iaitu salah satu daripada Rukun Islam yang Lima. Lebih daripada sekadar menahan diri daripada makan dan minum, Ramadan ialah bulan penyucian rohani, renungan, peningkatan ibadah, dan pendalaman hubungan dengan Allah (SWT).
+Ramadan (bahasa Arab: رمضان) ialah bulan kesembilan dalam takwim qamariah (Hijrah) Islam dan bulan yang paling suci dalam Islam. Pada bulan ini, umat Islam di seluruh dunia menunaikan ibadah puasa (saum) dari terbit fajar hingga terbenam matahari, iaitu salah satu daripada Rukun Islam yang Lima. Lebih daripada sekadar menahan diri daripada makan dan minum, Ramadan ialah bulan penyucian rohani, renungan, peningkatan ibadah, dan pendalaman hubungan dengan Allah (SWT).
 
 Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang bermaksud "sangat panas" atau "membakar"—merujuk kepada bagaimana puasa membakar dosa, menyemai kehangatan rohani, dan memperhebat ibadah. Yang paling utama, Ramadan ialah bulan diturunkannya Al-Quran buat pertama kali kepada Nabi Muhammad, lalu menjadikannya bulan yang mempunyai hubungan istimewa dengan wahyu Ilahi.
 
@@ -14,12 +14,12 @@ Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang berma
 
 ## Asas Al-Quran | Quranic Foundation
 
-> "Bulan Ramadan yang padanya diturunkan Al-Quran sebagai petunjuk bagi sekalian manusia, dan keterangan-keterangan yang jelas daripada petunjuk itu, serta pembeza antara yang benar dengan yang salah." (Al-Quran 2:185)
+> "Bulan Ramadan yang padanya diturunkan Al-Quran, menjadi petunjuk bagi sekalian manusia, dan menjadi keterangan-keterangan yang menjelaskan petunjuk dan (menjelaskan) perbezaan antara yang benar dengan yang salah." (Surah al-Baqarah 2:185)
 
 ### Lailatul Qadar (Malam Kemuliaan):
 - Malam Al-Quran mula diturunkan
 - Jatuh dalam sepuluh malam terakhir Ramadan
-- "Lebih baik daripada seribu bulan" (Al-Quran 97:3)
+- "Lebih baik daripada seribu bulan" (Surah al-Qadr 97:3)
 - Para malaikat turun membawa keberkatan Ilahi
 
 ---
@@ -28,7 +28,7 @@ Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang berma
 
 > "Umat Islam menunaikan ibadah Ramadan sebagai perintah daripada Allah (SWT). Ia ialah bulan penyucian rohani, renungan dan pengabdian."
 
-### Pembinaan Takwa (Kesedaran akan Tuhan):
+### Pembinaan Takwa (Kesedaran terhadap Allah):
 | Aspek | Perkembangan |
 |--------|-------------|
 | **Kesedaran penuh** | Sentiasa sedar akan kehadiran Allah |
@@ -37,7 +37,7 @@ Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang berma
 | **Kebergantungan** | Mengakui pergantungan kepada Allah |
 
 ### Ganjaran Ilahi:
-> "Dikatakan bahawa Allah mengampuni dosa-dosa lalu mereka yang menunaikan bulan yang suci ini dengan berpuasa, bersolat, dan niat yang beriman."
+> "Dikatakan bahawa Allah mengampunkan dosa-dosa yang telah lalu bagi mereka yang menghidupkan bulan yang mulia ini dengan berpuasa, bersolat, dan niat yang penuh keimanan."
 
 > "Setiap amalan manusia adalah untuk dirinya sendiri—kecuali puasa, kerana puasa itu untuk Allah dan Dialah sendiri yang membalasnya."
 
@@ -76,7 +76,7 @@ Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang berma
 |----------|-------------|
 | **Bacaan Al-Quran** | Mengkhatamkan bacaan sepanjang bulan |
 | **Tarawih** | Solat malam yang dipanjangkan |
-| **I'tikaf** | Berkhalwat beribadah di masjid (10 hari terakhir) |
+| **Iktikaf** | Berdiam diri di masjid untuk beribadah (10 hari terakhir) |
 | **Sedekah** | Meningkatkan amal derma |
 | **Zikir** | Mengingati Allah |
 
@@ -99,7 +99,7 @@ Perkataan "Ramadan" berasal daripada akar kata Arab "ramdh" (رمض), yang berma
 
 Bulan ini diakhiri dengan Aidilfitri ("Hari Raya Berbuka Puasa"):
 - Tiga hari perayaan
-- Solat sunat berjemaah yang khas
+- Solat sunat hari raya secara berjemaah
 - Zakat fitrah (sedekah kepada orang miskin)
 - Jamuan dan menziarahi keluarga
 - Bertukar-tukar hadiah
@@ -108,15 +108,15 @@ Bulan ini diakhiri dengan Aidilfitri ("Hari Raya Berbuka Puasa"):
 
 ## Istilah Utama | Key Terms
 
-| Bahasa Arab | Maksud |
-|--------|---------|
-| صوم/صيام (Sawm) | Puasa |
-| رمضان (Ramadan) | Bulan yang suci |
-| سحور (Suhur) | Makan sebelum fajar |
-| إفطار (Iftar) | Berbuka puasa |
-| تقوى (Taqwa) | Kesedaran akan Tuhan |
-| تراويح (Tarawih) | Solat malam |
-| ليلة القدر (Laylat al-Qadr) | Malam Kemuliaan |
+| Bahasa Arab | Sebutan Melayu | Maksud |
+|--------|--------|---------|
+| صوم/صيام (Sawm) | Saum | Puasa |
+| رمضان (Ramadan) | Ramadan | Bulan yang mulia |
+| سحور (Suhur) | Sahur | Makan sebelum fajar |
+| إفطار (Iftar) | Iftar | Berbuka puasa |
+| تقوى (Taqwa) | Takwa | Kesedaran terhadap Allah |
+| تراويح (Tarawih) | Tarawih | Solat malam |
+| ليلة القدر (Laylat al-Qadr) | Lailatul Qadar | Malam Kemuliaan |
 
 ---
 

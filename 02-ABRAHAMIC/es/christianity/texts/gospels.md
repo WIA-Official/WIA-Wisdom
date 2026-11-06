@@ -37,7 +37,7 @@ La mayoría de los estudiosos considera que Marcos fue el primero en escribirse,
 
 **Características principales:**
 - Comienza con una genealogía que remonta a Jesús hasta Abraham y David
-- Subraya el cumplimiento de las profecías del Antiguo Testamento («Todo esto sucedió para que se cumpliese lo dicho por el profeta...»)
+- Subraya el cumplimiento de las profecías del Antiguo Testamento («Todo esto aconteció para que se cumpliese lo dicho por el profeta...»)
 - Contiene cinco grandes bloques de enseñanza (que hacen eco de los cinco libros de Moisés):
   1. Sermón del Monte (capítulos 5-7)
   2. Discurso misionero (capítulo 10)
@@ -88,14 +88,14 @@ La mayoría de los estudiosos considera que Marcos fue el primero en escribirse,
 
 ## El Evangelio según Juan | The Gospel of John
 
-**Autor:** Tradicionalmente atribuido a Juan el Apóstol, «el discípulo amado».
+**Autor:** Tradicionalmente atribuido al apóstol Juan, «el discípulo amado».
 **Destinatarios:** Universal; enfoque teológico y espiritual
 **Jesús presentado como:** El Verbo (Logos) eterno, Hijo divino de Dios
 
 **Características principales:**
 - Prólogo altamente teológico y filosófico: «En el principio era el Verbo»
 - No contiene parábolas (a diferencia de los sinópticos)
-- Siete declaraciones «Yo soy» que revelan la identidad divina de Jesús:
+- Siete dichos «Yo soy» que revelan la identidad divina de Jesús:
   1. «Yo soy el pan de vida» (6:35)
   2. «Yo soy la luz del mundo» (8:12)
   3. «Yo soy la puerta» (10:9)
@@ -116,7 +116,7 @@ La mayoría de los estudiosos considera que Marcos fue el primero en escribirse,
 | Comienzo | Genealogía | Bautismo | Dedicatoria | Himno al Logos |
 | Jesús como | Mesías/Rey | Siervo | Salvador | Verbo divino |
 | Destinatarios | Judíos | Romanos | Gentiles | Universal |
-| Exclusivo de | Sermón del Monte | Final abrupto | Hijo pródigo | Declaraciones «Yo soy» |
+| Exclusivo de | Sermón del Monte | Final abrupto | Hijo pródigo | Dichos «Yo soy» |
 | Tono | Didáctico | Urgente | Compasivo | Místico |
 
 ---
@@ -179,7 +179,7 @@ Los Evangelios sinópticos contienen aproximadamente 40 parábolas: relatos brev
 
 ### Fuentes primarias | Primary Sources
 - El Nuevo Testamento
-- Evangelio según Mateo, Marcos, Lucas y Juan
+- Evangelios según Mateo, Marcos, Lucas y Juan
 
 ### Fuentes académicas | Academic Sources
 - [Gospel - Wikipedia](https://en.wikipedia.org/wiki/Gospel)

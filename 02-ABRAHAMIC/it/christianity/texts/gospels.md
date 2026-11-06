@@ -18,12 +18,12 @@ Secondo il consenso degli studiosi:
 
 | Vangelo | Data approssimativa | Destinatari originari |
 |--------|------------------|-------------------|
-| Marco | ca. 65-70 d.C. | Cristiani di Roma |
-| Matteo | ca. 80-90 d.C. | Cristiani di origine giudaica |
-| Luca | ca. 80-90 d.C. | Cristiani provenienti dai gentili |
-| Giovanni | ca. 90-100 d.C. | Universali/teologici |
+| Marco | ca. 65–70 d.C. | Cristiani di Roma |
+| Matteo | ca. 80–90 d.C. | Cristiani di origine giudaica |
+| Luca | ca. 80–90 d.C. | Cristiani di origine pagana |
+| Giovanni | ca. 90–100 d.C. | Universali/teologici |
 
-La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e che Matteo e Luca abbiano utilizzato Marco in modo indipendente come fonte, insieme a una ipotetica fonte di detti chiamata «Q» (dal tedesco Quelle, «fonte»). Questa è nota come «ipotesi delle due fonti».
+La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e che Matteo e Luca abbiano utilizzato Marco come fonte in modo indipendente, insieme a un'ipotetica fonte di detti chiamata «Q» (dal tedesco Quelle, «fonte»). Questa è nota come «ipotesi delle due fonti».
 
 ---
 
@@ -37,13 +37,13 @@ La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e 
 
 **Caratteristiche principali:**
 - Si apre con la genealogia che fa risalire Gesù ad Abramo e a Davide
-- Sottolinea il compimento delle profezie dell'Antico Testamento («Tutto questo avvenne perché si compisse ciò che era stato detto dal profeta...»)
+- Sottolinea il compimento delle profezie dell'Antico Testamento («Ora questo avvenne perché si compisse ciò che era stato detto per mezzo del profeta...»)
 - Contiene cinque grandi blocchi di insegnamento (eco dei cinque libri di Mosè):
-  1. Discorso della montagna (capitoli 5-7)
+  1. Discorso della montagna (capitoli 5–7)
   2. Discorso missionario (capitolo 10)
   3. Parabole del Regno (capitolo 13)
   4. Discorso ecclesiale (capitolo 18)
-  5. Discorso escatologico del monte degli Ulivi (capitoli 24-25)
+  5. Discorso escatologico del monte degli Ulivi (capitoli 24–25)
 - Forte accento sul Regno dei Cieli
 - Gesù come il nuovo Mosè che dona una nuova Torah
 
@@ -69,8 +69,8 @@ La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e 
 ### Vangelo secondo Luca | Gospel of Luke
 
 **Autore:** Tradizionalmente attribuito a Luca, il medico, compagno di Paolo.
-**Destinatari:** Cristiani provenienti dai gentili (non ebrei), in particolare «Teofilo»
-**Gesù è presentato come:** Salvatore di tutti gli uomini, specialmente degli emarginati
+**Destinatari:** Cristiani di origine pagana (non ebrei), in particolare «Teofilo»
+**Gesù è presentato come:** Salvatore di tutti, specialmente degli emarginati
 
 **Caratteristiche principali:**
 - Il greco più letterario tra i Vangeli
@@ -82,13 +82,13 @@ La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e 
   - La gioia e la lode (include il Magnificat, il Benedictus, il Nunc dimittis)
   - La preghiera nella vita di Gesù
 - Parabole proprie: il buon Samaritano, il figlio prodigo, il ricco e Lazzaro
-- Salvezza universale: «buona notizia per tutti gli uomini»
+- Salvezza universale: «buona notizia per tutti»
 
 ---
 
 ## Il Vangelo secondo Giovanni | The Gospel of John
 
-**Autore:** Tradizionalmente attribuito a Giovanni apostolo, «il discepolo amato».
+**Autore:** Tradizionalmente attribuito all'apostolo Giovanni, «il discepolo amato».
 **Destinatari:** Universali; orientamento teologico e spirituale
 **Gesù è presentato come:** il Verbo eterno (Logos), Figlio divino di Dio
 
@@ -104,7 +104,7 @@ La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e 
   6. «Io sono la via, la verità e la vita» (14,6)
   7. «Io sono la vite vera» (15,1)
 - Sette «segni» (miracoli) che manifestano la gloria di Gesù
-- Lungo discorso di addio (capitoli 13-17)
+- Lungo discorso di addio (capitoli 13–17)
 - Accento sull'amore, sulla fede, sulla vita eterna e sull'inabitazione
 
 ---
@@ -115,7 +115,7 @@ La maggior parte degli studiosi ritiene che Marco sia stato scritto per primo e 
 |--------|---------|------|------|------|
 | Apertura | Genealogia | Battesimo | Dedica | Inno al Logos |
 | Gesù come | Messia/Re | Servo | Salvatore | Verbo divino |
-| Destinatari | Giudei | Romani | Gentili | Universali |
+| Destinatari | Giudei | Romani | Pagani | Universali |
 | Proprio di | Discorso della montagna | Finale brusco | Figlio prodigo | Detti «Io sono» |
 | Tono | Didattico | Urgente | Compassionevole | Mistico |
 
@@ -180,7 +180,7 @@ I Vangeli sinottici contengono circa 40 parabole: brevi racconti che usano immag
 ### Fonti primarie | Primary Sources
 
 - Il Nuovo Testamento
-- Vangelo secondo Matteo, Marco, Luca, Giovanni
+- Vangeli secondo Matteo, Marco, Luca e Giovanni
 
 ### Fonti accademiche | Academic Sources
 

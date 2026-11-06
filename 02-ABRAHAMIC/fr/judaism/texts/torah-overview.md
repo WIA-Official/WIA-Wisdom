@@ -12,7 +12,7 @@ La Torah s'étend de la création du monde jusqu'à la mort de Moïse au seuil d
 
 ---
 ## Les cinq livres | The Five Books
-### 1. Genèse (בְּרֵאשִׁית, Bereshit) | Genesis
+### 1. Genèse (בְּרֵאשִׁית, Berechit) | Genesis
 « Au commencement » — De la création à Joseph en Égypte
 
 - **Création du monde** (chapitres 1-2)
@@ -25,7 +25,7 @@ La Torah s'étend de la création du monde jusqu'à la mort de Moïse au seuil d
 La Genèse établit les origines de l'humanité, l'élection d'Israël et les promesses faites aux patriarches.
 
 ---
-### 2. Exode (שְׁמוֹת, Shemot) | Exodus
+### 2. Exode (שְׁמוֹת, Chemot) | Exodus
 « Noms » — Esclavage, libération et alliance au Sinaï
 
 - **L'esclavage des Israélites en Égypte** (chapitres 1-2)
@@ -52,7 +52,7 @@ L'Exode décrit la naissance du peuple juif en tant que nation et l'établisseme
 Le Lévitique fournit les lois détaillées concernant le culte, la pureté et la vie sainte.
 
 ---
-### 4. Nombres (בְּמִדְבַּר, Bemidbar) | Numbers
+### 4. Nombres (בְּמִדְבַּר, Bamidbar) | Numbers
 « Dans le désert » — Le voyage dans le désert
 
 - **Le recensement d'Israël** (chapitres 1-4)
@@ -71,7 +71,7 @@ Les Nombres relatent les 40 années d'errance causées par le manque de foi d'Is
 
 - **Rappel historique** (chapitres 1-4)
 - **Les Dix Commandements répétés** (chapitre 5)
-- **Le Shema** (chapitre 6)
+- **Le Chema** (chapitre 6)
 - **Lois de la société et du culte** (chapitres 12-26)
 - **Bénédictions et malédictions** (chapitres 27-28)
 - **La dernière bénédiction de Moïse** (chapitre 33)
@@ -80,14 +80,14 @@ Les Nombres relatent les 40 années d'errance causées par le manque de foi d'Is
 Le Deutéronome présente les derniers enseignements de Moïse avant l'entrée d'Israël dans la Terre promise.
 
 ---
-## Le Shema | The Shema
+## Le Chema | The Shema
 La prière juive la plus fondamentale provient de Deutéronome 6, 4 :
 
 > שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד
 
 Cette déclaration de monothéisme est récitée deux fois par jour et occupe une place centrale dans la foi juive.
 
-> « Écoute, Israël : l'Éternel, notre Dieu, l'Éternel est un. »
+> « Écoute, Israël : l'Éternel est notre Dieu, l'Éternel est un ! »
 ---
 ## Les 613 commandements | The 613 Commandments
 La tradition juive dénombre dans la Torah 613 mitsvot (commandements) :
@@ -98,7 +98,7 @@ Ils couvrent tous les aspects de la vie : culte, éthique, alimentation, famille
 
 ---
 ## Les rouleaux de la Torah | Torah Scrolls
-Dans le culte synagogal, la Torah est lue à partir de rouleaux manuscrits (Sefer Torah) écrits sur parchemin par des scribes spécialement formés (soferim). La Torah est divisée en 54 portions hebdomadaires (parashiyot), lues tout au long de l'année en un cycle continu qui culmine à Simhat Torah.
+Dans le culte synagogal, la Torah est lue à partir de rouleaux manuscrits (Sefer Torah) écrits sur parchemin par des scribes spécialement formés (soferim). La Torah est divisée en 54 portions hebdomadaires (parachiot), lues tout au long de l'année en un cycle continu qui culmine à Simhat Torah.
 
 ---
 ## Paternité de l'œuvre | Authorship
@@ -123,10 +123,10 @@ La Torah est :
 | Hébreu | Signification |
 |--------|---------------|
 | Torah | Enseignement, Loi |
-| Chumash | La Torah sous forme de livre |
+| Houmach | La Torah sous forme de livre |
 | Sefer Torah | Rouleau de la Torah |
-| Parasha | Portion hebdomadaire |
-| Mitzvah | Commandement |
+| Paracha | Portion hebdomadaire |
+| Mitsva | Commandement |
 | Halakha | Loi juive |
 | Sinaï | Montagne de la révélation |
 ---

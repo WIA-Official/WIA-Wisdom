@@ -6,7 +6,7 @@
 
 ## Przegląd | Overview
 
-Święty Tomasz z Akwinu (1225–1274) był włoskim dominikaninem, filozofem, księdzem katolickim i doktorem Kościoła. Był niezwykle wpływowym filozofem, teologiem i prawnikiem w tradycji scholastyki. Jego monumentalne dzieło, *Suma teologiczna* (*Summa Theologica*), pozostaje najpełniejszą syntezą teologii chrześcijańskiej i filozofii arystotelesowskiej.
+Święty Tomasz z Akwinu (1225–1274) był włoskim dominikaninem, filozofem, kapłanem katolickim i doktorem Kościoła. Był niezwykle wpływowym filozofem, teologiem i teoretykiem prawa w tradycji scholastyki. Jego monumentalne dzieło, *Suma teologiczna* (*Summa Theologica*), pozostaje najpełniejszą syntezą teologii chrześcijańskiej i filozofii arystotelesowskiej.
 
 > Tomasz z Akwinu jest najlepiej znany z pięciu argumentów za istnieniem Boga („pięć dróg”), z nauki o prawie naturalnym oraz z syntezy wiary i rozumu. Wykazał, że wiara i rozum nie stoją w sprzeczności, lecz są komplementarnymi drogami do prawdy.
 
@@ -23,10 +23,10 @@ W 1567 roku papież Pius V ogłosił go doktorem Kościoła; uchodzi za najwięk
 | **Droga pierwsza** | Ruch | Musi istnieć Nieporuszony Poruszyciel |
 | **Droga druga** | Przyczynowość | Musi istnieć Pierwsza Przyczyna |
 | **Droga trzecia** | Przygodność | Musi istnieć Byt Konieczny |
-| **Droga czwarta** | Stopniowanie | Musi istnieć Byt Najwyższy |
-| **Droga piąta** | Teleologia | Musi istnieć Inteligentny Zamysłodawca |
+| **Droga czwarta** | Stopnie doskonałości | Musi istnieć Byt Najwyższy |
+| **Droga piąta** | Teleologia | Musi istnieć Rozumny Projektant |
 
-> „Istnienie Boga można udowodnić na pięć sposobów... Pierwszą i bardziej oczywistą drogą jest argument z ruchu.”
+> „Istnienie Boga można udowodnić na pięć sposobów... Pierwsza i bardziej oczywista droga to ta, która wychodzi od ruchu.”
 
 ---
 
@@ -68,7 +68,7 @@ Harmonia:
 
 Struktura:
 - **Część I**: Bóg, stworzenie, aniołowie, człowiek
-- **Część II-I**: szczęście, czyny ludzkie, cnoty, prawo
+- **Część I-II**: szczęście, czyny ludzkie, cnoty, prawo
 - **Część II-II**: poszczególne cnoty i wady
 - **Część III**: Chrystus, sakramenty (niedokończona)
 
@@ -94,4 +94,4 @@ Struktura:
 
 ---
 
-**弘益人間 · Ku szerokiemu pożytkowi ludzkości**
+**弘益人間 · Przynosić pożytek całej ludzkości**

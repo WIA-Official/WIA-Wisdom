@@ -8,7 +8,7 @@
 
 Der heilige Augustinus von Hippo (354–430 n. Chr.) war Theologe, Philosoph und Bischof von Hippo Regius im römischen Nordafrika. Er gehört zu den bedeutendsten Gestalten in der Entwicklung des westlichen Christentums und der westlichen Philosophie. Seine Schriften prägten die Entwicklung der westlichen Philosophie und des westlichen Christentums, und er gilt als einer der wichtigsten Kirchenväter der lateinischen Kirche in der patristischen Zeit.
 
-> „Du hast uns auf dich hin geschaffen, Herr, und unruhig ist unser Herz, bis es Ruhe findet in dir.“ Dieser berühmte Satz aus seinen *Bekenntnissen* fasst Augustinus' geistlichen Weg und seine Theologie zusammen.
+> „Du hast uns zu dir hin geschaffen, Herr, und unruhig ist unser Herz, bis es ruht in dir.“ Dieser berühmte Satz aus seinen *Bekenntnissen* fasst Augustinus' geistlichen Weg und seine Theologie zusammen.
 
 Sein Denken prägte die Lehren von der Erbsünde, der göttlichen Gnade, dem freien Willen und der Prädestination, die die christliche Theologie bis heute beeinflussen.
 
@@ -18,13 +18,13 @@ Sein Denken prägte die Lehren von der Erbsünde, der göttlichen Gnade, dem fre
 
 > Die *Bekenntnisse* (*Confessiones*, ca. 397–400 n. Chr.) sind die erste Autobiografie des Westens und eines der einflussreichsten Bücher der christlichen Literatur. Sie zeichnen Augustinus' geistlichen Weg von der Sünde zur Erlösung nach.
 
-> „Spät habe ich dich geliebt, du Schönheit, so alt und so neu! Spät habe ich dich geliebt … Du warst in mir, ich aber war draußen.“
+> „Spät habe ich dich geliebt, o Schönheit, so alt und so neu! Spät habe ich dich geliebt … Du warst in mir, ich aber war außerhalb meiner selbst.“
 
 Zentrale Themen:
 - **Unruhe**: Die Sehnsucht der Seele nach Gott
 - **Gedächtnis**: Die Tiefen des inneren Lebens
 - **Zeit**: Die berühmte Betrachtung über das Wesen der Zeit
-- **Gnade**: Verwandlung durch das Handeln Gottes
+- **Gnade**: Verwandlung durch Gottes Initiative
 
 ---
 
@@ -48,7 +48,7 @@ Zentrale Lehren:
 
 > Das Werk *Der Gottesstaat* (*De civitate Dei*), verfasst als Antwort auf die Plünderung Roms im Jahr 410 n. Chr., stellt den „Gottesstaat“ dem „irdischen Staat“ gegenüber.
 
-> „Zwei Staaten sind durch zwei Arten der Liebe entstanden: der irdische durch die Selbstliebe bis zur Verachtung Gottes, der himmlische durch die Gottesliebe bis zur Verachtung seiner selbst.“
+> „Zwei Arten der Liebe haben zwei Staaten begründet: den irdischen die Selbstliebe bis zur Verachtung Gottes, den himmlischen die Gottesliebe bis zur Verachtung seiner selbst.“
 
 Zentrale Begriffe:
 - **Zwei Staaten**: Gegensätzliche Arten der Liebe und gegensätzliche Bestimmungen
@@ -62,7 +62,7 @@ Zentrale Begriffe:
 
 > Augustinus' Betrachtung der Zeit im elften Buch der *Bekenntnisse* bleibt eine der tiefgründigsten philosophischen Auseinandersetzungen mit der Zeitlichkeit.
 
-> „Was ist also die Zeit? Wenn niemand mich danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht.“
+> „Was ist also die Zeit? Wenn mich niemand danach fragt, weiß ich es; will ich es einem Fragenden erklären, weiß ich es nicht.“
 
 > Zeit gibt es nur als Gegenwart: als Gegenwart des Vergangenen (Erinnerung), als Gegenwart des Gegenwärtigen (Aufmerksamkeit) und als Gegenwart des Zukünftigen (Erwartung).
 

@@ -25,13 +25,13 @@ Matendo haya huunganisha imani na vitendo, na yanaonyesha kwamba imani katika Ui
 
 > **أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱللَّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللَّٰهِ**
 
-"Nashuhudia kwamba hakuna mungu ila Allah, na nashuhudia kwamba Muhammad ni Mtume wa Allah."
+"Nashuhudia kwamba hakuna mungu apasaye kuabudiwa isipokuwa Allah, na nashuhudia kwamba Muhammad ni Mtume wa Allah."
 
 ---
 
 Shahada ni tamko kuu la imani ya Kiislamu. Ina shahada mbili:
 
-1. **Tawhidi** — "Hakuna mungu ila Allah" inathibitisha umoja kamili wa Mwenyezi Mungu
+1. **Tawhidi** — "Hakuna mungu apasaye kuabudiwa isipokuwa Allah" inathibitisha umoja kamili wa Mwenyezi Mungu
 2. **Risala** — "Muhammad ni Mtume wa Allah" inathibitisha utume wa Muhammad
 
 Mtu huwa Mwislamu kwa kutamka Shahada kwa Kiarabu kwa dhati, kwa ufahamu na kwa uthabiti wa moyo. Tamko hili hutamkwa pia wakati wa wito wa swala (adhana), ndani ya swala yenyewe, na katika nyakati muhimu za maisha.
@@ -85,10 +85,10 @@ Zaka ni kutoa sehemu ya mali ya mtu kwa wenye uhitaji, kwa lazima. Ni tendo la i
 - **Kiasi**: Kwa jumla ni asilimia 2.5 (1/40) ya mali iliyokusanywa na kuhifadhiwa kwa mwaka mmoja wa kalenda ya mwezi
 - **Nisabu**: Kiwango cha chini cha mali kabla zaka haijawa lazima
 - **Wanaostahili**: Qur'ani inaainisha makundi nane (9:60):
-  1. Maskini (al-fuqara)
-  2. Wenye uhitaji (al-masakin)
+  1. Mafakiri (al-fuqara)
+  2. Masikini (al-masakin)
   3. Wakusanyaji wa zaka
-  4. Wale ambao nyoyo zao zinapaswa kuunganishwa
+  4. Wanaotiwa nguvu nyoyo zao
   5. Walio utumwani (kuwakomboa watumwa)
   6. Wenye madeni
   7. Katika njia ya Allah
@@ -114,7 +114,7 @@ Saumu ni funga ya lazima katika mwezi wa Ramadhani, mwezi wa tisa wa kalenda ya 
 **Misamaha**: Wazee, wagonjwa, wajawazito, wanaonyonyesha, walio katika hedhi na wasafiri wanaweza kusamehewa, na kuna masharti ya kulipa siku zilizopotea au kutoa fidia (fidyah).
 
 **Usiku Maalum:**
-- **Laylat al-Qadr** (Usiku wa Cheo): Usiku ambao Qur'ani iliteremshwa, bora kuliko miezi elfu (Surat 97)
+- **Laylat al-Qadr** (Usiku wa Cheo): Usiku ambao Qur'ani iliteremshwa, bora kuliko miezi elfu (Sura ya 97)
 
 ---
 
@@ -130,7 +130,7 @@ Hija ni safari ya kila mwaka kwenda Makka ambayo kila Mwislamu mwenye uwezo wa k
 
 2. **Tawaf**: Kuizunguka Al-Kaaba mara saba kinyume cha saa
 
-3. **Sa'i**: Kutembea mara saba kati ya vilima vya Safa na Marwa, kukumbuka kutafuta maji kwa Hajar
+3. **Sa'i**: Kutembea mara saba kati ya vilima vya Safa na Marwa, kukumbuka jinsi Hajar alivyotafuta maji
 
 4. **Arafat**: Kusimama katika dua kwenye uwanda wa Arafat (ibada muhimu zaidi)
 
@@ -138,13 +138,13 @@ Hija ni safari ya kila mwaka kwenda Makka ambayo kila Mwislamu mwenye uwezo wa k
 
 6. **Rami al-Jamarat**: Kurusha kokoto kwenye nguzo tatu zinazomwakilisha Shetani
 
-7. **Kuchinja (Qurbani)**: Kuchinja mnyama, kukumbuka utayari wa Ibrahimu wa kumtoa mwanawe kuwa kafara
+7. **Kuchinja (Qurbani)**: Kuchinja mnyama, kukumbuka utayari wa Ibrahim wa kumchinja mwanawe
 
 8. **Tawaf al-Ifadah**: Kuizunguka Al-Kaaba kwa mara ya mwisho
 
 **Umuhimu wa Kiroho:**
 
-Hija ni ishara yenye nguvu ya umoja wa Waislamu. Mamilioni ya mahujaji kutoka kila taifa, kila rangi na kila tabaka la kijamii husimama pamoja kama walio sawa mbele ya Allah. Inakumbuka majaribu ya Ibrahimu, Hajar na Ismail, na kuwaunganisha Waislamu na urithi wao wa Kiibrahimu.
+Hija ni ishara yenye nguvu ya umoja wa Waislamu. Mamilioni ya mahujaji kutoka kila taifa, kila rangi na kila tabaka la kijamii husimama pamoja kama walio sawa mbele ya Allah. Inakumbuka majaribu ya Ibrahim, Hajar na Ismail, na kuwaunganisha Waislamu na urithi wao wa Kiibrahimu.
 
 ---
 
@@ -198,15 +198,15 @@ Kwa pamoja, zinagusa nyanja zote za maisha ya binadamu: imani, ibada, wajibu wa 
 
 ### Hadithi Kuhusu Nguzo Tano | Hadith on the Five Pillars
 
-> "Uislamu umejengwa juu ya [nguzo] tano: kushuhudia kwamba hakuna mungu ila Allah na kwamba Muhammad ni Mtume wa Allah, kusimamisha swala, kutoa zaka, kuhiji Nyumba [ya Allah], na kufunga Ramadhani." (Sahih al-Bukhari, Sahih Muslim)
+> "Uislamu umejengwa juu ya [nguzo] tano: kushuhudia kwamba hakuna mungu apasaye kuabudiwa isipokuwa Allah na kwamba Muhammad ni Mtume wa Allah, kusimamisha swala, kutoa zaka, kuhiji Nyumba [ya Allah], na kufunga Ramadhani." (Sahih al-Bukhari, Sahih Muslim)
 
 ### Marejeo ya Qur'ani | Quranic References
 
-- **Shahada**: Surat 3:18, 47:19
-- **Swala**: Surat 2:43, 11:114, 17:78
-- **Zaka**: Surat 9:60, 2:43, 2:177
-- **Saumu**: Surat 2:183-185
-- **Hija**: Surat 2:196-197, 3:97, 22:27-29
+- **Shahada**: Sura 3:18, 47:19
+- **Swala**: Sura 2:43, 11:114, 17:78
+- **Zaka**: Sura 9:60, 2:43, 2:177
+- **Saumu**: Sura 2:183-185
+- **Hija**: Sura 2:196-197, 3:97, 22:27-29
 
 ---
 
@@ -224,7 +224,7 @@ Nguzo Tano hutoa hekima ya vitendo kwa maisha ya kila siku:
 
 ## Marejeo Mtambuka | Cross-References
 
-- **[Tawhidi](./tawhid.md)**: Msingi wa kithiolojia unaozingatiwa na Nguzo Tano zote
+- **[Tawhidi](./tawhid.md)**: Msingi wa kiitikadi unaozingatiwa na Nguzo Tano zote
 - **[Shema (Uyahudi)](../judaism/core-teachings/shema.md)**: Tamko la imani la Kiyahudi linalofanana na Shahada
 - **[Agano (Uyahudi)](../judaism/core-teachings/covenant.md)**: Wajibu wa kiagano katika matendo ya Kiyahudi
 - **[Tzedakah (Uyahudi)](../judaism/practices/)**: Utoaji wa sadaka wa Kiyahudi unaofanana na Zaka
@@ -245,4 +245,4 @@ Nguzo Tano hutoa hekima ya vitendo kwa maisha ya kila siku:
 ---
 
 ---
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Kuwanufaisha Wanadamu Wote**

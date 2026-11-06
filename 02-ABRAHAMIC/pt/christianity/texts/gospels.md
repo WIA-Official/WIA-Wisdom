@@ -145,7 +145,7 @@ A teoria dominante (a Hipótese das Duas Fontes) propõe que:
 No centro dos Evangelhos Sinóticos está o anúncio de Jesus sobre o Reino de Deus (ou «Reino dos Céus», em Mateus). Este Reino é:
 - Já presente no ministério de Jesus («O Reino de Deus está no meio de vós»)
 - Mas ainda por vir em plenitude
-- Alcançado pelo arrependimento e pela fé
+- No qual se entra pelo arrependimento e pela fé
 - Caracterizado pela justiça, pela paz e pela alegria
 
 ---

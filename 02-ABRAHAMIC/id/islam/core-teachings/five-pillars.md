@@ -6,11 +6,11 @@
 
 ## Gambaran Umum | Overview
 
-Lima Rukun Islam (bahasa Arab: أَرْكَانُ الْإِسْلَامِ, *Arkān al-Islām*) adalah lima amalan pokok yang diwajibkan atas setiap Muslim untuk ditunaikan sepanjang hidupnya. Nabi Muhammad ﷺ (semoga damai menyertainya) menyatakan bahwa Islam "dibangun di atas lima perkara" (Sahih al-Bukhari, Sahih Muslim), yang menunjukkan bahwa rukun-rukun ini membentuk struktur utama agama.
+Lima Rukun Islam (bahasa Arab: أَرْكَانُ الْإِسْلَامِ, *Arkān al-Islām*) adalah lima amalan pokok yang diwajibkan atas setiap Muslim untuk ditunaikan sepanjang hidupnya. Nabi Muhammad saw. menyatakan bahwa Islam "dibangun di atas lima perkara" (Shahih al-Bukhari, Shahih Muslim), yang menunjukkan bahwa rukun-rukun ini membentuk struktur utama agama.
 
 Rukun-rukun tersebut adalah:
 1. **Syahadat** (شَهَادَة) — Pengakuan Iman
-2. **Salat** (صَلَاة) — Shalat
+2. **Salat** (صَلَاة) — Sembahyang
 3. **Zakat** (زَكَاة) — Pemberian Derma Wajib
 4. **Saum** (صَوْم) — Puasa
 5. **Haji** (حَجّ) — Ibadah Haji
@@ -43,7 +43,7 @@ Salat adalah ibadah ritual yang dilaksanakan lima kali sehari pada waktu-waktu y
 | Salat | Bahasa Arab | Waktu |
 |--------|--------|------|
 | **Subuh (Fajr)** | فَجْر | Fajar (sebelum matahari terbit) |
-| **Zuhur (Dhuhr)** | ظُهْر | Tengah hari (setelah matahari melewati titik zenit) |
+| **Zuhur (Dhuhr)** | ظُهْر | Tengah hari (setelah matahari tergelincir) |
 | **Asar (Asr)** | عَصْر | Sore hari |
 | **Magrib (Maghrib)** | مَغْرِب | Matahari terbenam (tepat setelah matahari terbenam) |
 | **Isya (Isha)** | عِشَاء | Malam (setelah senja hilang) |
@@ -93,7 +93,7 @@ Saum adalah puasa wajib pada bulan Ramadan, bulan kesembilan dalam kalender kama
 - **Empati**: Merasakan lapar menumbuhkan solidaritas dengan kaum miskin
 - **Al-Qur'an**: Ramadan adalah bulan ketika Al-Qur'an pertama kali diturunkan
 
-**Keringanan**: Orang lanjut usia, orang sakit, perempuan hamil, menyusui, haid, dan musafir dapat memperoleh keringanan, dengan ketentuan mengganti hari-hari yang ditinggalkan atau memberikan penggantinya (fidyah).
+**Keringanan**: Orang lanjut usia, orang sakit, perempuan hamil, menyusui, haid, dan musafir dapat memperoleh keringanan, dengan ketentuan mengganti hari-hari yang ditinggalkan atau membayar fidyah.
 
 **Malam Istimewa:**
 - **Lailatulkadar** (*Laylat al-Qadr*, Malam Kemuliaan): Malam diturunkannya Al-Qur'an, lebih baik daripada seribu bulan (Surah 97)
@@ -162,7 +162,7 @@ Lima Rukun Islam bekerja bersama sebagai satu sistem yang terpadu:
 - **Syahadat** meletakkan fondasi keyakinan kepada Tuhan Yang Maha Esa
 - **Salat** menjaga hubungan harian dengan Allah melalui ibadah yang tertib
 - **Zakat** memperluas ibadah secara horizontal untuk memedulikan masyarakat
-- **Saum** menyucikan jiwa melalui pengasingan spiritual tahunan
+- **Saum** menyucikan jiwa melalui latihan rohani tahunan
 - **Haji** menyatukan umat Islam sedunia dalam ibadah bersama
 
 Bersama-sama, kelimanya menjawab seluruh dimensi keberadaan manusia: keyakinan, ritual, tanggung jawab sosial, disiplin diri, dan identitas komunal.
@@ -171,7 +171,7 @@ Bersama-sama, kelimanya menjawab seluruh dimensi keberadaan manusia: keyakinan, 
 ## Sumber Primer | Primary Sources
 
 ### Hadis tentang Lima Rukun
-> "Islam dibangun di atas lima [rukun]: kesaksian bahwa tiada tuhan selain Allah dan bahwa Muhammad adalah utusan Allah, menegakkan salat, menunaikan zakat, berhaji ke Baitullah, dan berpuasa di bulan Ramadan." (Sahih al-Bukhari, Sahih Muslim)
+> "Islam dibangun di atas lima [rukun]: kesaksian bahwa tiada tuhan selain Allah dan bahwa Muhammad adalah utusan Allah, menegakkan salat, menunaikan zakat, berhaji ke Baitullah, dan berpuasa di bulan Ramadan." (Shahih al-Bukhari, Shahih Muslim)
 
 ### Rujukan Al-Qur'an
 - **Syahadat**: Surah 3:18, 47:19
@@ -210,4 +210,4 @@ Lima Rukun Islam memberikan kearifan praktis bagi kehidupan sehari-hari:
 
 ---
 ---
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Bermanfaat bagi Seluruh Umat Manusia**

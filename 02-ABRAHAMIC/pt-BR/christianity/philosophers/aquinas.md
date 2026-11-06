@@ -48,7 +48,7 @@ Quatro tipos de lei:
 
 ## Fé e Razão | Faith and Reason
 
-> Tomás de Aquino sustentou que fé e razão não se opõem, mas se complementam. Algumas verdades são acessíveis apenas à razão (por exemplo, a existência de Deus), ao passo que outras exigem a revelação (por exemplo, a Santíssima Trindade).
+> Tomás de Aquino sustentou que fé e razão não se opõem, mas se complementam. Algumas verdades são acessíveis à razão por si só (por exemplo, a existência de Deus), ao passo que outras exigem a revelação (por exemplo, a Santíssima Trindade).
 
 > "A graça não destrói a natureza, mas a aperfeiçoa."
 
@@ -68,8 +68,8 @@ A harmonia:
 
 Estrutura:
 - **Primeira Parte**: Deus, a criação, os anjos, o ser humano
-- **Primeira Seção da Segunda Parte**: a felicidade, os atos humanos, as virtudes, a lei
-- **Segunda Seção da Segunda Parte**: as virtudes e os vícios em particular
+- **Primeira Parte da Segunda Parte**: a felicidade, os atos humanos, as virtudes, a lei
+- **Segunda Parte da Segunda Parte**: as virtudes e os vícios em particular
 - **Terceira Parte**: Cristo, os sacramentos (incompleta)
 
 > Tomás de Aquino morreu antes de concluir a *Suma*. Perto do fim da vida, teve uma experiência mística, após a qual disse: "Tudo o que escrevi parece palha em comparação com o que agora me foi revelado."

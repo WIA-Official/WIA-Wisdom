@@ -31,13 +31,13 @@ La plupart des spécialistes estiment que Marc a été écrit en premier, et que
 
 ### Évangile selon Matthieu | Gospel of Matthew
 
-**Auteur :** Traditionnellement attribué à Matthieu, le collecteur d'impôts, l'un des douze apôtres de Jésus.
+**Auteur :** Traditionnellement attribué à Matthieu, le publicain (collecteur d'impôts), l'un des douze apôtres de Jésus.
 **Destinataires :** Chrétiens d'origine juive
 **Jésus présenté comme :** Le Messie promis, roi des Juifs
 
 **Caractéristiques principales :**
 - S'ouvre sur une généalogie qui fait remonter Jésus à Abraham et à David
-- Souligne l'accomplissement des prophéties de l'Ancien Testament (« Cela est arrivé afin que s'accomplisse ce qui avait été annoncé par le prophète... »)
+- Souligne l'accomplissement des prophéties de l'Ancien Testament (« Cela arriva afin que s'accomplît ce qui avait été annoncé par le prophète... »)
 - Contient cinq grands discours d'enseignement (en écho aux cinq livres de Moïse) :
   1. Le Sermon sur la montagne (chapitres 5 à 7)
   2. Le discours missionnaire (chapitre 10)
@@ -57,7 +57,7 @@ La plupart des spécialistes estiment que Marc a été écrit en premier, et que
 
 **Caractéristiques principales :**
 - Le plus court des Évangiles, tourné vers l'action (« aussitôt » revient plus de 40 fois)
-- Pas de récit de la naissance ; il commence avec Jean le Baptiste
+- Pas de récit de la naissance ; il commence avec Jean-Baptiste
 - Met l'accent sur les actes de Jésus plus que sur ses enseignements
 - Le « secret messianique » : Jésus demande souvent aux gens de ne pas révéler son identité
 - Accent mis sur la croix et la souffrance
@@ -70,7 +70,7 @@ La plupart des spécialistes estiment que Marc a été écrit en premier, et que
 
 **Auteur :** Traditionnellement attribué à Luc, le médecin, compagnon de Paul.
 **Destinataires :** Chrétiens issus des nations (non juifs), en particulier « Théophile »
-**Jésus présenté comme :** Sauveur de tous les hommes, en particulier des marginalisés
+**Jésus présenté comme :** Sauveur de toute l'humanité, en particulier des marginalisés
 
 **Caractéristiques principales :**
 - Le grec le plus littéraire des Évangiles
@@ -88,9 +88,9 @@ La plupart des spécialistes estiment que Marc a été écrit en premier, et que
 
 ## L'Évangile selon Jean | The Gospel of John
 
-**Auteur :** Traditionnellement attribué à Jean l'apôtre, « le disciple bien-aimé ».
+**Auteur :** Traditionnellement attribué à l'apôtre Jean, « le disciple bien-aimé ».
 **Destinataires :** Universels ; orientation théologique et spirituelle
-**Jésus présenté comme :** Le Verbe éternel (Logos), Fils de Dieu divin
+**Jésus présenté comme :** Le Verbe éternel (Logos), Fils de Dieu de nature divine
 
 **Caractéristiques principales :**
 - Prologue hautement théologique et philosophique : « Au commencement était le Verbe »

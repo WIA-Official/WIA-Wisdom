@@ -35,7 +35,7 @@ El Génesis establece los orígenes de la humanidad, la elección de Israel y la
 
 - **Esclavitud de los israelitas en Egipto** (capítulos 1-2)
 - **Moisés y la zarza ardiente** (capítulo 3)
-- **Las diez plagas y la Pascua** (capítulos 7-12)
+- **Las diez plagas y Pésaj** (capítulos 7-12)
 - **El cruce del mar Rojo** (capítulo 14)
 - **Los Diez Mandamientos en el Sinaí** (capítulo 20)
 - **El becerro de oro** (capítulo 32)
@@ -100,7 +100,7 @@ La oración judía más fundamental proviene de Deuteronomio 6:4:
 
 Esta declaración de monoteísmo se recita dos veces al día y ocupa un lugar central en la fe judía.
 
-> "Escucha, Israel: el Señor nuestro Dios, el Señor uno es."
+> "Escucha, Israel: el Eterno es nuestro Dios, el Eterno es uno."
 
 ---
 

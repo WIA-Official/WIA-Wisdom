@@ -8,9 +8,9 @@
 
 Agape (gr. ἀγάπη, *agápē*) to greckie słowo użyte w Nowym Testamencie na określenie najwyższej formy miłości — bezwarunkowej, ofiarnej miłości Boga do ludzi oraz miłości, do której chrześcijanie są powołani wobec Boga i bliźniego.
 
-W odróżnieniu od miłości ludzkiej, która często odpowiada na atrakcyjność lub wartość osoby kochanej, agape cechuje bezwarunkowość. Miłość Boża nie jest zdobywana ludzkimi zasługami, lecz dana darmo. Jak napisał apostoł Paweł: „Bóg zaś okazuje nam swoją miłość tym, że Chrystus umarł za nas, gdy jeszcze byliśmy grzesznikami” (Rz 5,8).
+W odróżnieniu od miłości ludzkiej, która często odpowiada na atrakcyjność lub wartość osoby kochanej, agape cechuje bezwarunkowość. Miłość Boża nie jest zdobywana ludzkimi zasługami, lecz dana darmo. Jak napisał apostoł Paweł: „Bóg zaś okazuje nam swoją miłość właśnie przez to, że Chrystus umarł za nas, gdy byliśmy jeszcze grzesznikami” (Rz 5,8).
 
-Agape nie jest przede wszystkim uczuciem, lecz zobowiązaniem — świadomym wyborem szukania dobra drugiego człowieka, bez względu na koszt dla siebie. Ta miłość jest samą naturą Boga („Bóg jest miłością”, 1 J 4,8) i znamieniem uczniostwa chrześcijańskiego („Po tym wszyscy poznają, że jesteście moimi uczniami, jeśli będziecie się wzajemnie miłowali”, J 13,35).
+Agape nie jest przede wszystkim uczuciem, lecz zobowiązaniem — świadomym wyborem szukania dobra drugiego człowieka, bez względu na koszt dla siebie. Ta miłość jest samą naturą Boga („Bóg jest miłością”, 1 J 4,8) i znamieniem uczniostwa chrześcijańskiego („Po tym wszyscy poznają, żeście uczniami moimi, jeśli będziecie się wzajemnie miłowali”, J 13,35).
 
 ---
 
@@ -51,23 +51,23 @@ Choć niektórzy badacze dyskutują nad ostrością tego rozróżnienia, kontras
 
 **J 3,16** — „Tak bowiem Bóg umiłował (*ēgapēsen*) świat, że Syna swego Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne.”
 
-**Rz 5,8** — „Bóg zaś okazuje nam swoją miłość (*agapēn*) tym, że Chrystus umarł za nas, gdy jeszcze byliśmy grzesznikami.”
+**Rz 5,8** — „Bóg zaś okazuje nam swoją miłość (*agapēn*) właśnie przez to, że Chrystus umarł za nas, gdy byliśmy jeszcze grzesznikami.”
 
-**1 J 4,8-10** — „Kto nie miłuje, nie zna Boga, bo Bóg jest miłością (*agapē*). Miłość Boża objawiła się wśród nas przez to, że Bóg zesłał na świat swego Syna Jednorodzonego, abyśmy życie mieli dzięki Niemu.”
+**1 J 4,8-10** — „Kto nie miłuje, nie zna Boga, bo Bóg jest miłością (*agapē*). W tym objawiła się miłość Boga ku nam, że zesłał Syna swego Jednorodzonego na świat, abyśmy życie mieli dzięki Niemu.”
 
 ---
 
 ### Największe przykazanie | The Great Commandment
 
-**Mt 22,37-39** — „Będziesz miłował (*agapēseis*) Pana Boga swego całym swoim sercem, całą swoją duszą i całym swoim umysłem. To jest największe i pierwsze przykazanie. Drugie podobne jest do niego: Będziesz miłował (*agapēseis*) swego bliźniego jak siebie samego.”
+**Mt 22,37-39** — „«Będziesz miłował (*agapēseis*) Pana Boga swego całym swoim sercem, całą swoją duszą i całym swoim umysłem». To jest największe i pierwsze przykazanie. Drugie podobne jest do niego: «Będziesz miłował (*agapēseis*) swego bliźniego jak siebie samego».”
 
-Jezus przytacza tu Szema (Pwt 6,5) i łączy je z Kpł 19,18, czyniąc z miłości podsumowanie całego Bożego prawa.
+Jezus przytacza tu Szema Izrael (Pwt 6,5) i łączy je z Kpł 19,18, czyniąc z miłości podsumowanie całego Bożego prawa.
 
 ---
 
 ### Miłość nieprzyjaciół | Love of Enemies
 
-**Mt 5,44-45** — „A Ja wam powiadam: Miłujcie (*agapate*) waszych nieprzyjaciół i módlcie się za tych, którzy was prześladują, tak abyście się stali synami Ojca waszego, który jest w niebie.”
+**Mt 5,44-45** — „A Ja wam powiadam: Miłujcie (*agapate*) waszych nieprzyjaciół i módlcie się za tych, którzy was prześladują; tak będziecie synami Ojca waszego, który jest w niebie.”
 
 To przykazanie stanowi najbardziej radykalny wyraz agape — miłości skierowanej właśnie do tych, którzy na nią nie zasługują, co odzwierciedla charakter samego Boga.
 
@@ -93,7 +93,7 @@ Krzyż jest najwyższym świadectwem agape. Miłość Boża nie jest zwykłym uc
 
 ### Miłość jako znak uczniostwa | Love as Mark of Discipleship
 
-„Daję wam przykazanie nowe, abyście się wzajemnie miłowali tak, jak Ja was umiłowałem; żebyście i wy tak się miłowali wzajemnie. Po tym wszyscy poznają, że jesteście moimi uczniami, jeśli będziecie mieli miłość jedni ku drugim” (J 13,34-35).
+„Daję wam przykazanie nowe, abyście się wzajemnie miłowali tak, jak Ja was umiłowałem; żebyście i wy tak się miłowali wzajemnie. Po tym wszyscy poznają, żeście uczniami moimi, jeśli będziecie się wzajemnie miłowali” (J 13,34-35).
 
 Miłość chrześcijańska nie jest po prostu ludzką serdecznością, lecz miłością wzorowaną na ofiarnej miłości samego Chrystusa — „tak, jak Ja was umiłowałem”.
 

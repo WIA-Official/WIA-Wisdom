@@ -8,7 +8,7 @@
 
 Sfântul Augustin de Hipona (354–430 d.Hr.) a fost teolog, filosof și episcop de Hippo Regius, în Africa de Nord romană. Este una dintre cele mai importante personalități în dezvoltarea creștinismului occidental și a filosofiei occidentale. Scrierile sale au influențat dezvoltarea filosofiei și a creștinismului occidental, iar el este considerat unul dintre cei mai importanți Părinți ai Bisericii latine în perioada patristică.
 
-> „Tu ne-ai făcut pentru Tine, Doamne, și inima noastră este neliniștită până se odihnește în Tine.” Acest celebru rând din *Confesiuni* rezumă drumul duhovnicesc și teologia lui Augustin.
+> „Ne-ai făcut pentru Tine, Doamne, și neliniștită este inima noastră până ce se va odihni în Tine.” Acest celebru rând din *Confesiuni* rezumă drumul duhovnicesc și teologia lui Augustin.
 
 Gândirea sa a format doctrinele despre păcatul strămoșesc, harul dumnezeiesc, libertatea voinței și predestinare, care continuă să influențeze teologia creștină și astăzi.
 
@@ -22,8 +22,8 @@ Gândirea sa a format doctrinele despre păcatul strămoșesc, harul dumnezeiesc
 
 Teme principale:
 - **Neliniștea**: dorul sufletului după Dumnezeu
-- **Memoria**: adâncurile vieții launtrice
-- **Timpul**: celebra meditație asupra firii timpului
+- **Memoria**: adâncurile vieții lăuntrice
+- **Timpul**: celebra meditație asupra naturii timpului
 - **Harul**: transformarea prin inițiativa dumnezeiască
 
 ---
@@ -48,7 +48,7 @@ Doctrine principale:
 
 > Scrisă ca răspuns la jefuirea Romei din anul 410 d.Hr., *Cetatea lui Dumnezeu* (*De civitate Dei*) pune față în față „Cetatea lui Dumnezeu” și „Cetatea oamenilor”.
 
-> „Două cetăți au fost întemeiate de două iubiri: cea pământească, de iubirea de sine până la disprețuirea lui Dumnezeu; cea cerească, de iubirea de Dumnezeu până la disprețuirea de sine.”
+> „Două cetăți au fost întemeiate de două iubiri: cea pământească, de iubirea de sine până la disprețul față de Dumnezeu; cea cerească, de iubirea de Dumnezeu până la disprețul de sine.”
 
 Concepte centrale:
 - **Două cetăți**: iubiri și destine opuse
@@ -60,7 +60,7 @@ Concepte centrale:
 
 ## Filosofia timpului | Philosophy of Time
 
-> Meditația lui Augustin despre timp din Cartea a XI-a a *Confesiunilor* rămâne unul dintre cele mai profunde tratamente filosofice ale temporalității.
+> Meditația lui Augustin despre timp din Cartea a XI-a a *Confesiunilor* rămâne unul dintre cele mai profunde abordări filosofice ale temporalității.
 
 > „Ce este, așadar, timpul? Dacă nimeni nu mă întreabă, știu; dacă vreau să-i explic celui care întreabă, nu știu.”
 

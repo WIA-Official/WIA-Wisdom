@@ -29,9 +29,9 @@ Hər rəsul nəbidir, lakin hər nəbi rəsul deyil. Məsələn, Musa Tövratı 
 
 ## Beş böyük peyğəmbər | The Five Greatest Prophets
 
-Üləl-əzm ("Əzm sahibləri") adlanan beş peyğəmbər ən yüksək ehtirama layiqdir:
+Ulul-əzm ("Əzm sahibləri") adlanan beş peyğəmbər ən yüksək ehtirama layiqdir:
 
-### 1. Nuh (Nuh) | Nuh (Noah)
+### 1. Nuh | Nuh (Noah)
 - 950 il təbliğ etdi
 - İnkarçılara Allahın hökmü olan tufandan xilas oldu
 - Gəmisi möminləri salamatlığa daşıdı
@@ -44,21 +44,21 @@ Hər rəsul nəbidir, lakin hər nəbi rəsul deyil. Məsələn, Musa Tövratı 
 
 ### 3. Musa | Musa (Moses)
 - Quranda ən çox adı çəkilən peyğəmbərdir
-- Tövratı (Tövrat) aldı
+- Tövratı aldı
 - İsrailliləri Misir əsarətindən çıxardı
 - "Kəlimullah" (Allahla birbaşa danışan) adlandırıldı
 
 ### 4. İsa | Isa (Jesus)
 - Bakirə Məryəmdən (Maryam) doğuldu
 - Allahın izni ilə möcüzələr göstərdi
-- İncili (İncil) aldı
+- İncili aldı
 - Allah tərəfindən göyə qaldırıldı (İslam görüşünə görə çarmıxa çəkilmədi)
 - Qiyamət günündən əvvəl geri qayıdacaq
 
 ### 5. Muhəmməd | Muhammad
 - Son peyğəmbər (peyğəmbərlərin möhürü)
 - Quranı 23 il ərzində aldı
-- Bütün bəşəriyyətə ümumbəşəri missiya
+- Bütün bəşəriyyətə göndərilmiş ümumi risalət
 - Müsəlman həyatı üçün nümunə (Sünnə)
 
 ---
@@ -70,16 +70,16 @@ Hər rəsul nəbidir, lakin hər nəbi rəsul deyil. Məsələn, Musa Tövratı 
 | Peyğəmbər | Ərəbcə | Əhəmiyyəti |
 |---------|--------|--------------|
 | Adəm | آدم | İlk insan və peyğəmbər |
-| İdris | إدريس | İlk dövr peyğəmbəri, Xanokhla eyniləşdirilir |
+| İdris | إدريس | İlk dövr peyğəmbəri, Xanokla eyniləşdirilir |
 | İbrahim | إبراهيم | Təkallahlığın atası |
 | İsmayıl | إسماعيل | Ərəblərin əcdadı |
 | İshaq | إسحاق | İsraillilərin əcdadı |
 | Yəqub | يعقوب | İsrail, on iki qəbilənin atası |
 | Yusif | يوسف | Kölə kimi satıldı, Misirdə hakimiyyətə yüksəldi |
 | Musa | موسى | Tövratı verdi |
-| Davud | داود | Zəburu (Zəbur) aldı |
+| Davud | داود | Zəburu aldı |
 | Süleyman | سليمان | Müdrik padşah, cinlərə hökm edirdi |
-| İsa | عيسى | İsa |
+| İsa | عيسى | İsa Məsih |
 | Muhəmməd | محمد | Son elçi |
 
 ---
@@ -114,7 +114,7 @@ Muhəmməddən sonra daha peyğəmbər gəlməyəcək — İslam mesajı tamamla
 |--------|--------|---------|
 | Nabi | Nəbi | Peyğəmbər |
 | Rasul | Rəsul | Elçi |
-| Ulul Azmi | Üləl-əzm | Əzm sahibi peyğəmbərlər |
+| Ulul Azmi | Ulul-əzm | Əzm sahibi peyğəmbərlər |
 | Khatam | Xatəm | Möhür |
 | Wahi | Vəhy | Vəhy (ilahi xəbər) |
 | Ummah | Ümmət | İcma |

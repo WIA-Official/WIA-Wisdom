@@ -22,7 +22,7 @@ Al-Quran tersusun daripada:
 | **~6,200 Ayat** | Ayat (secara harfiah "tanda") |
 | **30 Juz'** | Bahagian untuk tujuan bacaan |
 
-Surah-surah tidak disusun mengikut urutan kronologi tetapi secara umumnya mengikut panjangnya, daripada yang terpanjang hingga yang terpendek (kecuali surah pembukaan, Al-Fātiḥah). Setiap surah kecuali yang kesembilan (At-Tawbah) dimulakan dengan Basmalah: "Dengan nama Allah, Yang Maha Pemurah, Lagi Maha Penyayang."
+Surah-surah tidak disusun mengikut urutan kronologi tetapi secara umumnya mengikut panjangnya, daripada yang terpanjang hingga yang terpendek (kecuali surah pembukaan, Al-Fātiḥah). Setiap surah kecuali yang kesembilan (At-Tawbah) dimulakan dengan Basmalah: "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani."
 
 ---
 
@@ -32,9 +32,9 @@ Umat Islam beriman bahawa Al-Quran diwahyukan kepada Muhammad di kota Makkah dan
 
 ### Wahyu Pertama | The First Revelation
 
-Lima ayat pertama Surah Al-'Alaq (96:1-5) diyakini sebagai wahyu pertama, yang diterima ketika Muhammad berkhalwat di Gua Hira':
+Lima ayat pertama Surah Al-'Alaq (96:1-5) diyakini sebagai wahyu pertama, yang diterima ketika Muhammad beruzlah di Gua Hira':
 
-> "Bacalah! Dengan nama Tuhanmu yang menciptakan—menciptakan manusia daripada segumpal darah. Bacalah! Dan Tuhanmu Maha Pemurah."
+> "Bacalah dengan nama Tuhanmu yang menciptakan—Dia menciptakan manusia daripada sebuku darah beku. Bacalah, dan Tuhanmu Yang Maha Pemurah."
 
 ### Surah Makkiyyah berbanding Surah Madaniyyah | Meccan vs. Medinan Surahs
 
@@ -120,7 +120,7 @@ Bacaan dianggap sebagai ibadah, dan bacaan Al-Quran yang merdu amat dihargai dal
 | 2 | Al-Baqarah (Lembu Betina) | Surah terpanjang, hukum-hukum yang menyeluruh |
 | 12 | Yūsuf (Yusuf) | Kisah naratif yang lengkap |
 | 36 | Yā-Sīn | Digelar "Jantung Al-Quran" |
-| 55 | Ar-Raḥmān (Yang Maha Pemurah) | Gambaran indah tentang nikmat-nikmat |
+| 55 | Ar-Raḥmān (Yang Maha Pemurah) | Gambaran indah tentang nikmat-nikmat Allah |
 | 112 | Al-Ikhlāṣ (Ikhlas) | Intisari tauhid |
 
 ---
@@ -134,7 +134,7 @@ Bacaan dianggap sebagai ibadah, dan bacaan Al-Quran yang merdu amat dihargai dal
 | Āyah | Ayat | Ayat, tanda |
 | Waḥy | Wahyu | Wahyu ilahi |
 | Ḥāfiẓ | Hafiz | Orang yang menghafaz Al-Quran |
-| Tajwīd | Tajwid | Seni bacaan |
+| Tajwīd | Tajwid | Ilmu dan seni bacaan Al-Quran |
 | Tafsīr | Tafsir | Penafsiran Al-Quran |
 
 ---
@@ -148,4 +148,4 @@ Bacaan dianggap sebagai ibadah, dan bacaan Al-Quran yang merdu amat dihargai dal
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Memberi manfaat kepada seluruh umat manusia*

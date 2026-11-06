@@ -6,7 +6,7 @@
 
 ## Guudmar | Overview
 
-Ramadaan (Carabi: رمضان) waa bisha sagaalaad ee kalandarka dayaxa ee Islaamka, waana bisha ugu barakaysan Islaamka. Bishan, Muslimiinta adduunka oo dhan waxay ku sugaan *sawm* (soonka) laga bilaabo fajarka ilaa qorrax-dhaca, kaasoo ah mid ka mid ah Shanta Tiir ee Islaamka. Ramadaan kama dhigna oo keliya ka fogaansho cunto iyo cabitaan; waa bil daahirin ruuxeed, is-fiirin, cibaado kordhay, iyo xiriir qoto dheer oo lala yeesho Allaah (SWT).
+Ramadaan (Carabi: رمضان) waa bisha sagaalaad ee kalandarka dayaxa ee Islaamka, waana bisha ugu barakaysan Islaamka. Bishan, Muslimiinta adduunka oo dhan waxay dhawraan *sawm* (soonka) laga bilaabo fajarka ilaa qorrax-dhaca, kaasoo ah mid ka mid ah Shanta Tiir ee Islaamka. Ramadaan kaliya ma aha ka fogaanshaha cunto iyo cabitaan; waa bil daahirin ruuxeed, is-fiirin, cibaado kordhay, iyo xiriir qoto dheer oo lala yeesho Allaah (SWT).
 
 Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض), oo macnihiisu yahay "kul daran" ama "gubasho" — isagoo tilmaamaya sida soonku u gubo dembiyada, u abuuro diirimaad ruuxeed, una xoojiyo cibaadada. Waxa ugu muhiimsan, Ramadaan waa bishii Qur'aanka markii ugu horreysay loo waxyooday Nabi Muxammad, taasoo ka dhigaysa bil leh xiriir gaar ah oo la leh waxyiga rabbaaniga ah.
 
@@ -14,26 +14,26 @@ Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض),
 
 ## Aasaaska Qur'aanka | Quranic Foundation
 
-> "Bisha Ramadaan ayaa ahayd tii Qur'aanka markii ugu horreysay loo soo dejiyey iyada oo hanuun u ah dadka oo dhan, kuna jira caddaymo cad oo hanuun rabbaani ah iyo kala soocidda xaqa iyo baadilka." (Qur'aanka 2:185)
+> "Bisha Ramadaan waa tii lagu soo dejiyey Qur'aanka isagoo hanuun u ah dadka, caddaymo ka ah hanuunka iyo kala-saarka (xaqa iyo baadilka)." (Qur'aanka 2:185)
 
 ### Laylatul Qadr (Habeenka Awoodda) | Laylat al-Qadr (Night of Power):
 - Habeenkii Qur'aanka markii ugu horreysay la soo dejiyey
-- Wuxuu ku dhacaa toddobaadkii ugu dambeeyay ee Ramadaan, tobankii habeen ee ugu dambeeya
-- "Ka khayr badan kun bilood" (Qur'aanka 97:3)
+- Wuxuu ku dhacaa tobanka habeen ee ugu dambeeya Ramadaan
+- "Waa ka khayr badan yahay kun bilood" (Qur'aanka 97:3)
 - Malaa'igtu way soo degaan iyadoo wata barakooyin rabbaani ah
 
 ---
 
 ## Faa'iidooyinka Ruuxiga ah | Spiritual Benefits
 
-> "Muslimiintu waxay Ramadaan ku sugaan amar ka yimid Allaah (SWT). Waa bil daahirin ruuxeed, is-fiirin iyo cibaado."
+> "Muslimiintu waxay Ramadaan u dhawraan iyagoo fulinaya amar ka yimid Allaah (SWT). Waa bil daahirin ruuxeed, is-fiirin iyo cibaado."
 
 ### Horumarinta Taqwada (Ka Cabsiga iyo Xasuusta Allaah) | Development of Taqwa (God-Consciousness):
 
 | Dhinac | Horumar |
 |--------|---------|
 | **Feejignaan** | Ogaansho joogto ah oo ku saabsan joogitaanka Allaah |
-| **Anshax-adeeg** | Xakamaynta damacyada iyo kicitaannada |
+| **Is-xakameyn** | Xakamaynta damacyada iyo kicitaannada |
 | **Mas'uuliyad** | Dareen mas'uuliyadeed oo kordhay |
 | **Ku tiirsanaan** | Qirashada in Allaah lagu tiirsan yahay |
 
@@ -41,15 +41,15 @@ Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض),
 
 > "Waxaa la sheegay in Allaah cafiyo dembiyadii hore ee kuwa bisha barakaysan ku sooma, tukada, oo niyad suubban leh."
 
-> "Camal kasta oo uu ibnu-aadmigu sameeyo waa isaga u gaar ah — marka laga reebo soonka, kaasoo ah Allaah u gaar ah, Isaga laftiisuna yahay abaalmarintiisa."
+> "Camal kasta oo uu ibnu-aadamku sameeyo isaga ayuu u yahay — soonka mooyee, kaasoo Allaah u ah, Isaga laftiisuna waa abaalmarintiisa."
 
 ---
 
 ## Soonka (Sawm) | The Fast (Sawm)
 
 ### Shuruudaha | Requirements:
-- **Bilowga**: Fajarka ka hor
-- **Dhammaadka**: Qorrax-dhaca (Maghrib)
+- **Bilowga**: Waaberiga ka hor (Fajar)
+- **Dhammaadka**: Qorrax-dhaca (Maqrib)
 - **Laga fogaado**: Cunto, cabitaan, sigaar cabbid, iyo xiriir galmo
 - **Muddada**: Bisha oo dhan (29-30 maalmood)
 
@@ -58,11 +58,11 @@ Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض),
 | Cunto | Waqti | Magac |
 |-------|-------|-------|
 | Cuntada fajarka ka hor | Fajarka ka hor | Suhuur/Sehri |
-| Furitaanka soonka | Maghrib | Iftaar |
+| Afurka | Maqribka | Iftaar |
 
 ### Ka Cafisyada | Exemptions:
 - Carruurta aan qaan-gaarin
-- Odayaasha awoodi waayay inay soomaan
+- Waayeelka aan awoodin inay soomaan
 - Dumarka uurka leh ama nuujinaya
 - Safarleyda
 - Kuwa buka
@@ -71,17 +71,17 @@ Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض),
 
 ## Dhaqamada Cibaadada | Worship Practices
 
-### Tuska Taraawiixda | Tarawih Prayers:
+### Salaadda Taraawiixda | Tarawih Prayers:
 
-> "Ramadaanka, Muslimiin badan way aadaan masjidka oo saacado dhawr ah ku tukadaan. Marka lagu daro shanta salaadood ee maalinlaha ah, Muslimiintu waxay tukadaan salaad gaar ah oo loo yaqaan salaadda Taraawiix."
+> "Inta lagu jiro Ramadaanka, Muslimiin badan waxay aadaan masjidka oo saacado dhawr ah ku tukadaan. Marka lagu daro shanta salaadood ee maalinlaha ah, Muslimiintu waxay tukadaan salaad gaar ah oo loo yaqaan salaadda Taraawiix."
 
 ### Cibaado Kordhay | Enhanced Devotion:
 
 | Dhaqan | Sharaxaad |
 |--------|-----------|
 | **Akhriska Qur'aanka** | Dhammaystirka akhriska Qur'aanka bishii dhexdeeda |
-| **Taraawiix** | Salaado habeenka lagu dheereeyo |
-| **Ictikaaf** | Is-dhigid ruuxeed masjidka (tobankii maalmood ee ugu dambeeyay) |
+| **Taraawiix** | Salaadaha habeenka oo la dheereeyo |
+| **Ictikaaf** | Ku-hakasho cibaadeed masjidka (tobanka maalmood ee ugu dambeeya) |
 | **Sadaqo** | Sadaqo kordhay |
 | **Dhikri** | Xasuusta Allaah |
 
@@ -102,9 +102,9 @@ Erayga "Ramadaan" wuxuu ka soo farcamay xididka Carabiga ah ee "ramdh" (رمض),
 
 ## Ciidul Fitri | Eid al-Fitr
 
-Bisha waxay ku dhammaataa Ciidul Fitri ("Xafladda Furitaanka Soonka"):
+Bisha waxay ku dhammaataa Ciidul Fitri ("Ciidda Afurka"):
 - Saddex maalmood oo dabaaldeg ah
-- Salaad jamaaca gaar ah
+- Salaad jamaaco oo gaar ah
 - Zakaatul Fitri (sadaqo loo bixiyo masaakiinta)
 - Cunto wadaag iyo soo booqashada qoyska
 - Is-weydaarsiga hadiyado
@@ -118,8 +118,8 @@ Bisha waxay ku dhammaataa Ciidul Fitri ("Xafladda Furitaanka Soonka"):
 | صوم/صيام (Sawm) | Soon | Soonka |
 | رمضان (Ramadan) | Ramadaan | Bisha barakaysan |
 | سحور (Suhur) | Suhuur | Cuntada fajarka ka hor |
-| إفطار (Iftar) | Iftaar | Furitaanka soonka |
-| تقوى (Taqwa) | Taqwo | Ka cabsiga Allaah iyo wacyiga Allaah |
+| إفطار (Iftar) | Iftaar | Afurka |
+| تقوى (Taqwa) | Taqwo | Ka cabsashada Allaah iyo dareenka joogitaankiisa |
 | تراويح (Tarawih) | Taraawiix | Salaadaha habeenka |
 | ليلة القدر (Laylat al-Qadr) | Laylatul Qadr | Habeenka Awoodda |
 

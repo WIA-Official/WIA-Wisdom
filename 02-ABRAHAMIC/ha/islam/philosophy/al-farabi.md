@@ -6,7 +6,7 @@
 
 ## Bayani Gabaɗaya | Overview
 
-Abu Nasr al-Farabi (kimanin 872–950 A.Z.), wanda ake kira "Malami na Biyu" (bayan Aristotle), shahararren masanin falsafa ne na farkon zamanin Musulunci wanda ya ba da gudummawa mai girma ga falsafar siyasa, metafisika (ilimin abin da ke bayan zahiri), mantiƙi, da falsafar kiɗa. An fi saninsa da yunƙurinsa na daidaita falsafar Plato da ta Aristotle.
+Abu Nasr al-Farabi (kimanin 872–950 Miladiyya), wanda ake kira "Malami na Biyu" (bayan Aristotle), shahararren masanin falsafa ne na farkon zamanin Musulunci wanda ya ba da gudummawa mai girma ga falsafar siyasa, metafisika (ilimin abin da ke bayan zahiri), mantiƙi, da falsafar kiɗa. An fi saninsa da yunƙurinsa na daidaita falsafar Plato da ta Aristotle.
 
 > Littafin al-Farabi mai suna *Birni Mai Nagarta* (*al-Madina al-Fadila*) ya daidaita *Jamhuriya* ta Plato da yanayin Musulunci, yana bayyana kyakkyawar ƙasa da masanin falsafa-annabi ke mulka, wanda ya haɗa hikimar falsafa da wahayin annabci.
 
@@ -35,7 +35,7 @@ Tsarin birnin:
 > Annabi yana karɓar gaskiya ta hanyar tunani na hasashe da wahayi, yayin da masanin falsafa yake kaiwa gare ta ta hanyar tabbatarwa ta hankali. Dukansu suna kaiwa ga gaskiya ɗaya, amma ta hanyoyi daban-daban.
 
 Annabi-masanin falsafa:
-- Yana karɓar gaskiya daga Hankali Mai Aiki (Active Intellect)
+- Yana karɓar gaskiya daga Hankali Mai Aiki (al-ʿaql al-faʿʿāl)
 - Yana isar da ita ta hanyar hotuna da alamomi
 - Yana mulkar kyakkyawan birni
 - Yana haɗa tunani da aiki
@@ -54,18 +54,18 @@ Haɗakarsa:
 - Plato da Aristotle suna neman gaskiya ɗaya
 - Bambance-bambancen suna cikin hanya, ba cikin ainihi ba
 - Dukansu suna ba da muhimmanci ga hankali da nagarta
-- Fid'a ta Neoplatonism (emanation) tana haɗa su
+- Ka'idar fayd (kwararowa) ta Neoplatonism tana haɗa su
 
 ---
 
-## Fid'a da Hankula | Emanation and the Intellects
+## Fayd (Kwararowa) da Hankula | Emanation and the Intellects
 
-> Al-Farabi ya karɓi ilimin halittar sama na Neoplatonism na fid'a, inda wanzuwa take kwararowa daga Sanadi na Farko ta matakan hankula.
+> Al-Farabi ya karɓi tsarin halitta na Neoplatonism bisa fayd (kwararowa), inda wanzuwa take kwararowa daga Sanadi na Farko ta matakan hankula.
 
-Fid'ar:
+Kwararowar:
 1. **Ɗaya/Sanadi na Farko** →
 2. **Hankali na Farko** →
-3. **Sammai** →
+3. **Falakai na Sama** →
 4. **Hankali Mai Aiki** →
 5. **Ruhin ɗan Adam**
 
@@ -75,7 +75,7 @@ Fid'ar:
 
 ## Kiɗa da Mantiƙi | Music and Logic
 
-> Al-Farabi ƙwararren mawaƙi ne kuma, kuma ya rubuta littafi mai tasiri mai suna *Babban Littafin Kiɗa* (*Kitab al-Musiqi al-Kabir*).
+> Al-Farabi ƙwararren makaɗi ne kuma, kuma ya rubuta littafi mai tasiri mai suna *Babban Littafin Kiɗa* (*Kitab al-Musiqi al-Kabir*).
 
 > Ya ɗauki kiɗa a matsayin ilimin lissafi da na tunanin ɗan Adam a lokaci guda, yana haɗa jituwa da tsarin sararin samaniya da rai.
 
@@ -83,7 +83,7 @@ Ya kuma rubuta da yawa kan mantiƙi, yana rarraba ilimummuka da bayyana yadda ma
 
 ---
 
-## Nassoshi na Haɗin Kai | Cross-References
+## Duba Kuma | Cross-References
 
 - [[04-HELLENIC/classical/philosophers/plato|Plato]] - Falsafar siyasa
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristotle]] - "Malami na Farko"

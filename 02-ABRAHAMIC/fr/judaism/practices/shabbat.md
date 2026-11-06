@@ -16,15 +16,15 @@ Shabbat commémore à la fois le repos de Dieu au septième jour de la création
 
 Shabbat est enraciné dans deux commandements parallèles de la Torah :
 
-### Exode 20:8 (Souviens-toi) | Exodus 20:8 (Remember)
+### Exode 20, 8 (Souviens-toi) | Exodus 20:8 (Remember)
 
-> « Souviens-toi du jour du sabbat pour le sanctifier. »
+> « Pense au jour du Sabbat pour le sanctifier. »
 
 Cela se rapporte aux observances positives : le Kiddouch, les prières et le repos joyeux.
 
-### Deutéronome 5:12 (Observe) | Deuteronomy 5:12 (Observe)
+### Deutéronome 5, 12 (Observe) | Deuteronomy 5:12 (Observe)
 
-> « Observe le jour du sabbat pour le sanctifier. »
+> « Observe le jour du Sabbat pour le sanctifier. »
 
 Cela se rapporte à l'abstention des travaux interdits.
 
@@ -46,7 +46,7 @@ Shabbat est appelé un signe (*ot*) de l'alliance éternelle entre Dieu et Isra�
 
 ---
 
-## Travaux interdits (Melakhah) | Prohibited Work (Melakhah)
+## Travaux interdits (Melakha) | Prohibited Work (Melakhah)
 
 Le Talmud recense 39 catégories de travaux créateurs (*melakhot*) interdits le Shabbat, déduites des travaux employés pour la construction du Tabernacle :
 
@@ -79,7 +79,7 @@ Le Talmud recense 39 catégories de travaux créateurs (*melakhot*) interdits le
 1. **Allumage des bougies** (18 minutes avant le coucher du soleil)
    - Au moins deux bougies
    - Allumées traditionnellement par la femme de la maison
-   - Bénédiction : « Béni sois-Tu... qui nous as sanctifiés par Tes commandements et nous as ordonné d'allumer les lumières du Shabbat »
+   - Bénédiction : « Béni sois-Tu... qui nous as sanctifiés par Ses commandements et nous as ordonné d'allumer les lumières du Shabbat »
 
 2. **Kiddouch** (Sanctification)
    - Bénédiction sur le vin
@@ -99,9 +99,9 @@ Le Talmud recense 39 catégories de travaux créateurs (*melakhot*) interdits le
 - Lecture de la Torah
 - Deuxième repas (déjeuner)
 - Étude, repos, temps en famille
-- Troisième repas (*Seouda Shlishit*) en fin d'après-midi
+- Troisième repas (*Séouda chelichit*) en fin d'après-midi
 
-### Havdalah (Séparation) | Havdalah (Separation)
+### Havdala (Séparation) | Havdalah (Separation)
 
 - Marque la fin du Shabbat
 - Bénédictions sur le vin, les épices et une bougie à plusieurs mèches
@@ -111,7 +111,7 @@ Le Talmud recense 39 catégories de travaux créateurs (*melakhot*) interdits le
 
 ## Signification spirituelle | Spiritual Significance
 
-### La Neshamah Yeteirah (âme supplémentaire) | The Neshamah Yeteirah (Extra Soul)
+### La Nechama yetera (âme supplémentaire) | The Neshamah Yeteirah (Extra Soul)
 
 > « Selon le Talmud, les Juifs reçoivent en fait une âme supplémentaire particulière chaque Shabbat. »
 
@@ -138,8 +138,8 @@ L'idée d'un repos régulier et obligatoire a transformé l'histoire humaine, do
 | Shabbat | Shabbat | Sabbat, jour de repos |
 | Kiddush | Kiddouch | Bénédiction de sanctification |
 | Challah | Hallah | Pain tressé du Shabbat |
-| Melakhah | Melakhah | Travail interdit |
-| Havdalah | Havdalah | Cérémonie de séparation |
+| Melakhah | Melakha | Travail interdit |
+| Havdalah | Havdala | Cérémonie de séparation |
 | Oneg Shabbat | Oneg Shabbat | Délice du Shabbat |
 | Zachor/Shamor | Zakhor/Shamor | Souviens-toi / Observe |
 

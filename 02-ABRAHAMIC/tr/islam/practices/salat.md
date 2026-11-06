@@ -18,7 +18,7 @@ Namazın temel amacı, Allah ile iletişim kurmanın bir yolu olmasıdır. Diğe
 | Namaz | Arapça | Vakit | Anlam |
 |--------|--------|------|---------|
 | **Sabah (Fecr)** | الفجر | Şafaktan önce | Şafak |
-| **Öğle (Zuhr)** | الظهر | Öğleden sonra | Öğle vakti |
+| **Öğle (Zuhr)** | الظهر | Zevalden sonra | Öğle vakti |
 | **İkindi (Asr)** | العصر | Öğleden sonra geç vakit | Öğleden sonra |
 | **Akşam (Mağrib)** | المغرب | Gün batımında | Gün batımı |
 | **Yatsı (İşâ)** | العشاء | Gece | Gece |
@@ -26,7 +26,7 @@ Namazın temel amacı, Allah ile iletişim kurmanın bir yolu olmasıdır. Diğe
 ---
 ## Namaz Nasıl Kılınır | How Prayer is Performed
 
-> "Bu namazlar rekât denilen birimlerden oluşur; belirli bir dizi beden duruşunu, Kur'an'dan okumayı ve Sünnet'ten dualarını içerir ve Mekke'deki Kâbe'ye doğru (kıble) yönelerek kılınır."
+> "Bu namazlar rekât denilen birimlerden oluşur; belirli bir dizi beden duruşunu, Kur'an'dan okumayı ve Sünnet'ten duaları içerir ve Mekke'deki Kâbe'ye doğru (kıble) yönelerek kılınır."
 
 ### Dört Duruş:
 | Duruş | Arapça | Açıklama |
@@ -34,16 +34,16 @@ Namazın temel amacı, Allah ile iletişim kurmanın bir yolu olmasıdır. Diğe
 | **Ayakta durma** | Kıyam | Kur'an okuma |
 | **Rükû** | Rükû | Belden öne eğilme |
 | **Secde** | Sücûd | Alnın yere konması |
-| **Oturma** | Celse | İki secde arasında |
+| **Oturma** | Cülûs | İki secde arasında |
 
 ### Temel Okumalar:
-> "Kıyamdan sonra namaz kılanlar rükûya geçer ve 'sübhane rabbiyel azîm' ('Büyük olan Rabbimi tenzih ederim') diye okur. Ardından secdeye gidilir ve 'sübhane rabbiyel a'lâ' ('Yüce olan Rabbimi tenzih ederim') diye okunur."
+> "Kıyamdan sonra namaz kılanlar rükûya geçer ve 'Sübhâne rabbiye'l-azîm' ('Büyük olan Rabbimi tenzih ederim') diye okur. Ardından secdeye gidilir ve 'Sübhâne rabbiye'l-a'lâ' ('Yüce olan Rabbimi tenzih ederim') diye okunur."
 
 ---
 ## Hazırlık | Preparation
 
 ### Abdest (Ritüel Yıkanma):
-> "İslam öğretisi, Müslümanların namazdan önce el, ayak, kol ve bacakların abdest adı verilen ritüel yıkanmasını yapmasını gerektirir."
+> "İslam öğretisi, Müslümanların namazdan önce abdest adı verilen, el, ayak, kol ve bacakların ritüel olarak yıkanmasını yerine getirmesini gerektirir."
 
 ### Gereklilikler:
 - Temiz beden (abdest)
@@ -78,8 +78,8 @@ Namazın temel amacı, Allah ile iletişim kurmanın bir yolu olmasıdır. Diğe
 | Arapça | Türkçe | Anlam |
 |--------|--------|---------|
 | Salât (صلاة) | Namaz | Dua, ibadet |
-| Rekât | Rekât | Namaz birimi |
-| Abdest (وضوء) | Abdest | Ritüel yıkanma |
+| Rek'at (ركعة) | Rekât | Namaz birimi |
+| Vudû (وضوء) | Abdest | Ritüel yıkanma |
 | Kıble | Kıble | Mekke yönü |
 | Ezan (أذان) | Ezan | Namaza çağrı |
 | Sücûd | Secde | Secde etme |

@@ -15,31 +15,31 @@ El enfoque apofático de Eckhart —que describe a Dios por medio de la negació
 ## El camino apofático | The Apophatic Way
 
 ### Vía negativa:
-> «La teología negativa, o teología apofática, del Maestro Eckhart comenzó por definir lo que Dios no es. Este proceso, semejante a la negación del zen, busca llegar a un estado de la mente y del espíritu en el que solo Dios pueda entrar.»
+> «La teología negativa, o teología apofática, del Maestro Eckhart comenzó por definir lo que Dios no es. Este proceso, semejante a la negación del zen, busca llegar a un estado de la mente y del espíritu en el que solo Dios pueda entrar».
 
 ### Más allá de todos los nombres:
 Dios trasciende todos los conceptos, imágenes y palabras. Para conocer verdaderamente a Dios, debemos soltar nuestras ideas acerca de Dios.
 
 ### La nube del no saber:
-> «El místico entra en el conocimiento apofático: el conocimiento de Dios mediante el no saber. Esta es la nube de la que habla *La nube del no saber*, donde el intelecto guarda silencio ante el misterio de Dios.»
+> «El místico entra en el conocimiento apofático: el conocimiento de Dios mediante el no saber. Esta es la nube de la que habla *La nube del no saber*, donde el intelecto guarda silencio ante el misterio de Dios».
 
 ---
 
 ## El nacimiento divino | The Divine Birth
 
-> «A diferencia de la mayoría de los predicadores de su tiempo, que se centraban en el pecado y el castigo eterno, Eckhart describió un proceso al que llamó "el nacimiento divino", en el cual los verdaderos creyentes podían experimentar a Dios directamente dentro de sí.»
+> «A diferencia de la mayoría de los predicadores de su tiempo, que se centraban en el pecado y el castigo eterno, Eckhart describió un proceso al que llamó “el nacimiento divino”, en el cual los verdaderos creyentes podían experimentar a Dios directamente dentro de sí».
 
 ### El fondo del alma:
-> «En lugar de intentar conocer a Dios desde fuera, por medio de los sentidos y el intelecto, deberíamos procurar conocerlo desde dentro, desde esa presencia divina que ya habita en cada uno de nosotros. Eckhart llamó a esta presencia "la chispa divina".»
+> «En lugar de intentar conocer a Dios desde fuera, por medio de los sentidos y el intelecto, deberíamos procurar conocerlo desde dentro, desde esa presencia divina que ya habita en cada uno de nosotros. Eckhart llamó a esta presencia “la chispa divina”».
 
 ### El proceso del nacimiento:
-> «Mediante un proceso contemplativo de vaciamiento de sí, o de "dejar ser", quien busca encontrará directamente al Dios que está dentro.»
+> «Mediante un proceso contemplativo de vaciamiento de sí, o de “dejar ser”, quien busca encontrará directamente al Dios que está dentro».
 
 ---
 
 ## El desasimiento (Gelassenheit) | Detachment (Gelassenheit)
 
-> «El místico medieval renano Maestro Eckhart subrayó el desasimiento. Pensaba que era una virtud incluso mayor que el amor. Mientras que el amor puede llevar activamente al que busca hacia Dios, el desasimiento obliga a Dios a venir hacia el que busca.»
+> «El místico medieval renano Maestro Eckhart subrayó el desasimiento. Pensaba que era una virtud incluso mayor que el amor. Mientras que el amor puede llevar activamente al que busca hacia Dios, el desasimiento obliga a Dios a venir hacia el que busca».
 
 ### Qué significa:
 - Soltar todos los apegos
@@ -48,25 +48,25 @@ Dios trasciende todos los conceptos, imágenes y palabras. Para conocer verdader
 - «Desnudo ante Dios»
 
 ### Práctica:
-> «La vida mística exige disciplina y fidelidad a las prácticas que preparan el corazón para el encuentro. Los místicos cristianos suelen dedicar años a cultivar la quietud, el silencio y la presencia.»
+> «La vida mística exige disciplina y fidelidad a las prácticas que preparan el corazón para el encuentro. Los místicos cristianos suelen dedicar años a cultivar la quietud, el silencio y la presencia».
 
 ---
 
 ## Enseñanzas clave | Key Teachings
 
 ### El camino sin camino:
-> «Lo que Eckhart llamó "un camino sin camino" hacia la unión divina —y que los comentaristas posteriores llamarían mística apofática o sin imágenes— coexistió pacíficamente con las devociones tradicionales.»
+> «Lo que Eckhart llamó “un camino sin camino” hacia la unión divina —y que los comentaristas posteriores llamarían mística apofática o sin imágenes— coexistió pacíficamente con las devociones tradicionales».
 
 ### Dios en lo interior:
-> «Eckhart predicaba que la experiencia directa de Dios estaba al alcance de cualquier buscador sincero, sin importar su condición social o religiosa.»
+> «Eckhart predicaba que la experiencia directa de Dios estaba al alcance de cualquier buscador sincero, sin importar su condición social o religiosa».
 
 ### Más allá de la distinción:
 En el fondo del alma no hay distinción entre Dios y el alma: solo unidad.
 
 ### Dichos famosos:
-> «El ojo con el que veo a Dios es el mismo ojo con el que Dios me ve a mí.»
+> «El ojo con el que veo a Dios es el mismo ojo con el que Dios me ve a mí».
 
-> «Si la única oración que dijeras en tu vida fuera "gracias", sería suficiente.»
+> «Si la única oración que dijeras en tu vida fuera “gracias”, sería suficiente».
 
 ---
 
@@ -78,7 +78,7 @@ En el fondo del alma no hay distinción entre Dios y el alma: solo unidad.
 | Abgeschiedenheit | Apartamiento de todas las cosas |
 | Gottesgeburt | Nacimiento de Dios en el alma |
 | Seelengrund | Fondo del alma |
-| Funklein | Chispa divina |
+| Fünklein | Chispa divina |
 
 ---
 

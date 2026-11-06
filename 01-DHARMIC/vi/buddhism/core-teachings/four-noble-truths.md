@@ -10,11 +10,11 @@ Tứ Diệu Đế (Pali: *cattāri ariyasaccāni*; Sanskrit: *catvāri āryasaty
 
 Bốn chân lý này làm thành một "trung đạo" giữa lối tu khổ hạnh khắc nghiệt và sự buông thả theo dục lạc. Chúng chẩn đoán tình trạng của con người (khổ), chỉ ra nguyên nhân (ái), khẳng định rằng có phương thuốc chữa trị (diệt), và kê toa điều trị (đạo). Cách trình bày này phản ánh nền tảng y học của thời Đức Phật: triệu chứng, nguyên nhân, tiên lượng và điều trị.
 
-Tứ Diệu Đế được chấp nhận phổ quát trong mọi truyền thống Phật giáo—Thượng tọa bộ (Theravada), Đại thừa (Mahayana) và Kim cang thừa (Vajrayana). Bất kỳ tông phái nào bác bỏ Tứ Diệu Đế thì không thể được xem là Phật giáo.
+Tứ Diệu Đế được chấp nhận phổ quát trong mọi truyền thống Phật giáo—Thượng tọa bộ (Theravada), Đại thừa (Mahayana) và Kim Cương thừa (Vajrayana). Bất kỳ tông phái nào bác bỏ Tứ Diệu Đế thì không thể được xem là Phật giáo.
 
 ---
 ## Bốn chân lý | The Four Truths
-### 1. Dukkha (苦) - Khổ đế | The Truth of Suffering
+### 1. Dukkha (苦) - Khổ đế | Dukkha (苦) - The Truth of Suffering
 
 *Dukkha* (từ *dush-stha*, nghĩa là "đứng không vững") bao hàm nhiều hơn rất nhiều so với nỗi đau thể xác. Từ này có thể được dịch là "khổ," "bất toại nguyện," "lo âu" hay "bất an." Đức Phật mô tả ba loại khổ:
 
@@ -22,10 +22,10 @@ Tứ Diệu Đế được chấp nhận phổ quát trong mọi truyền thốn
 2. **Viparinama-dukkha** (hoại khổ): Nỗi khổ do vô thường (những điều dễ chịu không tồn tại lâu dài)
 3. **Sankhara-dukkha** (hành khổ): Nỗi khổ do chính sự tồn tại bị chi phối bởi các duyên
 
-Đức Phật đã liệt kê: "Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ; gặp gỡ điều không ưa thích là khổ; xa lìa điều ưa thích là khổ; cầu không được là khổ."
+Đức Phật đã liệt kê: "Sanh là khổ, già là khổ, bệnh là khổ, chết là khổ; oán gặp nhau là khổ; ái biệt ly là khổ; cầu không được là khổ."
 
 ---
-### 2. Samudaya (集) - Tập đế | The Truth of Origin
+### 2. Samudaya (集) - Tập đế | Samudaya (集) - The Truth of Origin
 
 *Samudaya* có nghĩa là "nguồn gốc," "sự khởi sinh" hay "nguyên nhân." Chân lý thứ hai xác định nguyên nhân của khổ là *tanha* (Pali) hay *trishna* (Sanskrit)—tham ái, khát ái hay chấp thủ.
 
@@ -34,19 +34,19 @@ Tứ Diệu Đế được chấp nhận phổ quát trong mọi truyền thốn
 2. **Bhava-tanha** (hữu ái): Ái đối với sự hiện hữu/trở thành
 3. **Vibhava-tanha** (vô hữu ái): Ái đối với sự không hiện hữu/hủy diệt
 
-Ái này "có đặc tính dẫn đến tái sinh, đi kèm với hỷ và tham, tìm cầu hoan lạc chỗ này chỗ kia." Nó dẫn đến sự chấp thủ (*upadana*), làm cho vòng luân hồi (*samsara*) tiếp diễn không dứt.
+Ái này "đưa đến tái sanh, câu hữu với hỷ và tham, tìm cầu hỷ lạc chỗ này chỗ kia." Nó dẫn đến sự chấp thủ (*upadana*), làm cho vòng luân hồi (*samsara*) tiếp diễn không dứt.
 
 ---
-### 3. Nirodha (滅) - Diệt đế | The Truth of Cessation
+### 3. Nirodha (滅) - Diệt đế | Nirodha (滅) - The Truth of Cessation
 
 *Nirodha* có nghĩa là "sự đoạn diệt," "sự chấm dứt" hay "sự ngăn giữ." Chân lý thứ ba khẳng định rằng sự chấm dứt hoàn toàn của khổ là điều có thể đạt được. Trạng thái này được gọi là *nibbana* (Pali) hay *nirvana* (Sanskrit), nghĩa đen là "thổi tắt" hay "dập tắt."
 
-Niết-bàn được mô tả là: "Sự ly tham và đoạn diệt hoàn toàn của ái, sự từ bỏ, sự xả bỏ, sự giải thoát khỏi nó, không còn chấp trước vào nó."
+Niết-bàn được mô tả là: "Sự ly tham, đoạn diệt không có dư tàn khát ái ấy, sự quăng bỏ, từ bỏ, giải thoát, không có chấp trước."
 
 Đây không phải là sự hủy diệt mà là sự giải thoát—sự chấm dứt mọi kinh nghiệm bất toại nguyện cùng các nguyên nhân của chúng, theo cách mà chúng không thể tái diễn nữa.
 
 ---
-### 4. Magga (道) - Đạo đế | The Truth of the Path
+### 4. Magga (道) - Đạo đế | Magga (道) - The Truth of the Path
 
 *Magga* (Pali) hay *marga* (Sanskrit) có nghĩa là "con đường" hay "đạo lộ." Chân lý thứ tư chỉ ra Bát Chánh Đạo (*ariya atthangika magga*) là phương tiện đưa đến sự diệt khổ:
 
@@ -59,7 +59,7 @@ Niết-bàn được mô tả là: "Sự ly tham và đoạn diệt hoàn toàn 
 7. **Chánh niệm** (samma sati) (正念)
 8. **Chánh định** (samma samadhi) (正定)
 
-Tám yếu tố này theo truyền thống được gom thành Tam học: tuệ (*pañña*), giới (*sila*) và định (*samadhi*).
+Tám chi phần này theo truyền thống được gom thành Tam học: tuệ (*pañña*), giới (*sila*) và định (*samadhi*).
 
 ---
 ## Các thuật ngữ chính | Key Terms
@@ -101,7 +101,7 @@ Tứ Diệu Đế không chỉ là những mệnh đề triết học mà là m�
 
 1. **Nhận biết khổ** - Thành thật thừa nhận sự bất toại nguyện, không chối bỏ cũng không phóng đại
 2. **Quán sát ái** - Để ý khi ái khởi lên; bạn đang bám víu vào điều gì?
-3. **Chạm đến bình an** - Trải nghiệm những khoảnh khắc không có ái; đó là một hương vị của Niết-bàn
+3. **Chạm đến bình an** - Trải nghiệm những khoảnh khắc không có ái; đó là một thoáng nếm vị Niết-bàn
 4. **Bước đi trên con đường** - Tu dưỡng giới, định và tuệ mỗi ngày
 
 Các ứng dụng hiện đại gồm giảm căng thẳng dựa trên chánh niệm (MBSR) và liệu pháp nhận thức hành vi (CBT), vốn cùng chung với Đức Phật cái thấy rằng chính mối quan hệ của ta với kinh nghiệm, chứ không phải bản thân kinh nghiệm, quyết định nỗi khổ.

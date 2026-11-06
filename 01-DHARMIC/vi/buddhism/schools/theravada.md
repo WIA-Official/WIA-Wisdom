@@ -24,7 +24,7 @@ Tipiṭaka (tiếng Pali: "Ba cái giỏ") là kinh điển nền tảng của P
 | **Kinh tạng (Sutta Piṭaka)** | Các bài thuyết giảng của Đức Phật và các đệ tử |
 | **Luận tạng (Abhidhamma Piṭaka)** | Giáo lý cao thâm về tâm lý học và siêu hình học |
 
-Tam tạng được kết tập lần đầu tại Đại hội kết tập thứ nhất, ba tháng sau khi Đức Phật nhập Niết-bàn (parinibbāna), trong đó Tôn giả A-nan (Ānanda) tụng đọc Kinh tạng và Tôn giả Ưu-ba-ly (Upāli) tụng đọc Luật tạng.
+Tam tạng được trùng tụng lần đầu tại kỳ Kết tập Kinh điển lần thứ nhất, ba tháng sau khi Đức Phật nhập Niết-bàn (parinibbāna), trong đó Tôn giả A-nan (Ānanda) tụng đọc Kinh tạng và Tôn giả Ưu-ba-ly (Upāli) tụng đọc Luật tạng.
 
 ---
 
@@ -39,7 +39,7 @@ Những sự kiện then chốt trong lịch sử Phật giáo Thượng tọa b
 | Thế kỷ 3 TCN | Hoàng đế A-dục (Ashoka) cử các phái đoàn truyền giáo |
 | Thế kỷ 3 TCN | Ngài Mahinda đưa Phật giáo đến Sri Lanka |
 | 29 TCN | Kinh điển được ghi chép thành văn (Kết tập lần thứ tư) |
-| Thế kỷ 5 | Ngài Buddhaghosa (Phật Âm) biên soạn các bộ chú giải |
+| Thế kỷ 5 CN | Ngài Buddhaghosa (Phật Âm) biên soạn các bộ chú giải |
 | Thế kỷ 11–13 | Phật giáo Thượng tọa bộ lan sang Đông Nam Á |
 
 Sự bảo trợ của các vị quân vương như vua Anawrahta của Miến Điện (1044–1077) và vua Ram Khamhaeng của Thái Lan (thế kỷ 13) có vai trò quan trọng trong việc đưa Phật giáo Thượng tọa bộ trở thành tôn giáo chủ đạo của vùng Đông Nam Á lục địa.
@@ -68,7 +68,7 @@ Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Ch�
 
 Tăng đoàn giữ vai trò trung tâm trong Phật giáo Thượng tọa bộ. Các tỳ-kheo (bhikkhu) và tỳ-kheo-ni (bhikkhunī) thực hành theo giới luật trong Luật tạng—227 giới đối với tỳ-kheo và 311 giới đối với tỳ-kheo-ni. Chư vị nương nhờ các cư sĩ hộ trì để có thức ăn khất thực hằng ngày, và đáp lại, chư vị ban bố giáo pháp cùng tạo cơ hội để cư sĩ tạo phước.
 
-Việc học thuộc và tụng đọc kinh điển vẫn là những pháp hành quan trọng. Đại hội kết tập lần thứ sáu (1954) tại Myanmar đã quy tụ 2.500 vị tăng từ tám quốc gia Phật giáo Thượng tọa bộ.
+Việc học thuộc và tụng đọc kinh điển vẫn là những pháp hành quan trọng. Kỳ Kết tập Kinh điển lần thứ sáu (1954) tại Myanmar đã quy tụ 2.500 vị tăng từ tám quốc gia Phật giáo Thượng tọa bộ.
 
 ---
 
@@ -80,7 +80,7 @@ Phật giáo Thượng tọa bộ gìn giữ hai loại thiền chính:
 Thiền định phát triển sự tập trung nhất điểm thông qua các đối tượng như hơi thở (ānāpānasati). Dẫn đến các tầng thiền (jhāna), tức các trạng thái nhập định.
 
 ### Vipassanā (Quán - 觀) | Vipassanā (Insight)
-Thiền quán, quan sát ba đặc tính (vô thường, khổ, vô ngã) nơi mọi hiện tượng. Dẫn thẳng đến trí tuệ giải thoát.
+Thiền quán, quán sát Tam tướng (vô thường, khổ, vô ngã) nơi mọi hiện tượng. Dẫn thẳng đến trí tuệ giải thoát.
 
 Phật giáo Thượng tọa bộ đương đại nổi tiếng với các phong trào thiền vipassanā bắt nguồn từ những vị thầy như Mahasi Sayadaw, S.N. Goenka và Ajahn Chah.
 
@@ -107,7 +107,7 @@ Khác với vị Bồ-tát trong Đại thừa (Mahāyāna) hoãn việc giác n
 | Campuchia | Phục hưng sau thời Khmer Đỏ; ngày càng vững mạnh |
 | Lào | Hòa nhập với văn hóa địa phương |
 
-Phật giáo Thượng tọa bộ đã lan rộng khắp thế giới qua các trung tâm thiền, các cộng đồng người nhập cư và những người phương Tây cải đạo.
+Phật giáo Thượng tọa bộ đã lan rộng khắp thế giới qua các trung tâm thiền, các cộng đồng người nhập cư và những người phương Tây quy y Phật giáo.
 
 ---
 
@@ -118,7 +118,7 @@ Phật giáo Thượng tọa bộ đã lan rộng khắp thế giới qua các t
 | Theravāda | 上座部 (Thượng tọa bộ) | Con đường của các bậc Trưởng lão |
 | Tipiṭaka | 三藏 (Tam tạng) | Ba cái giỏ |
 | Arahant | 阿羅漢 (A-la-hán) | Bậc giác ngộ |
-| Bhikkhu | 比丘 (Tỳ-kheo) | Tăng sĩ nam |
+| Bhikkhu | 比丘 (Tỳ-kheo) | Vị tăng |
 | Vipassanā | 觀 (Quán) | Thiền quán |
 | Jhāna | 禪定 (Thiền định) | Trạng thái nhập định trong thiền |
 
@@ -133,4 +133,4 @@ Phật giáo Thượng tọa bộ đã lan rộng khắp thế giới qua các t
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Làm lợi ích cho nhân loại*

@@ -6,7 +6,7 @@
 
 ## Visão geral | Overview
 
-A ressurreição de Jesus é a crença cristã de que Deus ressuscitou Jesus de entre os mortos ao terceiro dia após a sua crucifixão, dando início — ou restituindo — à sua vida exaltada como Cristo e Senhor. Na teologia cristã, a ressurreição é «o mistério central da fé cristã».
+A ressurreição de Jesus é a crença cristã de que Deus ressuscitou Jesus de entre os mortos ao terceiro dia após a sua crucifixão, iniciando — ou restituindo — a sua vida exaltada como Cristo e Senhor. Na teologia cristã, a ressurreição é «o mistério central da fé cristã».
 
 Para os cristãos, este acontecimento não é apenas histórico, mas soteriológico: é o fundamento da salvação, a derrota da morte e a promessa de vida nova para todos os crentes.
 
@@ -96,7 +96,7 @@ Para os cristãos, este acontecimento não é apenas histórico, mas soteriológ
 | Português | Grego | Significado |
 |---------|-------|---------|
 | Ressurreição | Anastasis | Levantar-se de novo |
-| Páscoa | Pascha | Passagem / festa da Ressurreição |
+| Páscoa | Pascha | Páscoa judaica / festa da Ressurreição |
 | Sepulcro vazio | - | Lugar da ressurreição |
 | Aparição | - | Manifestação pós-ressurreição |
 | Nova criação | - | Cosmos renovado |
@@ -112,4 +112,4 @@ Para os cristãos, este acontecimento não é apenas histórico, mas soteriológ
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Beneficiar toda a humanidade*

@@ -8,7 +8,7 @@
 
 Santo Agostinho de Hipona (354–430 d.C.) foi teólogo, filósofo e bispo de Hipona Régia, na África do Norte romana. É uma das figuras mais importantes no desenvolvimento do cristianismo ocidental e da filosofia ocidental. Seus escritos influenciaram o desenvolvimento da filosofia e do cristianismo no Ocidente, e ele é considerado um dos mais importantes Padres da Igreja latina no período patrístico.
 
-> "Tu nos fizeste para ti, Senhor, e o nosso coração vive inquieto até que repouse em ti." Esta célebre frase das suas *Confissões* resume a jornada espiritual e a teologia de Agostinho.
+> "Fizeste-nos para ti, Senhor, e inquieto está o nosso coração enquanto não repousar em ti." Esta célebre frase das suas *Confissões* resume a jornada espiritual e a teologia de Agostinho.
 
 Seu pensamento moldou as doutrinas do pecado original, da graça divina, do livre-arbítrio e da predestinação, que continuam a influenciar a teologia cristã até hoje.
 
@@ -18,7 +18,7 @@ Seu pensamento moldou as doutrinas do pecado original, da graça divina, do livr
 
 > As *Confissões* (c. 397–400 d.C.) são a primeira autobiografia do Ocidente e um dos livros mais influentes da literatura cristã. Elas traçam a jornada espiritual de Agostinho do pecado à salvação.
 
-> "Tarde te amei, ó beleza tão antiga e tão nova! Tarde te amei... Tu estavas dentro de mim, e eu fora de mim."
+> "Tarde te amei, ó Beleza tão antiga e tão nova! Tarde te amei... Estavas dentro de mim, e eu, fora de mim."
 
 Temas principais:
 - **Inquietude**: o anseio da alma por Deus
@@ -37,7 +37,7 @@ Temas principais:
 Principais doutrinas:
 - **Pecado original**: culpa e corrupção herdadas
 - **Depravação total**: vontade incapaz de escolher o bem sem a graça
-- **Predestinação**: a escolha soberana de Deus dos eleitos
+- **Predestinação**: a escolha soberana dos eleitos por Deus
 - **Graça irresistível**: o chamado eficaz de Deus
 
 > "Dá-me o que mandas, e manda o que quiseres." Esta oração resume a compreensão de Agostinho sobre a graça: sem a capacitação divina, a realização humana é impossível.
@@ -62,7 +62,7 @@ Conceitos centrais:
 
 > A meditação de Agostinho sobre o tempo, no Livro XI das *Confissões*, permanece como um dos tratamentos filosóficos mais profundos da temporalidade.
 
-> "Que é, pois, o tempo? Se ninguém me perguntar, eu sei; se quiser explicá-lo a quem me perguntar, não sei."
+> "Que é, pois, o tempo? Se ninguém me pergunta, eu sei; se quero explicá-lo a quem me pergunta, já não sei."
 
 > O tempo existe apenas como presente: o presente das coisas passadas (a memória), o presente das coisas presentes (a atenção) e o presente das coisas futuras (a expectativa).
 

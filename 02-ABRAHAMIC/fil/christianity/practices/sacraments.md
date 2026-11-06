@@ -8,7 +8,7 @@
 
 Ang mga sakramento ay mga banal na ritwal sa Kristiyanismo na itinuturing na nakikitang tanda at mabisang daluyan ng biyaya ng Diyos para sa lahat ng tumatanggap nito nang may nararapat na disposisyon. Ang salitang "sakramento" ay nagmula sa Latin na *sacramentum*, na nangangahulugang banal na sumpa o hiwaga.
 
-Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakramento para sa Simbahang Kanluranin: binyag, kumpil, Eukaristiya, penitensya, banal na orden, kasal, at huling pagpapahid ng langis. Pinagtibay ang mga ito ng Konsilyo ng Trento (1545-63). Kinikilala lamang ng mga klasikong simbahang Protestante (Luterano, Anglikano, Repormado) ang dalawa—ang binyag at ang Eukaristiya—bilang itinatag ni Kristo sa mga Ebanghelyo.
+Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakramento para sa Simbahang Kanluranin: binyag, kumpil, Eukaristiya, penitensiya, banal na orden, kasal, at Huling Pahid (Santo Oleo). Pinagtibay ang mga ito ng Konsilyo ng Trento (1545-63). Kinikilala lamang ng mga klasikong simbahang Protestante (Luterano, Anglikano, Repormado) ang dalawa—ang binyag at ang Eukaristiya—bilang itinatag ni Kristo sa mga Ebanghelyo.
 
 ---
 ## Pag-uuri ng mga Sakramento | Classification of Sacraments
@@ -16,13 +16,13 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 | Kategorya | Mga Sakramento | Layunin |
 |----------|------------|---------|
 | **Pagpapasimula** | Binyag, Kumpil, Eukaristiya | Pagpasok sa buhay Kristiyano |
-| **Pagpapagaling** | Penitensya, Pagpapahid ng Langis sa mga May Sakit | Espirituwal at pisikal na paggaling |
+| **Pagpapagaling** | Penitensiya, Pagpapahid ng Langis sa Maysakit | Espirituwal at pisikal na paggaling |
 | **Paglilingkod** | Banal na Orden, Kasal | Pamayanan at pamilya |
 
 ---
 ## Ang Pitong Sakramento | The Seven Sacraments
 
-### 1. Binyag (世禮 → 洗禮):
+### 1. Binyag:
 > "Sa Binyag ay nagiging kasapi tayo ng Simbahan, ang Katawan ni Kristo."
 
 - Pagpasok sa pamayanang Kristiyano
@@ -33,34 +33,34 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 ### 2. Kumpil:
 - Pagpapalakas ng biyaya ng binyag
 - Pagtanggap ng kaganapan ng Espiritu Santo
-- Pangako sa matatag na pananampalataya
+- Pangako sa ganap na pananampalataya
 - Pagpapahid ng banal na langis (krisma)
 
 ### 3. Eukaristiya:
-> "Ang bukal at tugatog ng buhay Kristiyano"
+> "Ang bukal at rurok ng buhay Kristiyano"
 
 - Pakikibahagi sa katawan at dugo ni Kristo
 - Alaala ng hain ni Kristo
 - Pasasalamat (Griyego: *eucharistia*)
 - Sentrong gawain ng pagsamba ng mga Kristiyano
 
-### 4. Penitensya/Pakikipagkasundo:
+### 4. Penitensiya/Pakikipagkasundo:
 - Pagtatapat ng mga kasalanan
-- Pagpapawalang-sala ng pari
+- Absolusyon ng pari
 - Pakikipagkasundo sa Diyos at sa Simbahan
 - Espirituwal na paggaling
 
-### 5. Pagpapahid ng Langis sa mga May Sakit:
-- Para sa mga malubhang may sakit o naghihingalo
+### 5. Pagpapahid ng Langis sa Maysakit:
+- Para sa mga malubhang maysakit o naghihingalo
 - Espirituwal at kung minsan ay pisikal na paggaling
 - Paghahanda sa kamatayan
 - Kapatawaran ng mga kasalanan
 
 ### 6. Banal na Orden:
-- Pagtatalaga ng mga diyakono, pari, at obispo
+- Ordinasyon ng mga diyakono, pari, at obispo
 - Paglilingkod sa Simbahan
 - Awtoridad na magdiwang ng mga sakramento
-- Paghahalili ng mga apostol
+- Apostolikong paghahalili
 
 ### 7. Kasal:
 - Banal na ugnayan ng mag-asawa
@@ -72,7 +72,7 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 ## Pag-unawang Teolohikal | Theological Understanding
 
 ### Pananaw ng Katoliko:
-> "Ang pitong sakramento ay mga seremonyang tumuturo sa banal, makabuluhan at mahalaga para sa mga Kristiyano. Ang mga ito ay natatanging pagkakataon upang maranasan ang nagliligtas na presensya ng Diyos."
+> "Ang pitong sakramento ay mga seremonyang tumuturo sa banal, makabuluhan at mahalaga para sa mga Kristiyano. Ang mga ito ay natatanging pagkakataon upang maranasan ang nagliligtas na presensiya ng Diyos."
 
 - Ipinagkakaloob ng mga sakramento ang biyaya *ex opere operato* (sa bisa ng gawaing isinagawa)
 - Balido kapag naroon ang wastong anyo, materya, at hangarin
@@ -81,7 +81,7 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 ### Mga Pananaw ng mga Protestante:
 | Tradisyon | Mga Sakramento | Pag-unawa |
 |-----------|------------|---------------|
-| **Luterano** | Binyag, Eukaristiya, (Penitensya) | Daluyan ng biyaya |
+| **Luterano** | Binyag, Eukaristiya, (Penitensiya) | Daluyan ng biyaya |
 | **Repormado** | Binyag, Eukaristiya | Mga tanda at tatak ng tipan |
 | **Anglikano** | Binyag, Eukaristiya + 5 pa | Panlabas na tanda ng panloob na biyaya |
 | **Bautista** | Binyag, Hapunan ng Panginoon | Mga ordinansa, hindi mga sakramento |
@@ -104,8 +104,8 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 
 | Sangkap | Pananaw ng Katoliko | Pananaw ng Protestante |
 |---------|---------------|-----------------|
-| **Tinapay** | Nagiging katawan ni Kristo | Alaala/espirituwal na presensya |
-| **Alak** | Nagiging dugo ni Kristo | Alaala/espirituwal na presensya |
+| **Tinapay** | Nagiging katawan ni Kristo | Alaala/espirituwal na presensiya |
+| **Alak** | Nagiging dugo ni Kristo | Alaala/espirituwal na presensiya |
 
 ---
 ## Mga Pagkakaiba ayon sa Denominasyon | Denominational Differences
@@ -115,7 +115,7 @@ Noong ika-12 siglo, itinakda ni Pedro Lombardo (Peter Lombard) ang pitong sakram
 | **Romano Katoliko** | 7 | Mga daluyan ng biyaya na itinatag ni Kristo |
 | **Silangang Ortodokso** | 7 (Mga Hiwaga) | Mga banal na hiwaga para sa kaligtasan |
 | **Luterano** | 2-3 | Mga pangako ng Ebanghelyo na may nakikitang sangkap |
-| **Repormado/Presbiteriyano** | 2 | Mga tanda at tatak ng biyaya ng tipan |
+| **Repormado/Presbiteryano** | 2 | Mga tanda at tatak ng biyaya ng tipan |
 | **Metodista** | 2 | Daluyan ng biyaya |
 | **Bautista** | 2 (Mga Ordinansa) | Mga simbolikong gawa ng pagsunod |
 | **Quaker** | 0 | Panloob na karanasan higit sa panlabas na anyo |

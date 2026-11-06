@@ -16,7 +16,7 @@ Niết-bàn (tiếng Phạn: निर्वाण, Nirvāṇa; tiếng Pali: Ni
 
 > Đức Phật mô tả Niết-bàn bằng những lời phủ định, chỉ ra điều không có thay vì điều có:
 
-> "Này các Tỳ-kheo, có cái không sinh, không hữu, không tác, không hành (vô vi). Này các Tỳ-kheo, nếu không có cái không sinh, không hữu, không tác, không hành ấy, thì sẽ không thể thấy có lối thoát khỏi cái sinh, hữu, tác, hành." — Udāna 8.3
+> "Có, này các Tỷ-kheo, một cái không sanh, không hữu, không tác, không hành. Nếu không có, này các Tỷ-kheo, cái không sanh, không hữu, không tác, không hành, thì ở đây sẽ không thể trình bày được sự xuất ly khỏi cái sanh, cái hữu, cái tác, cái hành." — Udāna 8.3
 
 Các đặc tính:
 - **Vô vi**: Không do nhân tạo tác mà thành
@@ -32,7 +32,7 @@ Các đặc tính:
 Những hiểu lầm thường gặp:
 - **Không phải sự hủy diệt**: Đức Phật bác bỏ quan điểm cho rằng Niết-bàn là chấm dứt sự hiện hữu
 - **Không phải một nơi chốn**: Không phải cõi trời hay cõi tịnh độ (dù ở một số truyền thống có những khái niệm liên quan)
-- **Không phải sự vô thức**: Là sự giác ngộ và sáng suốt trọn vẹn
+- **Không phải sự vô thức**: Là sự tỉnh giác và sáng suốt trọn vẹn
 - **Không phải hư vô thụ động**: Là sự tự do sinh động
 
 > Khi được hỏi điều gì xảy ra với một bậc giác ngộ sau khi qua đời, Đức Phật ví điều đó như hỏi ngọn lửa đi về đâu khi đã tắt, bởi chính câu hỏi ấy đã được đặt ra sai lầm.
@@ -69,7 +69,7 @@ Những hiểu lầm thường gặp:
 
 ## Niết-bàn trong Đại thừa | Nirvana in Mahāyāna
 
-> Phật giáo Đại thừa đưa ra khái niệm "vô trụ xứ Niết-bàn" (*apratiṣṭhita-nirvāṇa*): vị Bồ-tát không trú trong luân hồi cũng không trú trong Niết-bàn, mà làm việc vì lợi ích của tất cả chúng sinh.
+> Phật giáo Đại thừa đưa ra khái niệm "vô trụ xứ Niết-bàn" (*apratiṣṭhita-nirvāṇa*): vị Bồ-tát không trú trong luân hồi cũng không trú trong Niết-bàn, mà hành động vì lợi ích của tất cả chúng sinh.
 
 > "Niết-bàn và luân hồi không phải là hai. Giữa chúng không có sự khác biệt." — Long Thọ (Nāgārjuna)
 

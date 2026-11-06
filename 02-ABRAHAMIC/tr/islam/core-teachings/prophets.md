@@ -31,29 +31,29 @@ Her resul nebidir, ancak her nebi resul değildir. Örneğin Musa, Tevrat'ı ala
 
 Ulü'l-azm ("Azim ve Kararlılık Sahipleri") olarak bilinen beş peygamber en yüksek saygıyı görür:
 
-### 1. Nuh (Noe) | Nuh (Noah)
+### 1. Nuh | Nuh (Noah)
 - 950 yıl boyunca tebliğ etti
 - İnkâr edenlere Allah'ın hükmü olarak gelen tufandan kurtuldu
 - Gemisi mü'minleri selamete taşıdı
 
-### 2. İbrahim (Avram) | Ibrahim (Abraham)
+### 2. İbrahim | Ibrahim (Abraham)
 - Tevhid inancının babası
 - Oğlu İsmail ile Kâbe'yi inşa etti
 - İsmail yoluyla Arapların, İshak yoluyla Yahudilerin atası
 - Vatanında puta tapıcılığa karşı çıktı
 
-### 3. Musa (Mûsâ) | Musa (Moses)
+### 3. Musa | Musa (Moses)
 - Kur'an'da en çok adı geçen peygamber
 - Tevrat'ı aldı
 - İsrailoğullarını Mısır'daki esaretten çıkardı
 - "Kelîmullah" (Allah ile doğrudan konuşan) diye anılır
 
-### 4. İsa (Îsâ) | Isa (Jesus)
+### 4. İsa | Isa (Jesus)
 - Bakire Meryem'den doğdu
 - Allah'ın izniyle mucizeler gösterdi
 - İncil'i aldı
-- Allah tarafından yüceltilip alındı (İslam'a göre çarmıha gerilmedi)
-- Kıyamet gününden önce geri dönecek
+- Allah tarafından göğe yükseltildi (İslam'a göre çarmıha gerilmedi)
+- Kıyamet gününden önce yeniden dünyaya inecek
 
 ### 5. Muhammed | Muhammad
 - Son peygamber (Peygamberlerin Mührü)
@@ -70,7 +70,7 @@ Ulü'l-azm ("Azim ve Kararlılık Sahipleri") olarak bilinen beş peygamber en y
 | Peygamber | Arapça | Önemi |
 |---------|--------|--------------|
 | Âdem | آدم | İlk insan ve ilk peygamber |
-| İdris | إدريس | İlk dönem peygamberlerinden; Hanok ile özdeşleştirilir |
+| İdris | إدريس | İlk dönem peygamberlerinden; Ahnûh ile özdeşleştirilir |
 | İbrahim | إبراهيم | Tevhid inancının babası |
 | İsmail | إسماعيل | Arapların atası |
 | İshak | إسحاق | İsrailoğullarının atası |
@@ -79,7 +79,7 @@ Ulü'l-azm ("Azim ve Kararlılık Sahipleri") olarak bilinen beş peygamber en y
 | Musa | موسى | Tevrat'ı getirdi |
 | Davud | داود | Zebur'u aldı |
 | Süleyman | سليمان | Bilge kral, cinlere hükmetti |
-| İsa | عيسى | Hz. İsa |
+| İsa | عيسى | Mesih |
 | Muhammed | محمد | Son elçi |
 
 ---
@@ -97,11 +97,11 @@ Ulü'l-azm ("Azim ve Kararlılık Sahipleri") olarak bilinen beş peygamber en y
 > "İslam'ın son peygamberi, Müslümanların 'Peygamberlerin Mührü' (Hâtemü'n-Nebiyyîn) olarak inandıkları ve kendisine Kur'an'ın indirildiği Muhammed b. Abdullah'tır."
 
 ### Temel Noktalar: | Key Points:
-- 570'te (MS) Mekke'de doğdu
+- Miladi 570 yılında Mekke'de doğdu
 - İlk vahyi 40 yaşında aldı
-- 622'de (MS) Medine'ye hicret etti
+- Miladi 622 yılında Medine'ye hicret etti
 - İlk Müslüman topluluğunu (ümmet) kurdu
-- 632'de (MS) vefat etti
+- Miladi 632 yılında vefat etti
 - Örnek yaşantısı (sünnet) Müslümanların hayatı için ölçüdür
 
 Muhammed'den sonra başka peygamber gelmeyecektir; İslam'ın mesajı tamamlanmıştır.

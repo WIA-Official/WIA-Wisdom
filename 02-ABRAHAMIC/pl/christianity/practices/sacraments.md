@@ -17,7 +17,7 @@ W XII wieku Piotr Lombard określił siedem sakramentów dla Kościoła zachodni
 |----------|------------|---------|
 | **Wtajemniczenie** | Chrzest, bierzmowanie, Eucharystia | Wejście w życie chrześcijańskie |
 | **Uzdrowienie** | Pokuta, namaszczenie chorych | Uzdrowienie duchowe i fizyczne |
-| **Posługa** | Święcenia, małżeństwo | Wspólnota i rodzina |
+| **Służba komunii** | Święcenia, małżeństwo | Wspólnota i rodzina |
 
 ---
 ## Siedem sakramentów | The Seven Sacraments
@@ -42,7 +42,7 @@ W XII wieku Piotr Lombard określił siedem sakramentów dla Kościoła zachodni
 - Uczestnictwo w Ciele i Krwi Chrystusa
 - Pamiątka ofiary Chrystusa
 - Dziękczynienie (gr. *eucharistia*)
-- Centralny akt chrześcijańskiego kultu
+- Centralny akt chrześcijańskiego oddawania czci Bogu
 
 ### 4. Pokuta i pojednanie (告解/和解) | Penance/Reconciliation:
 - Wyznanie grzechów
@@ -118,7 +118,7 @@ W XII wieku Piotr Lombard określił siedem sakramentów dla Kościoła zachodni
 | **Reformowana/prezbiteriańska** | 2 | Znaki i pieczęcie łaski przymierza |
 | **Metodystyczna** | 2 | Środki łaski |
 | **Baptystyczna** | 2 (ustanowienia) | Symboliczne akty posłuszeństwa |
-| **Kwakrów** | 0 | Doświadczenie wewnętrzne ponad formami zewnętrznymi |
+| **Kwakierska** | 0 | Doświadczenie wewnętrzne ponad formami zewnętrznymi |
 
 ---
 ## Najważniejsze pojęcia | Key Terms

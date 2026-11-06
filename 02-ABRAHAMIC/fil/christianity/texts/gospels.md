@@ -1,6 +1,6 @@
 # Ang Apat na Ebanghelyo | The Four Gospels
 
-> Ang Mabuting Balita ni Jesu-Cristo
+> Ang Mabuting Balita ni Jesucristo
 
 ---
 
@@ -23,7 +23,7 @@ Ayon sa pangkalahatang pagkakasundo ng mga iskolar:
 | Lucas | c. 80-90 CE | Mga Kristiyanong Hentil |
 | Juan | c. 90-100 CE | Pangkalahatan/teolohikal |
 
-Karamihan sa mga iskolar ay naniniwalang ang Marcos ang unang isinulat, at na ang Mateo at Lucas ay hiwalay na gumamit ng Marcos bilang batayan, kasama ang isang hipotetikal na bukal ng mga kasabihan na tinatawag na "Q" (mula sa salitang Aleman na Quelle, "bukal"). Ito ay kilala bilang "Hipotesis ng Dalawang Batayan."
+Karamihan sa mga iskolar ay naniniwalang ang Marcos ang unang isinulat, at na ang Mateo at Lucas ay magkahiwalay na gumamit ng Marcos bilang batayan, kasama ang isang hipotetikal na bukal ng mga kasabihan na tinatawag na "Q" (mula sa salitang Aleman na Quelle, "bukal"). Ito ay kilala bilang "Hipotesis ng Dalawang Batayan."
 
 ---
 
@@ -37,7 +37,7 @@ Karamihan sa mga iskolar ay naniniwalang ang Marcos ang unang isinulat, at na an
 
 **Mahahalagang Katangian:**
 - Nagsisimula sa talaangkanan na nag-uugnay kay Jesus kina Abraham at David
-- Binibigyang-diin ang katuparan ng hula sa Lumang Tipan ("Ito'y upang matupad ang sinabi ng propeta...")
+- Binibigyang-diin ang katuparan ng hula sa Lumang Tipan ("Upang maganap ang sinalita sa pamamagitan ng propeta...")
 - Naglalaman ng limang pangunahing bahagi ng pagtuturo (na umaalingawngaw sa limang aklat ni Moises):
   1. Sermon sa Bundok (Kabanata 5-7)
   2. Pagtuturo sa mga Misyonero (Kabanata 10)
@@ -90,18 +90,18 @@ Karamihan sa mga iskolar ay naniniwalang ang Marcos ang unang isinulat, at na an
 
 **May-akda:** Ayon sa tradisyon, si Juan na Apostol, "ang minamahal na alagad."
 **Mambabasa:** Pangkalahatan; nakatuon sa teolohiya at espirituwalidad
-**Paglalarawan kay Jesus:** Ang walang hanggang Salita (Logos), ang Anak ng Diyos na banal
+**Paglalarawan kay Jesus:** Ang walang hanggang Salita (Logos), ang banal na Anak ng Diyos
 
 **Mahahalagang Katangian:**
-- Lubhang teolohikal at pilosopikal ang panimula: "Sa pasimula ay naroon na ang Salita"
+- Lubhang teolohikal at pilosopikal ang panimula: "Nang pasimula ay ang Verbo"
 - Walang talinghaga (di tulad ng mga Sinoptiko)
-- Pitong pahayag na "AKO NGA" na naghahayag ng kabanalan ni Jesus:
-  1. "Ako ang tinapay ng buhay" (6:35)
-  2. "Ako ang ilaw ng sanlibutan" (8:12)
+- Pitong pahayag na "AKO NGA" na naghahayag ng pagka-Diyos ni Jesus:
+  1. "Ako ang tinapay ng kabuhayan" (6:35)
+  2. "Ako ang ilaw ng sanglibutan" (8:12)
   3. "Ako ang pintuan" (10:9)
-  4. "Ako ang mabuting pastol" (10:11)
-  5. "Ako ang muling pagkabuhay at ang buhay" (11:25)
-  6. "Ako ang daan, ang katotohanan, at ang buhay" (14:6)
+  4. "Ako ang mabuting pastor" (10:11)
+  5. "Ako ang pagkabuhay na maguli, at ang kabuhayan" (11:25)
+  6. "Ako ang daan, at ang katotohanan, at ang buhay" (14:6)
   7. "Ako ang tunay na puno ng ubas" (15:1)
 - Pitong "tanda" (himala) na nagpapakita ng kaluwalhatian ni Jesus
 - Mahabang pagtuturo ng pamamaalam (Kabanata 13-17)
@@ -113,7 +113,7 @@ Karamihan sa mga iskolar ay naniniwalang ang Marcos ang unang isinulat, at na an
 
 | Aspekto | Mateo | Marcos | Lucas | Juan |
 |--------|---------|------|------|------|
-| Panimula | Talaangkanan | Bautismo | Alay-pagsusulat | Himno ng Logos |
+| Panimula | Talaangkanan | Pagbibinyag | Paghahandog | Himno ng Logos |
 | Si Jesus bilang | Mesiyas/Hari | Lingkod | Tagapagligtas | Salitang Banal |
 | Mambabasa | Judio | Romano | Hentil | Pangkalahatan |
 | Natatangi sa | Sermon sa Bundok | Biglaang wakas | Alibughang Anak | Mga pahayag na "AKO NGA" |
@@ -143,7 +143,7 @@ Ang nangingibabaw na teorya (Hipotesis ng Dalawang Batayan) ay nagmumungkahi na:
 ### Kaharian ng Diyos | Kingdom of God
 
 Sentral sa mga Sinoptikong Ebanghelyo ang pagpapahayag ni Jesus ng Kaharian ng Diyos (o "Kaharian ng Langit" sa Mateo). Ang Kahariang ito ay:
-- Naririto na sa ministeryo ni Jesus ("Ang kaharian ng Diyos ay nasa gitna ninyo")
+- Naririto na sa ministeryo ni Jesus ("Ang kaharian ng Dios ay nasa loob ninyo")
 - Ngunit darating pa sa kaganapan nito
 - Pinapasok sa pamamagitan ng pagsisisi at pananampalataya
 - Nailalarawan ng katarungan, kapayapaan, at kagalakan
@@ -169,7 +169,7 @@ Ang mga Sinoptikong Ebanghelyo ay naglalaman ng humigit-kumulang 40 talinghaga�
 | Ebanghelyo | εὐαγγέλιον | Mabuting balita |
 | Sinoptiko | συνοπτικός | Sabay na tumitingin |
 | Logos | λόγος | Salita, katwiran |
-| Mesiyas | Μεσσίας | Ang Pinahiran ng Langis |
+| Mesiyas | Μεσσίας | Ang Pinahiran |
 | Kaharian | βασιλεία | Paghahari, kapangyarihan |
 | Talinghaga | παραβολή | Paghahambing, paglalarawan |
 

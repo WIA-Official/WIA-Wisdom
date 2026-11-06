@@ -6,11 +6,11 @@
 
 ## Gambaran Keseluruhan | Overview
 
-Abu Nasr al-Farabi (k. 872–950 M), yang dikenali sebagai "Guru Kedua" (selepas Aristotle), ialah seorang ahli falsafah Islam awal yang terkemuka dan memberikan sumbangan besar dalam falsafah politik, metafizik, logik, dan falsafah muzik. Beliau terutamanya dikenali kerana usahanya menyelaraskan falsafah Plato dan Aristotle.
+Abu Nasr al-Farabi (k. 872–950 M), yang dikenali sebagai "Guru Kedua" (selepas Aristotle), ialah seorang ahli falsafah Islam awal yang terkemuka yang memberikan sumbangan besar dalam falsafah politik, metafizik, logik, dan falsafah muzik. Beliau terutamanya dikenali kerana usahanya menyelaraskan falsafah Plato dan Aristotle.
 
 > *Kota Utama* (*al-Madina al-Fadila*) karya al-Farabi menyesuaikan *Republik* karya Plato dengan konteks Islam, lalu menggambarkan negara unggul yang diperintah oleh seorang failasuf-nabi yang menggabungkan hikmah falsafah dengan wahyu kenabian.
 
-Karya beliau memberikan pengaruh yang mendalam terhadap ahli falsafah Islam yang kemudian, termasuk Ibn Sina (Avicenna) dan Ibn Rushd (Averroes), serta terhadap para sarjana skolastik Yahudi dan Kristian.
+Karya beliau memberikan pengaruh yang mendalam terhadap ahli falsafah Islam yang kemudian, termasuk Ibnu Sina (Avicenna) dan Ibnu Rusyd (Averroes), serta terhadap para sarjana skolastik Yahudi dan Kristian.
 
 ---
 
@@ -69,7 +69,7 @@ Pemancaran:
 4. **Akal Aktif** →
 5. **Jiwa Manusia**
 
-> Akal Aktif menerangi akal manusia dan memungkinkan pengetahuan. Kosmologi ini mempengaruhi Ibn Sina dan falsafah Islam yang kemudian.
+> Akal Aktif menerangi akal manusia dan memungkinkan pengetahuan. Kosmologi ini mempengaruhi Ibnu Sina dan falsafah Islam yang kemudian.
 
 ---
 
@@ -87,8 +87,8 @@ Beliau juga menulis dengan luas tentang logik, mengklasifikasikan ilmu-ilmu dan 
 
 - [[04-HELLENIC/classical/philosophers/plato|Plato]] - Falsafah politik
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristotle]] - "Guru Pertama"
-- [[02-ABRAHAMIC/islam/philosophy/averroes|Ibn Rushd (Averroes)]] - Perkembangan kemudian
-- [[02-ABRAHAMIC/islam/philosophy/avicenna|Ibn Sina (Avicenna)]] - Pewaris karyanya
+- [[02-ABRAHAMIC/islam/philosophy/averroes|Ibnu Rusyd (Averroes)]] - Perkembangan kemudian
+- [[02-ABRAHAMIC/islam/philosophy/avicenna|Ibnu Sina (Avicenna)]] - Pewaris karyanya
 
 ---
 

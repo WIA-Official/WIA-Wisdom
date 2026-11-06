@@ -1,6 +1,6 @@
-# Từ Bi Quán (Metta Bhavana) | Metta Bhavana (慈悲冥想)
+# Thiền tâm từ (Metta Bhavana, 慈悲冥想) | Metta Bhavana
 
-> Thiền Từ Bi: Nuôi dưỡng thiện ý vô lượng đối với tất cả chúng sinh
+> Thiền tâm từ: Nuôi dưỡng thiện ý vô lượng đối với tất cả chúng sinh
 
 ---
 
@@ -8,7 +8,7 @@
 
 Metta Bhavana (tiếng Pali: "sự tu tập lòng từ") là một trong những hình thức thiền Phật giáo cổ xưa nhất, được truyền thừa không gián đoạn suốt hơn 2.500 năm. Từ "metta" bắt nguồn từ tiếng Pali có nghĩa là "bạn" (mitra); tuy thường được dịch là "lòng từ", học giả Phật giáo Tỳ-kheo Bodhi lại dịch là "sự thân thiện đầy lòng tốt". "Bhavana" có nghĩa là tu tập hay phát triển—đây không chỉ là một phương pháp thiền mà là sự rèn luyện có hệ thống của trái tim.
 
-Từ (metta) là một trong Tứ Phạm trú (Brahmaviharas, tức Bốn trú xứ cao thượng), cùng với Bi (karuna), Hỷ (mudita) và Xả (upekkha). Bốn đức này cùng nhau tạo thành nền tảng của sự tu dưỡng cảm xúc trong Phật giáo.
+Từ (metta) là một trong Tứ Phạm trú (Brahmaviharas, còn gọi là Tứ vô lượng tâm), cùng với Bi (karuna), Hỷ (mudita) và Xả (upekkha). Bốn đức này cùng nhau tạo thành nền tảng của sự tu dưỡng cảm xúc trong Phật giáo.
 
 ---
 ## Nguồn gốc lịch sử | Historical Origins
@@ -42,7 +42,7 @@ Những câu này sau đó được mở rộng đến người khác:
 ---
 ## Bối cảnh giáo lý | Doctrinal Context
 ### Từ là một Phạm trú | As Brahmavihara
-Theo Buswell và Lopez, cũng như học giả Peter Harvey, mettā với tư cách là một Phạm trú (trú xứ cao thượng) dẫn đến các trạng thái thiền định nhờ đóng vai trò đối trị với sân hận. Nó loại bỏ sự bám chấp vào các trạng thái tâm tiêu cực bằng cách nuôi dưỡng lòng tử tế đối với tất cả chúng sinh.
+Theo Buswell và Lopez, cũng như học giả Peter Harvey, mettā với tư cách là một Phạm trú (Brahmavihara) dẫn đến các trạng thái thiền định nhờ đóng vai trò đối trị với sân hận. Nó loại bỏ sự bám chấp vào các trạng thái tâm tiêu cực bằng cách nuôi dưỡng lòng tử tế đối với tất cả chúng sinh.
 
 "Kẻ thù xa" của mettā là hận thù hay ác ý—một trạng thái tâm đối nghịch rõ ràng. "Kẻ thù gần" (một phẩm chất bề ngoài giống mettā nhưng ngầm đối nghịch với nó) là sự dính mắc hay tình thương ái luyến. Từ chân thật thì vô điều kiện và không chiếm hữu.
 
@@ -65,7 +65,7 @@ Theo Buswell và Lopez, cũng như học giả Peter Harvey, mettā với tư c�
 ## Nghiên cứu khoa học hiện đại | Modern Scientific Research
 Việc ứng dụng thiền từ tâm cho các vấn đề tâm lý và chăm sóc sức khỏe là một lĩnh vực nghiên cứu sôi động. Các nghiên cứu đã chứng minh những tác động tích cực:
 
-- Một nghiên cứu thí điểm kéo dài tám tuần vào năm 2005 cho thấy thiền từ bi làm giảm đau và giận dữ ở những người bị đau lưng dưới mãn tính
+- Một nghiên cứu thí điểm kéo dài tám tuần vào năm 2005 cho thấy thiền tâm từ làm giảm đau và giận dữ ở những người bị đau lưng dưới mãn tính
 - Nghiên cứu cho thấy lợi ích đối với việc điều trị trầm cảm, lo âu và tâm thần phân liệt
 - Các nghiên cứu hình ảnh thần kinh cho thấy sự thay đổi ở những vùng não liên quan đến sự đồng cảm và điều hòa cảm xúc
 - Các nghiên cứu cho thấy việc tu tập từ tâm làm gia tăng cảm xúc tích cực và sự gắn kết xã hội
@@ -99,16 +99,16 @@ Hãy bắt đầu với những buổi ngắn (5-10 phút) và tăng dần thờ
 ---
 ## Tài liệu tham khảo | References
 
-### Primary Sources
+### Nguồn kinh điển | Primary Sources
 - *Metta Sutta* (Sutta Nipata 1.8)
-- *Visuddhimagga*, Chapter 9
+- *Visuddhimagga*, Chương 9
 - *Vimuttimagga*
 
-### Academic Sources
+### Nguồn học thuật | Academic Sources
 - [Wikipedia: Maitrī](https://en.wikipedia.org/wiki/Maitr%C4%AB)
 - [Access to Insight: Metta](https://www.accesstoinsight.org/lib/authors/buddharakkhita/wheel365.html)
 - Salzberg, Sharon. *Lovingkindness: The Revolutionary Art of Happiness*
 
-### Contemporary Practice
+### Thực hành đương đại | Contemporary Practice
 ---
 **弘益人間 · Lợi ích rộng khắp nhân loại**

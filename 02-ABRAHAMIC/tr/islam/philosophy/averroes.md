@@ -8,17 +8,17 @@
 
 Batı'da Averroes olarak bilinen İbn Rüşd (1126–1198), felsefe, kelâm, tıp, astronomi, fizik ve hukuk alanlarında eserler yazmış Endülüslü bir Müslüman bilge ve fakihtir. En çok, ortaçağ Avrupa'sında kendisine "Şârih" (Yorumcu) unvanını kazandıran kapsamlı Aristoteles şerhleriyle tanınır.
 
-> Averroes, felsefe ile dinin birbirine karşıt değil, birbirini tamamlayan iki alan olduğunu savundu; her ikisi de farklı yöntemlerle de olsa hakikate götürür. İslam içinde akli araştırmayı savunması ve Aristoteles şerhleri, hem İslam felsefesini hem de ortaçağ Hristiyan skolastiğini derinden etkiledi.
+> İbn Rüşd, felsefe ile dinin birbirine karşıt değil, birbirini tamamlayan iki alan olduğunu savundu; her ikisi de farklı yöntemlerle de olsa hakikate götürür. İslam içinde akli araştırmayı savunması ve Aristoteles şerhleri, hem İslam felsefesini hem de ortaçağ Hristiyan skolastiğini derinden etkiledi.
 
-Thomas Aquinas, Averroes'e diğer bütün şârihlerden daha fazla atıfta bulunmuş, onun etkisi Maimonides aracılığıyla Yahudi felsefesine de uzanmıştır.
+Thomas Aquinas, İbn Rüşd'e diğer bütün şârihlerden daha fazla atıfta bulunmuş, onun etkisi Maimonides aracılığıyla Yahudi felsefesine de uzanmıştır.
 
 ---
 
 ## Aristoteles Şerhleri | Commentaries on Aristotle
 
-> Averroes, Aristoteles'in eserleri üzerine üç düzeyde şerh yazdı:
+> İbn Rüşd, Aristoteles'in eserleri üzerine üç düzeyde şerh yazdı:
 
-1. **Kısa Şerhler** (*Câmi*): Yeni başlayanlar için özetler
+1. **Kısa Şerhler** (*Cevâmi'*): Yeni başlayanlar için özetler
 2. **Orta Şerhler** (*Telhîs*): Orta düzeydeki öğrenciler için serbest açıklamalar
 3. **Uzun Şerhler** (*Tefsîr*): Satır satır ayrıntılı çözümleme
 
@@ -30,7 +30,7 @@ Amacı, gerçek Aristoteles'i Yeni Eflatuncu çarpıtmalardan kurtarmak ve felse
 
 ## Felsefe ile Dinin Uyumu | Harmony of Philosophy and Religion
 
-> *Fasl al-Maqāl* (*Kesin Söz*) adlı eserinde Averroes, felsefenin yalnızca câiz olmadığını, buna güç yetirenler için İslam hukukunca zorunlu olduğunu savunur.
+> *Faslü'l-Makâl* (*Kesin Söz*) adlı eserinde İbn Rüşd, felsefenin yalnızca câiz olmadığını, buna güç yetirenler için İslam hukukunca zorunlu olduğunu savunur.
 
 > "Hakikat hakikate zıt düşmez. Felsefe ve vahiy her ikisi de haktır; aralarında çelişki varmış gibi görünürse kutsal metnin te'vil yoluyla yorumlanması gerekir."
 
@@ -44,39 +44,39 @@ Savunusu şöyledir:
 
 ## Akıl | The Intellect
 
-> Averroes'in Aristoteles'in akıl öğretisini yorumlayışı tartışma yarattı. Şu ayrımı yaptı:
+> İbn Rüşd'ün Aristoteles'in akıl öğretisini yorumlayışı tartışma yarattı. Şu ayrımı yaptı:
 
 - **Maddî akıl**: Bireysel, edilgen, suretleri alır
 - **Faal akıl**: Evrensel, ezelî, hakikati aydınlatır
 
-> Bazıları Averroes'in bütün insanlık için yalnızca tek bir akıl bulunduğunu öğrettiğini yorumladı; bu da bireysel ölümsüzlüğün inkârına yol açıyordu. Bu "Averroizm" Kilise tarafından mahkûm edildi, ancak Latin skolastiğini etkiledi.
+> Bazıları İbn Rüşd'ün bütün insanlık için yalnızca tek bir akıl bulunduğunu öğrettiğini yorumladı; bu da bireysel ölümsüzlüğün inkârına yol açıyordu. Bu "Averroizm" Kilise tarafından mahkûm edildi, ancak Latin skolastiğini etkiledi.
 
 ---
 
 ## Tutarsızlığın Tutarsızlığı | Incoherence of the Incoherence
 
-> *Tehâfütü't-Tehâfüt* (*Tutarsızlığın Tutarsızlığı*), Averroes'in, felsefeyi imana tehlikeli diye eleştiren Gazâlî'nin *Tehâfütü'l-Felâsife* (*Filozofların Tutarsızlığı*) adlı eserine verdiği cevaptır.
+> *Tehâfütü't-Tehâfüt* (*Tutarsızlığın Tutarsızlığı*), İbn Rüşd'ün, felsefeyi imana tehlikeli diye eleştiren Gazâlî'nin *Tehâfütü'l-Felâsife* (*Filozofların Tutarsızlığı*) adlı eserine verdiği cevaptır.
 
-Averroes şunları savunur:
+İbn Rüşd şunları savunur:
 - Âlemin kıdemi
 - Nedensellik ve tabiat yasası
 - Felsefi yöntem
 - İmanın akla uygunluğu
 
-> Gazâlî felsefeyi dini baltalayan bir şey olarak görürken, Averroes onu dinin en yüksek ifadesi olarak gördü.
+> Gazâlî felsefeyi dini baltalayan bir şey olarak görürken, İbn Rüşd onu dinin en yüksek ifadesi olarak gördü.
 
 ---
 
 ## Etki | Influence
 
-> Averroes'in ortaçağ düşüncesi üzerindeki etkisi çok büyüktü:
+> İbn Rüşd'ün ortaçağ düşüncesi üzerindeki etkisi çok büyüktü:
 
 - Thomas Aquinas'ın Aristotelesçiliği
 - Paris Üniversitesi'nde Latin Averroizmi
 - Yahudi felsefesi (Maimonides, Gersonides)
 - Rönesans hümanizmi
 
-> Dante, Averroes'i diğer erdemli putperestlerle birlikte Limbo'ya yerleştirir ve ona "büyük şerhi yapan" der.
+> Dante, İbn Rüşd'ü diğer erdemli putperestlerle birlikte Limbo'ya yerleştirir ve ona "büyük şerhi yapan" der.
 
 ---
 

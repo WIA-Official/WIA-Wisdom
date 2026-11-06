@@ -8,7 +8,7 @@
 
 Die Sakramente sind heilige Riten des Christentums, die als sichtbare Zeichen und wirksame Kanäle der Gnade Gottes für alle gelten, die sie mit der rechten Haltung empfangen. Das Wort „Sakrament“ stammt vom lateinischen *sacramentum*, das einen heiligen Eid oder ein Geheimnis bezeichnet.
 
-Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche Kirche fest: Taufe, Firmung, Eucharistie, Buße, Weihe, Ehe und Krankensalbung (damals „Letzte Ölung“ genannt). Diese wurden vom Konzil von Trient (1545–63) bekräftigt. Die klassischen protestantischen Kirchen (lutherisch, anglikanisch, reformiert) erkennen nur zwei – Taufe und Abendmahl (Eucharistie) – als von Christus in den Evangelien eingesetzt an.
+Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche Kirche fest: Taufe, Firmung, Eucharistie, Buße, Weihe, Ehe und Letzte Ölung. Diese wurden vom Konzil von Trient (1545–63) bekräftigt. Die klassischen protestantischen Kirchen (lutherisch, anglikanisch, reformiert) erkennen nur zwei – Taufe und Abendmahl (Eucharistie) – als von Christus in den Evangelien eingesetzt an.
 
 ---
 
@@ -30,7 +30,7 @@ Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche K
 - Eintritt in die christliche Gemeinschaft
 - Reinigung von der Erbsünde
 - Wiedergeburt im Heiligen Geist
-- Wird nur einmal im Leben empfangen
+- Wird nur einmal im Leben gespendet
 
 ### 2. Firmung (Confirmation):
 - Stärkung der Taufgnade
@@ -58,8 +58,8 @@ Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche K
 - Vorbereitung auf den Tod
 - Vergebung der Sünden
 
-### 6. Weihe (Holy Orders):
-- Ordination von Diakonen, Priestern und Bischöfen
+### 6. Weihesakrament (Holy Orders):
+- Weihe von Diakonen, Priestern und Bischöfen
 - Dienst an der Kirche
 - Vollmacht zur Feier der Sakramente
 - Apostolische Sukzession
@@ -87,7 +87,7 @@ Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche K
 | **Lutherisch** | Taufe, Abendmahl, (Buße) | Gnadenmittel |
 | **Reformiert** | Taufe, Abendmahl | Zeichen und Siegel des Bundes |
 | **Anglikanisch** | Taufe, Abendmahl + 5 weitere | Äußere Zeichen innerer Gnade |
-| **Baptistisch** | Taufe, Herrenmahl | Ordinanzen, keine Sakramente |
+| **Baptistisch** | Taufe, Herrenmahl | Verordnungen des Herrn, keine Sakramente |
 
 ---
 
@@ -118,11 +118,11 @@ Im 12. Jahrhundert legte Petrus Lombardus sieben Sakramente für die westliche K
 | Tradition | Anzahl | Sichtweise |
 |-----------|--------|------------|
 | **Römisch-katholisch** | 7 | Von Christus eingesetzte Kanäle der Gnade |
-| **Orthodox (Ostkirche)** | 7 (Mysterien) | Göttliche Mysterien zum Heil |
+| **Orthodoxe Kirche** | 7 (Mysterien) | Göttliche Mysterien zum Heil |
 | **Lutherisch** | 2–3 | Evangeliumsverheißungen mit sichtbaren Elementen |
 | **Reformiert/Presbyterianisch** | 2 | Zeichen und Siegel der Bundesgnade |
 | **Methodistisch** | 2 | Gnadenmittel |
-| **Baptistisch** | 2 (Ordinanzen) | Symbolische Akte des Gehorsams |
+| **Baptistisch** | 2 (Verordnungen) | Symbolische Akte des Gehorsams |
 | **Quäker** | 0 | Innere Erfahrung vor äußeren Formen |
 
 ---

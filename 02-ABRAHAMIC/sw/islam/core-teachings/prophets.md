@@ -1,6 +1,6 @@
 # Manabii katika Uislamu | Prophets in Islam (الأنبياء)
 
-> Wajumbe wa Uongozi: Kuanzia Adam hadi Muhammad
+> Wajumbe wa Uongofu: Kuanzia Adam hadi Muhammad
 
 ---
 
@@ -8,7 +8,7 @@
 
 Katika imani ya Kiislamu, manabii (Kiarabu: أنبياء, anbiyā') ni watu waliochaguliwa na Mwenyezi Mungu (Allah) na kutumwa kuwaongoza wanadamu katika historia yote. Qur'ani inawataja manabii ishirini na watano kwa majina, ilhali mapokeo ya Kiislamu yanashikilia kwamba jumla ya manabii ilikuwa takriban 124,000. Manabii wote walihubiri ujumbe mmoja wa msingi: upweke wa Mwenyezi Mungu (Tawhidi), kumwabudu Mwenyezi Mungu peke yake, kujiepusha na ibada ya masanamu, na kuamini Siku ya Hukumu.
 
-Waislamu wanaamini katika mnyororo usiokatika wa unabii kuanzia Adam, mwanadamu wa kwanza, hadi Muhammad, nabii wa mwisho na "Khatamu ya Manabii" (Khatam an-Nabiyyin). Mnyororo huu unajumuisha watu wanaoheshimiwa katika Uyahudi na Ukristo: Ibrahimu, Musa, Daudi na Isa.
+Waislamu wanaamini katika mnyororo usiokatika wa unabii kuanzia Adam, mwanadamu wa kwanza, hadi Muhammad, nabii wa mwisho na "Muhuri wa Manabii" (Khatam an-Nabiyyin). Mnyororo huu unajumuisha watu wanaoheshimiwa katika Uyahudi na Ukristo: Ibrahim, Musa, Daud na Isa.
 
 ---
 
@@ -18,12 +18,12 @@ Uislamu unatofautisha aina mbili za manabii:
 
 | Aina | Kiarabu | Jukumu |
 |------|---------|--------|
-| **Nabii** (Mtume mwenye kuhifadhi ujumbe) | نبي | Huhifadhi na kufundisha ufunuo uliopo |
-| **Rasuli** (Mjumbe) | رسول | Huleta kitabu kipya au sheria mpya |
+| **Nabii** (Nabi) | نبي | Huhifadhi na kufundisha ufunuo uliopo |
+| **Rasuli** (Mtume, Mjumbe) | رسول | Huleta kitabu kipya au sheria mpya |
 
-> "Nabii ni mwenye kuletwa kuhifadhi ujumbe uliopo, ilhali Rasuli ni mjumbe aliyekuja na ufunuo kutoka kwa Allah ili kuubadilisha jamii kutoka ujahili hadi imani safi."
+> "Nabii ni yule aliyekuja kuhifadhi ujumbe uliopo, ilhali Rasuli ni Mjumbe aliyekuja na ufunuo kutoka kwa Allah ili kuibadilisha jamii kutoka ujahili hadi imani safi."
 
-Warasuli wote ni manabii, lakini si manabii wote ni warasuli. Kwa mfano, Musa alikuwa Rasuli aliyepokea Tawrati, ilhali manabii waliomfuata miongoni mwa Waisraeli walikuwa manabii walioendeleza mafundisho yake.
+Rasuli wote ni manabii, lakini si kila nabii ni rasuli. Kwa mfano, Musa alikuwa Rasuli aliyepokea Tawrati, ilhali manabii waliomfuata miongoni mwa Waisraeli walikuwa manabii walioendeleza mafundisho yake.
 
 ---
 
@@ -36,10 +36,10 @@ Manabii watano, wanaojulikana kama Ulul Azmi ("Wenye Azma Thabiti"), wanaheshimi
 - Aliokoka gharika iliyokuwa hukumu ya Mwenyezi Mungu kwa makafiri
 - Safina yake iliwabeba waumini hadi usalama
 
-### 2. Ibrahimu (Abrahamu) | Ibrahim (Abraham)
+### 2. Ibrahim (Abrahamu) | Ibrahim (Abraham)
 - Baba wa Tawhidi (imani ya Mungu mmoja)
 - Alijenga Al-Kaaba pamoja na mwanawe Ismail
-- Babu wa Waarabu kupitia Ismail na wa Wayahudi kupitia Ishaka
+- Babu wa Waarabu kupitia Ismail na wa Wayahudi kupitia Is-haq
 - Alipinga ibada ya masanamu katika nchi yake
 
 ### 3. Musa (Mose) | Musa (Moses)
@@ -49,14 +49,14 @@ Manabii watano, wanaojulikana kama Ulul Azmi ("Wenye Azma Thabiti"), wanaheshimi
 - Anaitwa "Kalīm Allah" (aliyesema moja kwa moja na Mwenyezi Mungu)
 
 ### 4. Isa (Yesu) | Isa (Jesus)
-- Alizaliwa na Bikira Maryamu (Maryam)
+- Alizaliwa na Bikira Maryam
 - Alifanya miujiza kwa idhini ya Mwenyezi Mungu
 - Alipokea Injili (Injil)
 - Alipandishwa na Mwenyezi Mungu (hakusulubiwa kwa mtazamo wa Kiislamu)
 - Atarudi kabla ya Siku ya Hukumu
 
 ### 5. Muhammad | Muhammad
-- Nabii wa mwisho (Khatamu ya Manabii)
+- Nabii wa mwisho (Muhuri wa Manabii)
 - Alipokea Qur'ani kwa muda wa miaka 23
 - Utume wake ni kwa wanadamu wote
 - Kigezo cha maisha ya Waislamu (Sunnah)
@@ -71,14 +71,14 @@ Manabii wakuu katika mapokeo ya Kiislamu ni pamoja na:
 |-------|---------|---------|
 | Adam | آدم | Mwanadamu wa kwanza na nabii |
 | Idris | إدريس | Nabii wa zamani, anayetambuliwa na Henoko |
-| Ibrahimu | إبراهيم | Baba wa Tawhidi (imani ya Mungu mmoja) |
+| Ibrahim | إبراهيم | Baba wa Tawhidi (imani ya Mungu mmoja) |
 | Ismail | إسماعيل | Babu wa Waarabu |
-| Ishaka | إسحاق | Babu wa Waisraeli |
-| Yakub | يعقوب | Israeli, baba wa makabila kumi na mawili |
+| Is-haq | إسحاق | Babu wa Waisraeli |
+| Yaaqub | يعقوب | Israeli, baba wa makabila kumi na mawili |
 | Yusuf | يوسف | Aliuzwa utumwani, akapanda hadi mamlakani Misri |
 | Musa | موسى | Alileta Tawrati |
-| Daudi | داود | Alipokea Zaburi (Zabur) |
-| Sulaimani | سليمان | Mfalme mwenye hekima, aliyeamrisha majini |
+| Daud | داود | Alipokea Zaburi (Zabur) |
+| Sulaiman | سليمان | Mfalme mwenye hekima, aliyeamrisha majini |
 | Isa | عيسى | Yesu |
 | Muhammad | محمد | Mjumbe wa mwisho |
 
@@ -86,22 +86,22 @@ Manabii wakuu katika mapokeo ya Kiislamu ni pamoja na:
 
 ## Ujumbe Mmoja | One Message
 
-> "Katika Uislamu, kila nabii alihubiri imani zile zile za msingi: Upweke wa Mwenyezi Mungu, kumwabudu Mungu huyo mmoja, kujiepusha na ibada ya masanamu na dhambi, na kuamini Siku ya Ufufuo na maisha baada ya kifo."
+> "Katika Uislamu, kila nabii alihubiri imani zile zile za msingi: Upweke wa Mwenyezi Mungu, kumwabudu Mungu huyo mmoja, kujiepusha na ibada ya masanamu na dhambi, na kuamini Siku ya Kiyama na maisha baada ya kifo."
 
-Uislamu unafundisha kwamba vitabu vya awali (Tawrati, Zaburi, Injili) vilikuwa na ukweli ule ule wa msingi lakini vilibadilishwa kadiri ya wakati. Qur'ani inaaminika kuwa ufunuo wa mwisho uliohifadhiwa, unaothibitisha na kuvipita vitabu vyote vya awali.
+Uislamu unafundisha kwamba vitabu vya awali (Tawrati, Zaburi, Injili) vilikuwa na ukweli ule ule wa msingi lakini vilibadilishwa kadiri wakati ulivyopita. Qur'ani inaaminika kuwa ufunuo wa mwisho uliohifadhiwa, unaothibitisha vitabu vyote vya awali na kuchukua nafasi yake.
 
 ---
 
 ## Muhammad: Nabii wa Mwisho | Muhammad: The Final Prophet
 
-> "Nabii wa mwisho katika Uislamu ni Muhammad ibn ʿAbdullāh, ambaye Waislamu wanaamini kuwa 'Khatamu ya Manabii' (Khatam an-Nabiyyin), aliyeteremshiwa Qur'ani."
+> "Nabii wa mwisho katika Uislamu ni Muhammad ibn ʿAbdullāh, ambaye Waislamu wanaamini kuwa 'Muhuri wa Manabii' (Khatam an-Nabiyyin), aliyeteremshiwa Qur'ani."
 
 ### Mambo Muhimu: | Key Points:
-- Alizaliwa Makka, mwaka 570 BK
+- Alizaliwa Makka, mwaka 570 M
 - Alipokea ufunuo wa kwanza akiwa na umri wa miaka 40
-- Alihamia Madina (Hijra) mwaka 622 BK
+- Alihamia Madina (Hijra) mwaka 622 M
 - Alianzisha jamii ya kwanza ya Kiislamu (Ummah)
-- Alifariki mwaka 632 BK
+- Alifariki mwaka 632 M
 - Mfano wake (Sunnah) ni kigezo cha maisha ya Waislamu
 
 Baada ya Muhammad, hakutakuwa na manabii wengine—ujumbe wa Uislamu umekamilika.
@@ -112,10 +112,10 @@ Baada ya Muhammad, hakutakuwa na manabii wengine—ujumbe wa Uislamu umekamilika
 
 | Kiarabu | Kiswahili | Maana |
 |---------|-----------|-------|
-| Nabi | Nabii | Mtume mwenye kuhifadhi ujumbe |
-| Rasul | Rasuli | Mjumbe |
+| Nabi | Nabii | Nabii (mpokea wahyi) |
+| Rasul | Rasuli | Mtume, Mjumbe |
 | Ulul Azmi | Ulul Azmi (Wenye Azma Thabiti) | Manabii wenye azma thabiti |
-| Khatam | Khatamu | Muhuri |
+| Khatam | Khatam | Muhuri |
 | Wahi | Wahyi | Ufunuo |
 | Ummah | Umma | Jamii |
 
@@ -128,4 +128,4 @@ Baada ya Muhammad, hakutakuwa na manabii wengine—ujumbe wa Uislamu umekamilika
 - [Prophets and Messengers in Islam - Quran Reading](https://www.quranreading.com/blog/prophets-and-messengers-in-islam-names-of-prophets-mentioned-in-quran)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Kuwanufaisha wanadamu wote*

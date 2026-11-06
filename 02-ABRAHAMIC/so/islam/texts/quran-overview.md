@@ -1,4 +1,4 @@
-# Qur'aanka | القرآن
+# Qur'aanka | The Quran (القرآن)
 
 > Waxyigii Ugu Dambeeyay: Kitaabka Quduuska ah ee Islaamka
 
@@ -6,9 +6,9 @@
 
 ## Guudmar | Overview
 
-Qur'aanka (Carabi: القرآن, al-Qur'ān, "Akhriska") waa qoraalka diineed ee udub-dhexaadka u ah Islaamka, waxaana Muslimiintu rumaysan yihiin inuu yahay kalaamka Eebbe (Allāh) ee tooska ah, kaas oo loo waxyooday Nabi Muxammad (NNKH) iyadoo malaa'igta Jibriil (Jibrīl) loo marsiiyay. Waxyigu wuxuu socday ilaa 23 sano ku dhawaad, isagoo bilaabmay 610 CE markii Muxammad uu jiray 40 jir, dhammaadayna 632 CE, oo ah sannadkii uu geeriyooday.
+Qur'aanka (Carabi: القرآن, al-Qur'ān, "Akhriska") waa qoraalka diineed ee udub-dhexaadka u ah Islaamka, waxaana Muslimiintu rumaysan yihiin inuu yahay kalaamka Eebbe (Allāh) ee tooska ah, kaas oo loo waxyooday Nabi Muxammad iyadoo malaggii Jibriil (Jibrīl) loo marsiiyay. Waxyigu wuxuu socday ku dhawaad 23 sano, isagoo bilaabmay 610 M markuu Muxammad ahaa 40 jir, dhammaadayna 632 M, oo ah sannadkii uu geeriyooday.
 
-Qur'aanka waxaa loo arkaa waxyiga ugu dambeeya ee dhammaystiran, kaas oo xaqiijiya kuna beddelaya kutubtii hore ee ay ka mid yihiin Towraad iyo Injiil. Waa il aasaasi ah oo ay ka soo baxaan sharciga Islaamka (Sharīʿah), caqiidada, iyo hanuunka dhinac kasta oo nolosha Muslimka ah.
+Qur'aanka waxaa loo arkaa waxyiga ugu dambeeya ee dhammaystiran, kaas oo xaqiijiya kuna beddelaya kutubtii hore ee ay ka mid yihiin Tawreed iyo Injiil. Waa il aasaasi ah oo ay ka soo baxaan sharciga Islaamka (Sharīʿah), caqiidada, iyo hanuunka dhinac kasta oo nolosha Muslimka ah.
 
 ---
 
@@ -18,11 +18,11 @@ Qur'aanku wuxuu u habaysan yahay sidan:
 
 | Qayb | Sharaxaad |
 |------|-----------|
-| **114 Suuro** | Cutubyo, tirada aayaadkoodu ka bilaabmaan 3 ilaa 286 |
-| **~6,200 Aayaad** | Aayado (macnaha ereyga: "calaamooyin") |
+| **114 Suuradood** | Cutubyo, oo aayadahoodu u dhexeeyaan 3 ilaa 286 |
+| **~6,200 Aayadood** | Aayado (macnaha ereyga: "calaamooyin") |
 | **30 Juz'** | Qaybo loogu talagalay akhriska |
 
-Suurooyinku nooma habaysna sida ay u soo dhaceen, laakiin guud ahaan waxay u kala horreeyaan dherer ahaan, laga bilaabo kan ugu dheer ilaa kan ugu gaaban (marka laga reebo cutubka furitaanka, Al-Faatixa). Suurad kasta marka laga reebo tan sagaalaad (At-Tawbah) waxay ku bilaabmaysaa Basmalada: "Magaca Allah, Naxariis-wade, Naxariis-Leh."
+Suuradaha looma habayn sida ay u kala horreeyeen soo degistooda, laakiin guud ahaan waxay u kala horreeyaan dherer ahaan, laga bilaabo kan ugu dheer ilaa kan ugu gaaban (marka laga reebo cutubka furitaanka, Al-Faatixa). Suurad kasta marka laga reebo tan sagaalaad (At-Tawbah) waxay ku bilaabmaysaa Basmalada: "Magaca Allaah, Naxariista Guud, Naxariista Gaarka ah."
 
 ---
 
@@ -34,11 +34,11 @@ Muslimiintu waxay rumaysan yihiin in Qur'aanka loo waxyooday Muxammad magaalooyi
 
 Shanta aayadood ee ugu horreeya Suuradda Al-Calaq (96:1-5) waxaa la rumaysan yahay inay yihiin waxyigii ugu horreeyay, kaas oo uu helay Muxammad intii uu cibaadada kaligiis ku jiray godka Xiraa':
 
-> "Akhri! Magaca Rabbigaa wax abuuray—wuxuu abuuray ninka isagoo ka abuuray xinjir (dhiig xinjirooday). Akhri! Rabbigaaguna waa kan ugu deeqsiga badan."
+> "Akhri! Magaca Rabbigaa wax abuuray—wuxuu dadka ka abuuray xinjir. Akhri! Rabbigaana waa kan ugu deeqsisan."
 
 ### Suuradaha Makka iyo Madiina | Meccan vs. Medinan Surahs
 
-- **Suuradaha Makkiga** (610-622): Waxay xooga saaraan Tawxiidka, sarakicidda, iyo akhlaaqda
+- **Suuradaha Makkiga** (610-622): Waxay xooga saaraan Tawxiidka, dib-u-soo-nooleynta, iyo akhlaaqda
 - **Suuradaha Madaniga** (622-632): Waxay ka hadlaan sharciyada bulshada iyo xiriirka bulsheed
 
 ---
@@ -47,11 +47,11 @@ Shanta aayadood ee ugu horreeya Suuradda Al-Calaq (96:1-5) waxaa la rumaysan yah
 
 ### 1. Tawxiid (Keliyeynta Eebbe) | 1. Tawḥīd (Oneness of God)
 
-Tawxiidka saafiga ah ee Islaamka—Eebbe waa mid, gaar ah, shariikna ma laha.
+Tawxiidka saafiga ah ee Islaamka—Eebbe waa Kali, lama-mood ah, shariigna ma leh.
 
 ### 2. Nabinnimo (Nubuwwah) | 2. Prophethood (Nubuwwah)
 
-Muxammad waa nabiga ugu dambeeya silsilad ay ku jiraan Aadam, Ibraahiim, Muuse, iyo Ciise.
+Muxammad waa nabiga ugu dambeeya silsiladda nabiyada ay ku jiraan Aadam, Ibraahiim, Muuse, iyo Ciise.
 
 ### 3. Aakhiro (Ākhirah) | 3. Afterlife (Ākhirah)
 
@@ -59,11 +59,11 @@ Maalinta Xisaabta, Jannada (Jannah), iyo Naarta (Jahannam).
 
 ### 4. Hanuun (Hidāyah) | 4. Guidance (Hidāyah)
 
-Wadada Toosan (al-Ṣirāṭ al-Mustaqīm) ee loo marayo noloshii xaqa ahayd.
+Wadada Toosan (al-Ṣirāṭ al-Mustaqīm) ee ku hoggaaminaysa nolol toosan oo xaq ah.
 
 ### 5. Kutubtii Hore | 5. Previous Scriptures
 
-Tixraacyo ku saabsan Towraad, Sabuur, iyo Injiil oo ah waxyiyo hore.
+Tixraacyo ku saabsan Tawreed, Zabuur, iyo Injiil oo ah waxyiyo hore.
 
 ---
 
@@ -80,33 +80,33 @@ Qur'aanka waxaa lagu ilaaliyey:
 ### Ururinta Qoraalka ah | Written Compilation
 
 - Markii hore waxaa lagu qoray caleemo timireed, lafo, iyo maqaar
-- Waxaa lagu ururiyey hal kitaab (muṣḥaf) xilligii Khaliifkii Cusmaan (644-656 CE)
+- Waxaa lagu ururiyey hal kitaab (muṣḥaf) xilligii Khaliifkii Cusmaan (644-656 M)
 - Nuqulka Cusmaaniga ah wuxuu noqday qoraalka halbeegga ah
 
-Qaabka Qur'aanka ee ay ku jiraan xiddigaal iyo gabay wuxuu fududeeyaa xifdinta, wuxuuna weli yahay kitaabka ugu badan ee dadku xifdiyaan taariikhda aadanaha oo dhan.
+Qaabka laxanka iyo suugaanta leh ee Qur'aanku wuxuu fududeeyaa xifdinta, wuxuuna weli yahay kitaabka ugu badan ee dadku xifdiyaan taariikhda aadanaha oo dhan.
 
 ---
 
 ## Luuqadda Carabiga | Arabic Language
 
-Qur'aanka waxaa loo arkaa shaqo-gacmeed suugaaneed oo sarreeya oo ku qoran Carabiga qadiimiga ah:
+Qur'aanka waxaa loo arkaa hal-abuur suugaaneed oo heer sare ah oo ku qoran Carabiga fusxada ah ee qadiimka ah:
 
 - Muslimiintu waxay rumaysan yihiin in macnihiisa buuxa aan la tarjumi karin
 - Akhriska waxaa lagu sameeyaa Carabi iyadoon loo eegin luuqadda hooyo
 - Qur'aanku wuxuu si weyn u qaabeeyey Carabiga casriga ah
 - Tarjumaadaha waxaa loo arkaa "tafsiirka macnaha" (tafsīr)
 
-Cutubka furitaanka, Al-Faatixa, waxaa lagu akhriyaa rakcad kasta oo salaadda Muslimka ah, waxaana loo yaqaan "Hooyada Kitaabka" (Umm al-Kitāb).
+Cutubka furitaanka, Al-Faatixa, waxaa lagu akhriyaa rakco kasta oo salaadda Muslimka ah, waxaana loo yaqaan "Hooyada Kitaabka" (Umm al-Kitāb).
 
 ---
 
 ## Akhriska (Tajwiid) | Recitation (Tajwīd)
 
-Akhriska Qur'aanka wuxuu raacaa xeerar gaar ah oo la yiraahdo tajwiid, kuwaas oo xukuma:
+Akhriska Qur'aanka wuxuu raacaa xeerar gaar ah oo la yiraahdo tajwiid, kuwaas oo maamula:
 - Dhawaaqa xarfaha
 - Dhererka codadka
 - Joogsiyada iyo istaagyada
-- Qaababka heesta (maqāmāt)
+- Qaababka laxanka codka (maqāmāt)
 
 Akhriska waxaa loo arkaa cibaado, akhriska qurxoon ee Qur'aankana aad ayaa loogu qiimeeyaa dhaqanka Islaamka.
 
@@ -117,11 +117,11 @@ Akhriska waxaa loo arkaa cibaado, akhriska qurxoon ee Qur'aankana aad ayaa loogu
 | Suurad | Magac | Muhiimadda |
 |--------|-------|------------|
 | 1 | Al-Faatixa (Furitaanka) | Waxaa lagu akhriyaa salaad kasta |
-| 2 | Al-Baqarah (Sac) | Suuradda ugu dheer, sharciyo kullan ah |
+| 2 | Al-Baqarah (Sac) | Suuradda ugu dheer, sharciyo dhammaystiran |
 | 12 | Yuusuf | Sheeko dhammaystiran |
 | 36 | Yaa-Siin | Waxaa la yiraahdaa "Qalbiga Qur'aanka" |
-| 55 | Ar-Raxmaan (Naxariis-wade) | Sharaxaad qurux badan oo ku saabsan nicmooyinka |
-| 112 | Al-Ikhlaas (Daacadnimo) | Asalka Tawxiidka |
+| 55 | Ar-Raxmaan (Naxariistaha) | Sharaxaad qurux badan oo ku saabsan nicmooyinka |
+| 112 | Al-Ikhlaas (Ikhlaaska) | Nuxurka Tawxiidka |
 
 ---
 
@@ -134,7 +134,7 @@ Akhriska waxaa loo arkaa cibaado, akhriska qurxoon ee Qur'aankana aad ayaa loogu
 | Āyah | Aayad, calaamad |
 | Waḥy | Waxyi rabbaani ah |
 | Ḥāfiẓ | Qofka Qur'aanka xifdiya |
-| Tajwīd | Farshaxanka akhriska |
+| Tajwīd | Xeerarka akhriska |
 | Tafsīr | Tafsiirka Qur'aanka |
 
 ---

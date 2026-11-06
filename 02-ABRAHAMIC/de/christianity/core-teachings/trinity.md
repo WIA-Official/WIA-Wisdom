@@ -6,7 +6,7 @@
 
 ## Überblick | Overview
 
-Die Dreieinigkeit (Trinität) ist die zentrale Lehre des Christentums in seiner Hauptströmung. Sie bekennt, dass Gott als drei unterschiedliche Personen existiert – Vater, Sohn (Jesus Christus) und Heiliger Geist –, die eins sind in Wesen, Natur und Sein. Diese Lehre unterscheidet das Christentum von anderen monotheistischen Religionen und wurde seit dem 4. Jahrhundert von ökumenischen Konzilien bekräftigt.
+Die Dreieinigkeit (Trinität) ist die zentrale Lehre des Christentums der großen Kirchen. Sie bekennt, dass Gott als drei unterschiedliche Personen existiert – Vater, Sohn (Jesus Christus) und Heiliger Geist –, die eins sind in Wesen, Natur und Sein. Diese Lehre unterscheidet das Christentum von anderen monotheistischen Religionen und wurde seit dem 4. Jahrhundert von ökumenischen Konzilien bekräftigt.
 
 Obwohl das Wort „Trinität“ in der Bibel nicht vorkommt, glauben Christen, dass der Gedanke in der gesamten Heiligen Schrift offenbart ist. Die Lehre wurde förmlich ausgearbeitet, um zu erklären, wie Gott einer sein kann und zugleich Vater, Sohn und Geist ist – jeder von ihnen vollkommen göttlich, und doch nicht drei Götter, sondern ein Gott.
 
@@ -20,14 +20,14 @@ Obwohl das Wort „Trinität“ in der Bibel nicht vorkommt, glauben Christen, d
 |--------|-------|---------------------------|
 | **Vater** | Schöpfer, Ursprung | Ungezeugt, sendet Sohn und Geist |
 | **Sohn** | Erlöser, Wort | Von Ewigkeit her gezeugt, Mensch geworden |
-| **Heiliger Geist** | Heiligmacher, Tröster | Geht aus dem Vater (und dem Sohn) hervor |
+| **Heiliger Geist** | Spender der Heiligung, Tröster | Geht aus dem Vater (und dem Sohn) hervor |
 
 ### Grundsätze:
 
 1. **Ein Gott**: Es gibt nur einen Gott (Monotheismus)
 2. **Drei Personen**: Vater, Sohn und Geist sind unterschiedliche Personen
 3. **Volle Gottheit**: Jede Person ist vollkommen Gott
-4. **Gleichrangig**: Die Personen sind gleich an Herrlichkeit und Majestät
+4. **Gleich an Ehre**: Die Personen sind gleich an Herrlichkeit und Majestät
 5. **Gleichewig**: Keine Person ist früher oder später als die anderen
 
 ---
@@ -50,7 +50,7 @@ Obwohl das Wort „Trinität“ in der Bibel nicht vorkommt, glauben Christen, d
 
 | Konzil | Jahr | Beitrag |
 |--------|------|---------|
-| **Nizäa I** | 325 | Bekräftigte, dass der Sohn „eines Wesens“ mit dem Vater ist |
+| **Nizäa I** | 325 | Bekräftigte, dass der Sohn „eines Wesens mit dem Vater“ (wesensgleich) ist |
 | **Konstantinopel I** | 381 | Bekräftigte die Gottheit des Heiligen Geistes |
 | **Chalcedon** | 451 | Definierte die zwei Naturen Christi |
 
@@ -83,8 +83,8 @@ Obwohl das Wort „Trinität“ in der Bibel nicht vorkommt, glauben Christen, d
 | Tradition | Schwerpunkt |
 |-----------|-------------|
 | **Orthodoxe Kirche** | Der Geist geht allein aus dem Vater hervor (kein Filioque) |
-| **Römisch-katholisch** | Der Geist geht aus dem Vater und dem Sohn hervor (Filioque) |
-| **Protestantisch** | Folgt in der Regel der westlichen Formulierung |
+| **Römisch-katholische Kirche** | Der Geist geht aus dem Vater und dem Sohn hervor (Filioque) |
+| **Protestantismus** | Folgt in der Regel der westlichen Formulierung |
 
 ### Der Filioque-Streit:
 Die westliche Kirche fügte dem Glaubensbekenntnis die Worte „und dem Sohn“ (filioque) hinzu und bekannte damit, dass der Geist sowohl aus dem Vater als auch aus dem Sohn hervorgeht. Die östliche Kirche lehnte diesen Zusatz ab, was zum Großen Schisma von 1054 beitrug.

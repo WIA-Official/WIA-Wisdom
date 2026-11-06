@@ -14,7 +14,7 @@ Thiền tông có những nét đặc trưng là nhấn mạnh việc tọa thi�
 
 ## Satori và Kenshō | Satori and Kenshō
 
-### Satori (悟り)
+### Satori (悟)
 Satori có nghĩa là "giác ngộ" hay "thấu hiểu"—một trải nghiệm sâu sắc về việc thấy rõ bản tính chân thật của mình.
 
 > "Satori là trải nghiệm nội tâm, trực giác về sự Giác ngộ; không thể giải thích, không thể diễn tả và không thể hiểu được bằng lý trí và logic."
@@ -42,7 +42,7 @@ Công án (公案) là những lời phát biểu hay câu hỏi nghịch lý đ
 |------|--------|
 | "Tiếng vỗ của một bàn tay là gì?" | Hakuin (Bạch Ẩn) |
 | "Con chó có Phật tánh không? Vô!" | Triệu Châu |
-| "Diện mục xưa nay của ông trước khi cha mẹ sinh ra là gì?" | Huệ Năng |
+| "Trước khi cha mẹ chưa sinh, bản lai diện mục của ông là gì?" | Huệ Năng |
 | "Gặp Phật giữa đường thì giết Phật." | Lâm Tế |
 
 ### Công án vận hành như thế nào:
@@ -85,8 +85,8 @@ Tọa thiền (坐禅, "ngồi thiền") là trái tim của việc tu tập Thi
 | **Đạo Nguyên (Dōgen)** | Sáng lập tông Tào Động của Nhật Bản |
 | **Hakuin (Bạch Ẩn)** | Chấn hưng tông Lâm Tế; hệ thống hóa các công án |
 
-### Truyền tâm ấn tâm:
-> "Truyền riêng ngoài giáo điển; Chẳng lập văn tự; Chỉ thẳng tâm người; Thấy tánh thành Phật."
+### Dĩ tâm truyền tâm:
+> "Giáo ngoại biệt truyền; Bất lập văn tự; Trực chỉ nhân tâm; Kiến tánh thành Phật."
 
 ---
 
@@ -113,9 +113,9 @@ Theo quan điểm của Đạo Nguyên (Dōgen), tu và chứng là một—ng�
 
 Phật giáo Hàn Quốc đã phát triển truyền thống Seon của riêng mình:
 
-- **Chinul (Trí Nột)** (1158-1210): Dung hợp đốn ngộ với tiệm tu
+- **Chinul (Tri Nột)** (1158–1210): Dung hợp đốn ngộ với tiệm tu
 - **Taego Bou (Thái Cổ Phổ Ngu)**: Thống nhất các phái Cửu Sơn
-- **Tông phái Tào Khê (Jogye)**: Tông phái Phật giáo lớn của Hàn Quốc ngày nay
+- **Tông Tào Khê (Jogye)**: Tông phái Phật giáo lớn của Hàn Quốc ngày nay
 
 Thiền Seon Hàn Quốc nhấn mạnh việc tu tập thoại đầu (話頭, hwadu)—tham cứu mãnh liệt "câu then chốt" của một công án.
 
@@ -123,7 +123,7 @@ Thiền Seon Hàn Quốc nhấn mạnh việc tu tập thoại đầu (話頭, h
 
 ## Thuật ngữ chính | Key Terms
 
-| Tiếng Nhật | Tiếng Hàn | Ý nghĩa |
+| Tiếng Nhật | Chữ Hán | Ý nghĩa |
 |----------|--------|---------|
 | Zazen (Tọa thiền) | 坐禪 | Ngồi thiền |
 | Satori (Ngộ) | 悟 | Giác ngộ |
@@ -143,4 +143,4 @@ Thiền Seon Hàn Quốc nhấn mạnh việc tu tập thoại đầu (話頭, h
 
 ---
 
-*弘益人間 - Hãy làm lợi ích cho nhân loại*
+*弘益人間 - Làm lợi ích cho nhân loại*

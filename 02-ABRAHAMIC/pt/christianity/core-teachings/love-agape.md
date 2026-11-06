@@ -107,7 +107,7 @@ O amor cristão não é simples calor humano, mas um amor moldado pela entrega d
 | Agapáo | ἀγαπάω | Amar (verbo) |
 | Agapetós | ἀγαπητός | Amado |
 | Filia | φιλία | Amor de amizade |
-| Fileo | φιλέω | Amar como amigo |
+| Filéo | φιλέω | Amar como amigo |
 | Kénosis | κένωσις | Esvaziamento de si (Fl 2,7) |
 
 ---

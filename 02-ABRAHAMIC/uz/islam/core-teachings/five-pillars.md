@@ -6,7 +6,7 @@
 
 ## Umumiy ma'lumot | Overview
 
-Islomning besh ustuni (arabcha: أَرْكَانُ الْإِسْلَامِ, *Arkān al-Islām*) har bir musulmon umri davomida ado etishi kutiladigan beshta asosiy amaldir. Payg'ambar Muhammad (unga Allohning salovoti va salomi bo'lsin) Islomni "beshta narsa ustiga qurilgan" deb ta'riflagan (Sahih al-Buxoriy, Sahih Muslim). Bu esa mazkur ustunlar imonning asosiy tuzilmasini tashkil etishini bildiradi.
+Islomning besh ustuni (arabcha: أَرْكَانُ الْإِسْلَامِ, *Arkān al-Islām*) har bir musulmon umri davomida ado etishi kutiladigan beshta asosiy amaldir. Payg'ambar Muhammad (sollallohu alayhi vasallam) Islomni "beshta narsa ustiga qurilgan" deb ta'riflagan (Sahih al-Buxoriy, Sahih Muslim). Bu esa mazkur ustunlar imonning asosiy tuzilmasini tashkil etishini bildiradi.
 
 Ustunlar quyidagilardir:
 1. **Shahodat** (شَهَادَة) — imon kalimasi
@@ -25,14 +25,14 @@ Bu amallar e'tiqodni harakat bilan birlashtiradi va Islomda imon shunchaki aqliy
 
 > **أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱللَّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللَّٰهِ**
 
-"Guvohlik beramanki, Allohdan o'zga iloh yo'q va guvohlik beramanki, Muhammad Allohning elchisidir."
+"Guvohlik beramanki, Allohdan o'zga iloh yo'q va guvohlik beramanki, Muhammad Allohning rasulidir."
 
 ---
 
 Shahodat — Islom e'tiqodining markaziy kalimasidir. U ikki guvohlikdan iborat:
 
 1. **Tavhid** — "Allohdan o'zga iloh yo'q" Allohning mutlaq yagonaligini tasdiqlaydi
-2. **Risolat** — "Muhammad Allohning elchisidir" Muhammadning payg'ambarligini tasdiqlaydi
+2. **Risolat** — "Muhammad Allohning rasulidir" Muhammadning payg'ambarligini tasdiqlaydi
 
 Inson Shahodatni arabcha, ma'nosini anglagan holda va chin ishonch bilan samimiy aytganida musulmon bo'ladi. Bu kalima azonda, namozning o'zida va hayotning muhim lahzalarida ham takrorlanadi.
 
@@ -94,7 +94,7 @@ Zakot mol-mulkni poklaydi va qalbni baxillikdan tozalaydi. U boylikning jamiyatd
 
 ### Ramazon ro'zasi | Fasting in Ramadan
 
-Ro'za (*sawm*) — Hijriy qamariy kalendarning to'qqizinchi oyi bo'lgan Ramazon oyida tutiladigan farz ro'zadir. Bu oyda musulmonlar tong (bomdod)dan to quyosh botguncha (shom) ovqat, ichimlik, chekish va juftlik munosabatlaridan tiyiladilar.
+Ro'za (*savm*) — hijriy qamariy taqvimning to'qqizinchi oyi bo'lgan Ramazon oyida tutiladigan farz ro'zadir. Bu oyda musulmonlar tong (bomdod)dan to quyosh botguncha (shom) ovqat, ichimlik, chekish va juftlik munosabatlaridan tiyiladilar.
 
 **Ma'naviy ahamiyati:**
 
@@ -114,7 +114,7 @@ Ro'za (*sawm*) — Hijriy qamariy kalendarning to'qqizinchi oyi bo'lgan Ramazon 
 
 ### Makkaga ziyorat | Pilgrimage to Mecca
 
-Haj — jismonan va moliyaviy jihatdan qodir bo'lgan har bir musulmon umrida kamida bir marta ado etishi shart bo'lgan, Makkaga yillik ziyoratdir. U Zulhijja oyida (Hijriy kalendarning 12-oyi) o'tkaziladi.
+Haj — jismonan va moliyaviy jihatdan qodir bo'lgan har bir musulmon umrida kamida bir marta ado etishi shart bo'lgan, Makkaga yillik ziyoratdir. U Zulhijja oyida (hijriy taqvimning 12-oyi) o'tkaziladi.
 
 **Asosiy marosimlar:**
 
@@ -124,15 +124,15 @@ Haj — jismonan va moliyaviy jihatdan qodir bo'lgan har bir musulmon umrida kam
 
 3. **Sa'y**: Hojarning suv izlashini xotirlab, Safo va Marva tepaliklari orasida yetti marta yurish
 
-4. **Arafot**: Arafot vodiysida tik turib duo qilish (eng muhim marosim)
+4. **Arafot**: Arafot tekisligida duo qilib turish (eng muhim marosim)
 
-5. **Muzdalifa**: tosh-chaqmoqlar terish va quyosh botgandan keyin namoz o'qish
+5. **Muzdalifa**: mayda toshlar terish va quyosh botgandan keyin namoz o'qish
 
-6. **Rami al-jamarot**: shaytonni ifodalovchi uchta ustunga tosh otish
+6. **Ramyi jamarot**: shaytonni ifodalovchi uchta ustunga tosh otish
 
 7. **Qurbonlik (Qurboni)**: Ibrohimning o'g'lini qurbon qilishga tayyorligini xotirlab, hayvon qurbon qilish
 
-8. **Tavofi ifoza**: Ka'bani so'nggi marta aylanish
+8. **Tavofi ifoza**: Ka'bani yakuniy aylanib chiqish
 
 **Ma'naviy ahamiyati:**
 
@@ -148,7 +148,7 @@ Haj — musulmonlar birligining kuchli ramzidir. Barcha millat, irq va ijtimoiy 
 | Shahodat | شَهَادَة | Guvohlik, e'lon |
 | Namoz (salot) | صَلَاة | Marosimiy ibodat |
 | Zakot | زَكَاة | Poklovchi sadaqa |
-| Ro'za (sawm) | صَوْم | Ro'za tutish |
+| Ro'za (savm) | صَوْم | Ro'za tutish |
 | Haj | حَجّ | Ziyorat |
 | Ehrom | إِحْرَام | Marosimiy poklik holati |
 | Ka'ba | كَعْبَة | Makkadagi muqaddas kub shaklidagi inshoot |
@@ -166,7 +166,7 @@ Sunniy va shia musulmonlari besh ustunni baham ko'rsalar-da, shia Islomida qo'sh
 6. **Xums** — ayrim daromadlardan 20 foiz soliq
 7. **Jihod** — Alloh yo'lida kurash
 8. **Amr bil ma'ruf** — yaxshilikka buyurish
-9. **Nahiy an al-munkar** — yomonlikdan qaytarish
+9. **Nahiy anil munkar** — yomonlikdan qaytarish
 10. **Tavalla** — Payg'ambar ahli bayti(oilasi)ni sevish
 11. (Ba'zilar qo'shadi) **Tabarra** — Payg'ambar ahli bayti dushmanlaridan uzoqlashish
 
@@ -190,15 +190,15 @@ Birgalikda ular inson mavjudligining barcha jihatlarini qamrab oladi: e'tiqod, m
 
 ### Besh ustun haqidagi hadis | Hadith on the Five Pillars
 
-> "Islom besh [ustun] ustiga qurilgan: Allohdan o'zga iloh yo'qligiga va Muhammad Allohning elchisi ekaniga guvohlik berish, namozni to'kis ado etish, zakot berish, Baytullohni haj qilish va Ramazon ro'zasini tutish." (Sahih al-Buxoriy, Sahih Muslim)
+> "Islom besh [ustun] ustiga qurilgan: Allohdan o'zga iloh yo'qligiga va Muhammad Allohning rasuli ekaniga guvohlik berish, namozni to'kis ado etish, zakot berish, Baytullohni haj qilish va Ramazon ro'zasini tutish." (Sahih al-Buxoriy, Sahih Muslim)
 
 ### Qur'on havolalari | Quranic References
 
-- **Shahodat**: 3:18, 47:19-sura oyatlari
-- **Namoz**: 2:43, 11:114, 17:78-sura oyatlari
-- **Zakot**: 9:60, 2:43, 2:177-sura oyatlari
-- **Ro'za**: 2:183-185-sura oyatlari
-- **Haj**: 2:196-197, 3:97, 22:27-29-sura oyatlari
+- **Shahodat**: Sura 3:18, 47:19
+- **Namoz**: Sura 2:43, 11:114, 17:78
+- **Zakot**: Sura 9:60, 2:43, 2:177
+- **Ro'za**: Sura 2:183-185
+- **Haj**: Sura 2:196-197, 3:97, 22:27-29
 
 ---
 
@@ -235,4 +235,4 @@ Besh ustun kundalik hayot uchun amaliy hikmat taqdim etadi:
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Butun insoniyatga naf keltirish**

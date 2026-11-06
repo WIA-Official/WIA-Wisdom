@@ -11,7 +11,7 @@
 ---
 ## 主要类型 | Core Types
 ### 止（samatha）- 寂止 | Samatha （止） - Calm Abiding
-止（samatha）意为"平静""宁静"或"觉知的安宁"，是把心专注于单一所缘，从而培养深定的修习。止常被称为"安住止息"或"专注禅修"，通过培养稳定而不动摇的注意力来安定内心。
+止（samatha）意为“平静”“宁静”或“觉知的安宁”，是把心专注于单一所缘，从而培养深定的修习。止常被称为“寂止安住”或“专注禅修”，通过培养稳定而不动摇的注意力来安定内心。
 
 最常见的所缘是呼吸（ānāpānasati，安那般那念），不过修行者也可以使用：
 - 反复持诵的短语或真言
@@ -19,13 +19,13 @@
 - 遍处（kasina，彩色圆盘）
 - 对众生的慈心（mettā）
 
-通过持续修习，禅修者逐步进入更深的专注状态，称为禅那（jhāna）（禪定），其特征是喜悦、狂喜与深深的平和。
+通过持续修习，禅修者逐步进入更深的专注状态，称为禅那（jhāna）（禪定），其特征是喜、乐与深沉的寂静。
 
 ---
 ### 观（vipassanā）- 内观禅修 | Vipassanā （觀） - Insight Meditation
-观（vipassanā）意为"洞见"或"清楚地看"，是佛教禅修中最古老的形式，直接源自《大念处经》（Satipaṭṭhāna Sutta，即"念住的基础"）。它是对正念直接而渐进的培养——对正在发生之事，于其发生之时清楚地觉知。
+观（vipassanā）意为“洞见”或“清楚地看”，是佛教禅修中最古老的形式，直接源自《大念处经》（Satipaṭṭhāna Sutta，即“念住的基础”）。它是对正念直接而渐进的培养——对正在发生之事，于其发生之时清楚地觉知。
 
-与止的单点专注不同，观使觉知向整个意识领域敞开：思想、感受、感觉与知觉。这一修习包含"纯然的注意"——不加分别、不起反应、不作评论或判断的觉知。
+与止的单点专注不同，观使觉知向整个意识领域敞开：思想、感受、感觉与知觉。这一修习包含“纯然的注意”——不加分别、不起反应、不作评论或判断的觉知。
 
 通过观，修行者对三法印获得直接的洞见：
 - **无常（Anicca）（無常）** - 无常：一切现象生起并消逝
@@ -43,16 +43,16 @@
 
 ---
 ## 内观运动 | The Vipassanā Movement
-内观运动于20世纪兴起于缅甸，推广"纯粹内观"的禅修方法，以培养对三法印的洞见。主要人物包括马哈希尊者（Mahasi Sayadaw）、葛印卡（S.N. Goenka）与雷迪尊者（Ledi Sayadaw）。
+内观运动于20世纪兴起于缅甸，推广“纯粹内观”的禅修方法，以培养对三法印的洞见。主要人物包括马哈希尊者（Mahasi Sayadaw）、葛印卡（S.N. Goenka）与雷迪尊者（Ledi Sayadaw）。
 
-自20世纪50年代以来，这一运动在全世界广受欢迎。其西方衍生形式自20世纪70年代发展以来，已演变为大体上世俗化的"正念"修习。这种现代方法被定义为"有意识地、专注于当下、不带评判地觉察所产生的觉知"（乔·卡巴金），已进入主流心理学、医学与教育领域。
+自20世纪50年代以来，这一运动在全世界广受欢迎。其西方衍生形式自20世纪70年代发展以来，已演变为大体上世俗化的“正念”修习。这种现代方法被定义为“有意识地、专注于当下、不带评判地觉察所产生的觉知”（乔·卡巴金），已进入主流心理学、医学与教育领域。
 
 ---
 ## 四念处 | The Four Foundations of Mindfulness
 《大念处经》（Satipaṭṭhāna Sutta）阐述了建立正念的四个基础：
 
 1. **身念处（Kāyānupassanā）（身念處）** - 观身
-   - 呼吸、行住坐卧、日常活动、身体各部分、四大元素、观想死尸
+   - 呼吸、行住坐卧、日常活动、身体各部分、四大元素、死尸观
 
 2. **受念处（Vedanānupassanā）（受念處）** - 观受
    - 乐受、苦受与不苦不乐受
@@ -99,9 +99,9 @@
 ## 参考文献 | References
 
 ### 原典 | Primary Texts
-- Satipaṭṭhāna Sutta （大念處經）
-- Ānāpānasati Sutta （安般守意經）
-- Visuddhimagga （清淨道論）
+- Satipaṭṭhāna Sutta（大念處經）
+- Ānāpānasati Sutta（安般守意經）
+- Visuddhimagga（清淨道論）
 ### 学术资料 | Academic Sources
 - [Samatha-vipassanā - Wikipedia](https://en.wikipedia.org/wiki/Samatha-vipassan%C4%81)
 - [One Tool Among Many: The Place of Vipassana in Buddhist Practice](https://www.accesstoinsight.org/lib/authors/thanissaro/onetool.html)
@@ -109,4 +109,4 @@
 - [How to Practice Shamatha Meditation - Lion's Roar](https://www.lionsroar.com/how-to-practice-shamatha-meditation/)
 - [Vipassana Movement - Wikipedia](https://en.wikipedia.org/wiki/Vipassana_movement)
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - 利益人类*

@@ -40,7 +40,7 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 
 > **2 Corintios 13:14**: «La gracia del Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con todos vosotros».
 
-> **Juan 1:1**: «En el principio era el Verbo, y el Verbo estaba con Dios, y el Verbo era Dios».
+> **Juan 1:1**: «En el principio era el Verbo, y el Verbo era con Dios, y el Verbo era Dios».
 
 ---
 
@@ -50,7 +50,7 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 
 | Concilio | Año | Aporte |
 |---------|------|--------------|
-| **Nicea I** | 325 | Afirmó que el Hijo es «de una misma sustancia» con el Padre |
+| **Nicea I** | 325 | Afirmó que el Hijo es «de la misma sustancia» que el Padre |
 | **Constantinopla I** | 381 | Afirmó la divinidad del Espíritu Santo |
 | **Calcedonia** | 451 | Definió las dos naturalezas de Cristo |
 
@@ -58,8 +58,8 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 > «Creemos en un solo Dios, Padre todopoderoso... y en un solo Señor, Jesucristo, Hijo único de Dios... y en el Espíritu Santo, Señor y dador de vida...»
 
 ### Términos clave:
-- **Homoousios** (ὁμοούσιος): «De una misma sustancia» - el Padre y el Hijo comparten la misma esencia divina
-- **Hypostasis** (ὑπόστασις): Persona o subsistencia - la existencia distinta de cada Persona
+- **Homoousios** (ὁμοούσιος): «De la misma sustancia» - el Padre y el Hijo comparten la misma esencia divina
+- **Hipóstasis** (ὑπόστασις): Persona o subsistencia - la existencia distinta de cada Persona
 
 ---
 
@@ -71,18 +71,18 @@ Aunque la palabra «Trinidad» no aparece en la Biblia, los cristianos creen que
 - Las Personas se distinguen por sus relaciones
 
 ### Lo que la Trinidad NO es:
-- ❌ **Modalismo**: Dios alternando entre tres «modos»
+- ❌ **Modalismo**: Dios que alterna entre tres «modos»
 - ❌ **Triteísmo**: Tres dioses separados
 - ❌ **Arrianismo**: El Hijo como ser creado
 - ❌ **Subordinacionismo**: El Hijo o el Espíritu como inferiores al Padre
 
 ---
 
-## Perspectivas denominacionales | Denominational Perspectives
+## Perspectivas de las distintas tradiciones | Denominational Perspectives
 
 | Tradición | Énfasis |
 |-----------|----------|
-| **Iglesia ortodoxa oriental** | El Espíritu procede solo del Padre (sin Filioque) |
+| **Iglesia ortodoxa** | El Espíritu procede solo del Padre (sin Filioque) |
 | **Iglesia católica romana** | El Espíritu procede del Padre y del Hijo (Filioque) |
 | **Protestante** | En general sigue la formulación occidental |
 
@@ -110,7 +110,7 @@ La Iglesia occidental añadió «y del Hijo» (*filioque*) al credo, afirmando q
 | Español | Griego/Latín | Significado |
 |---------|-------------|---------|
 | Trinidad | Trinitas | Tres en uno |
-| Persona | Hypostasis | Subsistencia distinta |
+| Persona | Hipóstasis | Subsistencia distinta |
 | Esencia | Ousia | Naturaleza divina |
 | Consustancial | Homoousios | Misma sustancia |
 | Procesión | Processio | Origen del Espíritu |
@@ -124,4 +124,5 @@ La Iglesia occidental añadió «y del Hijo» (*filioque*) al credo, afirmando q
 - [Nicene Creed - Wikipedia](https://en.wikipedia.org/wiki/Nicene_Creed)
 
 ---
-**弘益人間 · Benefit All Humanity**
+
+*弘益人間 - Beneficiar a toda la humanidad*

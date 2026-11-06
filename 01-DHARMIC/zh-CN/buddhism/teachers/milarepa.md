@@ -79,7 +79,7 @@
 - [[01-DHARMIC/buddhism/schools/tibetan/kagyu|噶举派]] - 传承
 - [[01-DHARMIC/buddhism/core-teachings/emptiness|空性（Śūnyatā）]] - 空性
 - [[01-DHARMIC/buddhism/core-teachings/bodhisattva|菩萨]] - 慈悲的理想
-- [[06-MYSTICAL/christian-mysticism/mystics/john-of-the-cross|十字架的圣若望]] - 苦修方面的相似之处
+- [[06-MYSTICAL/christian-mysticism/mystics/john-of-the-cross|圣十字若望]] - 苦修方面的相似之处
 
 ---
 

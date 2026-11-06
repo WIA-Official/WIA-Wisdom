@@ -1,4 +1,4 @@
-# Nebiyada ee Islaamka | Prophets in Islam (الأنبياء)
+# Nabiyada Islaamka | Prophets in Islam (الأنبياء)
 
 > Rasuullada Hanuuninta: Laga bilaabo Aadan ilaa Muxammad
 
@@ -6,34 +6,34 @@
 
 ## Guudmar | Overview
 
-Aaminaadda Islaamka, nebiyadu (Carabi: أنبياء, anbiyā') waa dad la doortay oo Eebbe (Allaah) u soo diray inay hanuuniyaan aadanaha waqtiyadii taariikhda oo dhan. Qur'aanku wuxuu magacyo ku sheegay shan iyo labaatan nebi, halka dhaqanka Islaamku sheegayo inay wadar ahaan ahaayeen ku dhawaad 124,000 nebi. Nebiyada oo dhan waxay wacdiyeen fariin asaasi ah oo isku mid ah: keliyaynta Eebbe (Tawxiid), caabudidda Eebbe oo keliya, ka fogaanshaha sanam caabudka, iyo rumaynta Maalinta Xisaabta.
+Caqiidada Islaamka, nabiyadu (Carabi: أنبياء, anbiyā') waa dad la doortay oo Eebbe (Allaah) u soo diray inay hanuuniyaan aadanaha waqtiyadii taariikhda oo dhan. Qur'aanku wuxuu magacyo ku sheegay shan iyo labaatan nabi, halka dhaqanka Islaamku sheegayo inay wadar ahaan ahaayeen ku dhawaad 124,000 nabi. Nabiyada oo dhan waxay wacdiyeen fariin asaasi ah oo isku mid ah: keliyaynta Eebbe (Tawxiid), caabudidda Eebbe oo keliya, ka fogaanshaha sanam caabudka, iyo rumaynta Maalinta Xisaabta.
 
-Muslimiintu waxay rumaysan yihiin silsilad aan go'in oo nebinimo ah oo ka bilaabata Aadan, qofkii ugu horreeyay ee bini'aadam ah, ilaa Muxammad, nebiga ugu dambeeya iyo "Xidhaha Nebiyada" (Khaatam an-Nabiyyiin). Silsiladan waxaa ku jira shakhsiyaad ay Yuhuudda iyo Masiixiyaddu sharfaan: Ibraahiim, Muuse, Daa'uud, iyo Ciise.
+Muslimiintu waxay rumaysan yihiin silsilad aan go'in oo nabinimo ah oo ka bilaabata Aadan, qofkii ugu horreeyay ee bini'aadam ah, ilaa Muxammad, nabiga ugu dambeeya iyo "Xidhaha Nabiyada" (Khaatam an-Nabiyyiin). Silsiladan waxaa ku jira shakhsiyaad ay Yuhuudda iyo Masiixiyaddu sharfaan: Ibraahiim, Muuse, Daa'uud, iyo Ciise.
 
 ---
 
 ## Nabi iyo Rasuul | Nabi and Rasul
 
-Islaamku wuxuu kala saaraa laba nooc oo nebiyo ah:
+Islaamku wuxuu kala saaraa laba nooc oo nabiyo ah:
 
 | Nooca | Carabi | Doorka |
 |------|--------|------|
-| **Nabi** (Nebi) | نبي | Wuxuu ilaaliyaa oo barayaa waxyigii hore jiray |
+| **Nabi** (Nabi) | نبي | Wuxuu ilaaliyaa oo barayaa waxyigii hore jiray |
 | **Rasuul** (Rasuul) | رسول | Wuxuu keenaa kitaab ama sharci cusub |
 
-> "Nabigu waa nebi u yimid inuu ilaaliyo fariin hore jirtay, halka Rasuulku yahay rasuul la yimid waxyi Allaah ka yimid si bulsho looga bedelo jahliga oo loogu horseedo iimaan saafi ah."
+> "Nabigu waa nabi u yimid inuu ilaaliyo fariin hore jirtay, halka Rasuulku yahay rasuul la yimid waxyi Allaah ka yimid si uu bulsho jahli uga saaro una gaarsiiyo iimaan saafi ah."
 
-Rasuul kasta waa nabi, laakiin nabi kasta ma aha rasuul. Tusaale ahaan, Muuse wuxuu ahaa rasuul helay Tawraad, halka nebiyadii ka dambeeyay ee Banii Israa'iil ay ahaayeen nebiyo sii wadey barbaarintiisii.
+Rasuul kasta waa nabi, laakiin nabi kasta ma aha rasuul. Tusaale ahaan, Muuse wuxuu ahaa rasuul helay Tawraad, halka nabiyadii ka dambeeyay ee Banii Israa'iil ay ahaayeen nabiyo sii waday waxbaristiisii.
 
 ---
 
-## Shanta Nebi ee Ugu Weyn | The Five Greatest Prophets
+## Shanta Nabi ee Ugu Weyn | The Five Greatest Prophets
 
-Shan nebi, oo loo yaqaan Ulul Cazm ("Haystayaasha Go'aan Adag"), ayaa leh sharafta ugu sarreysa:
+Shan nabi, oo loo yaqaan Ulul Cazm ("Haystayaasha Go'aan Adag"), ayaa leh sharafta ugu sarreysa:
 
-### 1. Nuux (Nuux) | Nuh (Noah)
+### 1. Nuux | Nuh (Noah)
 - Wuxuu wacdiyey 950 sano
-- Wuxuu ka badbaaday daad ahaa xukun Eebbe ku soo dejiyey kuwa gaaloobay
+- Wuxuu ka badbaaday daadkii ahaa ciqaab Eebbe ku soo dejiyey gaalada
 - Doonnidiisu waxay u qaaday mu'miniinta badbaado
 
 ### 2. Ibraahiim | Ibrahim (Abraham)
@@ -43,34 +43,34 @@ Shan nebi, oo loo yaqaan Ulul Cazm ("Haystayaasha Go'aan Adag"), ayaa leh sharaf
 - Wuxuu ka horyimid sanam caabudka dalkiisii
 
 ### 3. Muuse | Musa (Moses)
-- Nebiga Qur'aanku ugu badan sheegay
+- Nabiga Qur'aanku ugu badan sheegay
 - Wuxuu helay Tawraadda (Tawrat)
 - Wuxuu ka soo saaray Banii Israa'iil addoonsigii Masar
 - Waxaa loo yiraahdaa "Kaliimullaah" (kii si toos ah ula hadlay Eebbe)
 
 ### 4. Ciise | Isa (Jesus)
-- Wuxuu ku dhashay Maryan (Maryam) oo bikrad ahayd
-- Wuxuu sameeyay mucjisooyin idinka Eebbe
+- Wuxuu ka dhashay Maryan (Maryam) oo bikrad ahayd
+- Wuxuu sameeyay mucjisooyin idanka Eebbe
 - Wuxuu helay Injiilka (Injil)
-- Eebbe ayaa kor ugu qaaday (looma I'dhaafin iskutallaab aragtida Islaamka)
+- Eebbe ayaa kor ugu qaaday (sida uu qabo Islaamku, lama iskutallaabin)
 - Wuxuu soo laaban doonaa kahor Maalinta Xisaabta
 
 ### 5. Muxammad | Muhammad
-- Nebiga ugu dambeeya (Xidhaha Nebiyada)
+- Nabiga ugu dambeeya (Xidhaha Nabiyada)
 - Wuxuu helay Qur'aanka muddo 23 sano ah
-- Hadaf caalami ah oo loogu diray aadanaha oo dhan
+- Risaalo caalami ah oo loogu diray aadanaha oo dhan
 - Tusaale u ah nolosha Muslimka (Sunnada)
 
 ---
 
-## Silsiladda Nebinimada | The Chain of Prophethood
+## Silsiladda Nabinimada | The Chain of Prophethood
 
-Nebiyada muhiimka ah ee dhaqanka Islaamku waxaa ka mid ah:
+Nabiyada muhiimka ah ee dhaqanka Islaamku waxaa ka mid ah:
 
-| Nebiga | Carabi | Muhiimadda |
+| Nabiga | Carabi | Muhiimadda |
 |---------|--------|--------------|
-| Aadan | آدم | Bini'aadamkii ugu horreeyay iyo nebi |
-| Idriis | إدريس | Nebi hore, lagu aqoonsaday Anuux (Enoch) |
+| Aadan | آدم | Bini'aadamkii ugu horreeyay iyo nabi |
+| Idriis | إدريس | Nabi hore, lagu aqoonsaday Akhnuukh (Enoch) |
 | Ibraahiim | إبراهيم | Aabaha keliyaynta Eebbe |
 | Ismaaciil | إسماعيل | Awowga Carabta |
 | Isxaaq | إسحاق | Awowga Banii Israa'iil |
@@ -86,25 +86,25 @@ Nebiyada muhiimka ah ee dhaqanka Islaamku waxaa ka mid ah:
 
 ## Fariin Keliya | One Message
 
-> "Islaamka, nebi kasta wuxuu wacdiyey caqiidooyin asaasi ah oo isku mid ah: keliyaynta Eebbe, caabudidda Eebbahaas keliya, ka fogaanshaha sanam caabudka iyo dambiga, iyo rumaynta Maalinta Sarakicidda iyo nolosha aakhiro."
+> "Islaamka, nabi kasta wuxuu wacdiyey caqiidooyin asaasi ah oo isku mid ah: keliyaynta Eebbe, caabudidda Eebbahaas keliya, ka fogaanshaha sanam caabudka iyo dambiga, iyo rumaynta Maalinta Sarakicidda iyo nolosha aakhiro."
 
-Islaamku wuxuu barayaa in kutubtii hore (Tawraad, Sabuur, Injiil) ay ka koobnaayeen runta asaasiga ah ee isku mid ah, laakiin waqti ka dib la beddelay. Qur'aanka waxaa loo rumaysan yahay inuu yahay waxyiga ugu dambeeya ee la ilaaliyey, kaas oo xaqiijinaya kuna beddelaya dhammaan kutubtii hore.
+Islaamku wuxuu barayaa in kutubtii hore (Tawraad, Sabuur, Injiil) ay ka koobnaayeen runta asaasiga ah ee isku mid ah, laakiin waqti ka dib la beddelay. Qur'aanka waxaa loo rumaysan yahay inuu yahay waxyiga ugu dambeeya ee la ilaaliyey, kaas oo xaqiijinaya kuna nasakhaya dhammaan kutubtii hore.
 
 ---
 
-## Muxammad: Nebiga Ugu Dambeeya | Muhammad: The Final Prophet
+## Muxammad: Nabiga Ugu Dambeeya | Muhammad: The Final Prophet
 
-> "Nebiga ugu dambeeya ee Islaamka waa Muxammad ibn Cabdullaah, kaas oo Muslimiintu rumaysan yihiin inuu yahay 'Xidhaha Nebiyada' (Khaatam an-Nabiyyiin), loona soo dejiyey Qur'aanka."
+> "Nabiga ugu dambeeya ee Islaamka waa Muxammad ibn Cabdullaah, kaas oo Muslimiintu rumaysan yihiin inuu yahay 'Xidhaha Nabiyada' (Khaatam an-Nabiyyiin), loona soo dejiyey Qur'aanka."
 
 ### Qodobbada Muhiimka ah | Key Points:
-- Wuxuu ku dhashay Makka, 570 CE
+- Wuxuu ku dhashay Makka, 570 M
 - Wuxuu helay waxyigii ugu horreeyay isagoo 40 jir ah
-- Wuxuu u haajiray Madiina (Hijrada) 622 CE
+- Wuxuu u haajiray Madiina (Hijrada) 622 M
 - Wuxuu aasaasay bulshadii ugu horreeyay ee Muslimka (Ummadda)
-- Wuu geeriyooday 632 CE
+- Wuu geeriyooday 632 M
 - Tusaalihiisa (Sunnada) waa tusaalaha nolosha Muslimka
 
-Muxammad ka dib, nebi dambe ma jiro—fariinta Islaamku way dhammaystiran tahay.
+Muxammad ka dib, nabi dambe ma jiro—fariinta Islaamku way dhammaystiran tahay.
 
 ---
 
@@ -112,9 +112,9 @@ Muxammad ka dib, nebi dambe ma jiro—fariinta Islaamku way dhammaystiran tahay.
 
 | Carabi | Soomaali | Macnaha |
 |--------|---------|---------|
-| Nabi | Nebi | Nebi |
+| Nabi | Nabi | Nabi |
 | Rasul | Rasuul | Rasuul |
-| Ulul Azmi | Ulul Cazm | Nebiyada go'aanka adag leh |
+| Ulul Azmi | Ulul Cazm | Nabiyada go'aanka adag leh |
 | Khatam | Khaatam | Xidhe |
 | Wahi | Waxyi | Waxyi |
 | Ummah | Ummad | Bulsho |

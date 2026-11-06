@@ -20,7 +20,7 @@ A abordagem apofática de Eckhart — descrever Deus por meio da negação, enfa
 ### Além de Todos os Nomes:
 Deus transcende todos os conceitos, imagens e palavras. Para conhecer verdadeiramente a Deus, devemos abrir mão de nossas ideias sobre Deus.
 
-### A Nuvem do Desconhecimento:
+### A Nuvem do Não Saber:
 > "O místico passa ao conhecimento apofático — o conhecimento de Deus por meio do não saber. Esta é a nuvem de que fala *A Nuvem do Não Saber*, na qual o intelecto silencia diante do mistério de Deus."
 
 ---
@@ -33,7 +33,7 @@ Deus transcende todos os conceitos, imagens e palavras. Para conhecer verdadeira
 > "Em vez de tentar conhecer a Deus de fora, por meio dos sentidos e do intelecto, devemos procurar conhecê-lo de dentro, a partir da presença divina que já habita em cada um de nós. Eckhart chamava essa presença de 'centelha divina'."
 
 ### O Processo do Nascimento:
-> "Por meio de um processo contemplativo de esvaziamento de si, ou 'deixar-ser' (letting-go-ness), o buscador encontrará diretamente o Deus que está dentro dele."
+> "Por meio de um processo contemplativo de esvaziamento de si, ou 'deixar-ser', o buscador encontrará diretamente o Deus que está dentro dele."
 
 ---
 
@@ -78,7 +78,7 @@ No fundo da alma, não há distinção entre Deus e a alma — apenas unidade.
 | Abgeschiedenheit | Isolamento de todas as coisas |
 | Gottesgeburt | Nascimento de Deus na alma |
 | Seelengrund | Fundo da alma |
-| Funklein | Centelha divina |
+| Fünklein | Centelha divina |
 
 ---
 

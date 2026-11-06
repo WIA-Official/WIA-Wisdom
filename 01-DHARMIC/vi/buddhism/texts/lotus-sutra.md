@@ -1,12 +1,12 @@
 # Kinh Pháp Hoa | Lotus Sutra (法華經)
 
-> Kinh Diệu Pháp Liên Hoa – Bạch Liên Hoa của Chánh Pháp
+> Kinh Hoa Sen Trắng của Chánh Pháp
 
 ---
 
 ## Tổng quan | Overview
 
-Kinh Pháp Hoa (tiếng Phạn: Saddharma Puṇḍarīka Sūtra, "Kinh Hoa Sen Trắng của Chánh Pháp") có thể nói là bộ kinh nổi tiếng và có ảnh hưởng lớn nhất trong Phật giáo Đại thừa. Được soạn vào khoảng thế kỷ thứ 1 đến thế kỷ thứ 2 Công nguyên, kinh trình bày một sự điều chỉnh triệt để đối với cả con đường Phật đạo lẫn hình ảnh của đức Phật, dạy rằng mọi chúng sinh đều có tiềm năng giác ngộ.
+Kinh Pháp Hoa (tiếng Phạn: Saddharma Puṇḍarīka Sūtra, "Kinh Hoa Sen Trắng của Chánh Pháp") có thể nói là bộ kinh nổi tiếng và có ảnh hưởng lớn nhất trong Phật giáo Đại thừa. Được soạn vào khoảng thế kỷ thứ 1 đến thế kỷ thứ 2 Công nguyên, kinh trình bày một cách nhìn lại triệt để về cả con đường tu Phật lẫn chính con người đức Phật, dạy rằng mọi chúng sinh đều có tiềm năng giác ngộ.
 
 Như học giả Phật học Donald S. Lopez Jr. nhận định, Kinh Pháp Hoa "có thể nói là bộ kinh nổi tiếng nhất trong tất cả các kinh điển Phật giáo." Đây là kinh điển nền tảng của tông Thiên Thai (Tiantai/Tendai) và tông Nhật Liên (Nichiren), đồng thời đã ảnh hưởng sâu sắc đến Thiền tông, Tịnh độ tông và các truyền thống Phật giáo Đông Á khác.
 
@@ -34,7 +34,7 @@ Kinh tuyên bố rằng ba thừa (Thanh văn, Duyên giác, Bồ-tát) thực r
 ### 1. Nhà lửa (火宅喻):
 Người cha dùng phương tiện thiện xảo (upāya) để dụ các con ra khỏi ngôi nhà đang cháy bằng cách hứa cho chúng những loại xe khác nhau, nhưng rốt cuộc ban cho tất cả chiếc xe trâu trắng tối thượng của quả vị Phật.
 
-### 2. Người con cùng tử (窮子喻):
+### 2. Gã cùng tử (窮子喻):
 Người con bỏ nhà ra đi trong cảnh nghèo khó, khi trở về không nhận ra người cha nay đã giàu có. Người cha dần dần nâng đỡ anh ta cho đến khi anh có thể nhận trọn phần gia tài của mình.
 
 ### 3. Dược thảo (藥草喻):
@@ -58,7 +58,7 @@ Một người bạn khâu một viên ngọc quý vào áo của người khác
 |--------|---------|----------|
 | **Thiên Thai (Tiantai/Tendai)** | Trí Khải | Thiền định toàn diện |
 | **Nhật Liên (Nichiren)** | Nhật Liên | Xướng đề mục Nam-myoho-renge-kyo |
-| **Thiên Thai (Cheontae)** | Tendai của Hàn Quốc | Tu tập dung hợp |
+| **Thiên Thai Hàn Quốc (Cheontae)** | Tendai Hàn Quốc | Tu tập dung hợp |
 
 ---
 ## Pháp tu | The Practice
@@ -76,10 +76,10 @@ Lấy Kinh Pháp Hoa làm nền tảng cho pháp tu thiền định toàn diện
 
 | Phẩm | Nội dung |
 |---------|---------|
-| Phẩm 2 Phương tiện | Phương pháp giáo hóa của đức Phật |
-| Phẩm 12 Đề-bà-đạt-đa | Ngay cả kẻ ác cũng có thể thành Phật |
-| Phẩm 16 Như Lai thọ lượng | Bản tánh thường trụ của đức Phật được hiển bày |
-| Phẩm 25 Quán Thế Âm Bồ-tát Phổ môn | Sự cứu độ phổ quát qua lòng từ bi |
+| Phẩm Phương Tiện thứ 2 | Phương pháp giáo hóa của đức Phật |
+| Phẩm Đề-bà-đạt-đa thứ 12 | Ngay cả kẻ ác cũng có thể thành Phật |
+| Phẩm Như Lai Thọ Lượng thứ 16 | Bản tánh thường trụ của đức Phật được hiển bày |
+| Phẩm Quán Thế Âm Bồ-tát Phổ Môn thứ 25 | Sự cứu độ phổ quát qua lòng từ bi |
 
 ---
 ## Thuật ngữ chính | Key Terms
@@ -100,4 +100,4 @@ Lấy Kinh Pháp Hoa làm nền tảng cho pháp tu thiền định toàn diện
 - [Lotus Sutra - Wisdom Library](https://www.wisdomlib.org/buddhism/book/lotus-sutra-saddharma-pundarika)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Hãy làm lợi ích cho nhân loại*

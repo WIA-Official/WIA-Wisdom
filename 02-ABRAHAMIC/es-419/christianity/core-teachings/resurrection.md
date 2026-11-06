@@ -6,7 +6,7 @@
 
 ## Visión general | Overview
 
-La resurrección de Jesús es la creencia cristiana de que Dios resucitó a Jesús de entre los muertos al tercer día después de su crucifixión, dando inicio —o restaurando— a su vida exaltada como Cristo y Señor. En la teología cristiana, la resurrección es "el misterio central de la fe cristiana".
+La resurrección de Jesús es la creencia cristiana de que Dios resucitó a Jesús de entre los muertos al tercer día después de su crucifixión, dando inicio a —o restaurando— su vida exaltada como Cristo y Señor. En la teología cristiana, la resurrección es "el misterio central de la fe cristiana".
 
 Para los cristianos, este acontecimiento no es meramente histórico, sino soteriológico: es el fundamento de la salvación, la derrota de la muerte y la promesa de vida nueva para todos los creyentes.
 
@@ -112,4 +112,4 @@ Para los cristianos, este acontecimiento no es meramente histórico, sino soteri
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Beneficiar a toda la humanidad*

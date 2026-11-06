@@ -6,7 +6,7 @@
 
 ## Aperçu | Overview
 
-Saint Augustin d'Hippone (354-430 apr. J.-C.) fut théologien, philosophe et évêque d'Hippo Regius, en Afrique du Nord romaine. Il est l'une des figures les plus importantes dans le développement du christianisme occidental et de la philosophie occidentale. Ses écrits ont influencé le développement de la philosophie occidentale et du christianisme occidental, et il est considéré comme l'un des plus importants Pères de l'Église de l'Église latine à l'époque patristique.
+Saint Augustin d'Hippone (354-430 apr. J.-C.) fut théologien, philosophe et évêque d'Hippo Regius, en Afrique du Nord romaine. Il est l'une des figures les plus importantes dans le développement du christianisme occidental et de la philosophie occidentale. Ses écrits ont influencé le développement de la philosophie occidentale et du christianisme occidental, et il est considéré comme l'un des plus importants Pères de l'Église latine à l'époque patristique.
 
 > « Tu nous as faits pour toi, Seigneur, et notre cœur est sans repos tant qu'il ne repose pas en toi. » Cette célèbre phrase de ses *Confessions* résume le cheminement spirituel et la théologie d'Augustin.
 
@@ -18,7 +18,7 @@ Sa pensée a façonné les doctrines du péché originel, de la grâce divine, d
 
 > Les *Confessions* (vers 397-400 apr. J.-C.) sont la première autobiographie occidentale et l'un des livres les plus influents de la littérature chrétienne. Elles retracent le cheminement spirituel d'Augustin, du péché au salut.
 
-> « Bien tard je t'ai aimée, beauté si ancienne et si nouvelle ! Bien tard je t'ai aimée... Tu étais au-dedans de moi, et moi j'étais au-dehors de moi-même. »
+> « Tard je t'ai aimée, ô beauté si ancienne et si nouvelle, tard je t'ai aimée... Tu étais au-dedans de moi, et moi j'étais au-dehors de moi-même. »
 
 Thèmes principaux :
 - **L'inquiétude** : l'aspiration de l'âme vers Dieu
@@ -48,7 +48,7 @@ Doctrines principales :
 
 > Écrite en réponse au sac de Rome en 410 apr. J.-C., *La Cité de Dieu* (*De civitate Dei*) oppose la « Cité de Dieu » à la « Cité des hommes ».
 
-> « Deux amours ont bâti deux cités : l'amour de soi jusqu'au mépris de Dieu, la cité terrestre ; l'amour de Dieu jusqu'au mépris de soi, la cité céleste. »
+> « Deux amours ont fait deux cités : l'amour de soi jusqu'au mépris de Dieu, la cité terrestre ; l'amour de Dieu jusqu'au mépris de soi, la cité céleste. »
 
 Concepts centraux :
 - **Deux cités** : amours et destinées opposés
@@ -62,7 +62,7 @@ Concepts centraux :
 
 > La méditation d'Augustin sur le temps, au livre XI des *Confessions*, demeure l'un des traitements philosophiques les plus profonds de la temporalité.
 
-> « Qu'est-ce donc que le temps ? Si personne ne me le demande, je le sais ; si je veux l'expliquer à qui me le demande, je ne le sais pas. »
+> « Qu'est-ce donc que le temps ? Si personne ne me le demande, je le sais ; si je cherche à l'expliquer à qui me le demande, je ne le sais plus. »
 
 > Le temps n'existe que comme présent : le présent des choses passées (la mémoire), le présent des choses présentes (l'attention) et le présent des choses futures (l'attente).
 

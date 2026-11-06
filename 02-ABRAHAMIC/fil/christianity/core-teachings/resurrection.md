@@ -6,9 +6,9 @@
 
 ## Pangkalahatang-tanaw | Overview
 
-Ang muling pagkabuhay ni Hesus ay ang paniniwalang Kristiyano na muling binuhay ng Diyos si Hesus mula sa mga patay sa ikatlong araw matapos siyang ipako sa krus, na nagpasimula—o nagpanumbalik—ng kanyang dakilang buhay bilang Kristo at Panginoon. Sa teolohiyang Kristiyano, ang muling pagkabuhay ay "ang sentral na hiwaga ng pananampalatayang Kristiyano."
+Ang muling pagkabuhay ni Hesus ay ang paniniwalang Kristiyano na muling binuhay ng Diyos si Hesus mula sa mga patay sa ikatlong araw matapos siyang ipako sa krus, na nagpasimula—o nagpanumbalik—ng kanyang dinakilang buhay bilang Kristo at Panginoon. Sa teolohiyang Kristiyano, ang muling pagkabuhay ay "ang sentral na hiwaga ng pananampalatayang Kristiyano."
 
-Para sa mga Kristiyano, ang pangyayaring ito ay hindi lamang pangkasaysayan kundi pansoteriolohiya rin: ito ang saligan ng kaligtasan, ang pagwawagi laban sa kamatayan, at ang pangako ng bagong buhay para sa lahat ng mananampalataya.
+Para sa mga Kristiyano, ang pangyayaring ito ay hindi lamang pangkasaysayan kundi may kinalaman din sa kaligtasan: ito ang saligan ng kaligtasan, ang pagwawagi laban sa kamatayan, at ang pangako ng bagong buhay para sa lahat ng mananampalataya.
 
 ---
 
@@ -34,11 +34,11 @@ Para sa mga Kristiyano, ang pangyayaring ito ay hindi lamang pangkasaysayan kund
 > "Para sa tradisyong Kristiyano, ang muling pagkabuhay sa katawan ay ang pagbabalik sa buhay ng isang katawang nabago at pinakilos ng Espiritu, gaya ng inilarawan nina Pablo at ng mga may-akda ng mga Ebanghelyo, na siyang humantong sa pagkakatatag ng Kristiyanismo."
 
 ### Hindi Multo:
-> "Mahalagang tandaan na hindi muling nabuhay si Hesus bilang isa lamang espiritu. Ang kanyang muling pagkabuhay ay hindi rin nangyari lamang sa isipan ng mga Apostol na may pansariling pagkaunawa sa kanyang espirituwal na presensya. Muling nabuhay si Hesus sa katawan at kaluluwa."
+> "Mahalagang tandaan na hindi muling nabuhay si Hesus bilang isa lamang espiritu. Ang kanyang muling pagkabuhay ay hindi rin nangyari lamang sa isipan ng mga Apostol na may pansariling kamalayan sa kanyang espirituwal na presensya. Muling nabuhay si Hesus sa katawan at kaluluwa."
 
 ---
 
-## Ang Kalagayang Hudyo | Jewish Background
+## Ang Pinagmulang Hudyo | Jewish Background
 
 > "Ang ideya ng muling pagkabuhay ng mga patay sa katawan ay karaniwang paniniwala sa sinaunang Hudaismo noong panahon ni Hesus."
 
@@ -46,8 +46,8 @@ Para sa mga Kristiyano, ang pangyayaring ito ay hindi lamang pangkasaysayan kund
 
 ### Ang Pag-asa ng mga Hudyo sa Muling Pagkabuhay:
 - Pinagtibay ng mga Fariseo ang muling pagkabuhay
-- Ipinropesiya ito sa Daniel 12:2
-- Inasahan ito ng mga martir na Macabeo
+- Inihula ito sa Daniel 12:2
+- Inasahan ito ng mga martir noong panahon ng mga Macabeo
 - Pinalawak ni Hesus ang pag-asang ito
 
 ---

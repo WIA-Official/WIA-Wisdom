@@ -62,7 +62,7 @@ Dans le fond de l'âme, il n'y a pas de distinction entre Dieu et l'âme — seu
 ### Paroles célèbres :
 > « L'œil par lequel je vois Dieu est le même œil par lequel Dieu me voit. »
 
-> « Si la seule prière que tu dises jamais est “merci”, cela suffirait. »
+> « Si la seule prière que tu dis dans toute ta vie est “merci”, cela suffira. »
 
 ---
 ## Termes clés | Key Terms
@@ -70,10 +70,10 @@ Dans le fond de l'âme, il n'y a pas de distinction entre Dieu et l'âme — seu
 | Allemand | Signification |
 |----------|---------------|
 | Gelassenheit | Détachement, lâcher-prise |
-| Abgeschiedenheit | Retrait à l'écart de toutes choses |
+| Abgeschiedenheit | Retrait hors de toutes choses |
 | Gottesgeburt | Naissance de Dieu dans l'âme |
 | Seelengrund | Fond de l'âme |
-| Funklein | Étincelle divine |
+| Fünklein | Étincelle divine |
 
 ---
 ## Références | References

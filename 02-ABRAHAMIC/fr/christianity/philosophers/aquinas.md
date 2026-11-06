@@ -4,7 +4,7 @@
 
 ---
 
-## Aperçu | Overview
+## Vue d'ensemble | Overview
 
 Saint Thomas d'Aquin (1225–1274) était un frère dominicain italien, philosophe, prêtre catholique et Docteur de l'Église. Il fut un philosophe, théologien et juriste d'une immense influence dans la tradition de la scolastique. Son œuvre monumentale, la *Somme théologique*, demeure la synthèse la plus complète de la théologie chrétienne et de la philosophie aristotélicienne.
 
@@ -26,7 +26,7 @@ Il fut déclaré Docteur de l'Église par le pape Pie V en 1567 et est considér
 | **Quatrième voie** | Les degrés | Il doit exister un Être suprême |
 | **Cinquième voie** | La finalité | Il doit exister un Ordonnateur intelligent |
 
-> « L'existence de Dieu peut être prouvée de cinq façons... La première voie, et la plus manifeste, est celle qui se prend du mouvement. »
+> « Il y a cinq voies pour prouver l'existence de Dieu... La première voie, et la plus manifeste, est celle qui se prend du mouvement. »
 
 ---
 
@@ -42,7 +42,7 @@ Quatre types de loi :
 3. **La loi humaine** : les lois établies par l'autorité humaine
 4. **La loi divine** : la loi révélée dans l'Écriture
 
-> La loi naturelle peut être connue par la raison et est universelle pour tous les êtres humains. Son premier précepte : « Il faut faire et poursuivre le bien, et éviter le mal. »
+> La loi naturelle peut être connue par la raison et est universelle pour tous les êtres humains. Son premier précepte : « Il faut faire et rechercher le bien, et éviter le mal. »
 
 ---
 
@@ -64,13 +64,13 @@ L'harmonie :
 
 ## La Somme théologique | The Summa Theologica
 
-> La *Somme théologique* est le chef-d'œuvre de Thomas d'Aquin, conçu comme un manuel pour les débutants en théologie. Elle aborde pratiquement toutes les grandes questions de la théologie et de la philosophie chrétiennes.
+> La *Somme théologique* est le chef-d'œuvre de Thomas d'Aquin, conçue comme un manuel pour les débutants en théologie. Elle aborde pratiquement toutes les grandes questions de la théologie et de la philosophie chrétiennes.
 
 Structure :
-- **Première partie** : Dieu, la création, les anges, les êtres humains
-- **Première partie de la seconde partie** : le bonheur, les actes humains, les vertus, la loi
-- **Seconde partie de la seconde partie** : les vertus et les vices particuliers
-- **Troisième partie** : le Christ, les sacrements (inachevée)
+- **Première partie** (*Prima Pars*) : Dieu, la création, les anges, les êtres humains
+- **Première section de la deuxième partie** (*Prima Secundae*) : le bonheur, les actes humains, les vertus, la loi
+- **Seconde section de la deuxième partie** (*Secunda Secundae*) : les vertus et les vices particuliers
+- **Troisième partie** (*Tertia Pars*) : le Christ, les sacrements (inachevée)
 
 > Thomas d'Aquin mourut avant d'avoir achevé la *Somme*. Vers la fin de sa vie, il eut une expérience mystique après laquelle il dit : « Tout ce que j'ai écrit me semble de la paille comparé à ce qui m'a été révélé maintenant. »
 

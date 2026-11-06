@@ -6,13 +6,13 @@
 
 ## Ümumi baxış | Overview
 
-İslamın beş əsası (ərəbcə: أَرْكَانُ الْإِسْلَامِ, *Ərkanül-İslam*) hər bir müsəlmanın ömrü boyu yerinə yetirməli olduğu beş əsas ibadətdir. Peyğəmbər Məhəmməd (ona salam olsun) İslamı "beş şey üzərində qurulmuş" kimi təsvir etmişdir (Səhihül-Buxari, Səhih Müslim); bu, həmin əsasların imanın zəruri quruluşunu təşkil etdiyini göstərir.
+İslamın beş əsası (ərəbcə: أَرْكَانُ الْإِسْلَامِ, *Ərkanül-İslam*) hər bir müsəlmanın ömrü boyu yerinə yetirməli olduğu beş əsas ibadətdir. Peyğəmbər Muhəmməd (s.ə.s.) İslamı "beş şey üzərində qurulmuş" kimi təsvir etmişdir (Səhihül-Buxari, Səhih Müslim); bu, həmin əsasların imanın zəruri quruluşunu təşkil etdiyini göstərir.
 
 Beş əsas bunlardır:
 1. **Şəhadət** (شَهَادَة) — İman kəlməsi
-2. **Namaz** (صَلَاة) — Dua və ibadət
-3. **Zəkat** (زَكَاة) — Mal sədəqəsi
-4. **Oruc** (صَوْم) — Pəhriz və ibadət orucu
+2. **Namaz** (صَلَاة) — Namaz qılmaq
+3. **Zəkat** (زَكَاة) — Vacib sədəqə vermək
+4. **Oruc** (صَوْم) — Oruc tutmaq
 5. **Həcc** (حَجّ) — Ziyarət
 
 Bu ibadətlər inamla əməli birləşdirir və göstərir ki, İslamda iman yalnız zehni razılıq deyil, bədənlə yerinə yetirilən ibadətdir. Hər əsas Təvhidi (Allahın birliyini) möhkəmləndirir və mənəvi, ictimai və əxlaqi həyat üçün tam bir çərçivə yaradır.
@@ -25,14 +25,14 @@ Bu ibadətlər inamla əməli birləşdirir və göstərir ki, İslamda iman yal
 
 > **أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا ٱللَّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ ٱللَّٰهِ**
 
-"Şəhadət gətirirəm ki, Allahdan başqa ilah yoxdur, və şəhadət gətirirəm ki, Məhəmməd Allahın elçisidir."
+"Şəhadət verirəm ki, Allahdan başqa ilah yoxdur və şəhadət verirəm ki, Muhəmməd Allahın rəsuludur."
 
 ---
 
 Şəhadət İslam inancının mərkəzi bəyanıdır. O, iki şəhadətdən ibarətdir:
 
 1. **Təvhid** — "Allahdan başqa ilah yoxdur" Allahın mütləq birliyini təsdiq edir
-2. **Risalət** — "Məhəmməd Allahın elçisidir" Məhəmmədin peyğəmbərliyini təsdiq edir
+2. **Risalət** — "Muhəmməd Allahın rəsuludur" Muhəmmədin peyğəmbərliyini təsdiq edir
 
 İnsan şəhadəti ərəb dilində anlayaraq və qəti inamla səmimi qəlbdən söylədikdə müsəlman olur. Bu bəyan azan zamanı, namazın özündə və həyatın mühüm anlarında da təkrarlanır.
 
@@ -98,7 +98,7 @@ Oruc (*Sawm*) İslamın qəməri təqviminin doqquzuncu ayı olan Ramazan ayınd
 
 **Mənəvi əhəmiyyəti:**
 
-- **Təqva**: Oruc Allah şüurunu və nəfsə hakimliyi inkişaf etdirir
+- **Təqva**: Oruc Allahdan qorxub çəkinməyi və nəfsə hakimliyi inkişaf etdirir
 - **Şükür**: Müvəqqəti məhrumiyyət Allahın nemətlərinə qiymət verməyi yeniləyir
 - **Empatiya**: Aclığı yaşamaq yoxsullarla həmrəylik yaradır
 - **Quran**: Ramazan Quranın ilk dəfə nazil olduğu aydır
@@ -118,7 +118,7 @@ Həcc Məkkəyə hər il edilən ziyarətdir; fiziki və maddi imkanı olan hər
 
 **Əsas mərasimlər:**
 
-1. **İhram**: Ritual paklıq halına daxil olmaq; sinif, millət və mədəniyyət fərqlərini aradan qaldıran sadə ağ geyim geymək
+1. **Ehram**: Ritual paklıq halına daxil olmaq; sinif, millət və mədəniyyət fərqlərini aradan qaldıran sadə ağ geyim geymək
 
 2. **Təvaf**: Kəbənin ətrafında saat əqrəbinin əksi istiqamətdə yeddi dəfə dolanmaq
 
@@ -130,7 +130,7 @@ Həcc Məkkəyə hər il edilən ziyarətdir; fiziki və maddi imkanı olan hər
 
 6. **Rəmyül-Cəmarat**: Şeytanı təmsil edən üç sütuna çınqıl atmaq
 
-7. **Qurbanlıq (Qurbani)**: İbrahimin oğlunu qurban verməyə hazır olmasını yad edərək heyvan kəsmək
+7. **Qurban (Qurbani)**: İbrahimin oğlunu qurban verməyə hazır olmasını yad edərək heyvan kəsmək
 
 8. **Təvafül-İfadə**: Kəbənin son dolanılması
 
@@ -150,7 +150,7 @@ Həcc müsəlman birliyinin güclü rəmzidir. Hər xalqdan, irqdən və ictimai
 | Zəkat | زَكَاة | Təmizləyən sədəqə |
 | Oruc (Sawm) | صَوْم | Pəhriz, oruc |
 | Həcc | حَجّ | Ziyarət |
-| İhram | إِحْرَام | Ritual paklıq halı |
+| Ehram | إِحْرَام | Ritual paklıq halı |
 | Kəbə | كَعْبَة | Məkkədəki müqəddəs kub quruluşu |
 | Təvaf | طَوَاف | Dolanmaq |
 | Ümrə | عُمْرَة | Kiçik ziyarət |
@@ -161,12 +161,12 @@ Həcc müsəlman birliyinin güclü rəmzidir. Hər xalqdan, irqdən və ictimai
 
 Sünni və Şiə müsəlmanlar beş əsası paylaşsalar da, Şiə İslamında əlavə vacib ibadətlər var:
 
-**Şiə "On əməl" (Furuud-Din):**
+**Şiə "On əməl" (Füru-din):**
 1-5. Beş əsas (Sünnilərlə ortaq)
 6. **Xüms** — Müəyyən gəlirlərdən 20% vergi
 7. **Cihad** — Allah yolunda mübarizə
-8. **Əmr bil-məruf** — Yaxşılığı əmr etmək
-9. **Nəhy ənil-münkər** — Pisliyi qadağan etmək
+8. **Əmr be-məruf** — Yaxşılığı əmr etmək
+9. **Nəhy əz-münkər** — Pisliyi qadağan etmək
 10. **Təvəlla** — Peyğəmbərin ailəsini sevmək
 11. (Bəziləri əlavə edir) **Təbərra** — Peyğəmbərin ailəsinin düşmənlərindən uzaq olmaq
 
@@ -190,7 +190,7 @@ Birlikdə onlar insan varlığının bütün ölçülərinə toxunur: iman, ibad
 
 ### Beş əsas haqqında hədis | Hadith on the Five Pillars
 
-> "İslam beş [əsas] üzərində qurulmuşdur: Allahdan başqa ilah olmadığına və Məhəmmədin Allahın elçisi olduğuna şəhadət gətirmək, namaz qılmaq, zəkat vermək, Beyti (Kəbəni) ziyarət etmək (həcc) və Ramazan orucunu tutmaq." (Səhihül-Buxari, Səhih Müslim)
+> "İslam beş [əsas] üzərində qurulmuşdur: Allahdan başqa ilah olmadığına və Muhəmmədin Allahın rəsulu olduğuna şəhadət gətirmək, namaz qılmaq, zəkat vermək, Beyti (Kəbəni) ziyarət etmək (həcc) və Ramazan orucunu tutmaq." (Səhihül-Buxari, Səhih Müslim)
 
 ### Quran istinadları | Quranic References
 
@@ -216,10 +216,10 @@ Beş əsas gündəlik həyat üçün praktik hikmət təqdim edir:
 
 ## Çarpaz istinadlar | Cross-References
 
-- **[Təvhid](./tawhid.md)**: Beş əsasın hamısının əsasında duran teoloji təmələ
+- **[Təvhid](./tawhid.md)**: Beş əsasın hamısının dayandığı ilahiyyat təməli
 - **[Şema (Yəhudilik)](../judaism/core-teachings/shema.md)**: Şəhadətə paralel olan yəhudi iman bəyanı
 - **[Əhd (Yəhudilik)](../judaism/core-teachings/covenant.md)**: Yəhudi təcrübəsində əhd öhdəlikləri
-- **[Tzedaka (Yəhudilik)](../judaism/practices/)**: Zəkata bənzər yəhudi xeyriyyəçiliyi
+- **[Tsedaka (Yəhudilik)](../judaism/practices/)**: Zəkata bənzər yəhudi xeyriyyəçiliyi
 
 ---
 

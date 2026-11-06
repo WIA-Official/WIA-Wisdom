@@ -21,7 +21,7 @@ Islam membedakan dua jenis utusan Allah:
 | **Nabi** | نبي | Memelihara dan mengajarkan wahyu yang sudah ada |
 | **Rasul** (Utusan) | رسول | Membawa kitab atau syariat yang baru |
 
-> "Nabi adalah seorang nabi yang datang untuk memelihara risalah yang sudah ada, sedangkan Rasul adalah utusan yang datang dengan wahyu dari Allah untuk membawa suatu umat dari kebodohan menuju iman yang murni."
+> "Nabi adalah utusan yang datang untuk memelihara risalah yang sudah ada, sedangkan Rasul adalah utusan yang datang dengan wahyu dari Allah untuk mengubah suatu umat dari kejahilan menuju iman yang murni."
 
 Setiap rasul adalah nabi, tetapi tidak setiap nabi adalah rasul. Misalnya, Musa adalah seorang rasul yang menerima Taurat, sedangkan para nabi setelahnya di kalangan Bani Israil adalah nabi yang melanjutkan ajarannya.
 
@@ -31,24 +31,24 @@ Setiap rasul adalah nabi, tetapi tidak setiap nabi adalah rasul. Misalnya, Musa 
 
 Lima nabi yang dikenal sebagai Ulul Azmi ("Para Pemilik Keteguhan Hati") memiliki kedudukan penghormatan tertinggi:
 
-### 1. Nuh (Nuh 'alaihissalam) | Nuh (Noah)
+### 1. Nuh | Nuh (Noah)
 - Berdakwah selama 950 tahun
-- Selamat dari banjir besar sebagai azab Allah atas orang-orang yang ingkar
+- Selamat dari banjir besar yang menjadi azab Allah atas orang-orang yang ingkar
 - Bahteranya membawa orang-orang beriman menuju keselamatan
 
-### 2. Ibrahim (Abraham) | Ibrahim (Abraham)
+### 2. Ibrahim | Ibrahim (Abraham)
 - Bapak tauhid
 - Membangun Ka'bah bersama putranya, Ismail
 - Leluhur bangsa Arab melalui Ismail dan bangsa Yahudi melalui Ishak
 - Menentang penyembahan berhala di tanah airnya
 
-### 3. Musa (Moses) | Musa (Moses)
+### 3. Musa | Musa (Moses)
 - Nabi yang paling banyak disebut dalam Al-Qur'an
 - Menerima Taurat (Tawrat)
 - Memimpin Bani Israil keluar dari perbudakan di Mesir
 - Dijuluki "Kalīmullāh" (yang berbicara langsung dengan Allah)
 
-### 4. Isa (Jesus) | Isa (Jesus)
+### 4. Isa | Isa (Jesus)
 - Lahir dari Maryam, sang perawan
 - Melakukan mukjizat dengan izin Allah
 - Menerima Injil
@@ -73,12 +73,12 @@ Para nabi utama dalam tradisi Islam antara lain:
 | Idris | إدريس | Nabi awal, diidentikkan dengan Henokh |
 | Ibrahim | إبراهيم | Bapak tauhid |
 | Ismail | إسماعيل | Leluhur bangsa Arab |
-| Ishaq | إسحاق | Leluhur Bani Israil |
-| Yaqub | يعقوب | Israil, ayah dari dua belas suku |
+| Ishak | إسحاق | Leluhur Bani Israil |
+| Yakub | يعقوب | Israil, ayah dari dua belas suku |
 | Yusuf | يوسف | Dijual sebagai budak, kemudian berkuasa di Mesir |
 | Musa | موسى | Menyampaikan Taurat |
-| Dawud | داود | Menerima Zabur |
-| Sulayman | سليمان | Raja yang bijaksana, berkuasa atas jin |
+| Daud | داود | Menerima Zabur |
+| Sulaiman | سليمان | Raja yang bijaksana, berkuasa atas jin |
 | Isa | عيسى | Yesus |
 | Muhammad | محمد | Rasul terakhir |
 
@@ -99,7 +99,7 @@ Islam mengajarkan bahwa kitab-kitab terdahulu (Taurat, Zabur, Injil) memuat kebe
 ### Poin-Poin Utama: | Key Points:
 - Lahir di Makkah pada tahun 570 M
 - Menerima wahyu pertama pada usia 40 tahun
-- Berhijrah ke Madinah (Hijrah) pada tahun 622 M
+- Berhijrah ke Madinah (hijrah) pada tahun 622 M
 - Membangun komunitas Muslim pertama (Ummah)
 - Wafat pada tahun 632 M
 - Teladan beliau (Sunnah) menjadi panutan kehidupan Muslim

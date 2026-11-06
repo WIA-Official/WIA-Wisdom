@@ -24,7 +24,7 @@ Mada kuu:
 - **Kutotulia**: Shauku ya roho kumtamani Mungu
 - **Kumbukumbu**: Kina cha maisha ya ndani
 - **Wakati**: Tafakari mashuhuri kuhusu asili ya wakati
-- **Neema**: Mageuzi yanayotokana na mpango wa Mungu
+- **Neema**: Kugeuzwa kwa tendo la Mungu linalotangulia
 
 ---
 
@@ -37,7 +37,7 @@ Mada kuu:
 Mafundisho makuu:
 - **Dhambi ya asili**: Hatia na uharibifu uliorithiwa
 - **Uharibifu kamili**: Utashi usioweza kuchagua mema bila neema
-- **Uteuzi wa mapema**: Uchaguzi huru wa Mungu wa wateule
+- **Uteuzi wa mapema**: Uchaguzi wa Mungu wa wateule kwa mamlaka yake kuu
 - **Neema isiyozuilika**: Wito wenye nguvu wa Mungu
 
 > "Toa unachoamuru, na uamuru unachotaka." Sala hii inafupisha uelewa wa Augustino kuhusu neema—mafanikio ya binadamu hayawezekani bila kuwezeshwa na Mungu.
@@ -46,7 +46,7 @@ Mafundisho makuu:
 
 ## Mji wa Mungu | The City of God
 
-> Kitabu cha *Mji wa Mungu* (*De civitate Dei*), kilichoandikwa kutokana na kutekwa na kuporwa kwa Roma mwaka 410 BK, kinalinganisha "Mji wa Mungu" na "Mji wa Mwanadamu."
+> Kitabu cha *Mji wa Mungu* (*De civitate Dei*), kilichoandikwa kujibu kutekwa na kuporwa kwa Roma mwaka 410 BK, kinalinganisha "Mji wa Mungu" na "Mji wa Mwanadamu."
 
 > "Miji miwili iliundwa na mapenzi mawili: ule wa duniani kwa upendo wa nafsi hadi kumdharau Mungu; ule wa mbinguni kwa upendo wa Mungu hadi kuidharau nafsi."
 
@@ -62,7 +62,7 @@ Dhana kuu:
 
 > Tafakari ya Augustino kuhusu wakati katika Kitabu cha XI cha *Maungamo* bado ni mojawapo ya mijadala ya kifalsafa yenye kina kikubwa zaidi kuhusu hali ya wakati.
 
-> "Basi wakati ni nini? Hakuna anayeniuliza, naufahamu; nikitaka kumweleza muulizaji, siufahamu."
+> "Basi wakati ni nini? Mtu asiponiuliza, najua; nikitaka kumweleza anayeniuliza, sijui."
 
 > Wakati upo tu kama wakati uliopo—uliopo wa mambo yaliyopita (kumbukumbu), uliopo wa mambo yaliyopo (umakini), na uliopo wa mambo yajayo (matarajio).
 
@@ -70,10 +70,10 @@ Dhana kuu:
 
 ## Marejeo Mtambuka | Cross-References
 
-- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Thomas Aquinas]] - Muunganiko wa Kielimu (Skolastiki)
+- [[02-ABRAHAMIC/christianity/philosophers/aquinas|Tomaso wa Akwino]] - Muunganiko wa Kiskolastiki
 - [[07-MODERN-PHIL/christian-philosophy/pascal|Blaise Pascal]] - Neema na imani
 - [[07-MODERN-PHIL/existentialism/philosophers/kierkegaard|Kierkegaard]] - Kukata tamaa na neema
-- [[04-HELLENIC/neoplatonism/philosophers/plotinus|Plotinus]] - Ushawishi wa Neoplatonism
+- [[04-HELLENIC/neoplatonism/philosophers/plotinus|Plotinus]] - Ushawishi wa Uplatoni Mpya
 
 ---
 
@@ -86,4 +86,4 @@ Dhana kuu:
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Kuwanufaisha wanadamu wote**

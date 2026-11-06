@@ -14,12 +14,12 @@ Kwa Wakristo, tukio hili si la kihistoria tu, bali pia ni la kiwokovu: ndilo msi
 
 ## Umuhimu Mkuu wa Kitheolojia | Theological Centrality
 
-> "Ufufuko wa Kristo ni tukio kuu la imani ya Kikristo na, kwa hakika, la historia yote ya ulimwengu. Kama Yesu hakufufuka kimwili kutoka kwa wafu baada ya siku tatu, Ukristo ni wa uongo na watu wote bado wamekufa katika dhambi zao."
+> "Ufufuko wa Kristo ni tukio kuu la imani ya Kikristo na, kwa hakika, la historia yote ya ulimwengu. Kama Yesu hakufufuka kimwili kutoka kwa wafu baada ya siku tatu, Ukristo ni wa uongo na watu wote bado wangali wafu katika dhambi zao."
 
 ### Kwa Nini Ufufuko ni Muhimu:
 | Umuhimu | Maana |
 |--------------|---------|
-| **Kuthibitishwa haki** | Mungu alimtangaza Yesu kuwa mwenye haki |
+| **Kuthibitishwa kuwa na haki** | Mungu alimtangaza Yesu kuwa mwenye haki |
 | **Uungu** | Inathibitisha kwamba Yesu ni Mwana wa Mungu |
 | **Ushindi** | Kifo na dhambi vimeshindwa |
 | **Tumaini** | Ahadi ya ufufuko wa waumini |
@@ -29,7 +29,7 @@ Kwa Wakristo, tukio hili si la kihistoria tu, bali pia ni la kiwokovu: ndilo msi
 
 ## Asili ya Ufufuko wa Kimwili | The Nature of Bodily Resurrection
 
-> "Wanatheolojia wanaposema ufufuko hawamaanishi kitu kama kuishi milele katika hali ya roho, bali kuishi tena kwa namna ya kimwili baada ya mwili kufa, kurudi kutoka kwa wafu katika miili halisi, lakini hatimaye katika miili iliyobadilishwa."
+> "Wanatheolojia wanaposema ufufuko hawamaanishi kitu kama kuishi milele katika hali ya roho, bali kuishi tena katika mwili baada ya mwili kufa, kurudi kutoka kwa wafu katika miili halisi, lakini hatimaye katika miili iliyobadilishwa."
 
 > "Kwa mapokeo ya Kikristo, ufufuko wa kimwili ulikuwa kurejeshwa kwa uzima wa mwili uliobadilishwa na kuwezeshwa na Roho, kama inavyoelezwa na Paulo na waandishi wa Injili, jambo lililosababisha kuanzishwa kwa Ukristo."
 
@@ -47,16 +47,16 @@ Kwa Wakristo, tukio hili si la kihistoria tu, bali pia ni la kiwokovu: ndilo msi
 ### Tumaini la Kiyahudi la Ufufuko:
 - Mafarisayo walithibitisha ufufuko
 - Danieli 12:2 iliutabiri
-- Mashahidi wa Wamakabayo walitarajia ufufuko
+- Wafiadini wa enzi ya Wamakabayo walitarajia ufufuko
 - Yesu alilipanua tumaini hilo
 
 ---
 
 ## Pasaka na Uzima Mpya | Easter and New Life
 
-> "Kihistoria na kitheolojia, Ufufuko unaashiria ahadi ya uzima mpya. Ndani ya kalenda ya liturujia, Pasaka inasimama kama mwanga wa matumaini, ikiwakumbusha waamini upendo na dhabihu isiyopimika ya Yesu Kristo."
+> "Kihistoria na kitheolojia, Ufufuko unaashiria ahadi ya uzima mpya. Ndani ya kalenda ya liturujia, Pasaka inasimama kama mwanga wa matumaini, ikiwakumbusha waumini upendo na dhabihu isiyopimika ya Yesu Kristo."
 
-> "Kwa Wakristo wa awali, Pasaka huadhimisha kuthibitishwa haki kwa Kristo aliyeuawa isivyo haki; hukiri uungu wake kamili na ubinadamu wake kamili; hukumbuka mwanzo wa uumbaji mpya; na huwakumbusha Wakristo kwamba wao ni washiriki katika kazi hii ya uumbaji mpya."
+> "Kwa Wakristo wa awali, Pasaka huadhimisha kuthibitishwa kuwa na haki kwa Kristo aliyeuawa isivyo haki; hukiri Uungu wake kamili na ubinadamu wake kamili; hukumbuka mwanzo wa uumbaji mpya; na huwakumbusha Wakristo kwamba wao ni washiriki katika kazi hii ya uumbaji mpya."
 
 ---
 
@@ -67,7 +67,7 @@ Kwa Wakristo, tukio hili si la kihistoria tu, bali pia ni la kiwokovu: ndilo msi
 ### Mitazamo:
 | Msimamo | Maelezo |
 |----------|-------------|
-| **Mapokeo ya Kiorthodoksi** | Ufufuko halisi, wa kimwili, na wa mwili |
+| **Msimamo wa Kimapokeo** | Ufufuko halisi, wa kimwili, katika mwili |
 | **Huria/Kiishara** | Tafsiri ya kiroho/kimafumbo |
 | **Mtazamo wa N.T. Wright** | Tukio la kihistoria; mwili uliobadilishwa |
 
@@ -112,4 +112,4 @@ Kwa Wakristo, tukio hili si la kihistoria tu, bali pia ni la kiwokovu: ndilo msi
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 – Kuinufaisha binadamu wote*

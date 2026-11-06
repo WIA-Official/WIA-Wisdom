@@ -23,7 +23,7 @@ Danh xưng "Vajra" (金剛) chỉ đến:
 > "Trong Phật giáo Tây Tạng, nhìn chung người ta cho rằng các phương pháp du-già Mật tông là con đường nhanh hơn để đạt được sự tĩnh lặng và tuệ giác, và có thể đưa đến quả vị Phật ngay trong một đời."
 
 ### Điều kiện tiên quyết:
-> "Trước tiên người ta tu tập Đại thừa phổ thông—sáu ba-la-mật của vị Bồ-tát—rồi mới tu tập Mật tông. Mối quan hệ thiêng liêng giữa đệ tử và đạo sư giúp người học phát huy trọn vẹn tiềm năng của mình."
+> "Trước tiên người ta tu tập Đại thừa phổ thông—Lục độ Ba-la-mật của Bồ-tát—rồi mới tu tập Mật tông. Mối quan hệ thiêng liêng giữa đệ tử và đạo sư giúp người học phát huy trọn vẹn tiềm năng của mình."
 
 ---
 ## Năm giai đoạn của Mật tông | The Five Stages of Tantra
@@ -34,12 +34,12 @@ Danh xưng "Vajra" (金剛) chỉ đến:
 |-------|-------------|
 | **Sinh khởi thứ đệ** | Quán tưởng các bổn tôn; kiến tạo không gian thiêng liêng |
 | **Viên mãn thứ đệ** | Tu tập với thân vi tế (kinh mạch, khí, giọt) |
-| **Ly cách** | Tách khỏi các hiện tướng phàm tục |
-| **Huyễn thân và Quang minh** | Thấu hiểu các hiện tượng như giấc mộng |
-| **Hợp nhất** | Sự dung hợp trọn vẹn giữa trí tuệ và phương tiện |
+| **Viễn ly** | Tách khỏi các hiện tướng phàm tục |
+| **Huyễn thân và Tịnh quang** | Thấu hiểu các hiện tượng như giấc mộng |
+| **Song nhập** | Sự dung hợp trọn vẹn giữa trí tuệ và phương tiện |
 
 ### Ba thân:
-> "Trong Vô thượng du-già Mật, điều này có nghĩa là đưa ba thân của Đức Phật vào con đường tu tập, tương ứng thông qua các tiến trình của sự chết, trung ấm và tái sinh."
+> "Trong Vô thượng Du-già Mật tông, điều này có nghĩa là đưa ba thân của Đức Phật vào con đường tu tập, tương ứng thông qua các tiến trình của sự chết, trung ấm và tái sinh."
 
 ---
 ## Các phương pháp Mật tông | Tantric Methods
@@ -83,8 +83,8 @@ Sự điểm đạo từ một vị đạo sư đủ tư cách là điều thi�
 | Phạn/Tạng | Hán Việt | Ý nghĩa |
 |------------------|--------|---------|
 | Vajra | 金剛 (Kim Cang) | Kim cương/sấm sét |
-| Tantra | Mật tông | Dòng liên tục/mạng dệt |
-| Yidam | Bổn tôn | Vị thần linh để thiền quán |
+| Tantra | Đát-đặc-la (Mật tông) | Dòng liên tục/mạng dệt |
+| Yidam | Bổn tôn | Vị tôn để thiền quán |
 | Abhisheka | Quán đảnh | Sự trao quyền, điểm đạo |
 | Mahamudra | Đại Thủ Ấn | Ấn lớn |
 | Dzogchen | Đại Viên Mãn | Sự viên mãn lớn |
@@ -98,4 +98,4 @@ Sự điểm đạo từ một vị đạo sư đủ tư cách là điều thi�
 - [Vajrayana Buddhism - Sukhasiddhi Foundation](https://www.sukhasiddhi.org/blog/vajrayana-buddhism-beliefs)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Làm lợi ích cho nhân loại*

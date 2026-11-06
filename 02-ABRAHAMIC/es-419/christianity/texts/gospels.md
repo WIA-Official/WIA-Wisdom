@@ -73,7 +73,7 @@ La mayoría de los especialistas considera que Marcos fue el primero en escribir
 **Jesús presentado como:** Salvador de todos los pueblos, especialmente de los marginados
 
 **Características principales:**
-- Es el griego más literario de los Evangelios
+- Tiene el griego más literario de los Evangelios
 - Relato detallado del nacimiento (ángeles, pastores, Simeón, Ana)
 - Continúa en el libro de los Hechos (Lucas-Hechos como obra en dos volúmenes)
 - Destaca:
@@ -88,7 +88,7 @@ La mayoría de los especialistas considera que Marcos fue el primero en escribir
 
 ## El Evangelio de Juan | The Gospel of John
 
-**Autor:** Tradicionalmente se atribuye a Juan el Apóstol, «el discípulo amado».
+**Autor:** Tradicionalmente se atribuye al apóstol Juan, «el discípulo amado».
 **Destinatarios:** Universal; enfoque teológico y espiritual
 **Jesús presentado como:** El Verbo eterno (Logos), Hijo divino de Dios
 
@@ -105,7 +105,7 @@ La mayoría de los especialistas considera que Marcos fue el primero en escribir
   7. «Yo soy la vid verdadera» (15:1)
 - Siete «señales» (milagros) que manifiestan la gloria de Jesús
 - Extenso discurso de despedida (capítulos 13-17)
-- Énfasis en el amor, la fe, la vida eterna y la morada mutua
+- Énfasis en el amor, la fe, la vida eterna y la inhabitación
 
 ---
 
@@ -179,7 +179,7 @@ Los evangelios sinópticos contienen aproximadamente 40 parábolas: relatos brev
 
 ### Fuentes primarias | Primary Sources
 - El Nuevo Testamento
-- Evangelio de Mateo, Marcos, Lucas y Juan
+- Evangelios de Mateo, Marcos, Lucas y Juan
 
 ### Fuentes académicas | Academic Sources
 - [Gospel - Wikipedia](https://en.wikipedia.org/wiki/Gospel)

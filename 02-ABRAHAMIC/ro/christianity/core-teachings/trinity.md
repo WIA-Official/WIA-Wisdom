@@ -6,9 +6,9 @@
 
 ## Prezentare generală | Overview
 
-Sfânta Treime este doctrina centrală a creștinismului majoritar. Ea afirmă că Dumnezeu există ca trei persoane distincte — Tatăl, Fiul (Iisus Hristos) și Duhul Sfânt — care sunt una în esență, în natură și în ființă. Această doctrină deosebește creștinismul de celelalte religii monoteiste și a fost afirmată de sinoadele ecumenice începând din secolul al IV-lea.
+Sfânta Treime este dogma centrală a creștinismului tradițional. Ea afirmă că Dumnezeu există ca trei persoane distincte — Tatăl, Fiul (Iisus Hristos) și Duhul Sfânt — care sunt una în esență, în natură și în ființă. Această doctrină deosebește creștinismul de celelalte religii monoteiste și a fost afirmată de sinoadele ecumenice începând din secolul al IV-lea.
 
-Deși cuvântul „Treime" nu apare în Biblie, creștinii cred că ideea este descoperită în întreaga Scriptură. Doctrina a fost formulată oficial pentru a explica cum poate Dumnezeu să fie unul și, în același timp, Tată, Fiu și Duh — fiecare pe deplin dumnezeiesc, și totuși nu trei dumnezei, ci un singur Dumnezeu.
+Deși cuvântul „Treime” nu apare în Biblie, creștinii cred că ideea este descoperită în întreaga Scriptură. Doctrina a fost formulată oficial pentru a explica cum poate Dumnezeu să fie unul și, în același timp, Tată, Fiu și Duh — fiecare pe deplin dumnezeiesc, și totuși nu trei dumnezei, ci un singur Dumnezeu.
 
 ---
 
@@ -36,11 +36,11 @@ Deși cuvântul „Treime" nu apare în Biblie, creștinii cred că ideea este d
 
 ### Pasaje esențiale:
 
-> **Matei 28:19**: „Drept aceea, mergeți și învățați toate neamurile, botezându-le în numele Tatălui și al Fiului și al Sfântului Duh."
+> **Matei 28:19**: „Drept aceea, mergând, învățați toate neamurile, botezându-le în numele Tatălui și al Fiului și al Sfântului Duh.”
 
-> **2 Corinteni 13:13**: „Harul Domnului nostru Iisus Hristos, dragostea lui Dumnezeu și împărtășirea Sfântului Duh să fie cu voi cu toți."
+> **2 Corinteni 13:13**: „Harul Domnului nostru Iisus Hristos, și dragostea lui Dumnezeu-Tatăl și împărtășirea Sfântului Duh să fie cu voi cu toți. Amin.”
 
-> **Ioan 1:1**: „La început era Cuvântul, și Cuvântul era la Dumnezeu, și Dumnezeu era Cuvântul."
+> **Ioan 1:1**: „La început era Cuvântul, și Cuvântul era la Dumnezeu, și Dumnezeu era Cuvântul.”
 
 ---
 
@@ -50,15 +50,15 @@ Deși cuvântul „Treime" nu apare în Biblie, creștinii cred că ideea este d
 
 | Sinodul | Anul | Contribuția |
 |---------|------|-------------|
-| **Niceea I** | 325 | A afirmat că Fiul este „de o ființă" cu Tatăl |
+| **Niceea I** | 325 | A afirmat că Fiul este „de o ființă” cu Tatăl |
 | **Constantinopol I** | 381 | A afirmat dumnezeirea Duhului Sfânt |
 | **Calcedon** | 451 | A definit cele două firi ale lui Hristos |
 
 ### Simbolul de credință niceean:
-> „Cred într-unul Dumnezeu, Tatăl Atotțiitorul... și într-unul Domn Iisus Hristos, Fiul lui Dumnezeu, Unul-Născut... și întru Duhul Sfânt, Domnul de viață Făcătorul..."
+> „Cred întru Unul Dumnezeu, Tatăl Atotțiitorul... Și întru Unul Domn Iisus Hristos, Fiul lui Dumnezeu, Cel Unul-Născut... Și întru Duhul Sfânt, Domnul de viață Făcătorul...”
 
 ### Termeni esențiali:
-- **Homoousios** (ὁμοούσιος): „De o ființă" - Tatăl și Fiul au aceeași esență dumnezeiască
+- **Homoousios** (ὁμοούσιος): „De o ființă” - Tatăl și Fiul au aceeași esență dumnezeiască
 - **Hypostasis** (ὑπόστασις): Persoană sau ipostas - existența distinctă a fiecărei persoane
 
 ---
@@ -71,8 +71,8 @@ Deși cuvântul „Treime" nu apare în Biblie, creștinii cred că ideea este d
 - Persoanele se deosebesc prin relațiile dintre ele
 
 ### Ce NU este Sfânta Treime:
-- ❌ **Modalismul**: Dumnezeu care trece între trei „moduri"
-- ❌ **Tritheismul**: Trei dumnezei separați
+- ❌ **Modalismul**: Dumnezeu care trece între trei „moduri”
+- ❌ **Triteismul**: Trei dumnezei separați
 - ❌ **Arianismul**: Fiul ca ființă creată
 - ❌ **Subordinaționismul**: Fiul sau Duhul ca fiind inferiori Tatălui
 
@@ -87,7 +87,7 @@ Deși cuvântul „Treime" nu apare în Biblie, creștinii cred că ideea este d
 | **Protestantă** | În general urmează formularea occidentală |
 
 ### Controversa Filioque:
-Biserica occidentală a adăugat în Simbolul de credință cuvintele „și de la Fiul" (filioque), afirmând că Duhul purcede și de la Tatăl, și de la Fiul. Biserica răsăriteană a respins această adăugire, ceea ce a contribuit la Marea Schismă din 1054.
+Biserica occidentală a adăugat în Simbolul de credință cuvintele „și de la Fiul” (filioque), afirmând că Duhul purcede și de la Tatăl, și de la Fiul. Biserica răsăriteană a respins această adăugire, ceea ce a contribuit la Marea Schismă din 1054.
 
 ---
 
@@ -95,13 +95,13 @@ Biserica occidentală a adăugat în Simbolul de credință cuvintele „și de 
 
 ### De ce este importantă Sfânta Treime:
 
-1. **Mântuirea**: Tatăl Îl trimite pe Fiul; Duhul aplică mântuirea
+1. **Mântuirea**: Tatăl Îl trimite pe Fiul; Duhul lucrează mântuirea
 2. **Rugăciunea**: Ne rugăm Tatălui, prin Fiul, în Duhul
 3. **Iubirea**: Dumnezeu este din veșnicie în relație — iubirea presupune persoane
 4. **Comuniunea**: Comunitatea omenească reflectă comuniunea dumnezeiască
 5. **Închinarea**: Ne închinăm unui singur Dumnezeu în trei persoane
 
-> „Sfânta Treime descoperă că Dumnezeu nu este singuratic, ci există din veșnicie într-o relație de iubire."
+> „Sfânta Treime descoperă că Dumnezeu nu este singuratic, ci există din veșnicie într-o relație de iubire.”
 
 ---
 
@@ -111,8 +111,8 @@ Biserica occidentală a adăugat în Simbolul de credință cuvintele „și de 
 |--------|---------------|--------------|
 | Treime | Trinitas | Trei într-unul |
 | Persoană | Hypostasis | Subzistență distinctă |
-| Esență | Ousia | Natura dumnezeiască |
-| Consubstanțial | Homoousios | Aceeași ființă |
+| Ființă (esență) | Ousia | Natura dumnezeiască |
+| Deoființă (consubstanțial) | Homoousios | Aceeași ființă |
 | Purcedere | Processio | Originea Duhului |
 
 ---

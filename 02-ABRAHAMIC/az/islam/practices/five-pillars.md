@@ -1,4 +1,4 @@
-# İslamın Beş Şərti | The Five Pillars of Islam (أركان الإسلام)
+# İslamın beş şərti | The Five Pillars of Islam (أركان الإسلام)
 
 > Müsəlman həyatının təməli
 
@@ -6,9 +6,9 @@
 
 ## Ümumi baxış | Overview
 
-İslamın Beş Şərti (ərəbcə: أركان الإسلام, Arkān əl-İslam) müsəlmanın həyatının təməlini təşkil edən əsas ibadət və təcrübə əməllərdir. Bunlar: Şəhadət (iman gətirmə), Namaz (Salat), Zəkat (sədəqə vermək), Oruc (Sovm) və Həcc (ziyarət)dir.
+İslamın beş şərti (ərəbcə: أركان الإسلام, Ərkanül-İslam) müsəlmanın həyatının təməlini təşkil edən əsas ibadət və təcrübə əməllərdir. Bunlar: Şəhadət (iman gətirmə), Namaz (Salat), Zəkat (sədəqə vermək), Oruc (Səvm) və Həcc (ziyarət)dir.
 
-Peyğəmbər Məhəmməd (ona salam olsun) İslamın "beş şərt üzərində qurulduğunu" bildirmişdir (Buxari və Müslim). Bu əməllər onları yerinə yetirməyə qadir olan hər yetkin müsəlman üçün vacibdir; fərdin imanını gücləndirməyə, Allah şüurunu (təqva) inkişaf etdirməyə və qlobal müsəlman icması (Ümmət) daxilində həmrəyliyi qurmağa xidmət edir.
+Peyğəmbər Muhəmməd (s.ə.s.) İslamın "beş şərt üzərində qurulduğunu" bildirmişdir (Buxari və Müslim). Bu əməllər onları yerinə yetirməyə qadir olan hər yetkin müsəlman üçün vacibdir; fərdin imanını gücləndirməyə, təqvanı (Allahdan qorxub çəkinməyi) inkişaf etdirməyə və qlobal müsəlman icması (Ümmət) daxilində həmrəyliyi qurmağa xidmət edir.
 
 ---
 
@@ -17,12 +17,12 @@ Peyğəmbər Məhəmməd (ona salam olsun) İslamın "beş şərt üzərində qu
 Şəhadət İslamın əsas etiqadıdır — insanı müsəlman edən iman gətirmə kəlməsidir:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Allahdan başqa heç bir tanrı yoxdur və Məhəmməd Allahın elçisidir."
+> "Allahdan başqa ilah yoxdur və Muhəmməd Allahın rəsuludur."
 
 ### İki hissə | Two Parts
 
 1. **Təvhid:** Allahın mütləq birliyinin təsdiqi
-2. **Risalət:** Məhəmmədin son peyğəmbər olduğunun qəbul edilməsi
+2. **Risalət:** Muhəmmədin son peyğəmbər olduğunun qəbul edilməsi
 
 İnsan bu kəlməni səmimiyyətlə və qəti inamla söyləməklə müsəlman olur. O, yenicə doğulmuş körpənin qulağına pıçıldanır və ölüm anında oxunur.
 
@@ -42,7 +42,7 @@ Müsəlmanlar gündə beş dəfə müəyyən edilmiş vaxtlarda, Məkkədəki K�
 
 ### Namazın ünsürləri | Elements of Prayer
 
-- Namazdan əvvəl ritual təharət (dəstəmaz, wudu)
+- Namazdan əvvəl ritual təharət (dəstəmaz, vüzu)
 - Qiyam (ayaq üstə durmaq), rüku (əyilmək), səcdə, oturmaq
 - Quran ayələrinin oxunması
 - Qibləyə (Məkkə istiqaməti) dönmək
@@ -68,20 +68,20 @@ Zəkat insanın var-dövlətinin bir hissəsinin ehtiyacı olanlara məcburi ver
 
 ### Alıcılar (Quran 9:60-da səkkiz kateqoriya) | Recipients (eight categories in Quran 9:60)
 
-Yoxsullar, möhtaclar, zəkat yığanlar, ürəkləri islamla isindirilənlər, kölələrin azad edilməsi, borclular, Allah yolunda olanlar, ehtiyacı olan yolçular.
+Yoxsullar, möhtaclar, zəkat yığanlar, qəlbləri İslama isindiriləcək olanlar, kölələrin azad edilməsi, borclular, Allah yolunda olanlar, ehtiyacı olan yolçular.
 
 ---
 
-## 4. Oruc (Sovm) | 4. Sawm (Fasting)
+## 4. Oruc (Səvm) | 4. Sawm (Fasting)
 
-Sovm İslam təqviminin doqquzuncu ayı olan müqəddəs Ramazan ayında tutulan orucdur:
+Səvm İslam təqviminin doqquzuncu ayı olan müqəddəs Ramazan ayında tutulan orucdur:
 
 > "Oruc hər gün dan yeri söküləndən gün batanadək davam edir; bu müddət ərzində möminlərdən hər cür yemək, içmək, cinsi əlaqə və siqaret çəkməkdən çəkinmələri gözlənilir."
 
 ### Əhəmiyyəti | Significance
 
 - Quranın nazil olmasını yad edir
-- Özünütərbiyəni və Allah şüurunu inkişaf etdirir
+- Özünütərbiyəni və təqvanı inkişaf etdirir
 - Ac olanlara qarşı empatiyanı artırır
 - Bədəni və ruhu təmizləyir
 - Ortaq təcrübə vasitəsilə icma bağlarını möhkəmləndirir
@@ -103,7 +103,7 @@ Həcc, fiziki və maddi baxımdan imkanı olan hər müsəlmanın ömründə ən
 | Gün | Mərasim |
 |-----|--------|
 | 1 | İhram (müqəddəs hal), Təvaf (Kəbənin ətrafında 7 dəfə dolanmaq) |
-| 2-3 | Ərəfatda durmaq (vüquf), Minada şeytanı daşlamaq |
+| 2-3 | Ərəfatda durmaq (vüquf), Minada cəmərələri daşlamaq |
 | 4-5 | Qurban bayramı qurbanı, daşlamanın davamı, İfadə təvafı |
 
 ### Əhəmiyyəti | Significance
@@ -123,16 +123,16 @@ Həcc, fiziki və maddi baxımdan imkanı olan hər müsəlmanın ömründə ən
 
 ## Əsas terminlər | Key Terms
 
-| Ərəbcə | Mənası |
-|--------|---------|
-| Arkān | Sütunlar, təməllər |
-| Şəhadət (Shahada) | İman gətirmə kəlməsi |
-| Salat | Ritual namaz |
-| Zəkat (Zakat) | Məcburi sədəqə |
-| Sovm (Sawm) | Oruc |
-| Həcc (Hajj) | Məkkə ziyarəti |
-| Təqva (Taqwa) | Allah şüuru |
-| Ümmət (Ummah) | Qlobal müsəlman icması |
+| Ərəbcə | Azərbaycanca | Mənası |
+|--------|--------|---------|
+| Arkān | Ərkan | Sütunlar, təməllər |
+| Shahada | Şəhadət | İman gətirmə kəlməsi |
+| Salat | Namaz | Ritual namaz |
+| Zakat | Zəkat | Məcburi sədəqə |
+| Sawm | Səvm | Oruc |
+| Hajj | Həcc | Məkkə ziyarəti |
+| Taqwa | Təqva | Allahdan qorxub çəkinmək |
+| Ummah | Ümmət | Qlobal müsəlman icması |
 
 ---
 
@@ -145,4 +145,4 @@ Həcc, fiziki və maddi baxımdan imkanı olan hər müsəlmanın ömründə ən
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - İnsanlığa fayda ver*

@@ -26,7 +26,7 @@ Fue declarado Doctor de la Iglesia por el papa san Pío V en 1567 y es considera
 | **Cuarta vía** | Los grados | Debe existir un Ser máximo |
 | **Quinta vía** | La teleología | Debe existir un Ordenador inteligente |
 
-> «La existencia de Dios puede probarse por cinco vías... La primera y más manifiesta es la que se toma del movimiento.»
+> «La existencia de Dios puede ser demostrada por cinco vías... La primera y más clara es la que se deduce del movimiento».
 
 ---
 
@@ -34,7 +34,7 @@ Fue declarado Doctor de la Iglesia por el papa san Pío V en 1567 y es considera
 
 > Santo Tomás desarrolló la teoría de la ley natural más influyente de la tradición occidental. La ley natural es la participación de la ley eterna en la criatura racional.
 
-> «La ley natural no es otra cosa que la participación de la ley eterna en la criatura racional.»
+> «La ley natural no es otra cosa que la participación de la ley eterna en la criatura racional».
 
 Cuatro tipos de ley:
 1. **Ley eterna**: el plan racional de Dios para la creación
@@ -42,7 +42,7 @@ Cuatro tipos de ley:
 3. **Ley humana**: las leyes dictadas por la autoridad humana
 4. **Ley divina**: la ley revelada en la Sagrada Escritura
 
-> La ley natural puede ser conocida por la razón y es universal para todos los seres humanos. Su primer precepto es: «El bien debe hacerse y buscarse, y el mal debe evitarse.»
+> La ley natural puede ser conocida por la razón y es universal para todos los seres humanos. Su primer precepto es: «El bien ha de hacerse y buscarse, y el mal ha de evitarse».
 
 ---
 
@@ -50,9 +50,9 @@ Cuatro tipos de ley:
 
 > Santo Tomás sostuvo que la fe y la razón no se oponen, sino que se complementan. Algunas verdades son accesibles a la razón por sí sola (por ejemplo, la existencia de Dios), mientras que otras requieren la revelación (por ejemplo, la Trinidad).
 
-> «La gracia no destruye la naturaleza, sino que la perfecciona.»
+> «La gracia no destruye la naturaleza, sino que la perfecciona».
 
-> «La filosofía es la sierva de la teología.» La razón puede conducir hasta el umbral de la fe, aunque la fe trasciende la razón.
+> «La filosofía es la sierva de la teología». La razón puede conducir hasta el umbral de la fe, aunque la fe trasciende la razón.
 
 La armonía:
 - La razón puede demostrar algunas verdades divinas
@@ -68,11 +68,11 @@ La armonía:
 
 Estructura:
 - **Primera Parte**: Dios, la creación, los ángeles, el ser humano
-- **Primera Parte de la Segunda Parte**: la felicidad, los actos humanos, las virtudes, la ley
-- **Segunda Parte de la Segunda Parte**: virtudes y vicios en particular
+- **Primera Sección de la Segunda Parte**: la felicidad, los actos humanos, las virtudes, la ley
+- **Segunda Sección de la Segunda Parte**: virtudes y vicios en particular
 - **Tercera Parte**: Cristo y los sacramentos (incompleta)
 
-> Santo Tomás murió antes de terminar la *Suma*. Hacia el final de su vida tuvo una experiencia mística, después de la cual dijo: «Todo lo que he escrito me parece paja en comparación con lo que ahora me ha sido revelado.»
+> Santo Tomás murió antes de terminar la *Suma*. Hacia el final de su vida tuvo una experiencia mística, después de la cual dijo: «Todo lo que he escrito me parece paja en comparación con lo que ahora me ha sido revelado».
 
 ---
 

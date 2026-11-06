@@ -6,7 +6,7 @@
 
 ## Tổng quan | Overview
 
-Kinh Kim Cang (tiếng Phạn: Vajracchedikā Prajñāpāramitā Sūtra) là một trong những kinh điển có ảnh hưởng sâu rộng nhất của Phật giáo Đại thừa, thuộc hệ kinh Bát-nhã Ba-la-mật (Prajñāpāramitā, Trí tuệ viên mãn). Được soạn vào khoảng thế kỷ II đến thế kỷ IV Tây lịch, kinh trình bày một giáo lý sâu xa về tính Không (śūnyatā) qua cuộc đối thoại giữa Đức Phật và đệ tử của Ngài là Tu-bồ-đề (Subhūti).
+Kinh Kim Cang (tiếng Phạn: Vajracchedikā Prajñāpāramitā Sūtra) là một trong những kinh điển có ảnh hưởng sâu rộng nhất của Phật giáo Đại thừa, thuộc hệ kinh Bát-nhã Ba-la-mật (Prajñāpāramitā, Trí tuệ viên mãn). Được soạn vào khoảng thế kỷ II đến thế kỷ IV Tây lịch, kinh trình bày một giáo lý sâu xa về tánh Không (śūnyatā) qua cuộc đối thoại giữa Đức Phật và đệ tử của Ngài là Tu-bồ-đề (Subhūti).
 
 Nhan đề có nghĩa là "Kinh Bát-nhã Ba-la-mật Kim Cang Năng Đoạn". Chày kim cang (vajra, tức kim cương hay tia sét) tượng trưng cho trí tuệ chặt đứt mọi ảo tưởng để hiển lộ thực tại tối hậu. Một bản in năm 868 Tây lịch, được phát hiện tại Đôn Hoàng, là cuốn sách in có niên đại xác định xưa nhất thế giới.
 
@@ -16,7 +16,7 @@ Nhan đề có nghĩa là "Kinh Bát-nhã Ba-la-mật Kim Cang Năng Đoạn". C
 
 Kinh ghi lại những câu hỏi của Tu-bồ-đề và lời đáp của Đức Phật về bản chất của hạnh tu Bồ-tát:
 
-> **Tu-bồ-đề:** "Người đã phát tâm bước vào Bồ-tát đạo thì phải an trụ như thế nào, phải tiến hành như thế nào, phải điều phục tâm mình như thế nào?"
+> **Tu-bồ-đề:** "Người đã phát tâm bước vào Bồ-tát đạo thì phải an trụ như thế nào, phải tu hành như thế nào, phải hàng phục tâm mình như thế nào?"
 
 Lời đáp của Đức Phật hé lộ nghịch lý nằm ở cốt lõi của Đại thừa:
 - Bồ-tát nên độ thoát tất cả chúng sinh
@@ -26,7 +26,7 @@ Lời đáp của Đức Phật hé lộ nghịch lý nằm ở cốt lõi của
 
 ---
 
-## Giáo lý về tính Không | The Teaching on Emptiness
+## Giáo lý về tánh Không | The Teaching on Emptiness
 
 Kinh Kim Cang dạy rằng mọi pháp đều không có tự tính vốn có, thông qua những phủ định mang tính đặc trưng:
 
@@ -38,7 +38,7 @@ Kinh nổi tiếng với công thức: "A chẳng phải A, nên gọi là A."
 - "Đức Phật dạy rằng không có chúng sinh. Vì vậy gọi là chúng sinh."
 - "Các ba-la-mật chẳng phải ba-la-mật. Vì vậy gọi là ba-la-mật."
 
-Điều này chỉ về tính bất nhị tối hậu giữa chân đế (chân lý tục đế) và chân lý tối hậu.
+Điều này chỉ về tính bất nhị tối hậu giữa tục đế (chân lý quy ước) và chân đế (chân lý tối hậu).
 
 ---
 
@@ -46,9 +46,8 @@ Kinh nổi tiếng với công thức: "A chẳng phải A, nên gọi là A."
 
 Kinh kết thúc bằng bài kệ nổi tiếng về bản chất như mộng của thực tại:
 
-> "Như sao sa, như mắt mờ, như ngọn đèn,
-> Như huyễn thuật, như sương mai, như bọt nước,
-> Như giấc mộng, như điện chớp, như đám mây—
+> "Như sao băng, như mắt bị mờ, như ngọn đèn,
+> Như giấc mộng, như ánh chớp, như đám mây giông—
 
 Mọi pháp hữu vi đều được ví với:
 
@@ -64,8 +63,8 @@ Mọi pháp hữu vi đều được ví với:
 | Điện chớp | Chốc lát |
 | Mây | Luôn biến đổi |
 
-> "一切有爲法
-> 如露亦如電"
+> "Nhất thiết hữu vi pháp (一切有爲法)
+> Như lộ diệc như điện (如露亦如電)"
 
 ---
 
@@ -99,7 +98,7 @@ Trao tặng Kinh Kim Cang cho người khác sinh ra công đức vô lượng�
 - Có niên đại ngày 11 tháng 5 năm 868 Tây lịch
 - Là cuốn sách in có niên đại xác định xưa nhất được biết đến trên thế giới
 - Được phát hiện năm 1900 tại các hang động Đôn Hoàng
-- Bản in mộc bản được minh họa tuyệt đẹp
+- Bản khắc gỗ có tranh minh họa tuyệt đẹp
 
 ### Ảnh hưởng | Influence
 
@@ -118,7 +117,7 @@ Trao tặng Kinh Kim Cang cho người khác sinh ra công đức vô lượng�
 |---------|-------------|
 | **Bát-nhã Ba-la-mật (Prajñāpāramitā)** | Trí tuệ viên mãn |
 | **Kim cang (Vajra)** | Kim cương/tia sét—trí tuệ bất hoại |
-| **Tính Không (Śūnyatā)** | Sự trống không của tự tính vốn có |
+| **Tánh Không (Śūnyatā)** | Sự trống không của tự tính vốn có |
 | **Vô trụ** | Không trụ vào khái niệm |
 | **Vô tướng bố thí** | Bố thí không chấp trước |
 
@@ -130,7 +129,7 @@ Trao tặng Kinh Kim Cang cho người khác sinh ra công đức vô lượng�
 |------------------|--------|---------|
 | Vajracchedikā | 金剛 (Kim cang) | Kim Cang Năng Đoạn |
 | Prajñā | 般若 (Bát-nhã) | Trí tuệ siêu việt |
-| Tathāgata | 如來 (Như Lai) | Bậc Như Thị Lai |
+| Tathāgata | 如來 (Như Lai) | Đấng từ chân như mà đến |
 | Subhūti | 須菩提 (Tu-bồ-đề) | Đại đệ tử |
 | Saṃskṛta | 有爲 (Hữu vi) | Các pháp hữu vi |
 
@@ -145,4 +144,4 @@ Trao tặng Kinh Kim Cang cho người khác sinh ra công đức vô lượng�
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Hãy làm lợi ích cho nhân loại*

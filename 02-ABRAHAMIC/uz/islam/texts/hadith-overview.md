@@ -1,14 +1,14 @@
 # Hadis | Hadith (حديث)
 
-> Payg'ambar Muhammad (sollallohu alayhi va sallam) so'zlari va rivoyatlari
+> Payg'ambar Muhammadning so'zlari va sunnatlari
 
 ---
 
 ## Umumiy ma'lumot | Overview
 
-Hadis (arabcha: حديث, ko'plik shakli: ahadis) — Payg'ambar Muhammad (sollallohu alayhi va sallam)ning so'zlari, amallari va tasdiqlarining to'plami bo'lib, musulmonlar uni Qur'on bilan bir qatorda diniy qonun va axloqiy yo'l-yo'riqning asosiy manbalaridan biri sifatida hurmat qiladilar. Qur'on Allohning to'g'ridan-to'g'ri kalomi bo'lsa, hadis Payg'ambarning sunnatini (yo'lini) — Qur'on ta'limotlarini hayotga tatbiq etishning tirik namunasini ifodalaydi.
+Hadis (arabcha: حديث, ko'plik shakli: ahodis) — Payg'ambar Muhammad (sallallohu alayhi va sallam)ning so'zlari, amallari va taqrirlari (ma'qullashlari) majmuasi bo'lib, musulmonlar uni Qur'on bilan bir qatorda diniy qonun va axloqiy yo'l-yo'riqning asosiy manbalaridan biri sifatida e'zozlaydilar. Qur'on Allohning bevosita kalomi bo'lsa, hadis Payg'ambarning sunnatini (yo'lini) — Qur'on ta'limotlarini hayotga tatbiq etishning tirik namunasini ifodalaydi.
 
-Hadis dastlab Payg'ambarning sahobalari tomonidan og'zaki yetkazilgan, so'ngra milodiy 700-yillarning boshlaridan boshlab yozma shaklda qayd etila boshlagan. Eng ishonchli to'plamlar IX–X asrlarda, rivoyatning haqiqiyligini tekshirishning qat'iy usullarini ishlab chiqqan olimlar tomonidan tuzilgan.
+Hadis dastlab Payg'ambarning sahobalari tomonidan og'zaki yetkazilgan, so'ngra milodiy 700-yillarning boshlaridan yozma shaklda qayd etila boshlagan. Eng ishonchli to'plamlar IX–X asrlarda, rivoyatning sahihligini tekshirishning qat'iy usullarini ishlab chiqqan olimlar tomonidan tuzilgan.
 
 ---
 
@@ -17,67 +17,67 @@ Hadis dastlab Payg'ambarning sahobalari tomonidan og'zaki yetkazilgan, so'ngra m
 ### Tarkibiy qismlar:
 | Qism | Arabcha | Izoh |
 |------|--------|-------------|
-| **Isnod** | إسناد | Rivoyatchilar zanjiri |
-| **Matn** | متن | Asl matn / mazmun |
+| **Isnod** | إسناد | Roviylar silsilasi |
+| **Matn** | متن | Hadisning o'z matni / mazmuni |
 
 ### Misol:
 ```
-ISNOD: "Abu Hurayra rivoyat qilishicha, Allohning Elchisi shunday dedilar..."
-MATN: "Amallar niyatlarga qarab baholanadi va har bir kishiga
-       niyatiga yarasha mukofot beriladi."
+ISNOD: "Abu Hurayra rivoyat qiladi: Rasululloh shunday dedilar..."
+MATN: "Amallar niyatlarga ko'radir va har bir kishiga
+       niyat qilgan narsasi bordir."
 ```
 
 ---
 
 ## Hadisning tasnifi | Classification of Hadith
 
-### Haqiqiylik darajasiga ko'ra:
+### Sahihlik darajasiga ko'ra:
 | Turi | Arabcha | Izoh |
 |------|--------|-------------|
-| **Sahih** | صحيح | Sog'lom / haqiqiy — eng yuqori ishonchlilik |
-| **Hasan** | حسن | Yaxshi — ishonchli rivoyatchilar, xotirasi biroz zaifroq |
-| **Zaif** (Da'if) | ضعيف | Zaif — zanjirda yoki matnda kamchilik bor |
-| **Mavzu'** (Mawdu) | موضوع | to'qima — yolg'on sifatida rad etilgan |
+| **Sahih** | صحيح | Sog'lom / ishonchli — eng yuqori ishonchlilik |
+| **Hasan** | حسن | Yaxshi — roviylari ishonchli, ammo zabti (xotirasi) biroz zaifroq |
+| **Za'if** | ضعيف | Zaif — sanadda yoki matnda kamchilik bor |
+| **Mavzu'** | موضوع | To'qima — yolg'on sifatida rad etilgan |
 
 ### Manbasiga ko'ra:
 | Turi | Izoh |
 |------|-------------|
-| **Hadisi nabaviy** (Hadith Nabawi) | Payg'ambar rivoyati |
-| **Hadisi qudsiy** (Hadith Qudsi) | Muqaddas hadis — Payg'ambar orqali yetkazilgan Alloh so'zlari |
+| **Hadisi nabaviy** | Payg'ambar hadisi |
+| **Hadisi qudsiy** | Qudsiy hadis — Payg'ambar orqali yetkazilgan Alloh so'zlari |
 
-> "Hadisi qudsiylar — Qodir Alloh tomonidan Payg'ambar Muhammadga vahiy qilingan so'zlardir. Aksariyat hadislar nabaviy hadislardan iborat bo'lgani bilan farqli o'laroq, ularning vakolati Payg'ambarga emas, Qodir Allohga borib taqaladi."
+> "Hadisi qudsiylar — Payg'ambar Muhammadning Qodir Alloh tomonidan unga vahiy qilingan so'zlaridir. Hadislarning aksariyati nabaviy hadislar bo'lsa, qudsiy hadislar ulardan farqli o'laroq Payg'ambarga emas, Qodir Allohga borib taqaladi."
 
 ---
 
 ## Asosiy to'plamlar | Major Collections
 
-### Oltita ishonchli to'plam (Kutub as-sitta):
+### Oltita ishonchli to'plam (Kutubi sitta):
 | To'plam | Muallif | Vafoti | Hadislar soni |
 |------------|----------|-------|--------------|
-| **Sahihi Buxoriy** | Imom al-Buxoriy | 870 y. | ~7 275 |
-| **Sahihi Muslim** | Imom Muslim | 875 y. | ~7 500 |
-| **Sunani Abu Dovud** | Abu Dovud | 889 y. | ~4 800 |
-| **Sunani Termiziy** | at-Termiziy | 892 y. | ~3 956 |
-| **Sunani Nasoiy** | an-Nasoiy | 915 y. | ~5 700 |
-| **Sunani Ibn Moja** | Ibn Moja | 887 y. | ~4 341 |
+| **Sahihi Buxoriy** | Imom Buxoriy | 870-y. | ~7 275 |
+| **Sahihi Muslim** | Imom Muslim | 875-y. | ~7 500 |
+| **Sunani Abu Dovud** | Abu Dovud | 889-y. | ~4 800 |
+| **Sunani Termiziy** | Termiziy | 892-y. | ~3 956 |
+| **Sunani Nasoiy** | Nasoiy | 915-y. | ~5 700 |
+| **Sunani Ibn Moja** | Ibn Moja | 887-y. | ~4 341 |
 
-> "Sunniy musulmonlarning eng ishonchli hadis to'plamlaridan biri — al-Buxoriyning «Sahih» majmuasidir."
+> "Ahli sunna musulmonlarining eng ishonchli hadis to'plamlaridan biri — Buxoriyning «Sahih» to'plamidir."
 
 ---
 
 ## Mashhur hadislar | Famous Hadith
 
 ### Niyat haqida:
-> "Amallar niyatlarga qarab baholanadi va har bir kishiga niyatiga yarasha mukofot beriladi." (Buxoriy)
+> "Amallar niyatlarga ko'radir va har bir kishiga niyat qilgan narsasi bordir." (Buxoriy)
 
 ### Birodarlik haqida:
 > "Sizlardan biringiz o'zi uchun yaxshi ko'rgan narsani birodari uchun ham yaxshi ko'rmaguncha, chin mo'min bo'lmaydi." (Buxoriy, Muslim)
 
 ### Ilm haqida:
-> "Ilm talab qilish har bir musulmon uchun farzdir." (Ibn Moja)
+> "Ilm talab qilish har bir musulmonga farzdir." (Ibn Moja)
 
-### Mehribonlik haqida:
-> "Alloh yumshoq muomalali zotdir va har bir ishda yumshoqlikni yaxshi ko'radi." (Buxoriy, Muslim)
+### Yumshoqlik haqida:
+> "Alloh Rafiqdir (yumshoqdir) va barcha ishda yumshoqlikni yaxshi ko'radi." (Buxoriy, Muslim)
 
 ### Xulq haqida:
 > "Sizlarning eng yaxshilaringiz xulqi eng go'zal bo'lganlaringizdir." (Buxoriy)
@@ -92,48 +92,48 @@ MATN: "Amallar niyatlarga qarab baholanadi va har bir kishiga
 3. **Ijmo'** — olimlarning yakdil kelishuvi
 4. **Qiyos** — o'xshatish asosidagi xulosa
 
-> "Hadislar asosan Muhammadning so'zlari, ishlari va amallaridir. Ular Qur'ondan farq qiladi, ammo Payg'ambarning o'z hayotiga asoslangan muqaddas hayot kechirish yo'llari uchun namuna beradi."
+> "Hadislar asosan Muhammadning so'zlari, ishlari va amallaridir. Ular Qur'ondan farq qiladi, ammo Payg'ambarning o'z hayotiga asoslangan holda solih hayot kechirish yo'llari uchun namuna beradi."
 
 ---
 
 ## Hadis ilmi | Science of Hadith
 
 ### Hadis tanqidi:
-Olimlar hadisning haqiqiyligini tekshirish uchun qat'iy usullarni ishlab chiqqanlar:
+Olimlar hadisning sahihligini tekshirish uchun qat'iy usullarni ishlab chiqqanlar:
 
 | Usul | Maqsad |
 |--------|---------|
-| **Isnod tahlili** | Rivoyat zanjirini tekshirish |
-| **Rivoyatchi tarjimai holi** | Yetkazuvchilarning ishonchliligini aniqlash |
+| **Isnod tahlili** | Rivoyat silsilasini tekshirish |
+| **Roviylar tarjimai holi** | Yetkazuvchilarning ishonchliligini aniqlash |
 | **Matn tahlili** | Ichki izchillikni o'rganish |
 | **Solishtirish** | Boshqa hadislar bilan taqqoslash |
 
-### Rivoyatchini baholash mezonlari:
-- Odillik (adalah)
+### Roviyni baholash mezonlari:
+- Odillik (adolat)
 - Aniqlik (zabt)
-- Uzluksiz zanjir (ittisol)
+- Sanadning uzluksizligi (ittisol)
 - Yashirin nuqsonlarning yo'qligi (salama min shuzuz)
-- Illatning yo'qligi (salama min illa)
+- Nomuvofiqlikning yo'qligi (salama min illa)
 
 ---
 
 ## Qirq hadis an'anasi | Forty Hadith Tradition
 
-> "Qirqta hadisni yodlash, saqlash va o'rgatish fazilati haqida ko'plab rivoyatlar bor."
+> "Qirqta hadisni yod olish, saqlash va o'rgatish fazilati haqida ko'plab rivoyatlar bor."
 
-Eng mashhuri — **Imom an-Navaviyning «Qirq hadis»i** bo'lib, islomning asosiy tamoyillarini qamrab olgan muhim ta'limotlar to'plamidir.
+Eng mashhuri — **Imom Navaviyning «Qirq hadis»i** bo'lib, islomning asosiy tamoyillarini qamrab olgan muhim ta'limotlar to'plamidir.
 
 ---
 
 ## Asosiy atamalar | Key Terms
-| Arabcha | Ma'nosi |
-|--------|---------|
-| حديث (Hadis) | Rivoyat / so'z |
-| سنة (Sunnat) | Payg'ambar yo'li |
-| إسناد (Isnod) | Rivoyat zanjiri |
-| متن (Matn) | Matn mazmuni |
-| صحيح (Sahih) | Haqiqiy, ishonchli |
-| راوي (Rovi) | Rivoyatchi |
+| Arabcha | O'zbekcha | Ma'nosi |
+|--------|--------|---------|
+| حديث (Hadith) | Hadis | Rivoyat / so'z |
+| سنة (Sunnah) | Sunnat | Payg'ambar yo'li |
+| إسناد (Isnad) | Isnod | Rivoyat silsilasi |
+| متن (Matn) | Matn | Hadis matni |
+| صحيح (Sahih) | Sahih | Ishonchli, sog'lom |
+| راوي (Rawi) | Roviy | Rivoyat qiluvchi |
 
 ---
 

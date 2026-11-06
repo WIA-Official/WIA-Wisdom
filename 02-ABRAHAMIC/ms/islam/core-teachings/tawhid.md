@@ -1,12 +1,12 @@
 # Tauhid | Tawhid (توحيد)
 
-> Keesaan Allah: Doktrin Pusat dalam Islam
+> Keesaan Allah: Akidah Teras dalam Islam
 
 ---
 
 ## Gambaran Keseluruhan | Overview
 
-Tauhid, yang secara harfiah bermaksud "menyatukan" atau "menjadikan satu", merujuk kepada prinsip monoteisme dalam Islam. Ia merupakan konsep yang paling utama dan terpenting dalam agama ini, yang menjadi asas kepada seluruh pegangan agama seorang Muslim. Ia menegaskan dengan tegas bahawa Allah itu Maha Esa yang tidak terbahagi (*ahad*) dan Tunggal (*wahid*).
+Tauhid, yang secara harfiah bermaksud "menyatukan" atau "menjadikan satu", merujuk kepada prinsip monoteisme dalam Islam. Ia merupakan konsep yang paling utama dan terpenting dalam agama ini, yang menjadi asas kepada seluruh pegangan agama seorang Muslim. Ia menegaskan secara mutlak bahawa Allah itu Maha Esa yang tidak terbahagi (*ahad*) dan Tunggal (*wahid*).
 
 Tauhid merupakan rukun yang paling utama dalam pengakuan iman orang Islam. Menurut teologi Islam, ia ialah prinsip asas yang menentukan cara seseorang memahami segala-galanya secara harfiah—ibadah, akhlak, sains, hubungan sesama manusia, tujuan hidup, dan hakikat itu sendiri.
 
@@ -19,7 +19,7 @@ Tauhid merupakan rukun yang paling utama dalam pengakuan iman orang Islam. Menur
 ### Pengisytiharan:
 **Bahasa Arab:** لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ
 
-**Terjemahan:** "Tiada tuhan selain Allah, dan Muhammad ialah utusan-Nya."
+**Terjemahan:** "Tiada Tuhan melainkan Allah, dan Muhammad ialah pesuruh-Nya."
 
 > "Syahadah ialah ungkapan lisan bagi tauhid, yang mengesahkan kepercayaan terhadap keesaan Allah dan kenabian Muhammad (SAW)."
 
@@ -29,13 +29,13 @@ Tauhid merupakan rukun yang paling utama dalam pengakuan iman orang Islam. Menur
 
 > "Para ulama Islam telah mengkategorikan tauhid kepada tiga jenis yang saling berkait."
 
-### 1. Tauhid Rububiyyah (Ketuhanan sebagai Tuan Pemelihara)
-> "Tauhid Rububiyyah merujuk kepada keesaan Allah dari segi kekuasaan-Nya ke atas alam semesta. Ia menekankan bahawa Allah ialah satu-satunya Pencipta, Pemelihara, dan Pengawal segala sesuatu."
+### 1. Tauhid Rububiyyah (Ketuhanan) | Tawhid al-Rububiyyah (Lordship)
+> "Tauhid Rububiyyah merujuk kepada keesaan Allah dari segi kekuasaan-Nya ke atas alam semesta. Ia menekankan bahawa Allah ialah satu-satunya Pencipta, Pemelihara, dan Pentadbir segala sesuatu."
 
-### 2. Tauhid Uluhiyyah (Ibadah)
+### 2. Tauhid Uluhiyyah (Ibadah) | Tawhid al-Uluhiyyah (Worship)
 > "Tauhid Uluhiyyah menegaskan keesaan Allah dalam ibadah. Umat Islam percaya bahawa semua perbuatan ibadah, doa, dan pengabdian mesti ditujukan semata-mata kepada Allah, dengan menolak sebarang bentuk persekutuan atau perkongsian dalam ibadah."
 
-### 3. Tauhid Asma' wa Sifat (Nama-nama dan Sifat-sifat)
+### 3. Tauhid Asma' wa Sifat (Nama-nama dan Sifat-sifat) | Tawhid al-Asma wa Sifat (Names and Attributes)
 > "Tauhid Asma' wa Sifat merujuk kepada keunikan nama-nama dan sifat-sifat Allah. Aspek ini mengakui bahawa Allah memiliki sifat-sifat yang sempurna dan tiada tandingannya."
 
 ---
@@ -47,12 +47,12 @@ Tauhid merupakan rukun yang paling utama dalam pengakuan iman orang Islam. Menur
 ### Jenis-jenis Syirik:
 | Jenis | Penerangan |
 |------|-------------|
-| **Besar (Syirik Akbar)** | Mempersekutukan sekutu dengan Allah dalam ibadah |
-| **Kecil (Syirik Asghar)** | Syirik tersembunyi (riak dalam ibadah) |
+| **Besar (Syirik Akbar)** | Menyekutukan Allah dalam ibadah |
+| **Kecil (Syirik Asghar)** | Syirik yang tersembunyi (riak dalam ibadah) |
 | **Tersembunyi (Syirik Khafi)** | Bentuk halus kesetiaan yang berbelah bahagi |
 
 ### Beratnya Dosa Ini:
-Syirik ialah satu-satunya dosa yang tidak akan diampunkan oleh Allah jika seseorang meninggal dunia tanpa bertaubat daripadanya (al-Quran 4:48).
+Syirik ialah satu-satunya dosa yang tidak akan diampunkan oleh Allah jika seseorang meninggal dunia tanpa bertaubat daripadanya (Surah an-Nisa' 4:48).
 
 ---
 
@@ -83,19 +83,19 @@ Syirik ialah satu-satunya dosa yang tidak akan diampunkan oleh Allah jika seseor
 | **Etika** | Taat kepada perintah Allah |
 | **Undang-undang** | Syariah mencerminkan kehendak Ilahi |
 | **Sains** | Alam semesta mencerminkan keesaan Ilahi |
-| **Masyarakat** | Kesetaraan di hadapan Tuhan Yang Esa |
+| **Masyarakat** | Kesamarataan di hadapan Allah Yang Maha Esa |
 
 ---
 
 ## Istilah Utama | Key Terms
-| Bahasa Arab | Makna |
-|--------|---------|
-| Tawhid (توحيد) | Keesaan Ilahi |
-| Allah (الله) | Tuhan |
-| Shahada (شهادة) | Pengisytiharan iman |
-| Shirk (شرك) | Politeisme |
-| Ahad (أحد) | Satu (pada zat) |
-| Wahid (واحد) | Satu (unik) |
+| Bahasa Arab | Sebutan Melayu | Makna |
+|--------|--------|---------|
+| Tawhid (توحيد) | Tauhid | Keesaan Ilahi |
+| Allah (الله) | Allah | Tuhan |
+| Shahada (شهادة) | Syahadah | Pengisytiharan iman |
+| Shirk (شرك) | Syirik | Menyekutukan Allah |
+| Ahad (أحد) | Ahad | Esa (pada zat) |
+| Wahid (واحد) | Wahid | Esa (tunggal) |
 
 ---
 

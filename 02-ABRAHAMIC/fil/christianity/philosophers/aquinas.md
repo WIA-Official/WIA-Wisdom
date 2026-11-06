@@ -1,6 +1,6 @@
 # Santo Tomas de Aquino (Sanctus Thomas Aquinas) | Thomas Aquinas (Sanctus Thomas Aquinas)
 
-> Ang Anghelikong Doktor: Pananampalataya at Katwiran, Likas na Batas, at ang Limang Daan
+> Ang Doktor na Anghelikal: Pananampalataya at Katwiran, Likas na Batas, at ang Limang Daan
 
 ---
 
@@ -22,8 +22,8 @@ Idineklara siyang Doktor ng Simbahan ni Papa San Pio V noong 1567, at itinuturin
 |-----|----------|------------|
 | **Unang Daan** | Galaw | Dapat may Tagapagpagalaw na Hindi Ginagalaw |
 | **Ikalawang Daan** | Sanhi | Dapat may Unang Sanhi |
-| **Ikatlong Daan** | Kontingensiya | Dapat may Kinakailangang Nilalang |
-| **Ikaapat na Daan** | Antas | Dapat may Pinakamataas na Nilalang |
+| **Ikatlong Daan** | Kontingensiya | Dapat may Kinakailangang Umiiral |
+| **Ikaapat na Daan** | Antas | Dapat may Pinakaganap na Umiiral |
 | **Ikalimang Daan** | Teleolohiya | Dapat may Matalinong Tagadisenyo |
 
 > "Mapatutunayan ang pag-iral ng Diyos sa limang paraan... Ang una at mas hayag na daan ay ang argumento mula sa galaw."
@@ -32,9 +32,9 @@ Idineklara siyang Doktor ng Simbahan ni Papa San Pio V noong 1567, at itinuturin
 
 ## Likas na Batas | Natural Law
 
-> Binuo ni Aquino ang pinakamaimpluwensiyang teorya ng likas na batas sa tradisyong Kanluranin. Ang likas na batas ay ang pakikibahagi ng walang hanggang batas sa mga nilalang na may katwiran.
+> Binuo ni Aquino ang pinakamaimpluwensiyang teorya ng likas na batas sa tradisyong Kanluranin. Ang likas na batas ay ang pakikibahagi ng walang hanggang batas sa mga nilikhang may katwiran.
 
-> "Ang likas na batas ay walang iba kundi ang pakikibahagi ng nilalang na may katwiran sa walang hanggang batas."
+> "Ang likas na batas ay walang iba kundi ang pakikibahagi ng nilikhang may katwiran sa walang hanggang batas."
 
 Apat na uri ng batas:
 1. **Walang Hanggang Batas**: Ang makatwirang plano ng Diyos para sa nilikha

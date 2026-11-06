@@ -14,7 +14,7 @@ Para los cristianos, este acontecimiento no es meramente histórico, sino soteri
 
 ## Centralidad teológica | Theological Centrality
 
-> «La resurrección de Cristo es el acontecimiento central de la fe cristiana y, en verdad, de toda la historia del mundo. Si Jesús no resucitó corporalmente de entre los muertos después de tres días, el cristianismo es falso y todos los hombres siguen muertos en sus pecados».
+> «La resurrección de Cristo es el acontecimiento central de la fe cristiana y, en verdad, de toda la historia del mundo. Si Jesús no resucitó corporalmente de entre los muertos después de tres días, el cristianismo es falso y todas las personas siguen muertas en sus pecados».
 
 ### Por qué importa la resurrección:
 
@@ -32,7 +32,7 @@ Para los cristianos, este acontecimiento no es meramente histórico, sino soteri
 
 > «Por resurrección, los teólogos no entienden algo como vivir para siempre en una existencia espiritual, sino vivir de nuevo de manera corporal después de que el cuerpo ha muerto, volviendo de entre los muertos en cuerpos reales, pero en última instancia en cuerpos transformados».
 
-> «Para la tradición cristiana, la resurrección corporal fue la restauración a la vida de un cuerpo transformado, impulsado por el Espíritu, como lo describen Pablo y los autores de los evangelios, lo cual condujo al establecimiento del cristianismo».
+> «Para la tradición cristiana, la resurrección corporal fue la restauración a la vida de un cuerpo transformado, animado por el espíritu, como lo describen Pablo y los autores de los evangelios, lo cual condujo al establecimiento del cristianismo».
 
 ### No un fantasma:
 
@@ -77,7 +77,7 @@ Para los cristianos, este acontecimiento no es meramente histórico, sino soteri
 
 ### Perspectivas académicas:
 
-> «Según la influyente obra de N. T. Wright, la respuesta de los primeros cristianos fue que Jesús, en efecto, había sido resucitado corporalmente de entre los muertos; por eso lo aclamaban como el "hijo de Dios" mesiánico. Ningún historiador moderno ha propuesto una explicación más convincente».
+> «Según la influyente obra de N. T. Wright, la respuesta de los primeros cristianos fue que Jesús, en efecto, había sido resucitado corporalmente de entre los muertos; por eso lo aclamaban como el “hijo de Dios” mesiánico. Ningún historiador moderno ha propuesto una explicación más convincente».
 
 ---
 
@@ -104,7 +104,7 @@ Para los cristianos, este acontecimiento no es meramente histórico, sino soteri
 | Español | Griego | Significado |
 |---------|--------|-------------|
 | Resurrección | Anastasis | Levantarse de nuevo |
-| Pascua de Resurrección | Pascha | Pascua / fiesta de la Resurrección |
+| Pascua de Resurrección | Pascha | Pascua judía / fiesta de la Resurrección |
 | Sepulcro vacío | - | Lugar de la resurrección |
 | Aparición | - | Manifestación posterior a la resurrección |
 | Nueva creación | - | Cosmos renovado |

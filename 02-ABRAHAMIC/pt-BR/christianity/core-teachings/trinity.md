@@ -6,7 +6,7 @@
 
 ## Visão Geral | Overview
 
-A Trindade é a doutrina central do cristianismo tradicional, que afirma que Deus existe como três pessoas distintas — Pai, Filho (Jesus Cristo) e Espírito Santo — que são um só em essência, natureza e ser. Essa doutrina distingue o cristianismo das demais religiões monoteístas e foi afirmada por concílios ecumênicos desde o século IV.
+A Trindade é a doutrina central do cristianismo majoritário, que afirma que Deus existe como três pessoas distintas — Pai, Filho (Jesus Cristo) e Espírito Santo — que são um só em essência, natureza e ser. Essa doutrina distingue o cristianismo das demais religiões monoteístas e foi afirmada por concílios ecumênicos desde o século IV.
 
 Embora a palavra "Trindade" não apareça na Bíblia, os cristãos creem que o conceito é revelado ao longo de toda a Escritura. A doutrina foi formalmente articulada para explicar como Deus pode ser um só e, ao mesmo tempo, Pai, Filho e Espírito — cada um plenamente divino, e, no entanto, não três deuses, mas um só Deus.
 
@@ -27,7 +27,7 @@ Embora a palavra "Trindade" não apareça na Bíblia, os cristãos creem que o c
 1. **Um só Deus**: Há somente um Deus (monoteísmo)
 2. **Três Pessoas**: O Pai, o Filho e o Espírito são pessoas distintas
 3. **Plena Divindade**: Cada pessoa é plenamente Deus
-4. **Co-iguais**: As pessoas são iguais em glória e majestade
+4. **Coiguais**: As pessoas são iguais em glória e majestade
 5. **Coeternas**: Nenhuma existe antes ou depois das outras
 
 ---
@@ -38,7 +38,7 @@ Embora a palavra "Trindade" não apareça na Bíblia, os cristãos creem que o c
 
 > **Mateus 28:19**: "Ide, portanto, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo."
 
-> **2 Coríntios 13:13**: "A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo sejam com todos vós."
+> **2 Coríntios 13:13**: "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós."
 
 > **João 1:1**: "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
 
@@ -59,7 +59,7 @@ Embora a palavra "Trindade" não apareça na Bíblia, os cristãos creem que o c
 
 ### Termos-Chave:
 - **Homoousios** (ὁμοούσιος): "Da mesma substância" - o Pai e o Filho compartilham a mesma essência divina
-- **Hypostasis** (ὑπόστασις): Pessoa ou subsistência - a existência distinta de cada pessoa
+- **Hipóstase** (ὑπόστασις): Pessoa ou subsistência - a existência distinta de cada pessoa
 
 ---
 
@@ -71,18 +71,18 @@ Embora a palavra "Trindade" não apareça na Bíblia, os cristãos creem que o c
 - As pessoas se distinguem por suas relações
 
 ### O que a Trindade NÃO É:
-- ❌ **Modalismo**: Deus alternando entre três "modos"
+- ❌ **Modalismo**: Deus que alterna entre três "modos"
 - ❌ **Triteísmo**: Três deuses separados
 - ❌ **Arianismo**: O Filho como ser criado
 - ❌ **Subordinacionismo**: O Filho ou o Espírito como inferiores ao Pai
 
 ---
 
-## Perspectivas das Tradições | Denominational Perspectives
+## Perspectivas Confessionais | Denominational Perspectives
 
 | Tradição | Ênfase |
 |----------|--------|
-| **Igreja Ortodoxa Oriental** | O Espírito procede somente do Pai (sem o Filioque) |
+| **Igreja Ortodoxa** | O Espírito procede somente do Pai (sem o Filioque) |
 | **Igreja Católica Romana** | O Espírito procede do Pai e do Filho (Filioque) |
 | **Protestante** | Geralmente segue a formulação ocidental |
 

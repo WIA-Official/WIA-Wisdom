@@ -6,21 +6,21 @@
 
 ## Muhtasari | Overview
 
-Ramadhani (Kiarabu: رمضان) ni mwezi wa tisa katika kalenda ya mwezi ya Kiislamu na mwezi mtukufu zaidi katika Uislamu. Katika mwezi huu, Waislamu kote ulimwenguni hufunga (sawm) tangu alfajiri hadi machweo, ambayo ni moja ya Nguzo Tano za Uislamu. Zaidi ya kujizuia na chakula na kinywaji, Ramadhani ni mwezi wa utakaso wa kiroho, tafakari, ibada zaidi, na kuimarisha uhusiano na Allah (SWT).
+Ramadhani (Kiarabu: رمضان) ni mwezi wa tisa katika kalenda ya Kiislamu ya kuandama mwezi na mwezi mtukufu zaidi katika Uislamu. Katika mwezi huu, Waislamu kote ulimwenguni hufunga (sawm) tangu alfajiri hadi machweo, jambo ambalo ni mojawapo ya Nguzo Tano za Uislamu. Zaidi ya kujizuia na chakula na kinywaji, Ramadhani ni mwezi wa utakaso wa kiroho, tafakari, ibada zaidi, na kuimarisha uhusiano na Allah (SWT).
 
-Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya "joto kali" au "kuungua"—likirejea jinsi funga inavyochoma dhambi, kuleta joto la kiroho, na kuongeza ibada. Muhimu zaidi, Ramadhani ndio mwezi ambao Qur'ani ilishushwa kwa mara ya kwanza kwa Mtume Muhammad, na hivyo kuufanya kuwa mwezi wenye uhusiano maalum na ufunuo wa Mwenyezi Mungu.
+Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya "joto kali" au "kuungua"—likirejea jinsi funga inavyochoma dhambi, kuleta joto la kiroho, na kuongeza ibada. Muhimu zaidi, Ramadhani ndio mwezi ambao Qur'ani iliteremshwa kwa mara ya kwanza kwa Mtume Muhammad, na hivyo kuufanya kuwa mwezi wenye uhusiano maalum na ufunuo wa Mwenyezi Mungu.
 
 ---
 
 ## Msingi wa Qur'ani | Quranic Foundation
 
-> "Ni mwezi wa Ramadhani ambao ndani yake Qur'ani ilishushwa kwa mara ya kwanza kuwa uongofu kwa watu wote, ikiwa na ndani yake hoja wazi za uongofu wa Mwenyezi Mungu na kipimo cha haki na batili." (Qur'ani 2:185)
+> "Mwezi wa Ramadhani ndio ambao ndani yake Qur'ani iliteremshwa kwa mara ya kwanza kuwa uwongofu kwa watu wote, na hoja zilizo wazi za uwongofu wa Mwenyezi Mungu, na upambanuzi wa haki na batili." (Qur'ani 2:185)
 
-### Laylat al-Qadr (Usiku wa Cheo):
-- Usiku ambao Qur'ani ilishushwa kwa mara ya kwanza
-- Huangukia ndani ya siku kumi za mwisho za Ramadhani
+### Laylatul-Qadr (Usiku wa Cheo):
+- Usiku ambao Qur'ani iliteremshwa kwa mara ya kwanza
+- Huangukia ndani ya masiku kumi ya mwisho ya Ramadhani
 - "Bora kuliko miezi elfu" (Qur'ani 97:3)
-- Malaika hushuka na baraka za Mwenyezi Mungu
+- Malaika huteremka na baraka za Mwenyezi Mungu
 
 ---
 
@@ -37,9 +37,9 @@ Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya
 | **Utegemezi** | Kutambua kumtegemea Allah |
 
 ### Thawabu za Mwenyezi Mungu:
-> "Mwenyezi Mungu husemekana husamehe dhambi zilizopita za wale wanaouadhimisha mwezi mtukufu kwa funga, swala, na nia ya imani."
+> "Imesemekana kwamba Mwenyezi Mungu huwasamehe dhambi zao zilizopita wale wanaoutukuza mwezi mtukufu kwa funga, swala na nia ya imani."
 
-> "Kila tendo analolifanya mwanadamu ni kwa ajili yake mwenyewe—isipokuwa funga, ambayo ni kwa ajili ya Allah naye Mwenyewe ndiye malipo yake."
+> "Kila tendo analolifanya mwanadamu ni kwa ajili yake mwenyewe—isipokuwa funga, ambayo ni kwa ajili ya Allah, naye Mwenyewe ndiye malipo yake."
 
 ---
 
@@ -48,7 +48,7 @@ Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya
 ### Masharti:
 - **Kuanza**: Kabla ya alfajiri (Fajr)
 - **Kumaliza**: Wakati wa machweo (Maghrib)
-- **Kujizuia na**: Chakula, kinywaji, uvutaji sigara, mahusiano ya kimwili
+- **Kujizuia na**: Chakula, kinywaji, uvutaji sigara, tendo la ndoa
 - **Muda**: Mwezi mzima (siku 29-30)
 
 ### Ratiba ya Kila Siku:
@@ -69,16 +69,16 @@ Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya
 ## Ibada | Worship Practices
 
 ### Swala za Tarawehe:
-> "Katika Ramadhani, Waislamu wengi huenda msikitini na kutumia saa kadhaa kuswali. Kwa kuongezea swala tano za kila siku, Waislamu husoma swala maalum inayoitwa swala ya Tarawehe."
+> "Katika Ramadhani, Waislamu wengi huenda msikitini na kutumia saa kadhaa kuswali. Kwa kuongezea swala tano za kila siku, Waislamu huswali swala maalum inayoitwa swala ya Tarawehe."
 
 ### Ibada Zilizoongezwa:
 | Ibada | Maelezo |
 |----------|-------------|
-| **Kusoma Qur'ani** | Kuikamilisha kwa kuisoma katika mwezi mzima |
+| **Kusoma Qur'ani** | Kuihitimisha Qur'ani nzima ndani ya mwezi |
 | **Tarawehe** | Swala za usiku zilizorefushwa |
-| **I'tikaf** | Kujitenga kiroho msikitini (siku 10 za mwisho) |
+| **Itikafu** | Kujitenga kiroho msikitini (siku 10 za mwisho) |
 | **Sadaka** | Kuongeza utoaji wa sadaka |
-| **Dhikr** | Kumkumbuka Allah |
+| **Dhikri** | Kumkumbuka Allah |
 
 ---
 
@@ -87,7 +87,7 @@ Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya
 > "Funga huwawezesha waumini kuhisi njaa na kiu, na hivyo kujenga huruma kwa wasiobahatika."
 
 ### Vipengele vya Kijamii:
-- Kupitia yale wanayoyastahimili maskini
+- Kuonja yale wanayoyastahimili maskini
 - Daraja kati ya tajiri na maskini
 - Kukuza umoja na huruma
 - Shukrani kwa neema
@@ -95,12 +95,12 @@ Neno "Ramadhani" linatokana na mzizi wa Kiarabu "ramdh" (رمض), wenye maana ya
 
 ---
 
-## Eid al-Fitr | Eid al-Fitr
+## Idd al-Fitr | Eid al-Fitr
 
-Mwezi huisha kwa Eid al-Fitr ("Sikukuu ya Kufungua Funga"):
+Mwezi huhitimishwa kwa Idd al-Fitr ("Sikukuu ya Kufungua Funga"):
 - Siku tatu za sherehe
 - Swala maalum ya jamaa
-- Zakat al-Fitr (sadaka kwa maskini)
+- Zaka ya Fitri (sadaka kwa maskini)
 - Karamu na kutembelea jamaa
 - Kubadilishana zawadi
 
@@ -116,7 +116,7 @@ Mwezi huisha kwa Eid al-Fitr ("Sikukuu ya Kufungua Funga"):
 | إفطار (Iftar) | Iftari | Kufungua funga |
 | تقوى (Taqwa) | Taqwa | Kumcha Mungu |
 | تراويح (Tarawih) | Tarawehe | Swala za usiku |
-| ليلة القدر (Laylat al-Qadr) | Lailat al-Qadr | Usiku wa Cheo |
+| ليلة القدر (Laylat al-Qadr) | Laylatul-Qadr | Usiku wa Cheo |
 
 ---
 
@@ -128,4 +128,4 @@ Mwezi huisha kwa Eid al-Fitr ("Sikukuu ya Kufungua Funga"):
 
 ---
 
-*弘益人間 - Wanufaishe wanadamu*
+*弘益人間 - Kuinufaisha binadamu wote*

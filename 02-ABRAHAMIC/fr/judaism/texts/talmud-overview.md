@@ -31,10 +31,10 @@ Pendant des siècles, la Torah orale a été transmise par la mémorisation. Ce 
 
 ### La Michna (משנה) | The Mishnah
 
-- Compilée vers 200 de l'ère commune par rabbi Juda le Prince (Juda ha-Nassi)
+- Compilée vers 200 de l'ère commune par Rabbi Yehouda ha-Nassi (Juda le Prince)
 - Organisée en 6 ordres (Sedarim) et 63 traités (Massekhtot)
 - Première codification systématique de la loi orale juive
-- Rédigée en hébreu mishnaïque
+- Rédigée en hébreu michnique
 
 ### Les six ordres : | The Six Orders:
 
@@ -42,9 +42,9 @@ Pendant des siècles, la Torah orale a été transmise par la mémorisation. Ce 
 |-------|-------|
 | Zeraïm (Semences) | Lois agricoles, bénédictions |
 | Moed (Fêtes) | Chabbat, fêtes |
-| Nashim (Femmes) | Mariage, divorce |
+| Nachim (Femmes) | Mariage, divorce |
 | Nezikin (Dommages) | Droit civil et pénal |
-| Kodashim (Choses saintes) | Service du Temple, sacrifices |
+| Kodachim (Choses saintes) | Service du Temple, sacrifices |
 | Tohorot (Puretés) | Pureté rituelle |
 
 ### La Guemara (גמרא) | The Gemara
@@ -76,7 +76,7 @@ Les rabbins du Talmud se répartissent en deux groupes :
 
 - Ont vécu à l'époque de la Michna (vers 10-220 de l'ère commune)
 - Leurs opinions figurent dans la Michna
-- Exemples : Hillel, Chammaï, rabbi Akiva
+- Exemples : Hillel, Chammaï, Rabbi Akiva
 
 ### Les Amoraïm (les interprètes) | Amoraim (Interpreters)
 
@@ -134,7 +134,7 @@ L'étude du Talmud demeure au cœur de l'éducation juive :
 - **Havrouta** (étude en partenariat) : étude traditionnelle en binômes
 - **Recherche moderne** : approches historico-critiques
 
-L'achèvement d'un cycle de Daf Yomi est célébré par de grands rassemblements appelés Siyoum HaShas.
+L'achèvement d'un cycle de Daf Yomi est célébré par de grands rassemblements appelés Siyoum HaChass.
 
 ---
 

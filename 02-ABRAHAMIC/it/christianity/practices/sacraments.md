@@ -8,7 +8,7 @@
 
 I sacramenti sono riti sacri del cristianesimo, considerati segni visibili e canali efficaci della grazia di Dio per tutti coloro che li ricevono con le dovute disposizioni. La parola «sacramento» deriva dal latino *sacramentum*, che significa giuramento sacro o mistero.
 
-Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occidente: battesimo, confermazione, Eucaristia, penitenza, ordine sacro, matrimonio e unzione degli infermi (allora detta «estrema unzione»). Essi furono ribaditi dal Concilio di Trento (1545-63). Le Chiese protestanti classiche (luterana, anglicana, riformata) riconoscono soltanto due sacramenti, il battesimo e l'Eucaristia, in quanto istituiti da Cristo nei Vangeli.
+Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occidente: battesimo, confermazione, Eucaristia, penitenza, ordine sacro, matrimonio ed estrema unzione. Essi furono ribaditi dal Concilio di Trento (1545–1563). Le Chiese protestanti classiche (luterana, anglicana, riformata) riconoscono soltanto due sacramenti, il battesimo e l'Eucaristia, in quanto istituiti da Cristo nei Vangeli.
 
 ---
 ## Classificazione dei sacramenti | Classification of Sacraments
@@ -22,7 +22,7 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 ---
 ## I sette sacramenti | The Seven Sacraments
 
-### 1. Battesimo (世洗):
+### 1. Battesimo:
 > «Con il Battesimo diventiamo membra della Chiesa, Corpo di Cristo.»
 
 - Ingresso nella comunità cristiana
@@ -37,7 +37,7 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 - Unzione con olio sacro (crisma)
 
 ### 3. Eucaristia:
-> «Fonte e culmine della vita cristiana»
+> «Fonte e apice della vita cristiana»
 
 - Partecipazione al corpo e al sangue di Cristo
 - Memoriale del sacrificio di Cristo
@@ -71,14 +71,14 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 ---
 ## Comprensione teologica | Theological Understanding
 
-### Visione cattolica:
+### Concezione cattolica:
 > «I sette sacramenti sono cerimonie che rimandano a ciò che è sacro, significativo e importante per i cristiani. Sono occasioni speciali per sperimentare la presenza salvifica di Dio.»
 
 - I sacramenti conferiscono la grazia *ex opere operato* (in virtù dell'opera compiuta)
 - Sono validi quando sono presenti la forma, la materia e l'intenzione dovute
 - Sono stati istituiti da Cristo
 
-### Visioni protestanti:
+### Concezioni protestanti:
 | Tradizione | Sacramenti | Comprensione |
 |-----------|------------|---------------|
 | **Luterana** | Battesimo, Eucaristia, (Penitenza) | Mezzi di grazia |
@@ -100,9 +100,9 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 | **Candela** | Luce di Cristo |
 
 ### Eucaristia:
-> «Durante la messa il sacerdote consacra il pane e il vino, che vengono transustanziati nel corpo e nel sangue di Cristo.»
+> «Durante la Messa il sacerdote consacra il pane e il vino, che vengono transustanziati nel corpo e nel sangue di Cristo.»
 
-| Elemento | Visione cattolica | Visione protestante |
+| Elemento | Concezione cattolica | Concezione protestante |
 |---------|---------------|-----------------|
 | **Pane** | Diventa il corpo di Cristo | Memoriale/presenza spirituale |
 | **Vino** | Diventa il sangue di Cristo | Memoriale/presenza spirituale |
@@ -110,11 +110,11 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 ---
 ## Differenze tra le confessioni | Denominational Differences
 
-| Tradizione | Numero | Visione |
+| Tradizione | Numero | Concezione |
 |-----------|--------|------|
 | **Cattolica romana** | 7 | Canali di grazia istituiti da Cristo |
-| **Ortodossa orientale** | 7 (Misteri) | Misteri divini per la salvezza |
-| **Luterana** | 2-3 | Promesse del Vangelo con elementi visibili |
+| **Ortodossa** | 7 (Misteri) | Misteri divini per la salvezza |
+| **Luterana** | 2–3 | Promesse del Vangelo con elementi visibili |
 | **Riformata/Presbiteriana** | 2 | Segni e sigilli della grazia dell'alleanza |
 | **Metodista** | 2 | Mezzi di grazia |
 | **Battista** | 2 (Ordinanze) | Atti simbolici di obbedienza |
@@ -127,7 +127,7 @@ Nel XII secolo Pietro Lombardo definì sette sacramenti per la Chiesa d'Occident
 | Sacramentum | Segno sacro |
 | Baptisma | Immersione |
 | Eucharistia | Rendimento di grazie |
-| Poenitentia | Penitenza |
+| Poenitentia | Pentimento |
 | Chrismatio | Unzione |
 | Ordo | Ordine sacro |
 | Matrimonium | Matrimonio |

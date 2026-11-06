@@ -6,7 +6,7 @@
 
 ## Panoramica | Overview
 
-La risurrezione di Gesù è la fede cristiana secondo cui Dio ha risuscitato Gesù dai morti il terzo giorno dopo la sua crocifissione, dando inizio — o restituendo — alla sua vita gloriosa come Cristo e Signore. Nella teologia cristiana la risurrezione è «il mistero centrale della fede cristiana».
+La risurrezione di Gesù è la verità di fede cristiana secondo cui Dio ha risuscitato Gesù dai morti il terzo giorno dopo la sua crocifissione, inaugurando — o restituendogli — la sua vita gloriosa come Cristo e Signore. Nella teologia cristiana la risurrezione è «il mistero centrale della fede cristiana».
 
 Per i cristiani questo evento non è soltanto storico, ma soteriologico: è il fondamento della salvezza, la sconfitta della morte e la promessa di una vita nuova per tutti i credenti.
 
@@ -72,7 +72,7 @@ Per i cristiani questo evento non è soltanto storico, ma soteriologico: è il f
 | **Posizione di N.T. Wright** | Evento storico; corpo trasformato |
 
 ### Prospettive degli studiosi:
-> «Secondo l'influente opera di N.T. Wright, la risposta dei primi cristiani fu che Gesù era stato davvero risuscitato corporalmente dai morti; per questo lo acclamavano come "figlio di Dio" messianico. Nessuno storico moderno ha proposto una spiegazione più convincente.»
+> «Secondo l'influente opera di N.T. Wright, la risposta dei primi cristiani fu che Gesù era stato davvero risuscitato corporalmente dai morti; per questo lo acclamavano come “figlio di Dio” messianico. Nessuno storico moderno ha proposto una spiegazione più convincente.»
 
 ---
 
@@ -82,12 +82,12 @@ Per i cristiani questo evento non è soltanto storico, ma soteriologico: è il f
 - **Matteo 28**: un angelo alla tomba vuota; Gesù appare
 - **Marco 16**: le donne alla tomba; timore e stupore
 - **Luca 24**: la strada di Emmaus; apparizioni fisiche
-- **Giovanni 20-21**: i dubbi di Tommaso; la colazione sul lago
+- **Giovanni 20-21**: i dubbi di Tommaso; il pasto sulla riva del lago
 
 ### La testimonianza di Paolo (1 Corinzi 15,3-8):
 - Cristo morì per i peccati
 - Fu sepolto
-- Fu risuscitato il terzo giorno
+- È risorto il terzo giorno
 - Apparve a molti testimoni
 
 ---
@@ -95,7 +95,7 @@ Per i cristiani questo evento non è soltanto storico, ma soteriologico: è il f
 ## Termini chiave | Key Terms
 | Italiano | Greco | Significato |
 |----------|-------|-------------|
-| Risurrezione | Anastasis | Risorgere di nuovo |
+| Risurrezione | Anastasis | Il risorgere, il rialzarsi |
 | Pasqua | Pascha | Passaggio / festa della Risurrezione |
 | Tomba vuota | - | Luogo della risurrezione |
 | Apparizione | - | Manifestazione dopo la risurrezione |

@@ -29,7 +29,7 @@ Nur *agape* und *philia* (und davon abgeleitete Formen) kommen im Neuen Testamen
 ---
 ## Agape und andere Formen der Liebe | Agape vs. Other Loves
 
-Der schwedische Theologe Anders Nygren stellte in seinem einflussreichen Werk *Agape und Eros* (1930–1936) Agape und Eros scharf einander gegenüber:
+Der schwedische Theologe Anders Nygren stellte in seinem einflussreichen Werk *Eros und Agape* (1930–1936) Agape und Eros scharf einander gegenüber:
 
 | Aspekt | Eros | Agape |
 |--------|------|-------|
@@ -39,24 +39,24 @@ Der schwedische Theologe Anders Nygren stellte in seinem einflussreichen Werk *A
 | **Ziel** | Sucht zu erwerben/zu besitzen | Sucht zu geben/zu dienen |
 | **Quelle** | Menschliches Begehren | Göttliche Initiative |
 
-Obwohl manche Gelehrte die Schärfe dieser Unterscheidung diskutieren, hebt der Gegensatz hervor, was an der Agape unterscheidend ist: Sie entspringt dem Wesen des Liebenden, nicht der Würdigkeit des Geliebten.
+Obwohl manche Gelehrte die Schärfe dieser Unterscheidung diskutieren, hebt der Gegensatz hervor, was die Agape auszeichnet: Sie entspringt dem Wesen des Liebenden, nicht der Würdigkeit des Geliebten.
 
 ---
 ## Biblische Grundlagen | Biblical Foundations
-### Gottes Agape für die Menschheit | God's Agape for Humanity
+### Gottes Agape zur Menschheit | God's Agape for Humanity
 
-**Johannes 3,16** — „Denn so sehr hat Gott die Welt geliebt (*ēgapēsen*), dass er seinen einzigen Sohn hingab, damit alle, die an ihn glauben, nicht verloren gehen, sondern ewiges Leben haben.“
+**Johannes 3,16** — „Denn so sehr hat Gott die Welt geliebt (*ēgapēsen*), dass er seinen einzigen Sohn hingab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat.“
 
 **Römer 5,8** — „Gott aber erweist seine Liebe (*agapēn*) zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren.“
 
-**1. Johannes 4,8-10** — „Wer nicht liebt, hat Gott nicht erkannt; denn Gott ist Liebe (*agapē*). Darin ist die Liebe Gottes unter uns erschienen, dass Gott seinen einzigen Sohn in die Welt gesandt hat, damit wir durch ihn leben.“
+**1. Johannes 4,8-10** — „Wer nicht liebt, hat Gott nicht erkannt; denn Gott ist Liebe (*agapē*). Darin offenbarte sich die Liebe Gottes unter uns, dass Gott seinen einzigen Sohn in die Welt gesandt hat, damit wir durch ihn leben.“
 
 ---
 ### Das Hauptgebot | The Great Commandment
 
-**Matthäus 22,37-39** — „Du sollst den Herrn, deinen Gott, lieben (*agapēseis*) mit deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Denken. Das ist das größte und erste Gebot. Das zweite aber ist ihm gleich: Du sollst deinen Nächsten lieben (*agapēseis*) wie dich selbst.“
+**Matthäus 22,37-39** — „Du sollst den Herrn, deinen Gott, lieben (*agapēseis*) mit ganzem Herzen, mit ganzer Seele und mit deinem ganzen Denken. Das ist das wichtigste und erste Gebot. Ebenso wichtig ist das zweite: Du sollst deinen Nächsten lieben (*agapēseis*) wie dich selbst.“
 
-Jesus zitiert hier das Schema Jisrael (Deuteronomium 6,5) und verbindet es mit Levitikus 19,18, sodass die Liebe zur Zusammenfassung des gesamten göttlichen Gesetzes wird.
+Jesus zitiert hier das Schma Israel (Deuteronomium 6,5) und verbindet es mit Levitikus 19,18, sodass die Liebe zur Zusammenfassung des gesamten göttlichen Gesetzes wird.
 
 ---
 ### Feindesliebe | Love of Enemies
@@ -109,7 +109,7 @@ Christliche Liebe ist nicht einfach menschliche Wärme, sondern Liebe nach dem V
 
 4. **Martin Luther**: Unterscheidung zwischen Gottes Liebe (die Wert schafft) und menschlicher Liebe (die auf Wert antwortet).
 
-5. **Anders Nygren**: *Agape und Eros* (1930er Jahre) – einflussreicher Gegensatz zwischen sich hingebender Agape und selbstsuchendem Eros.
+5. **Anders Nygren**: *Eros und Agape* (1930er Jahre) – einflussreicher Gegensatz zwischen sich hingebender Agape und selbstsuchendem Eros.
 
 6. **Papst Benedikt XVI.**: *Deus caritas est* (2005) – vertrat, dass Eros und Agape in der echten Liebe zusammengeführt werden können.
 
@@ -127,7 +127,7 @@ Christliche Liebe ist nicht einfach menschliche Wärme, sondern Liebe nach dem V
 Die Agape-Liebe verwandelt den Alltag:
 
 1. **Liebe über das Gefühl stellen** - Liebe ist eine Verpflichtung, nicht nur eine Emotion
-2. **Das Schwierige lieben** - Agape gilt besonders denen, die es nicht verdienen
+2. **Die Schwierigen lieben** - Agape gilt besonders denen, die es nicht verdienen
 3. **Geben, ohne etwas zurückzuerwarten** - Wahre Agape ist kein Tauschgeschäft
 4. **Andere so sehen, wie Gott sie sieht** - Jeder Mensch ist von Gott geliebt
 5. **Aufopferungsvoll dienen** - Jesus nachzufolgen heißt, unser Leben hinzugeben
@@ -138,7 +138,7 @@ Die Agape-Liebe verwandelt den Alltag:
 ## Querverweise | Cross-References
 
 - **[Dreifaltigkeit](./trinity.md)**: Die innertrinitarische Liebe, die die Quelle der Agape ist
-- **[Schema Jisrael (Judentum)](../judaism/core-teachings/shema.md)**: Das Gebot, Gott mit dem ganzen Wesen zu lieben
+- **[Schma Israel (Judentum)](../judaism/core-teachings/shema.md)**: Das Gebot, Gott mit dem ganzen Wesen zu lieben
 - **[Metta (Buddhismus)](../../../01-DHARMIC/buddhism/practices/metta.md)**: Buddhistische Meditation der liebenden Güte
 - **[Ren (Konfuzianismus)](../../../03-EAST-ASIAN/confucianism/core-teachings/ren.md)**: Konfuzianische Güte/Menschlichkeit
 ---

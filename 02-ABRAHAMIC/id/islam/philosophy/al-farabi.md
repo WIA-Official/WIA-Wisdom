@@ -8,7 +8,7 @@
 
 Abu Nasr al-Farabi (sekitar 872–950 M), yang dikenal sebagai "Guru Kedua" (setelah Aristoteles), adalah seorang filsuf Islam awal yang termasyhur dan memberi sumbangan besar bagi filsafat politik, metafisika, logika, dan filsafat musik. Ia terutama dikenal karena upayanya menyelaraskan filsafat Plato dan Aristoteles.
 
-> Karya al-Farabi, *Kota Utama* (*al-Madina al-Fadila*), menyesuaikan *Republik* karya Plato dengan konteks Islam, dengan menggambarkan negara ideal yang dipimpin oleh seorang filsuf-nabi yang memadukan kebijaksanaan filosofis dengan wahyu kenabian.
+> Karya al-Farabi, *Kota Utama* (*al-Madinah al-Fadhilah*), menyesuaikan *Republik* karya Plato dengan konteks Islam, dengan menggambarkan negara ideal yang dipimpin oleh seorang filsuf-nabi yang memadukan kebijaksanaan filosofis dengan wahyu kenabian.
 
 Karyanya sangat memengaruhi para filsuf Islam sesudahnya, termasuk Ibnu Sina (Avicenna) dan Ibnu Rusyd (Averroes), serta para skolastik Yahudi dan Kristen.
 
@@ -32,7 +32,7 @@ Struktur kota:
 
 > Sumbangan al-Farabi yang paling inovatif adalah teorinya tentang kenabian sebagai kesempurnaan alami jiwa manusia.
 
-> Nabi menerima kebenaran melalui imajinasi dan wahyu, sedangkan filsuf mencapainya melalui demonstrasi rasional. Keduanya sampai pada kebenaran yang sama, tetapi melalui jalan yang berbeda.
+> Nabi menerima kebenaran melalui imajinasi dan wahyu, sedangkan filsuf mencapainya melalui pembuktian rasional. Keduanya sampai pada kebenaran yang sama, tetapi melalui jalan yang berbeda.
 
 Sang nabi-filsuf:
 - Menerima kebenaran dari Akal Aktif
@@ -40,13 +40,13 @@ Sang nabi-filsuf:
 - Memerintah kota ideal
 - Menyatukan kontemplasi dan tindakan
 
-> "Nabi adalah filsuf yang berbicara dengan gambaran; filsuf adalah nabi yang berbicara dengan demonstrasi."
+> "Nabi adalah filsuf yang berbicara dengan gambaran; filsuf adalah nabi yang berbicara dengan pembuktian rasional."
 
 ---
 
 ## Keselarasan Plato dan Aristoteles | Harmonizing Plato and Aristotle
 
-> Al-Farabi menulis sebuah risalah tentang "Keselarasan Plato dan Aristoteles", yang berargumen bahwa pertentangan yang tampak di antara keduanya bersifat dangkal.
+> Al-Farabi menulis sebuah risalah tentang "Keselarasan Plato dan Aristoteles", yang menegaskan bahwa pertentangan yang tampak di antara keduanya bersifat dangkal.
 
 > "Tujuan keduanya sama, dan tidak ada perbedaan pendapat di antara keduanya."
 
@@ -65,7 +65,7 @@ Sintesisnya:
 Emanasi:
 1. **Yang Esa/Sebab Pertama** →
 2. **Akal Pertama** →
-3. **Bola-Bola Langit** →
+3. **Falak-Falak Langit** →
 4. **Akal Aktif** →
 5. **Jiwa Manusia**
 
@@ -88,7 +88,7 @@ Ia juga menulis secara luas tentang logika, mengklasifikasikan ilmu-ilmu dan men
 - [[04-HELLENIC/classical/philosophers/plato|Plato]] - Filsafat politik
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristoteles]] - "Guru Pertama"
 - [[02-ABRAHAMIC/islam/philosophy/averroes|Ibnu Rusyd (Averroes)]] - Perkembangan selanjutnya
-- [[02-ABRAHAMIC/islam/philosophy/avicenna|Ibnu Sina (Avicenna)]] - Murid dari karyanya
+- [[02-ABRAHAMIC/islam/philosophy/avicenna|Ibnu Sina (Avicenna)]] - Berguru pada karya-karyanya
 
 ---
 

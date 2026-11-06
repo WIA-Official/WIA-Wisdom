@@ -8,7 +8,7 @@
 
 Al-Qur'an (bahasa Arab: القرآن, al-Qur'ān, "Bacaan") adalah teks keagamaan utama dalam Islam, yang diyakini oleh umat Muslim sebagai firman Allah secara harfiah yang diwahyukan kepada Nabi Muhammad melalui malaikat Jibril (Jibrīl). Wahyu itu turun selama kurang lebih 23 tahun, dimulai pada tahun 610 M ketika Muhammad berusia 40 tahun, dan berakhir pada tahun 632 M, tahun wafatnya.
 
-Al-Qur'an dipandang sebagai wahyu yang terakhir dan sempurna, yang membenarkan serta menggantikan kitab-kitab sebelumnya, termasuk Taurat dan Injil. Al-Qur'an menjadi sumber utama hukum Islam (Syariat, Sharīʿah), teologi, dan petunjuk bagi seluruh aspek kehidupan umat Muslim.
+Al-Qur'an dipandang sebagai wahyu yang terakhir dan sempurna, yang membenarkan serta menggantikan kitab-kitab sebelumnya, termasuk Taurat dan Injil. Al-Qur'an menjadi sumber utama hukum Islam (syariat, Sharīʿah), teologi, dan petunjuk bagi seluruh aspek kehidupan umat Muslim.
 
 ---
 
@@ -34,7 +34,7 @@ Umat Muslim meyakini bahwa Al-Qur'an diwahyukan kepada Muhammad di kota Makkah d
 
 Lima ayat pertama Surah Al-'Alaq (96:1-5) diyakini sebagai wahyu pertama, yang diterima ketika Muhammad sedang berkhalwat di Gua Hira:
 
-> "Bacalah! Dengan nama Tuhanmu yang menciptakan—menciptakan manusia dari segumpal darah yang melekat. Bacalah! Dan Tuhanmu Maha Pemurah."
+> "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan—Dia telah menciptakan manusia dari segumpal darah. Bacalah, dan Tuhanmulah Yang Mahamulia."
 
 ### Surah Makkiyah dan Madaniyah | Meccan vs. Medinan Surahs
 
@@ -47,7 +47,7 @@ Lima ayat pertama Surah Al-'Alaq (96:1-5) diyakini sebagai wahyu pertama, yang d
 
 ### 1. Tauhid (Keesaan Allah) | 1. Tawḥīd (Oneness of God)
 
-Monoteisme mutlak dalam Islam—Allah itu Esa, tiada tara, dan tiada sekutu bagi-Nya.
+Tauhid yang mutlak dalam Islam—Allah itu Esa, tiada tara, dan tiada sekutu bagi-Nya.
 
 ### 2. Kenabian (Nubuwwah) | 2. Prophethood (Nubuwwah)
 
@@ -121,7 +121,7 @@ Tilawah dipandang sebagai ibadah, dan pembacaan Al-Qur'an yang indah sangat diha
 | 12 | Yūsuf (Yusuf) | Kisah yang utuh dan berkesinambungan |
 | 36 | Yā-Sīn | Disebut "Jantung Al-Qur'an" |
 | 55 | Ar-Raḥmān (Yang Maha Pengasih) | Gambaran indah tentang nikmat-nikmat |
-| 112 | Al-Ikhlāṣ (Memurnikan Keesaan Allah) | Inti tauhid |
+| 112 | Al-Ikhlāṣ (Ikhlas) | Inti tauhid |
 
 ---
 
@@ -134,7 +134,7 @@ Tilawah dipandang sebagai ibadah, dan pembacaan Al-Qur'an yang indah sangat diha
 | Āyah | Ayat | Ayat, tanda |
 | Waḥy | Wahyu | Wahyu ilahi |
 | Ḥāfiẓ | Hafiz | Penghafal Al-Qur'an |
-| Tajwīd | Tajwid | Seni tilawah |
+| Tajwīd | Tajwid | Ilmu tilawah Al-Qur'an |
 | Tafsīr | Tafsir | Penafsiran Al-Qur'an |
 
 ---

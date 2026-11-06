@@ -1,6 +1,6 @@
-# Chánh niệm (Sati) | Mindfulness (念)
+# Chánh niệm (Sati, 念) | Mindfulness (Sati)
 
-> Trái tim của thiền định Phật giáo: Sự chú tâm trần trụi vào giây phút hiện tại
+> Trái tim của thiền định Phật giáo: Sự chú tâm thuần túy vào giây phút hiện tại
 
 ---
 
@@ -20,7 +20,7 @@ Kinh Niệm Xứ mô tả bốn lĩnh vực của pháp tu chánh niệm:
 - Nhận biết các oai nghi của thân
 - Tỉnh giác trong mọi hoạt động
 - Quán các bộ phận và các yếu tố của thân
-- Quán tưởng nơi tử thi (nghĩa địa)
+- Quán tử thi nơi nghĩa địa
 
 **2. Vedanānupassanā (Quán thọ)**
 - Nhận biết các cảm thọ lạc, khổ và không khổ không lạc
@@ -29,7 +29,7 @@ Kinh Niệm Xứ mô tả bốn lĩnh vực của pháp tu chánh niệm:
 
 **3. Cittānupassanā (Quán tâm)**
 - Biết khi tâm có tham, sân, si
-- Nhận ra các trạng thái của tâm: co rút/tán loạn, phát triển/chưa phát triển
+- Nhận ra các trạng thái của tâm: thâu nhiếp/tán loạn, quảng đại/không quảng đại
 - Quán sát tâm như một tiến trình, không phải là tự ngã
 
 **4. Dhammānupassanā (Quán pháp)**
@@ -37,15 +37,15 @@ Kinh Niệm Xứ mô tả bốn lĩnh vực của pháp tu chánh niệm:
 - Năm uẩn
 - Sáu xứ
 - Bảy giác chi
-- Tứ diệu đế
+- Tứ Diệu Đế
 
 ---
 ## Phong trào Vipassana | Vipassana Movement
 ### Sự phát triển lịch sử | Historical Development
-Phong trào Vipassanā là "một nhánh của Phật giáo Nguyên thủy (Theravāda) Miến Điện hiện đại, cổ xúy pháp tu thiền 'minh sát trần trụi' (Sukha-Vipassana)." Thiền minh sát (Vipassana) được "tái lập tại Myanmar (Miến Điện) vào thế kỷ 18 bởi Medawi (1728–1816), dẫn đến sự trỗi dậy của phong trào Vipassanā vào thế kỷ 20."
+Phong trào Vipassanā là "một nhánh của Phật giáo Nguyên thủy (Theravāda) Miến Điện hiện đại, cổ xúy pháp tu thiền 'minh sát thuần túy' (Sukha-Vipassana)." Thiền minh sát (Vipassana) được "tái lập tại Myanmar (Miến Điện) vào thế kỷ 18 bởi Medawi (1728–1816), dẫn đến sự trỗi dậy của phong trào Vipassanā vào thế kỷ 20."
 
 Những nhân vật chủ chốt của phong trào vipassana hiện đại gồm:
-- **Mahasi Sayadaw** (1904-1982): Phát triển kỹ thuật ghi nhận (noting)
+- **Mahasi Sayadaw** (1904-1982): Phát triển phương pháp ghi nhận
 - **S.N. Goenka** (1924-2013): Truyền bá thiền minh sát phi tôn giáo (thế tục) trên khắp thế giới
 - **U Ba Khin** (1899-1971): Thầy của Goenka
 - **Ajahn Chah** (1918-1992): Truyền thống Thiền lâm Thái Lan
@@ -108,7 +108,7 @@ Dù có lợi ích, các học giả vẫn tranh luận về mối quan hệ gi�
 
 - [[01-DHARMIC/buddhism/practices/meditation|Thiền định Phật giáo]] - Bối cảnh rộng hơn
 - [[01-DHARMIC/buddhism/practices/metta|Tu tập Từ tâm (Metta Bhavana)]] - Pháp tu bổ trợ
-- [[01-DHARMIC/buddhism/core-teachings/four-noble-truths|Tứ diệu đế]] - Nền tảng giáo lý
+- [[01-DHARMIC/buddhism/core-teachings/four-noble-truths|Tứ Diệu Đế]] - Nền tảng giáo lý
 - [[08-SCIENCE/neuroscience/meditation|Khoa học thần kinh về thiền định]] - Góc nhìn khoa học
 ---
 ## Tài liệu tham khảo | References

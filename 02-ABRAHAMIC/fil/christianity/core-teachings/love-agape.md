@@ -8,9 +8,9 @@
 
 Ang Agape (Griyego: ἀγάπη, *agápē*) ay salitang Griyego na ginagamit sa Bagong Tipan upang ilarawan ang pinakamataas na uri ng pag-ibig—ang walang kondisyon at ganap na paghahandog-sariling pag-ibig ng Diyos sa sangkatauhan, at ang pag-ibig na tinatawag ang mga Kristiyano na isabuhay para sa Diyos at sa kapwa.
 
-Hindi tulad ng pag-ibig ng tao na madalas tumutugon sa kagandahan o karapat-dapat na katangian ng minamahal, ang agape ay nakikilala sa pagiging walang kondisyon. Ang agape ng Diyos ay hindi pinagsusumikapang makamit ng tao kundi ibinibigay nang libre. Gaya ng isinulat ni Apostol Pablo, "Ngunit pinatutunayan ng Diyos ang kanyang pag-ibig sa atin, sapagkat nang tayo'y makasalanan pa, si Cristo'y namatay para sa atin" (Roma 5:8).
+Hindi tulad ng pag-ibig ng tao na madalas tumutugon sa kagandahan o karapat-dapat na katangian ng minamahal, ang agape ay nakikilala sa pagiging walang kondisyon. Ang agape ng Diyos ay hindi pinagsusumikapang makamit ng tao kundi ibinibigay nang libre. Gaya ng isinulat ni Apostol Pablo, "Datapuwa't ipinagtatagubilin ng Dios ang kaniyang pagibig sa atin, na nang tayo'y mga makasalanan pa, ay namatay si Cristo dahil sa atin" (Roma 5:8).
 
-Ang agape ay hindi pangunahing damdamin kundi isang pangako—isang sadyang pagpili na hanapin ang ikabubuti ng iba, kahit magkano ang magastos sa sarili. Ang pag-ibig na ito ang mismong kalikasan ng Diyos ("Ang Diyos ay pag-ibig," 1 Juan 4:8) at ang pangunahing tanda ng pagiging alagad ni Cristo ("Sa pamamagitan nito'y makikilala ng lahat na kayo'y aking mga alagad, kung kayo'y may pag-ibig sa isa't isa," Juan 13:35).
+Ang agape ay hindi pangunahing damdamin kundi isang pangako—isang sadyang pagpili na hanapin ang ikabubuti ng iba, kahit magkano ang magastos sa sarili. Ang pag-ibig na ito ang mismong kalikasan ng Diyos ("Ang Dios ay pagibig," 1 Juan 4:8) at ang pangunahing tanda ng pagiging alagad ni Cristo ("Dito'y makikilala ng lahat na kayo'y aking mga alagad, kung kayo'y may pagibig sa isa't isa," Juan 13:35).
 
 ---
 ## Ang mga Salitang Griyego para sa Pag-ibig | The Greek Words for Love
@@ -29,7 +29,7 @@ Ang *agape* at *philia* (at ang mga hango rito) lamang ang direktang lumilitaw s
 ---
 ## Agape at ang Iba Pang Uri ng Pag-ibig | Agape vs. Other Loves
 
-Ang teologong Swedes na si Anders Nygren, sa kanyang maimpluwensiyang akdang *Agape and Eros* (1930-1936), ay matalim na pinaghambing ang agape at eros:
+Ang teologong Suweko na si Anders Nygren, sa kanyang maimpluwensiyang akdang *Agape and Eros* (1930-1936), ay matalim na pinaghambing ang agape at eros:
 
 | Aspekto | Eros | Agape |
 |--------|------|-------|
@@ -45,23 +45,23 @@ Bagaman may mga iskolar na tumututol sa tindi ng pagkakaibang ito, itinatampok n
 ## Mga Saligang Biblikal | Biblical Foundations
 ### Ang Agape ng Diyos para sa Sangkatauhan | God's Agape for Humanity
 
-**Juan 3:16** — "Sapagkat gayon na lamang ang pag-ibig (*ēgapēsen*) ng Diyos sa sanlibutan, na ibinigay niya ang kanyang bugtong na Anak, upang ang sinumang sumampalataya sa kanya ay huwag mapahamak, kundi magkaroon ng buhay na walang hanggan."
+**Juan 3:16** — "Sapagka't gayon na lamang ang pagsinta (*ēgapēsen*) ng Dios sa sanglibutan, na ibinigay niya ang kaniyang bugtong na Anak, upang ang sinomang sa kaniya'y sumampalataya ay huwag mapahamak, kundi magkaroon ng buhay na walang hanggan."
 
-**Roma 5:8** — "Ngunit pinatutunayan ng Diyos ang kanyang pag-ibig (*agapēn*) sa atin, sapagkat nang tayo'y makasalanan pa, si Cristo'y namatay para sa atin."
+**Roma 5:8** — "Datapuwa't ipinagtatagubilin ng Dios ang kaniyang pagibig (*agapēn*) sa atin, na nang tayo'y mga makasalanan pa, ay namatay si Cristo dahil sa atin."
 
-**1 Juan 4:8-10** — "Ang hindi umiibig ay hindi nakakakilala sa Diyos, sapagkat ang Diyos ay pag-ibig (*agapē*). Dito nahayag sa atin ang pag-ibig ng Diyos: isinugo ng Diyos ang kanyang bugtong na Anak sa sanlibutan upang tayo'y mabuhay sa pamamagitan niya."
+**1 Juan 4:8-10** — "Ang hindi umiibig ay hindi nakakakilala sa Dios; sapagka't ang Dios ay pagibig (*agapē*). Dito'y nahayag ang pagibig ng Dios sa atin, na sinugo ng Dios ang kaniyang bugtong na Anak sa sanglibutan upang tayo'y mabuhay sa pamamagitan niya."
 
 ---
 ### Ang Dakilang Utos | The Great Commandment
 
-**Mateo 22:37-39** — "Iibigin (*agapēseis*) mo ang Panginoon mong Diyos nang buong puso mo, nang buong kaluluwa mo, at nang buong pag-iisip mo. Ito ang dakila at pangunahing utos. At ang ikalawa, na katulad nito: Iibigin (*agapēseis*) mo ang iyong kapwa gaya ng iyong sarili."
+**Mateo 22:37-39** — "Iibigin (*agapēseis*) mo ang Panginoon mong Dios ng buong puso mo, at ng buong kaluluwa mo, at ng buong pagiisip mo. Ito ang dakila at pangunang utos. At ang pangalawa ay katulad din nito, Iibigin (*agapēseis*) mo ang iyong kapuwa na gaya ng iyong sarili."
 
 Dito'y sinipi ni Jesus ang Shema (Deuteronomio 6:5) at iniugnay ito sa Levitico 19:18, anupa't ginawang buod ng buong batas ng Diyos ang pag-ibig.
 
 ---
 ### Pag-ibig sa mga Kaaway | Love of Enemies
 
-**Mateo 5:44-45** — "Ngunit sinasabi ko sa inyo: Ibigin (*agapate*) ninyo ang inyong mga kaaway at ipanalangin ninyo ang mga umuusig sa inyo, upang kayo'y maging mga anak ng inyong Ama sa langit."
+**Mateo 5:44-45** — "Datapuwa't sinasabi ko sa inyo, Ibigin (*agapate*) ninyo ang inyong mga kaaway, at ipanalangin ninyo ang sa inyo'y nagsisiusig; upang kayo'y maging mga anak ng inyong Ama na nasa langit."
 
 Ang utos na ito ang pinakamatinding pagpapahayag ng agape—pag-ibig na iniaabot mismo sa mga hindi karapat-dapat dito, na sumasalamin sa likas na katangian ng Diyos.
 
@@ -70,23 +70,23 @@ Ang utos na ito ang pinakamatinding pagpapahayag ng agape—pag-ibig na iniaabot
 
 Ang **1 Corinto 13** ay ang tanyag na himno ni Pablo tungkol sa pag-ibig (*agapē*):
 
-"Ang pag-ibig ay matiisin at mabait; ang pag-ibig ay hindi naiinggit o mayabang o palalo o magaspang. Hindi nito pinipilit ang sariling kagustuhan; hindi ito magagalitin o mapagtanim; hindi ito nagagalak sa masama, kundi nagagalak sa katotohanan. Tinatanggap nito ang lahat ng bagay, pinaniniwalaan ang lahat ng bagay, inaasahan ang lahat ng bagay, tinitiis ang lahat ng bagay. Ang pag-ibig ay hindi nagwawakas kailanman."
+"Ang pagibig ay mapagpahinuhod, at magandang-loob; ang pagibig ay hindi nananaghili; ang pagibig ay hindi nagmamapuri, hindi mapagmalaki, hindi gumagawi ng di nararapat, hindi hinahanap ang kaniyang sarili, hindi nayayamot, hindi inaalumana ang masama; hindi nagagalak sa kalikuan, kundi nakikigalak sa katotohanan; lahat ay binabata, lahat ay pinaniniwalaan, lahat ay inaasahan, lahat ay tinitiis. Ang pagibig ay hindi nagkukulang kailan man."
 
 ---
 ## Kahalagahang Teolohikal | Theological Significance
 ### Ang Pag-ibig bilang Diwa ng Diyos | Love as God's Essence
 
-Ang "Ang Diyos ay pag-ibig" (1 Juan 4:8) ay isa sa pinakamalalim na pahayag sa Kasulatan. Hindi lamang nito sinasabing mapagmahal ang Diyos, kundi ang pag-ibig mismo ang kahulugan kung sino ang Diyos. Ang panloob na buhay ng Santísima Trinidad—ang walang hanggang pag-ibig ng Ama, ng Anak, at ng Espiritu—ang pinagmumulan ng lahat ng pag-ibig.
+Ang "Ang Dios ay pagibig" (1 Juan 4:8) ay isa sa pinakamalalim na pahayag sa Kasulatan. Hindi lamang nito sinasabing mapagmahal ang Diyos, kundi ang pag-ibig mismo ang kahulugan kung sino ang Diyos. Ang panloob na buhay ng Santatlo—ang walang hanggang pag-ibig ng Ama, ng Anak, at ng Espiritu—ang pinagmumulan ng lahat ng pag-ibig.
 
 ### Ang Pag-ibig at ang Krus | Love and the Cross
 
-Ang krus ang pinakadakilang patunay ng agape. Ang pag-ibig ng Diyos ay hindi basta damdamin kundi gawang may kapalit na kalakhan—ang Anak ng Diyos na nag-alay ng kanyang buhay para sa mga makasalanan. Gaya ng sinabi ni Jesus, "Walang may higit na pag-ibig kaysa rito: ang ibigay ng isang tao ang kanyang buhay dahil sa kanyang mga kaibigan" (Juan 15:13).
+Ang krus ang pinakadakilang patunay ng agape. Ang pag-ibig ng Diyos ay hindi basta damdamin kundi gawang may mabigat na kabayaran—ang Anak ng Diyos na nag-alay ng kanyang buhay para sa mga makasalanan. Gaya ng sinabi ni Jesus, "Walang may lalong dakilang pagibig kay sa rito, na ibigay ng tao ang kaniyang buhay dahil sa kaniyang mga kaibigan" (Juan 15:13).
 
 ### Ang Pag-ibig bilang Tanda ng Pagiging Alagad | Love as Mark of Discipleship
 
-"Isang bagong utos ang ibinibigay ko sa inyo: Magmahalan kayo; kung paanong inibig ko kayo, ay magmahalan din kayo. Sa pamamagitan nito'y makikilala ng lahat na kayo'y aking mga alagad, kung kayo'y may pag-ibig sa isa't isa" (Juan 13:34-35).
+"Isang bagong utos ang ibinibigay ko sa inyo, na kayo'y mangagibigan sa isa't isa; kung paanong kayo'y inibig ko, ay mangagibigan naman kayo sa isa't isa. Dito'y makikilala ng lahat na kayo'y aking mga alagad, kung kayo'y may pagibig sa isa't isa" (Juan 13:34-35).
 
-Ang pag-ibig ng mga Kristiyano ay hindi basta init ng damdamin ng tao kundi pag-ibig na hinubog ayon sa paghahandog-sarili ni Cristo—"kung paanong inibig ko kayo."
+Ang pag-ibig ng mga Kristiyano ay hindi basta init ng damdamin ng tao kundi pag-ibig na hinubog ayon sa paghahandog-sarili ni Cristo—"kung paanong kayo'y inibig ko."
 
 ---
 ## Mahahalagang Termino | Key Terms
@@ -97,15 +97,15 @@ Ang pag-ibig ng mga Kristiyano ay hindi basta init ng damdamin ng tao kundi pag-
 | Agapetos | ἀγαπητός | Minamahal |
 | Philia | φιλία | Pag-ibig ng pagkakaibigan |
 | Phileo | φιλέω | Umibig bilang kaibigan |
-| Kenosis | κένωσις | Pagwawalang-saysay sa sarili (Filipos 2:7) |
+| Kenosis | κένωσις | Paghuhubad sa sarili (Filipos 2:7) |
 ---
 ## Ang Agape sa Kasaysayan ng Simbahan | Agape in Church History
 
 1. **Sinaunang Simbahan**: Binibigyang-diin ng Didache at iba pang sinaunang sulatin ang mga handaan ng pag-ibig (mga hapunang agape) bilang pagpapahayag ng pamayanang Kristiyano
 
-2. **Agustin**: Ang pag-ibig (*caritas*) bilang tanging kabutihang nag-aayos nang wasto sa lahat ng iba pa; "Umibig ka, at gawin mo ang nais mo"
+2. **Agustin**: Ang pag-ibig (*caritas*) bilang tanging birtud na nag-aayos nang wasto sa lahat ng iba pa; "Umibig ka, at gawin mo ang nais mo"
 
-3. **Tomás de Aquino**: Ang pag-ibig-kawanggawa (*caritas*, ang salin sa Latin ng agape) bilang anyo ng lahat ng kabutihan, na ipinagkaloob ng Diyos
+3. **Tomas de Aquino**: Ang pag-ibig-kawanggawa (*caritas*, ang salin sa Latin ng agape) bilang anyo ng lahat ng birtud, na ibinubuhos ng Diyos
 
 4. **Martin Luther**: Pagkakaiba ng pag-ibig ng Diyos (na lumilikha ng halaga) at ng pag-ibig ng tao (na tumutugon sa halaga)
 
@@ -137,7 +137,7 @@ Binabago ng pag-ibig na agape ang pang-araw-araw na buhay:
 ---
 ## Mga Kaugnay na Sanggunian | Cross-References
 
-- **[Santísima Trinidad](./trinity.md)**: Ang pag-ibig sa loob ng Santísima Trinidad na siyang pinagmumulan ng agape
+- **[Ang Santatlo](./trinity.md)**: Ang pag-ibig sa loob ng Santatlo na siyang pinagmumulan ng agape
 - **[Shema (Hudaismo)](../judaism/core-teachings/shema.md)**: Ang utos na ibigin ang Diyos nang buong pagkatao
 - **[Metta (Budismo)](../../../01-DHARMIC/buddhism/practices/metta.md)**: Pagninilay ng Budismo tungkol sa mapagmahal na kabaitan
 - **[Ren (Confucianismo)](../../../03-EAST-ASIAN/confucianism/core-teachings/ren.md)**: Kabutihang-loob/pagkamakatao ayon sa Confucianismo

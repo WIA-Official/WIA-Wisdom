@@ -1,6 +1,6 @@
 # Hədis | Hadith (حديث)
 
-> Peyğəmbər Muhəmmədin (s.ə.s.) sözləri və sünnələri
+> Peyğəmbər Muhəmmədin sözləri və sünnəsi
 
 ---
 
@@ -8,7 +8,7 @@
 
 Hədis (ərəb. حديث, cəm: əhadis) Peyğəmbər Muhəmmədin (s.ə.s.) sözlərinin, əməllərinin və təsdiqlərinin məcmusudur; müsəlmanlar onu Quranla yanaşı dini hökmlərin və əxlaqi rəhbərliyin əsas qaynaqlarından biri kimi hörmətlə qarşılayırlar. Quran Allahın birbaşa kəlamı olduğu halda, hədis Peyğəmbərin sünnəsini (yolunu) — Quran təlimlərinin necə tətbiq ediləcəyinə dair canlı nümunəni əks etdirir.
 
-Hədislər Peyğəmbərin səhabələri tərəfindən şifahi şəkildə nəql edilmiş, sonra isə eramızın 700-cü illərinin əvvəllərindən etibarən yazılı şəkildə qeydə alınmışdır. Ən etibarlı məcmuələr 9–10-cu əsrlərdə, sənədin həqiqiliyini yoxlamaq üçün ciddi üsullar işləyib hazırlamış alimlər tərəfindən tərtib edilmişdir.
+Hədislər Peyğəmbərin səhabələri tərəfindən şifahi şəkildə nəql edilmiş, sonra isə eramızın 700-cü illərinin əvvəllərindən etibarən yazılı şəkildə qeydə alınmışdır. Ən etibarlı məcmuələr 9–10-cu əsrlərdə, hədislərin səhihliyini yoxlamaq üçün ciddi üsullar işləyib hazırlamış alimlər tərəfindən tərtib edilmişdir.
 
 ---
 ## Hədisin quruluşu | Structure of Hadith
@@ -34,21 +34,21 @@ MƏTN: "Əməllər niyyətlərə görə qiymətləndirilir və hər kəsə
 |------|--------|-------------|
 | **Səhih** | صحيح | Sağlam/həqiqi — ən yüksək etibarlılıq |
 | **Həsən** | حسن | Yaxşı — etibarlı rəvayətçilər, yaddaşı bir qədər zəif |
-| **Zəif** (Da'if) | ضعيف | Zəif — zəncirdə və ya mətndə qüsur |
-| **Mövzu** (Mawdu) | موضوع | Uydurma — yalan kimi rədd edilir |
+| **Zəif** | ضعيف | Zəif — zəncirdə və ya mətndə qüsur |
+| **Mövzu** | موضوع | Uydurma — yalan kimi rədd edilir |
 
 ### Mənbəyinə görə:
 | Növ | Təsvir |
 |------|-------------|
-| **Hədis Nəbəvi** | Peyğəmbərdən nəql olunan hədis |
-| **Hədis Qüdsi** | Müqəddəs hədis — Allahın sözləri Peyğəmbər vasitəsilə |
+| **Nəbəvi hədis** | Peyğəmbərdən nəql olunan hədis |
+| **Qüdsi hədis** | Müqəddəs hədis — Allahın sözləri Peyğəmbər vasitəsilə |
 
-> "Hədis Qüdsi Uca Allah tərəfindən Peyğəmbər Muhəmmədə vəhy edilmiş sözlərdir. Peyğəmbər hədislərindən ibarət olan hədislərin çoxundan fərqli olaraq, onların səlahiyyəti Peyğəmbərə deyil, Uca Allaha əsaslanır."
+> "Qüdsi hədislər Peyğəmbər Muhəmmədin Uca Allah tərəfindən ona vəhy edildiyi kimi söylədiyi sözlərdir. Hədislərin çoxunu təşkil edən nəbəvi hədislərdən fərqli olaraq, onların səlahiyyəti Peyğəmbərə deyil, Uca Allaha dayanır."
 
 ---
 ## Əsas məcmuələr | Major Collections
 
-### Altı mötəbər kitab (Kütüb əs-sitta):
+### Altı mötəbər kitab (Kütübi-sittə):
 | Məcmuə | Tərtibçi | Vəfatı | Hədislərin sayı |
 |------------|----------|-------|--------------|
 | **Səhih əl-Buxari** | İmam əl-Buxari | 870 | ~7.275 |
@@ -58,7 +58,7 @@ MƏTN: "Əməllər niyyətlərə görə qiymətləndirilir və hər kəsə
 | **Sünən ən-Nəsai** | ən-Nəsai | 915 | ~5.700 |
 | **Sünən İbn Macə** | İbn Macə | 887 | ~4.341 |
 
-> "Sünni müsəlmanların ən etibarlı hədis məcmuələrindən biri əl-Buxarinin "Səhih" külliyyatıdır."
+> "Sünni müsəlmanların ən etibarlı hədis məcmuələrindən biri əl-Buxarinin «Səhih» külliyyatıdır."
 
 ---
 ## Məşhur hədislər | Famous Hadith
@@ -70,7 +70,7 @@ MƏTN: "Əməllər niyyətlərə görə qiymətləndirilir və hər kəsə
 > "Heç biriniz özü üçün istədiyini qardaşı üçün də istəmədikcə həqiqətən iman gətirmiş olmaz." (Buxari, Müslim)
 
 ### Elm haqqında:
-> "Elm öyrənmək hər müsəlmana vacibdir." (İbn Macə)
+> "Elm öyrənmək hər müsəlmana fərzdir." (İbn Macə)
 
 ### Mülayimlik haqqında:
 > "Allah mülayimdir və hər işdə mülayimliyi sevir." (Buxari, Müslim)
@@ -85,7 +85,7 @@ MƏTN: "Əməllər niyyətlərə görə qiymətləndirilir və hər kəsə
 1. **Quran** — Əsas qaynaq, Allahın kəlamı
 2. **Hədis/Sünnə** — İkinci qaynaq, Peyğəmbərin nümunəsi
 3. **İcma** — Alimlərin yekdilliyi
-4. **Qiyas** — Bənzətmə yolu ilə mühakimə
+4. **Qiyas** — Bənzətmə yolu ilə hökm çıxarma
 
 > "Hədislər əsasən Muhəmmədin sözləri, işləri və əməllərindən ibarətdir. Onlar Qurandan fərqlənir, lakin Peyğəmbərin öz həyatı əsasında müqəddəs həyat tərzi sürmək üçün yol xəritəsi təqdim edir."
 
@@ -103,11 +103,11 @@ Alimlər hədislərin həqiqiliyini müəyyən etmək üçün ciddi üsullar iş
 | **Müqayisə** | Digər hədislərlə çarpaz yoxlama |
 
 ### Rəvayətçinin qiymətləndirilməsi meyarları:
-- Ədalət (adalah)
-- Zəbt — dəqiqlik (dabt)
+- Ədalət (ədalə)
+- Dəqiqlik (zəbt)
 - Qırılmayan zəncir (ittisal)
-- Gizli qüsurun olmaması (salama min shudhdh)
-- Nizamsızlığın olmaması (salama min illa)
+- Gizli qüsurun olmaması (səlamə min əş-şuzuz)
+- Nizamsızlığın olmaması (səlamə min əl-illə)
 
 ---
 ## Qırx hədis ənənəsi | Forty Hadith Tradition
@@ -135,4 +135,4 @@ Alimlər hədislərin həqiqiliyini müəyyən etmək üçün ciddi üsullar iş
 - [Sunnah.com - Hadith Collections](https://sunnah.com/)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - İnsanlığa fayda ver*

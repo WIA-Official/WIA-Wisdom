@@ -1,4 +1,4 @@
-# Ein Sof | Ein Sof (אֵין סוֹף)
+# Ein Sof (אֵין סוֹף) | Ein Sof
 
 > El Infinito: Dios más allá de todo atributo
 
@@ -18,7 +18,7 @@ Ein Sof es el nombre que la Cábala da a Dios trascendente, en Su esencia pura: 
 > «El término Ein Sof se encuentra en la literatura cabalística después de 1200. Se originó, al parecer, en el círculo de Isaac el Ciego y sus discípulos».
 
 ### Desarrollo:
-> «Al principio, el término se usaba solo raramente (incluso en la parte principal del Zohar su aparición es muy escasa), pero desde alrededor de 1300 su uso se volvió habitual, y la Cábala posterior llega a hablar de varias "clases de Ein Sof"».
+> «Al principio, el término se usaba solo raramente (incluso en la parte principal del Zohar su aparición es muy escasa), pero desde alrededor de 1300 su uso se volvió habitual, y la Cábala posterior llega a hablar de varias “clases de Ein Sof”».
 
 ---
 ## Ein Sof en el Zohar | Ein Sof in the Zohar
@@ -35,13 +35,13 @@ Ein Sof es el nombre que la Cábala da a Dios trascendente, en Su esencia pura: 
 
 > «Entre las principales enseñanzas de la Cábala se encuentra la doctrina del Ein Sof (el Dios infinito e incognoscible), que se manifiesta mediante diez emanaciones llamadas Sefirot. La Cábala enseña que el universo emanó del Ein Sof a través de etapas sucesivas».
 
-### Ohr Ein Sof (Luz Infinita):
-> «Este es el origen del Ohr Ein Sof o "Luz Infinita" del paradójico autoconocimiento divino, anulado dentro del Ein Sof antes de la creación».
+### Or Ein Sof (Luz Infinita):
+> «Este es el origen del Or Ein Sof o “Luz Infinita” del paradójico autoconocimiento divino, anulado dentro del Ein Sof antes de la creación».
 
 ### Tzimtzum (contracción):
 > «En la Cábala luriánica, el primer acto de la creación, el tzimtzum o autorretirada de lo divino para crear un espacio, tiene lugar a partir de allí».
 
-> «En la Cábala, a D-s se le llama Ein Sof, es decir, el Ser que "no tiene fin". En el acto de la creación, D-s hizo algo muy finito a partir de lo infinito».
+> «En la Cábala, a D‑os se le llama Ein Sof, es decir, el Ser que “no tiene fin”. En el acto de la creación, D‑os hizo algo muy finito a partir de lo infinito».
 
 ---
 ## Ein Sof y Ayin | Ein Sof and Ayin
@@ -75,16 +75,16 @@ Ein Sof se manifiesta mediante diez emanaciones:
 
 | Sefirá | Significado |
 |----------|---------|
-| Keter | Corona |
-| Chokhmah | Sabiduría |
-| Binah | Entendimiento |
-| Chesed | Bondad amorosa |
-| Gevurah | Fortaleza |
-| Tiferet | Belleza |
-| Netzach | Victoria |
+| Kéter | Corona |
+| Jojmá | Sabiduría |
+| Biná | Entendimiento |
+| Jésed | Bondad amorosa |
+| Guevurá | Fortaleza |
+| Tiféret | Belleza |
+| Nétzaj | Victoria |
 | Hod | Esplendor |
 | Yesod | Fundamento |
-| Malkhut | Reino |
+| Maljut | Reino |
 
 Estas no están separadas de Ein Sof, sino que son las vías por las que el Infinito se vuelve cognoscible.
 
@@ -93,9 +93,9 @@ Estas no están separadas de Ein Sof, sino que son las vías por las que el Infi
 | Hebreo | Significado |
 |--------|---------|
 | Ein Sof (אֵין סוֹף) | El Infinito |
-| Ohr (אוֹר) | Luz |
+| Or (אוֹר) | Luz |
 | Tzimtzum (צמצום) | Contracción |
-| Sephirot (סְפִירוֹת) | Emanaciones |
+| Sefirot (סְפִירוֹת) | Emanaciones |
 | Ayin (אַיִן) | Nada |
 
 ---

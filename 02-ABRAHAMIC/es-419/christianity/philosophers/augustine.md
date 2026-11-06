@@ -6,7 +6,7 @@
 
 ## Panorama general | Overview
 
-San Agustín de Hipona (354–430 d. C.) fue teólogo, filósofo y obispo de Hipona Regia, en el África del Norte romana. Es una de las figuras más importantes en el desarrollo del cristianismo occidental y de la filosofía occidental. Sus escritos influyeron en el desarrollo de la filosofía y del cristianismo de Occidente, y se lo considera uno de los Padres de la Iglesia más importantes de la Iglesia latina durante el período patrístico.
+San Agustín de Hipona (354–430 d. C.) fue teólogo, filósofo y obispo de Hipona Regia, en el África del Norte romana. Es una de las figuras más importantes en el desarrollo del cristianismo occidental y de la filosofía occidental. Sus escritos influyeron en el desarrollo de la filosofía y del cristianismo de Occidente, y se lo considera uno de los Padres más importantes de la Iglesia latina durante el período patrístico.
 
 > «Nos hiciste, Señor, para ti, y nuestro corazón está inquieto hasta que descanse en ti.» Esta célebre frase de sus *Confesiones* resume el itinerario espiritual y la teología de Agustín.
 
@@ -40,7 +40,7 @@ Doctrinas principales:
 - **Predestinación**: la elección soberana de Dios de sus elegidos
 - **Gracia irresistible**: el llamado eficaz de Dios
 
-> «Da lo que mandas, y manda lo que quieras.» Esta oración resume la comprensión agustiniana de la gracia: el logro humano es imposible sin la capacitación divina.
+> «Da lo que mandas, y manda lo que quieras.» Esta oración resume la comprensión agustiniana de la gracia: el logro humano es imposible sin el auxilio divino que lo hace posible.
 
 ---
 

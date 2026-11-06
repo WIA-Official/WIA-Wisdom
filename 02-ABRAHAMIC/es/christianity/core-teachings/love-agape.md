@@ -8,9 +8,9 @@
 
 Ágape (griego: ἀγάπη, *agápē*) es la palabra griega que usa el Nuevo Testamento para describir la forma más elevada del amor: el amor incondicional y sacrificial de Dios por la humanidad, y el amor que los cristianos son llamados a encarnar hacia Dios y hacia el prójimo.
 
-A diferencia del amor humano, que con frecuencia responde al atractivo o al mérito de la persona amada, el ágape se caracteriza por su incondicionalidad. El ágape de Dios no se gana por mérito humano, sino que se da gratuitamente. Como escribió el apóstol Pablo: «Dios muestra su amor por nosotros en que, siendo aún pecadores, Cristo murió por nosotros» (Romanos 5:8).
+A diferencia del amor humano, que con frecuencia responde al atractivo o al mérito de la persona amada, el ágape se caracteriza por su incondicionalidad. El ágape de Dios no se gana por mérito humano, sino que se da gratuitamente. Como escribió el apóstol Pablo: «Dios muestra su amor para con nosotros, en que siendo aún pecadores, Cristo murió por nosotros» (Romanos 5:8).
 
-El ágape no es primordialmente un sentimiento, sino un compromiso: una elección voluntaria de buscar el bien del otro, sin importar el costo para uno mismo. Este amor es la naturaleza misma de Dios («Dios es amor», 1 Juan 4:8) y la marca distintiva del discipulado cristiano («En esto conocerán todos que sois mis discípulos, si tenéis amor los unos con los otros», Juan 13:35).
+El ágape no es primordialmente un sentimiento, sino un compromiso: una elección voluntaria de buscar el bien del otro, sin importar el costo para uno mismo. Este amor es la naturaleza misma de Dios («Dios es amor», 1 Juan 4:8) y la marca distintiva del discipulado cristiano («En esto conocerán todos que sois mis discípulos, si tuviereis amor los unos con los otros», Juan 13:35).
 
 ---
 ## Las palabras griegas para el amor | The Greek Words for Love
@@ -29,7 +29,7 @@ Solo *ágape* y *filia* (y sus derivados) aparecen directamente en el Nuevo Test
 ---
 ## El ágape frente a otros amores | Agape vs. Other Loves
 
-El teólogo sueco Anders Nygren, en su influyente obra *Agape y Eros* (1930-1936), contrastó con nitidez el ágape y el eros:
+El teólogo sueco Anders Nygren, en su influyente obra *Ágape y eros* (1930-1936), contrastó con nitidez el ágape y el eros:
 
 | Aspecto | Eros | Ágape |
 |---------|------|-------|
@@ -61,7 +61,7 @@ Jesús cita aquí el Shemá (Deuteronomio 6:5) y lo une con Levítico 19:18, hac
 ---
 ### El amor a los enemigos | Love of Enemies
 
-**Mateo 5:44-45** — «Pero yo os digo: Amad (*agapate*) a vuestros enemigos, bendecid a los que os maldicen, y orad por los que os ultrajan y os persiguen; para que seáis hijos de vuestro Padre que está en los cielos».
+**Mateo 5:44-45** — «Pero yo os digo: Amad (*agapate*) a vuestros enemigos y orad por los que os persiguen, para que seáis hijos de vuestro Padre que está en los cielos».
 
 Este mandato representa la expresión más radical del ágape: un amor extendido precisamente a quienes no lo merecen, que refleja el carácter mismo de Dios.
 
@@ -97,7 +97,7 @@ El amor cristiano no es simple calidez humana, sino un amor modelado según la e
 | Agapetos | ἀγαπητός | Amado |
 | Filia | φιλία | Amor de amistad |
 | Fileo | φιλέω | Amar como amigo |
-| Kenosis | κένωσις | Vaciamiento de sí (Filipenses 2:7) |
+| Kénosis | κένωσις | Vaciamiento de sí (Filipenses 2:7) |
 ---
 ## El ágape en la historia de la Iglesia | Agape in Church History
 
@@ -109,7 +109,7 @@ El amor cristiano no es simple calidez humana, sino un amor modelado según la e
 
 4. **Martín Lutero**: Distinción entre el amor de Dios (que crea valor) y el amor humano (que responde al valor).
 
-5. **Anders Nygren**: *Agape y Eros* (década de 1930), contraste influyente entre el ágape que se entrega y el eros que se busca a sí mismo.
+5. **Anders Nygren**: *Ágape y eros* (década de 1930), contraste influyente entre el ágape que se entrega y el eros que se busca a sí mismo.
 
 6. **Papa Benedicto XVI**: *Deus caritas est* (2005), donde sostuvo que el eros y el ágape pueden integrarse en el amor auténtico.
 

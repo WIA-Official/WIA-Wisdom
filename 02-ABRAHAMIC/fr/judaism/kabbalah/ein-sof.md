@@ -6,7 +6,7 @@
 
 ## Aperçu | Overview
 
-Ein Sof (hébreu : אֵין סוֹף, signifiant « infini », littéralement « (il n'y a) pas de fin ») est compris dans la Kabbale comme Dieu avant toute automanifestation dans la production de tout royaume spirituel. Le terme peut être traduit par « sans fin », « (il n'y a) pas de fin » ou infinité.
+Ein Sof (hébreu : אֵין סוֹף, signifiant « infini », littéralement « (il n'y a) pas de fin ») est compris dans la Kabbale comme Dieu avant toute automanifestation dans la production de quelque monde spirituel que ce soit. Le terme peut être traduit par « sans fin », « (il n'y a) pas de fin » ou infinité.
 
 Ein Sof est le nom donné dans la Kabbale à Dieu transcendant, dans Son essence pure : Dieu en Lui-même, indépendamment de Sa relation au monde créé. Il représente la réalité ultime, qui dépasse toute conception et toute description humaines.
 
@@ -36,10 +36,10 @@ Ein Sof est le nom donné dans la Kabbale à Dieu transcendant, dans Son essence
 
 ## Ein Sof et la création | Ein Sof and Creation
 
-> « Les principaux enseignements de la Kabbale comprennent la doctrine d'Ein Sof (le Dieu infini et inconnaissable), qui se manifeste par dix émanations appelées Sephirot. La Kabbale enseigne que l'univers a émané d'Ein Sof par étapes successives. »
+> « Les principaux enseignements de la Kabbale comprennent la doctrine d'Ein Sof (le Dieu infini et inconnaissable), qui se manifeste par dix émanations appelées Sefirot. La Kabbale enseigne que l'univers a émané d'Ein Sof par étapes successives. »
 
-### Ohr Ein Sof (Lumière infinie) :
-> « Telle est l'origine de l'Ohr Ein Sof, ou "Lumière infinie", de l'auto-connaissance divine paradoxale, annulée en Ein Sof avant la création. »
+### Or Ein Sof (Lumière infinie) :
+> « Telle est l'origine de l'Or Ein Sof, ou "Lumière infinie", de l'auto-connaissance divine paradoxale, annulée en Ein Sof avant la création. »
 
 ### Tsimtsoum (Contraction) :
 > « Dans la Kabbale lourianique, le premier acte de la création, le tsimtsoum, ou retrait de soi du divin pour faire place à un espace, s'y produit. »
@@ -63,7 +63,7 @@ Cela reflète l'intuition mystique selon laquelle la réalité ultime transcende
 
 ## Portée théologique | Theological Significance
 
-> « Au cœur de la Kabbale se trouve l'idée que le royaume divin est à la fois transcendant et immanent : Dieu est à la fois la source de toute la création et intimement entrelacé avec elle. Les kabbalistes cherchent à comprendre la relation entre l'infini (Ein Sof) et le fini, entre l'unité de Dieu et la multiplicité de la création. »
+> « Au cœur de la Kabbale se trouve l'idée que le domaine divin est à la fois transcendant et immanent : Dieu est à la fois la source de toute la création et intimement entrelacé avec elle. Les kabbalistes cherchent à comprendre la relation entre l'infini (Ein Sof) et le fini, entre l'unité de Dieu et la multiplicité de la création. »
 
 ### Idées clés :
 | Concept | Signification |
@@ -71,26 +71,26 @@ Cela reflète l'intuition mystique selon laquelle la réalité ultime transcende
 | **Transcendance** | Ein Sof est au-delà de toute la création |
 | **Immanence** | Ein Sof imprègne toute l'existence |
 | **Unité** | Tout émane d'une source unique |
-| **Multiplicité** | La diversité émerge par les Sephirot |
+| **Multiplicité** | La diversité émerge par les Sefirot |
 
 ---
 
-## Les Sephirot et Ein Sof | The Sephirot and Ein Sof
+## Les Sefirot et Ein Sof | The Sephirot and Ein Sof
 
 Ein Sof se manifeste par dix émanations :
 
-| Sephirah | Signification |
+| Sefira | Signification |
 |----------|---------|
-| Keter | Couronne |
-| Chokhmah | Sagesse |
-| Binah | Intelligence |
-| Chesed | Bonté bienveillante |
-| Gevurah | Force |
+| Kéter | Couronne |
+| 'Hokhma | Sagesse |
+| Bina | Intelligence |
+| 'Hessed | Bonté |
+| Guevoura | Force |
 | Tiferet | Beauté |
-| Netzach | Victoire |
+| Netsa'h | Victoire |
 | Hod | Splendeur |
-| Yesod | Fondement |
-| Malkhut | Royauté |
+| Yessod | Fondement |
+| Malkhout | Royauté |
 
 Elles ne sont pas séparées d'Ein Sof, mais sont les voies par lesquelles l'Infini devient connaissable.
 
@@ -100,9 +100,9 @@ Elles ne sont pas séparées d'Ein Sof, mais sont les voies par lesquelles l'Inf
 | Hébreu | Signification |
 |--------|---------|
 | Ein Sof (אֵין סוֹף) | L'Infini |
-| Ohr (אוֹר) | Lumière |
+| Or (אוֹר) | Lumière |
 | Tsimtsoum (צמצום) | Contraction |
-| Sephirot (סְפִירוֹת) | Émanations |
+| Sefirot (סְפִירוֹת) | Émanations |
 | Ayin (אַיִן) | Néant |
 
 ---

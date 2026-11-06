@@ -6,9 +6,9 @@
 
 ## Muhtasari | Overview
 
-Qur'ani (Kiarabu: القرآن, al-Qur'ān, "Usomaji") ndicho kitabu kikuu cha kidini cha Uislamu, ambacho Waislamu wanaamini kuwa ni neno halisi la Mwenyezi Mungu (Allāh) lililoteremshwa kwa Mtume Muhammad kupitia malaika Jibril (Jibrīl). Ufunuo huo ulifanyika kwa takriban miaka 23, ukianza mwaka 610 BK Muhammad alipokuwa na umri wa miaka 40, na kuhitimishwa mwaka 632 BK, mwaka wa kifo chake.
+Qur'ani (Kiarabu: القرآن, al-Qur'ān, "Usomaji") ndicho kitabu kikuu cha kidini cha Uislamu, ambacho Waislamu wanaamini kuwa ni neno halisi la Mwenyezi Mungu (Allāh) lililoteremshwa kwa Mtume Muhammad kupitia Malaika Jibrili (Jibrīl). Ufunuo huo ulifanyika kwa takriban miaka 23, ukianza mwaka 610 BK Muhammad alipokuwa na umri wa miaka 40, na kuhitimishwa mwaka 632 BK, mwaka wa kifo chake.
 
-Qur'ani inachukuliwa kuwa ufunuo wa mwisho na kamili, unaothibitisha na kuchukua nafasi ya maandiko ya awali, yakiwemo Taurati na Injili. Ni chanzo kikuu cha sheria ya Kiislamu (Sharīʿah), teolojia, na mwongozo kwa nyanja zote za maisha ya Mwislamu.
+Qur'ani inachukuliwa kuwa ufunuo wa mwisho na kamili, unaothibitisha na kuchukua nafasi ya maandiko ya awali, yakiwemo Taurati na Injili. Ni chanzo kikuu cha sheria ya Kiislamu (Sharīʿah), akida, na mwongozo kwa nyanja zote za maisha ya Mwislamu.
 
 ---
 
@@ -20,9 +20,9 @@ Qur'ani imepangwa kama ifuatavyo:
 |-----------|---------|
 | **Sura 114** | Sura, zenye aya kuanzia 3 hadi 286 |
 | **Aya ~6,200** | Aya (kihalisi "ishara") |
-| **Juzuu 30** | Sehemu za madhumuni ya usomaji |
+| **Juzuu 30** | Sehemu kwa ajili ya usomaji |
 
-Sura hazikupangwa kwa mpangilio wa wakati, bali kwa jumla kwa urefu, kuanzia ndefu zaidi hadi fupi zaidi (isipokuwa sura ya ufunguzi, Al-Fātiḥah). Kila sura isipokuwa ya tisa (At-Tawbah) huanza kwa Bismillahi: "Kwa jina la Mwenyezi Mungu, Mwingi wa Rehema, Mwenye Kurehemu."
+Sura hazikupangwa kwa mpangilio wa wakati, bali kwa jumla kwa urefu, kuanzia ndefu zaidi hadi fupi zaidi (isipokuwa sura ya ufunguzi, Al-Fātiḥah). Kila sura isipokuwa ya tisa (At-Tawbah) huanza kwa Bismillahi: "Kwa jina la Mwenyezi Mungu, Mwingi wa rehema, Mwenye kurehemu."
 
 ---
 
@@ -32,9 +32,9 @@ Waislamu wanaamini kuwa Qur'ani iliteremshwa kwa Muhammad katika miji ya Makka n
 
 ### Ufunuo wa Kwanza | The First Revelation
 
-Aya tano za kwanza za Sura Al-Alaq (96:1-5) zinaaminika kuwa ufunuo wa kwanza, uliopokelewa wakati wa faragha ya Muhammad katika pango la Hira:
+Aya tano za kwanza za Suratul-Alaq (96:1-5) zinaaminika kuwa ufunuo wa kwanza, uliopokelewa wakati wa faragha ya Muhammad katika pango la Hira:
 
-> "Soma! Kwa jina la Mola wako aliyeumba—aliyemuumba mwanadamu kutokana na pande la damu iliyoganda. Soma! Na Mola wako ndiye Karimu zaidi."
+> "Soma! Kwa jina la Mola wako Mlezi aliyeumba—amemuumba mwanadamu kwa pande la damu. Soma! Na Mola wako Mlezi ni Karimu kuliko wote."
 
 ### Sura za Makka na Sura za Madina | Meccan vs. Medinan Surahs
 
@@ -51,7 +51,7 @@ Imani kamili ya Mungu mmoja katika Uislamu—Mungu ni mmoja, wa kipekee, na hana
 
 ### 2. Utume (Nubuwwah) | Prophethood (Nubuwwah)
 
-Muhammad ndiye mtume wa mwisho katika mlolongo unaojumuisha Adamu, Ibrahimu, Musa, na Isa.
+Muhammad ndiye mtume wa mwisho katika mlolongo unaojumuisha Adam, Ibrahim, Musa na Isa.
 
 ### 3. Maisha ya Akhera (Ākhirah) | Afterlife (Ākhirah)
 
@@ -81,7 +81,7 @@ Qur'ani imehifadhiwa kupitia:
 
 - Awali iliandikwa kwenye makuti ya mitende, mifupa, na ngozi
 - Ilikusanywa katika kitabu kimoja (muṣḥaf) wakati wa Khalifa Uthman (644-656 BK)
-- Msahafu wa Uthman ukawa andiko sanifu
+- Msahafu wa Uthman ukawa nakala sanifu
 
 Muundo wa Qur'ani wenye mdundo na ushairi hurahisisha kukariri, na inabaki kuwa kitabu kinachokaririwa zaidi katika historia ya binadamu.
 
@@ -96,7 +96,7 @@ Qur'ani inachukuliwa kuwa kito cha fasihi ya Kiarabu cha kale:
 - Qur'ani iliathiri kwa kiasi kikubwa Kiarabu cha kisasa
 - Tafsiri huchukuliwa kama "ufafanuzi wa maana" (tafsīr)
 
-Sura ya ufunguzi, Al-Fātiḥah, husomwa katika kila rakaa ya sala ya Waislamu na huitwa "Mama wa Kitabu" (Umm al-Kitāb).
+Sura ya ufunguzi, Al-Fātiḥah, husomwa katika kila rakaa ya swala ya Waislamu na huitwa "Mama wa Kitabu" (Umm al-Kitāb).
 
 ---
 
@@ -106,7 +106,7 @@ Usomaji wa Qur'ani hufuata kanuni maalum zinazoitwa tajwīd, zinazosimamia:
 - Matamshi ya herufi
 - Muda wa sauti
 - Kusitisha na kusimama
-- Mitindo ya melodi (maqāmāt)
+- Mitindo ya mahadhi (maqāmāt)
 
 Usomaji huchukuliwa kuwa ibada, na usomaji mzuri wa Qur'ani unathaminiwa sana katika utamaduni wa Kiislamu.
 
@@ -116,9 +116,9 @@ Usomaji huchukuliwa kuwa ibada, na usomaji mzuri wa Qur'ani unathaminiwa sana ka
 
 | Sura | Jina | Umuhimu |
 |------|------|---------|
-| 1 | Al-Fātiḥah (Ufunguzi) | Husomwa katika kila sala |
+| 1 | Al-Fātiḥah (Ufunguzi) | Husomwa katika kila swala |
 | 2 | Al-Baqarah (Ng'ombe) | Sura ndefu zaidi, sheria za kina |
-| 12 | Yūsuf (Yusufu) | Simulizi kamili |
+| 12 | Yūsuf (Yusuf) | Simulizi kamili |
 | 36 | Yā-Sīn | Huitwa "Moyo wa Qur'ani" |
 | 55 | Ar-Raḥmān (Mwingi wa Rehema) | Maelezo mazuri ya neema |
 | 112 | Al-Ikhlāṣ (Ikhlasi) | Kiini cha imani ya Mungu mmoja |
@@ -148,4 +148,4 @@ Usomaji huchukuliwa kuwa ibada, na usomaji mzuri wa Qur'ani unathaminiwa sana ka
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Kuinufaisha binadamu wote*

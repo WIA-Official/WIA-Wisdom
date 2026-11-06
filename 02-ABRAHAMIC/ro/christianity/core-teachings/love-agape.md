@@ -8,9 +8,9 @@
 
 Agape (în greacă: ἀγάπη, *agápē*) este cuvântul grecesc folosit în Noul Testament pentru a descrie cea mai înaltă formă a iubirii: iubirea necondiționată și jertfelnică a lui Dumnezeu pentru oameni, precum și iubirea pe care creștinii sunt chemați să o împlinească față de Dumnezeu și față de aproapele.
 
-Spre deosebire de iubirea omenească, care răspunde adesea frumuseții sau vredniciei celui iubit, agape se caracterizează prin necondiționare. Iubirea agape a lui Dumnezeu nu este câștigată prin meritele omului, ci este dăruită în mod liber. După cum a scris Apostolul Pavel: „Dumnezeu își arată dragostea față de noi prin faptul că, pe când eram încă păcătoși, Hristos a murit pentru noi" (Romani 5:8).
+Spre deosebire de iubirea omenească, care răspunde adesea frumuseții sau vredniciei celui iubit, agape se caracterizează prin necondiționare. Iubirea agape a lui Dumnezeu nu este câștigată prin meritele omului, ci este dăruită în mod liber. După cum a scris Apostolul Pavel: „Dumnezeu Își arată dragostea Sa față de noi prin aceea că, pe când eram încă păcătoși, Hristos a murit pentru noi” (Romani 5:8).
 
-Agape nu este în primul rând un sentiment, ci un angajament: o alegere făcută cu voință de a căuta binele altuia, indiferent de costul pentru sine. Această iubire este însăși firea lui Dumnezeu („Dumnezeu este dragoste", 1 Ioan 4:8) și semnul distinctiv al ucenicilor lui Hristos („Din aceasta vor cunoaște toți că sunteți ucenicii Mei, dacă veți avea dragoste unii față de alții", Ioan 13:35).
+Agape nu este în primul rând un sentiment, ci un angajament: o alegere făcută cu voință de a căuta binele altuia, indiferent de costul pentru sine. Această iubire este însăși firea lui Dumnezeu („Dumnezeu este iubire”, 1 Ioan 4:8) și semnul distinctiv al ucenicilor lui Hristos („Prin aceasta vor cunoaște toți că sunteți ucenicii Mei, dacă veți avea dragoste unii față de alții”, Ioan 13:35).
 
 ---
 
@@ -47,27 +47,27 @@ Deși unii cercetători pun la îndoială caracterul atât de tranșant al acest
 
 ## Temeiuri biblice | Biblical Foundations
 
-### Agape lui Dumnezeu pentru omenire | God's Agape for Humanity
+### Agapea lui Dumnezeu pentru omenire | God's Agape for Humanity
 
-**Ioan 3:16** — „Căci Dumnezeu aşa a iubit (*ēgapēsen*) lumea, încât pe Fiul Său Cel Unul-Născut L-a dat, pentru ca oricine crede în El să nu piară, ci să aibă viaţă veşnică."
+**Ioan 3:16** — „Căci Dumnezeu așa a iubit (*ēgapēsen*) lumea, încât pe Fiul Său Cel Unul-Născut L-a dat ca oricine crede în El să nu piară, ci să aibă viață veșnică.”
 
-**Romani 5:8** — „Dar Dumnezeu își arată dragostea (*agapēn*) față de noi prin faptul că, pe când eram încă păcătoși, Hristos a murit pentru noi."
+**Romani 5:8** — „Dar Dumnezeu Își arată dragostea (*agapēn*) Sa față de noi prin aceea că, pe când eram încă păcătoși, Hristos a murit pentru noi.”
 
-**1 Ioan 4:8-10** — „Cel ce nu iubește nu a cunoscut pe Dumnezeu, pentru că Dumnezeu este dragoste (*agapē*). întru aceasta s-a arătat dragostea lui Dumnezeu față de noi: Dumnezeu L-a trimis în lume pe Fiul Său Cel Unul-Născut, ca noi să dobândim viața prin El."
+**1 Ioan 4:8-10** — „Cel ce nu iubește n-a cunoscut pe Dumnezeu, pentru că Dumnezeu este iubire (*agapē*). Întru aceasta s-a arătat dragostea lui Dumnezeu către noi, că pe Fiul Său Cel Unul-Născut L-a trimis Dumnezeu în lume ca prin El viață să avem.”
 
 ---
 
 ### Porunca cea mare | The Great Commandment
 
-**Matei 22:37-39** — „Să iubești (*agapēseis*) pe Domnul Dumnezeul tău din toată inima ta, din tot sufletul tău și din tot cugetul tău. Aceasta este marea și cea dintâi poruncă. Iar a doua, asemenea ei: Să iubești (*agapēseis*) pe aproapele tău ca pe tine însuți."
+**Matei 22:37-39** — „Să iubești (*agapēseis*) pe Domnul Dumnezeul tău din toată inima ta, din tot sufletul tău și din tot cugetul tău. Aceasta este marea și întâia poruncă. Iar a doua, la fel ca aceasta: Să iubești (*agapēseis*) pe aproapele tău ca pe tine însuți.”
 
-Iisus citează aici Shema (Deuteronom 6:5) și o leagă de Leviticul 19:18, făcând din iubire rezumatul întregii legi dumnezeiești.
+Iisus citează aici Șema (Deuteronom 6:5) și o leagă de Leviticul 19:18, făcând din iubire rezumatul întregii legi dumnezeiești.
 
 ---
 
 ### Iubirea de vrăjmași | Love of Enemies
 
-**Matei 5:44-45** — „Iar Eu zic vouă: Iubiți (*agapate*) pe vrăjmașii voștri și rugați-vă pentru cei ce vă prigonesc, ca să fiți fiii Tatălui vostru Celui din ceruri."
+**Matei 5:44-45** — „Iar Eu zic vouă: Iubiți (*agapate*) pe vrăjmașii voștri și rugați-vă pentru cei ce vă prigonesc, ca să fiți fiii Tatălui vostru Celui din ceruri.”
 
 Această poruncă reprezintă cea mai radicală expresie a agapei: iubire arătată tocmai celor care n-o merită, oglindind însăși firea lui Dumnezeu.
 
@@ -77,7 +77,7 @@ Această poruncă reprezintă cea mai radicală expresie a agapei: iubire arăta
 
 **1 Corinteni 13** este celebrul imn al lui Pavel închinat iubirii (*agapē*):
 
-„Dragostea îndelung rabdă, dragostea este binevoitoare; dragostea nu pizmuiește, dragostea nu se laudă, nu se trufește, nu se poartă cu necuviință, nu caută ale sale, nu se mânie, nu gândește răul, nu se bucură de nedreptate, ci se bucură de adevăr. Toate le suferă, toate le crede, toate le nădăjduiește, toate le rabdă. Dragostea niciodată nu cade."
+„Dragostea îndelung rabdă; dragostea este binevoitoare, dragostea nu pizmuiește, nu se laudă, nu se trufește. Dragostea nu se poartă cu necuviință, nu caută ale sale, nu se aprinde de mânie, nu gândește răul. Nu se bucură de nedreptate, ci se bucură de adevăr. Toate le suferă, toate le crede, toate le nădăjduiește, toate le rabdă. Dragostea nu cade niciodată.”
 
 ---
 
@@ -85,17 +85,17 @@ Această poruncă reprezintă cea mai radicală expresie a agapei: iubire arăta
 
 ### Iubirea ca esență a lui Dumnezeu | Love as God's Essence
 
-„Dumnezeu este dragoste" (1 Ioan 4:8) este una dintre cele mai profunde afirmații din Scriptură. Ea nu spune doar că Dumnezeu este iubitor, ci că iubirea este însăși definiția a ceea ce este Dumnezeu. Viața lăuntrică a Treimii, iubirea veșnică dintre Tatăl, Fiul și Duhul, este izvorul oricărei iubiri.
+„Dumnezeu este iubire” (1 Ioan 4:8) este una dintre cele mai profunde afirmații din Scriptură. Ea nu spune doar că Dumnezeu este iubitor, ci că iubirea este însăși definiția a ceea ce este Dumnezeu. Viața lăuntrică a Treimii, iubirea veșnică dintre Tatăl, Fiul și Duhul, este izvorul oricărei iubiri.
 
 ### Iubirea și Crucea | Love and the Cross
 
-Crucea este arătarea supremă a agapei. Iubirea lui Dumnezeu nu este simplă sentimentalitate, ci faptă costisitoare: Fiul lui Dumnezeu Își dă viața pentru păcătoși. După cum a spus Iisus: „Mai mare dragoste decât aceasta nimeni nu are: ca cineva să-și pună sufletul pentru prietenii săi" (Ioan 15:13).
+Crucea este arătarea supremă a agapei. Iubirea lui Dumnezeu nu este simplă sentimentalitate, ci faptă costisitoare: Fiul lui Dumnezeu Își dă viața pentru păcătoși. După cum a spus Iisus: „Mai mare dragoste decât aceasta nimeni nu are, ca sufletul lui să și-l pună cineva pentru prietenii săi” (Ioan 15:13).
 
 ### Iubirea ca semn al ucenicilor | Love as Mark of Discipleship
 
-„Poruncă nouă dau vouă: să vă iubiți unii pe alții; precum Eu v-am iubit pe voi, așa și voi să vă iubiți unii pe alții. Din aceasta vor cunoaște toți că sunteți ucenicii Mei, dacă veți avea dragoste unii față de alții" (Ioan 13:34-35).
+„Poruncă nouă dau vouă: Să vă iubiți unul pe altul. Precum v-am iubit Eu pe voi, așa și voi să vă iubiți unul pe altul. Prin aceasta vor cunoaște toți că sunteți ucenicii Mei, dacă veți avea dragoste unii față de alții” (Ioan 13:34-35).
 
-Iubirea creștină nu este simplă căldură omenească, ci iubire după chipul jertfei de sine a lui Hristos: „precum Eu v-am iubit pe voi".
+Iubirea creștină nu este simplă căldură omenească, ci iubire după chipul jertfei de sine a lui Hristos: „Precum v-am iubit Eu pe voi”.
 
 ---
 
@@ -116,7 +116,7 @@ Iubirea creștină nu este simplă căldură omenească, ci iubire după chipul 
 
 1. **Biserica primară**: Didahia și alte scrieri timpurii pun accent pe agapele (mesele de iubire) ca expresii ale comunității creștine
 
-2. **Augustin**: Iubirea (*caritas*) ca singura virtute care rânduiește drept toate celelalte; „Iubește și fă ce vrei"
+2. **Augustin**: Iubirea (*caritas*) ca singura virtute care rânduiește drept toate celelalte; „Iubește și fă ce vrei”
 
 3. **Toma d'Aquino**: Caritatea (*caritas*, redarea latină a agapei) ca formă a tuturor virtuților, revărsată de Dumnezeu
 
@@ -155,8 +155,8 @@ Iubirea agape transformă viața de zi cu zi:
 
 ## Trimiteri încrucișate | Cross-References
 
-- **[Treimea](./trinity.md)**: Iubirea din interiorul Treimii, care este izvorul agapei
-- **[Shema (iudaism)](../judaism/core-teachings/shema.md)**: Porunca de a-L iubi pe Dumnezeu cu toată ființa
+- **[Sfânta Treime](./trinity.md)**: Iubirea din interiorul Treimii, care este izvorul agapei
+- **[Șema (iudaism)](../judaism/core-teachings/shema.md)**: Porunca de a-L iubi pe Dumnezeu cu toată ființa
 - **[Metta (budism)](../../../01-DHARMIC/buddhism/practices/metta.md)**: Meditația budistă a bunăvoinței iubitoare
 - **[Ren (confucianism)](../../../03-EAST-ASIAN/confucianism/core-teachings/ren.md)**: Bunăvoința/omenia confucianistă
 
@@ -174,4 +174,4 @@ Iubirea agape transformă viața de zi cu zi:
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Spre binele întregii omeniri**

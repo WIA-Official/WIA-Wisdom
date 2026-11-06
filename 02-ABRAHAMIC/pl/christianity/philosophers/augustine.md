@@ -18,7 +18,7 @@ Jego myśl ukształtowała nauki o grzechu pierworodnym, łasce Bożej, wolnej w
 
 > *Wyznania* (ok. 397–400 n.e.) to pierwsza zachodnia autobiografia i jedna z najbardziej wpływowych ksiąg w literaturze chrześcijańskiej. Ukazują one duchową drogę Augustyna od grzechu do zbawienia.
 
-> „Późno cię umiłowałem, Pięknie tak dawne i tak nowe! Późno cię umiłowałem... Ty byłeś wewnątrz mnie, a ja byłem na zewnątrz siebie.”
+> „Późno Cię umiłowałem, Piękności tak dawna a tak nowa, późno Cię umiłowałem!... Oto Ty byłeś we mnie, a ja byłem na zewnątrz.”
 
 Główne tematy:
 - **Niepokój**: tęsknota duszy za Bogiem
@@ -46,7 +46,7 @@ Główne nauki:
 
 ## Państwo Boże | The City of God
 
-> Napisane w odpowiedzi na złupienie Rzymu w 410 r. n.e., *Państwo Boże* (*De civitate Dei*) przeciwstawia „państwo Boże” „państwu ziemskiemu”.
+> Napisane w odpowiedzi na złupienie Rzymu w 410 r. n.e., *Państwo Boże* (*De civitate Dei*) przeciwstawia „Państwo Boże” „państwu ziemskiemu”.
 
 > „Dwie miłości zbudowały dwa państwa: państwo ziemskie – miłość siebie aż do pogardy Boga; państwo niebieskie – miłość Boga aż do pogardy siebie.”
 
@@ -62,7 +62,7 @@ Główne pojęcia:
 
 > Rozważania Augustyna o czasie w księdze XI *Wyznań* pozostają jednym z najgłębszych filozoficznych ujęć czasowości.
 
-> „Czymże więc jest czas? Jeśli nikt mnie o to nie pyta, wiem; jeśli chcę wyjaśnić pytającemu, nie wiem.”
+> „Czymże więc jest czas? Jeśli nikt mnie o to nie pyta, wiem; jeśli pytającemu usiłuję wytłumaczyć, nie wiem.”
 
 > Czas istnieje tylko jako teraźniejszość: teraźniejszość rzeczy minionych (pamięć), teraźniejszość rzeczy obecnych (uwaga) i teraźniejszość rzeczy przyszłych (oczekiwanie).
 

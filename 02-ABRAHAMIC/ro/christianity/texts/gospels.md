@@ -6,9 +6,9 @@
 
 ## Prezentare generală | Overview
 
-Cele patru Evanghelii — după Matei, Marcu, Luca și Ioan — sunt textele de temelie ale creștinismului și prezintă viața, învățăturile, moartea și învierea lui Iisus din Nazaret. Cuvântul „evanghelie" (în greacă: εὐαγγέλιον, euangelion) înseamnă „veste bună". Împreună, aceste patru relatări oferă portrete care se completează reciproc, fiecare fiind scrisă pentru un public diferit și punând în evidență aspecte distincte ale identității și misiunii lui Iisus.
+Cele patru Evanghelii — după Matei, Marcu, Luca și Ioan — sunt textele de temelie ale creștinismului și prezintă viața, învățăturile, moartea și învierea lui Iisus din Nazaret. Cuvântul „evanghelie” (în greacă: εὐαγγέλιον, euangelion) înseamnă „veste bună”. Împreună, aceste patru relatări oferă portrete care se completează reciproc, fiecare fiind scrisă pentru un public diferit și punând în evidență aspecte distincte ale identității și misiunii lui Iisus.
 
-Primele trei evanghelii (Matei, Marcu, Luca) se numesc „Evanghelii sinoptice", pentru că „văd împreună" (în greacă: συν-οπτικός, syn-optikos): au în comun o mare parte din material, adesea în aceeași succesiune. Evanghelia după Ioan stă deoparte, cu perspectiva ei teologică aparte și cu o altă selecție de evenimente.
+Primele trei evanghelii (Matei, Marcu, Luca) se numesc „Evanghelii sinoptice”, pentru că „văd împreună” (în greacă: συν-οπτικός, syn-optikos): au în comun o mare parte din material, adesea în aceeași succesiune. Evanghelia după Ioan se deosebește prin perspectiva ei teologică aparte și cu o altă selecție de evenimente.
 
 ---
 
@@ -23,7 +23,7 @@ Potrivit consensului cercetătorilor:
 | Luca | cca 80-90 d.Hr. | Creștinii proveniți dintre neamuri |
 | Ioan | cca 90-100 d.Hr. | Universal/teologic |
 
-Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Matei și Luca au folosit, independent, Evanghelia după Marcu ca sursă, alături de o sursă ipotetică de cuvântări numită „Q" (din germană Quelle, „sursă"). Aceasta este cunoscută drept „ipoteza celor două surse".
+Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Matei și Luca au folosit, independent, Evanghelia după Marcu ca sursă, alături de o sursă ipotetică de cuvântări numită „Q” (din germană Quelle, „sursă”). Aceasta este cunoscută drept „ipoteza celor două surse”.
 
 ---
 
@@ -31,13 +31,13 @@ Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Ma
 
 ### Evanghelia după Matei | Gospel of Matthew
 
-**Autor:** Tradițional este atribuită lui Matei vameșul, unul dintre cei doisprezece apostoli ai lui Iisus.
+**Autor:** Este atribuită în mod tradițional lui Matei vameșul, unul dintre cei doisprezece apostoli ai lui Iisus.
 **Public:** Creștinii proveniți dintre iudei
 **Iisus este înfățișat ca:** Mesia cel făgăduit, Regele iudeilor
 
 **Trăsături principale:**
 - Începe cu genealogia care îl leagă pe Iisus de Avraam și de David
-- Subliniază împlinirea profeției din Vechiul Testament („Aceasta s-a întâmplat ca să se împlinească ceea ce a spus prorocul...")
+- Subliniază împlinirea profeției din Vechiul Testament („Aceasta s-a făcut ca să se împlinească ceea ce s-a zis prin proorocul...”)
 - Conține cinci mari blocuri de învățătură (în ecoul celor cinci cărți ale lui Moise):
   1. Predica de pe Munte (capitolele 5-7)
   2. Cuvântarea misionară (capitolul 10)
@@ -51,15 +51,15 @@ Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Ma
 
 ### Evanghelia după Marcu | Gospel of Mark
 
-**Autor:** Tradițional este atribuită lui Ioan Marcu, tovarăș al lui Petru și al lui Pavel.
+**Autor:** Este atribuită în mod tradițional lui Ioan Marcu, tovarăș al lui Petru și al lui Pavel.
 **Public:** Creștinii din Roma, confruntați cu persecuția
 **Iisus este înfățișat ca:** Robul suferind, Fiul lui Dumnezeu
 
 **Trăsături principale:**
-- Cea mai scurtă dintre Evanghelii, orientată spre acțiune („îndată" apare de peste 40 de ori)
+- Cea mai scurtă dintre Evanghelii, orientată spre acțiune („îndată” apare de peste 40 de ori)
 - Nu are relatare despre naștere; începe cu Ioan Botezătorul
 - Pune accent pe faptele lui Iisus mai mult decât pe învățăturile Sale
-- „Secretul mesianic" — Iisus le cere adesea oamenilor să nu dezvăluie cine este
+- „Secretul mesianic” — Iisus le cere adesea oamenilor să nu dezvăluie cine este
 - Accent pe cruce și pe suferință
 - Finalul original (16:8) este abrupt: femeile fug de la mormântul gol, cuprinse de frică
 - Înfățișează ucenicia ca urmare a lui Iisus până la cruce
@@ -68,12 +68,12 @@ Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Ma
 
 ### Evanghelia după Luca | Gospel of Luke
 
-**Autor:** Tradițional este atribuită lui Luca medicul, tovarăș al lui Pavel.
-**Public:** Creștinii proveniți dintre neamuri (nu dintre iudei), în mod special „Teofil"
+**Autor:** Este atribuită în mod tradițional lui Luca medicul, tovarăș al lui Pavel.
+**Public:** Creștinii proveniți dintre neamuri (nu dintre iudei), în mod special „Teofil”
 **Iisus este înfățișat ca:** Mântuitorul tuturor oamenilor, în special al celor marginalizați
 
 **Trăsături principale:**
-- Cea mai literară greacă dintre Evanghelii
+- Are greaca cea mai literară dintre Evanghelii
 - Relatare amănunțită a nașterii (îngeri, păstori, Simeon, Ana)
 - Continuă în Faptele Apostolilor (Luca-Fapte, o operă în două volume)
 - Pune accent pe:
@@ -82,28 +82,28 @@ Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Ma
   - Bucurie și laudă (include Magnificat, Benedictus, Nunc dimittis)
   - Rugăciunea în viața lui Iisus
 - Parabole proprii: Samarineanul milostiv, Fiul risipitor, Bogatul și Lazăr
-- Mântuire universală — „veste bună pentru toți oamenii"
+- Mântuire universală — „veste bună pentru toți oamenii”
 
 ---
 
 ## Evanghelia după Ioan | The Gospel of John
 
-**Autor:** Tradițional este atribuită apostolului Ioan, „ucenicul pe care Iisus îl iubea".
+**Autor:** Este atribuită în mod tradițional apostolului Ioan, „ucenicul pe care Iisus îl iubea”.
 **Public:** Universal; accent teologic și duhovnicesc
-**Iisus este înfățișat ca:** Cuvântul (Logos) cel veșnic, Fiul lui Dumnezeu cel dumnezeiesc
+**Iisus este înfățișat ca:** Cuvântul (Logos) cel veșnic, Fiul dumnezeiesc al lui Dumnezeu
 
 **Trăsături principale:**
-- Prolog profund teologic și filozofic: „La început era Cuvântul"
+- Prolog profund teologic și filozofic: „La început era Cuvântul”
 - Nu are parabole (spre deosebire de sinoptice)
-- Șapte afirmații „Eu sunt" care descoperă identitatea dumnezeiască a lui Iisus:
-  1. „Eu sunt pâinea vieții" (6:35)
-  2. „Eu sunt lumina lumii" (8:12)
-  3. „Eu sunt ușa" (10:9)
-  4. „Eu sunt păstorul cel bun" (10:11)
-  5. „Eu sunt învierea și viața" (11:25)
-  6. „Eu sunt calea, adevărul și viața" (14:6)
-  7. „Eu sunt viața adevărată" (15:1)
-- Șapte „semne" (minuni) care arată slava lui Iisus
+- Șapte afirmații „Eu sunt” care descoperă identitatea dumnezeiască a lui Iisus:
+  1. „Eu sunt pâinea vieții” (6:35)
+  2. „Eu sunt lumina lumii” (8:12)
+  3. „Eu sunt ușa” (10:9)
+  4. „Eu sunt păstorul cel bun” (10:11)
+  5. „Eu sunt învierea și viața” (11:25)
+  6. „Eu sunt calea, adevărul și viața” (14:6)
+  7. „Eu sunt vița cea adevărată” (15:1)
+- Șapte „semne” (minuni) care arată slava lui Iisus
 - Lungă cuvântare de despărțire (capitolele 13-17)
 - Accent pe iubire, credință, viața veșnică și sălășluire
 
@@ -116,19 +116,19 @@ Cei mai mulți cercetători consideră că Marcu a fost scrisă prima și că Ma
 | Început | Genealogie | Botez | Dedicație | Imnul Logosului |
 | Iisus ca | Mesia/Rege | Rob | Mântuitor | Cuvântul dumnezeiesc |
 | Public | Iudei | Romani | Neamuri | Universal |
-| Specific | Predica de pe Munte | Final abrupt | Fiul risipitor | Cuvintele „Eu sunt" |
+| Specific | Predica de pe Munte | Final abrupt | Fiul risipitor | Cuvintele „Eu sunt” |
 | Ton | Didactic | Urgent | Plin de compasiune | Mistic |
 
 ---
 
 ## Problema sinoptică | The Synoptic Problem
 
-„Problema sinoptică" se referă la întrebarea cum sunt legate literar între ele Matei, Marcu și Luca. Observații principale:
+„Problema sinoptică” se referă la întrebarea cum sunt legate literar între ele Matei, Marcu și Luca. Observații principale:
 
 - Peste 90% din Marcu se regăsește în Matei
 - Peste 50% din Marcu se regăsește în Luca
-- Matei și Luca au în comun material care nu se află în Marcu (numit „Q")
-- Fiecare are material propriu (numit „M" pentru Matei, „L" pentru Luca)
+- Matei și Luca au în comun material care nu se află în Marcu (numit „Q”)
+- Fiecare are material propriu (numit „M” pentru Matei, „L” pentru Luca)
 
 Teoria dominantă (ipoteza celor două surse) propune:
 1. Marcu a fost scrisă prima
@@ -142,10 +142,10 @@ Teoria dominantă (ipoteza celor două surse) propune:
 
 ### Împărăția lui Dumnezeu | Kingdom of God
 
-Centrală în Evangheliile sinoptice este vestirea de către Iisus a Împărăției lui Dumnezeu (sau a „Împărăției Cerurilor" în Matei). Această Împărăție este:
-- Deja prezentă în lucrarea lui Iisus („Împărăția lui Dumnezeu este în mijlocul vostru")
+Centrală în Evangheliile sinoptice este vestirea de către Iisus a Împărăției lui Dumnezeu (sau a „Împărăției Cerurilor” în Matei). Această Împărăție este:
+- Deja prezentă în lucrarea lui Iisus („Împărăția lui Dumnezeu este înăuntrul vostru”)
 - Totuși încă așteptată în plinătatea ei
-- Primită prin pocăință și credință
+- Se intră în ea prin pocăință și credință
 - Marcată de dreptate, pace și bucurie
 
 ---

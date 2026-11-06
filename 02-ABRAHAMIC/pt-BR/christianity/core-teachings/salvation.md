@@ -35,11 +35,11 @@ Os cristãos creem que, como a natureza humana está fundamentalmente corrompida
 
 > **Efésios 2:8-9**: "Porque pela graça sois salvos, mediante a fé; e isto não vem de vós; é dom de Deus; não de obras, para que ninguém se glorie."
 
-> **Romanos 10:9**: "Se confessares com a tua boca que Jesus é o Senhor, e creres em teu coração que Deus o ressuscitou dentre os mortos, serás salvo."
+> **Romanos 10:9**: "Se, com a tua boca, confessares Jesus como Senhor e, em teu coração, creres que Deus o ressuscitou dentre os mortos, serás salvo."
 
-> **João 3:16**: "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+> **João 3:16**: "Porque Deus amou ao mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna."
 
-> **Atos 4:12**: "E em nenhum outro há salvação, porque debaixo do céu nenhum outro nome há, dado entre os homens, pelo qual devamos ser salvos."
+> **Atos 4:12**: "E não há salvação em nenhum outro; porque abaixo do céu não existe nenhum outro nome, dado entre os homens, pelo qual importa que sejamos salvos."
 
 ---
 
@@ -58,7 +58,7 @@ Os cristãos creem que, como a natureza humana está fundamentalmente corrompida
 ## Perspectivas denominacionais | Denominational Perspectives
 
 ### Visão católica:
-> "A visão católica afirma que Jesus mereceu a graça da justificação, que não é apenas a remissão do pecado, mas a infusão das virtudes da fé, da esperança e da caridade. O cristão justificado está em estado de graça, que pode ser perdido pelo cometimento de pecado mortal."
+> "A visão católica afirma que Jesus mereceu a graça da justificação, que não é apenas a remissão do pecado, mas a infusão das virtudes da fé, da esperança e da caridade. O cristão justificado está em estado de graça, que pode ser perdido quando se comete pecado mortal."
 
 ### Visão protestante (reformada):
 Enfatiza a salvação somente pela graça (*sola gratia*), somente pela fé (*sola fide*):

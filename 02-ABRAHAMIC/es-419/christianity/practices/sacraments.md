@@ -8,7 +8,7 @@
 
 Los sacramentos son ritos sagrados del cristianismo, considerados signos visibles y cauces eficaces de la gracia de Dios para todos los que los reciben con la debida disposición. La palabra «sacramento» proviene del latín *sacramentum*, que significa juramento sagrado o misterio.
 
-En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occidental: bautismo, confirmación, eucaristía, penitencia, orden sagrado, matrimonio y unción de los enfermos (entonces llamada extremaunción). Estos fueron afirmados por el Concilio de Trento (1545-63). Las iglesias protestantes clásicas (luterana, anglicana, reformada) reconocen solo dos —el bautismo y la eucaristía— como instituidos por Cristo en los Evangelios.
+En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occidental: bautismo, confirmación, eucaristía, penitencia, orden sacerdotal, matrimonio y extremaunción. Estos fueron afirmados por el Concilio de Trento (1545-63). Las iglesias protestantes clásicas (luterana, anglicana, reformada) reconocen solo dos —el bautismo y la eucaristía— como instituidos por Cristo en los Evangelios.
 
 ---
 ## Clasificación de los sacramentos | Classification of Sacraments
@@ -17,7 +17,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 |----------|------------|---------|
 | **Iniciación** | Bautismo, confirmación, eucaristía | Ingreso a la vida cristiana |
 | **Sanación** | Penitencia, unción de los enfermos | Sanación espiritual y física |
-| **Servicio** | Orden sagrado, matrimonio | Comunidad y familia |
+| **Servicio** | Orden sacerdotal, matrimonio | Comunidad y familia |
 
 ---
 ## Los siete sacramentos | The Seven Sacraments
@@ -56,7 +56,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 - Preparación para la muerte
 - Perdón de los pecados
 
-### 6. Orden sagrado:
+### 6. Orden sacerdotal:
 - Ordenación de diáconos, presbíteros y obispos
 - Servicio a la Iglesia
 - Autoridad para celebrar los sacramentos
@@ -97,7 +97,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 | **Agua** | Purificación, muerte, renacimiento |
 | **Fórmula trinitaria** | Padre, Hijo, Espíritu Santo |
 | **Vestidura blanca** | Vida nueva en Cristo |
-| **Vela** | Luz de Cristo |
+| **Cirio** | Luz de Cristo |
 
 ### Eucaristía:
 > «Durante la misa, el sacerdote consagra el pan y el vino, que son transubstanciados en el cuerpo y la sangre de Cristo».
@@ -113,7 +113,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 | Tradición | Número | Visión |
 |-----------|--------|------|
 | **Católica romana** | 7 | Cauces de gracia instituidos por Cristo |
-| **Ortodoxa oriental** | 7 (misterios) | Misterios divinos para la salvación |
+| **Ortodoxa** | 7 (misterios) | Misterios divinos para la salvación |
 | **Luterana** | 2-3 | Promesas del Evangelio con elementos visibles |
 | **Reformada/Presbiteriana** | 2 | Signos y sellos de la gracia de la alianza |
 | **Metodista** | 2 | Medios de gracia |
@@ -129,7 +129,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 | Eucharistia | Acción de gracias |
 | Poenitentia | Arrepentimiento |
 | Chrismatio | Unción |
-| Ordo | Orden sagrado |
+| Ordo | Orden sacerdotal |
 | Matrimonium | Matrimonio |
 
 ---

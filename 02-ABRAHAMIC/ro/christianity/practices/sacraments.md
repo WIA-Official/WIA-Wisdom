@@ -8,7 +8,7 @@
 
 Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca semne vizibile și canale eficace ale harului lui Dumnezeu pentru toți cei care le primesc cu dispoziția cuvenită. Cuvântul „sacrament” provine din latinescul *sacramentum*, care înseamnă jurământ sfânt sau taină.
 
-În secolul al XII-lea, Petru Lombardul a definit pentru Biserica Apuseană șapte sacramente: botezul, mirungerea (confirmarea), Euharistia, pocăința (spovedania), preoția (hirotonirea), căsătoria și ungerea bolnavilor (numită pe atunci „ultima ungere”). Acestea au fost reafirmate de Conciliul de la Trento (1545-63). Bisericile protestante clasice (luterană, anglicană, reformată) recunosc doar două – botezul și Euharistia – ca fiind instituite de Hristos în Evanghelii.
+În secolul al XII-lea, Petru Lombardul a definit pentru Biserica Apuseană șapte sacramente: botezul, mirungerea (confirmarea), Euharistia, pocăința (spovedania), preoția (hirotonia), căsătoria și ultima ungere (maslul). Acestea au fost reafirmate de Conciliul de la Trento (1545–1563). Bisericile protestante clasice (luterană, anglicană, reformată) recunosc doar două – botezul și Euharistia – ca fiind instituite de Hristos în Evanghelii.
 
 ---
 ## Clasificarea sacramentelor | Classification of Sacraments
@@ -22,7 +22,7 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 ---
 ## Cele șapte sacramente | The Seven Sacraments
 
-### 1. Botezul (Baptism):
+### 1. Botezul:
 > „Prin Botez devenim membri ai Bisericii, Trupul lui Hristos.”
 
 - Intrarea în comunitatea creștină
@@ -30,13 +30,13 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 - Renașterea în Duhul Sfânt
 - Se săvârșește o singură dată în viața unei persoane
 
-### 2. Confirmarea (Confirmation):
+### 2. Confirmarea (Mirungerea):
 - Întărirea harului botezului
 - Primirea plinătății Duhului Sfânt
 - Angajarea într-o credință matură
 - Ungerea cu untdelemn sfințit (mir)
 
-### 3. Euharistia (Eucharist):
+### 3. Euharistia (Sfânta Împărtășanie):
 > „Izvorul și culmea vieții creștine”
 
 - Împărtășirea din trupul și sângele lui Hristos
@@ -44,25 +44,25 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 - Mulțumire (în greacă: *eucharistia*)
 - Actul central al cultului creștin
 
-### 4. Pocăința/Reconcilierea (Penance/Reconciliation):
+### 4. Pocăința/Reconcilierea (Spovedania):
 - Mărturisirea păcatelor
 - Dezlegarea dată de preot
 - Împăcarea cu Dumnezeu și cu Biserica
 - Vindecare sufletească
 
-### 5. Ungerea bolnavilor (Anointing of the Sick):
+### 5. Ungerea bolnavilor (Sfântul Maslu):
 - Pentru cei grav bolnavi sau aflați în pragul morții
 - Vindecare sufletească și uneori trupească
 - Pregătirea pentru moarte
 - Iertarea păcatelor
 
-### 6. Preoția (Holy Orders):
-- Hirotonirea diaconilor, preoților și episcopilor
+### 6. Preoția (Hirotonia):
+- Hirotonia diaconilor, preoților și episcopilor
 - Slujirea Bisericii
 - Autoritatea de a săvârși sacramentele
 - Succesiunea apostolică
 
-### 7. Căsătoria (Matrimony):
+### 7. Căsătoria (Cununia):
 - Legătura sfântă dintre soți
 - Reflectarea unirii lui Hristos cu Biserica
 - Relație de legământ
@@ -71,19 +71,19 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 ---
 ## Înțelegerea teologică | Theological Understanding
 
-### Viziunea catolică:
-> „Cele șapte sacramente sunt ceremonii care indică ceea ce este sfânt, semnificativ și important pentru creștini. Ele sunt ocazii speciale de a experimenta prezența mântuitoare a lui Dumnezeu.”
+### Concepția catolică:
+> „Cele șapte sacramente sunt ceremonii care indică ceea ce este sfânt, semnificativ și important pentru creștini. Ele sunt ocazii deosebite de a trăi prezența mântuitoare a lui Dumnezeu.”
 
 - Sacramentele conferă harul *ex opere operato* (prin lucrarea săvârșită)
 - Sunt valide atunci când sunt prezente forma, materia și intenția cuvenite
 - Au fost instituite de Hristos
 
-### Viziunile protestante:
+### Concepțiile protestante:
 | Tradiție | Sacramente | Înțelegere |
 |-----------|------------|---------------|
 | **Luterană** | Botezul, Euharistia, (Pocăința) | Mijloace ale harului |
 | **Reformată** | Botezul, Euharistia | Semne și peceți ale legământului |
-| **Anglicană** | Botezul, Euharistia + alte 5 | Semne exterioare ale harului launtric |
+| **Anglicană** | Botezul, Euharistia + alte 5 | Semne exterioare ale harului lăuntric |
 | **Baptistă** | Botezul, Cina Domnului | Rânduieli, nu sacramente |
 
 ---
@@ -100,9 +100,9 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 | **Lumânarea** | Lumina lui Hristos |
 
 ### Euharistia:
-> „În timpul liturghiei, preotul sfințește pâinea și vinul, care sunt transsubstanțiate în trupul și sângele lui Hristos.”
+> „În timpul liturghiei, preotul consacră pâinea și vinul, care sunt transsubstanțiate în trupul și sângele lui Hristos.”
 
-| Element | Viziunea catolică | Viziunea protestantă |
+| Element | Concepția catolică | Concepția protestantă |
 |---------|---------------|-----------------|
 | **Pâinea** | Devine trupul lui Hristos | Pomenire/prezență spirituală |
 | **Vinul** | Devine sângele lui Hristos | Pomenire/prezență spirituală |
@@ -110,7 +110,7 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 ---
 ## Deosebiri între confesiuni | Denominational Differences
 
-| Tradiție | Număr | Viziune |
+| Tradiție | Număr | Concepție |
 |-----------|--------|------|
 | **Romano-catolică** | 7 | Canale ale harului instituite de Hristos |
 | **Ortodoxă răsăriteană** | 7 (Taine) | Taine dumnezeiești pentru mântuire |
@@ -118,10 +118,10 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 | **Reformată/Prezbiteriană** | 2 | Semne și peceți ale harului legământului |
 | **Metodistă** | 2 | Mijloace ale harului |
 | **Baptistă** | 2 (Rânduieli) | Acte simbolice de ascultare |
-| **Quakeră** | 0 | Experiența launtrică mai presus de formele exterioare |
+| **Quakeră** | 0 | Experiența lăuntrică mai presus de formele exterioare |
 
 ---
-## Termeni cheie | Key Terms
+## Termeni-cheie | Key Terms
 | Latină/Greacă | Română | Înțeles |
 |-------------|--------|---------|
 | Sacramentum | Sacrament, Taină | Semn sfânt |
@@ -129,7 +129,7 @@ Sfintele Taine (sacramentele) sunt rânduieli sfinte din creștinism, văzute ca
 | Eucharistia | Euharistie | Mulțumire |
 | Poenitentia | Pocăință | Căință |
 | Chrismatio | Mirungere (confirmare) | Ungere |
-| Ordo | Preoție (hirotonire) | Rânduiala preoției |
+| Ordo | Preoție (hirotonie) | Rânduiala preoției |
 | Matrimonium | Căsătorie | Căsătorie |
 
 ---

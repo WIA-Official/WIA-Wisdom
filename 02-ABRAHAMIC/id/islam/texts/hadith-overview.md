@@ -6,7 +6,7 @@
 
 ## Gambaran Umum | Overview
 
-Hadis (bahasa Arab: حديث, jamak: ahadith) adalah kumpulan sabda, perbuatan, dan persetujuan (taqrir) Nabi Muhammad ﷺ (semoga damai menyertainya), yang dimuliakan umat Islam sebagai salah satu sumber utama hukum agama dan tuntunan akhlak di samping Al-Qur'an. Jika Al-Qur'an adalah firman Allah secara langsung, Hadis menggambarkan Sunnah (jalan) Nabi, yaitu teladan hidup tentang cara menerapkan ajaran Al-Qur'an.
+Hadis (bahasa Arab: حديث, jamak: ahadith) adalah kumpulan sabda, perbuatan, dan persetujuan (taqrir) Nabi Muhammad saw., yang dimuliakan umat Islam sebagai salah satu sumber utama hukum agama dan tuntunan akhlak di samping Al-Qur'an. Jika Al-Qur'an adalah firman Allah secara langsung, Hadis menggambarkan Sunnah (jalan) Nabi, yaitu teladan hidup tentang cara menerapkan ajaran Al-Qur'an.
 
 Hadis pada mulanya disampaikan secara lisan oleh para Sahabat Nabi, kemudian dicatat dalam bentuk tulisan mulai awal abad ke-8 M. Kumpulan hadis yang paling berwibawa disusun pada abad ke-9 dan ke-10 oleh para ulama yang mengembangkan metode ketat untuk memastikan keaslian hadis.
 
@@ -17,14 +17,14 @@ Hadis pada mulanya disampaikan secara lisan oleh para Sahabat Nabi, kemudian dic
 ### Komponen:
 | Bagian | Bahasa Arab | Penjelasan |
 |------|--------|-------------|
-| **Isnad** | إسناد | Rantai para perawi |
-| **Matn** | متن | Teks atau isi hadis itu sendiri |
+| **Sanad (isnad)** | إسناد | Rantai para perawi |
+| **Matan** | متن | Teks atau isi hadis itu sendiri |
 
 ### Contoh:
 ```
-ISNAD: "Abu Hurayrah meriwayatkan bahwa Rasulullah bersabda..."
-MATN: "Sesungguhnya setiap amal itu tergantung pada niatnya, dan setiap orang 
-       akan mendapatkan balasan sesuai dengan niatnya."
+SANAD: "Abu Hurairah meriwayatkan bahwa Rasulullah bersabda..."
+MATAN: "Sesungguhnya amal-amal itu tergantung niatnya, dan sesungguhnya 
+       setiap orang mendapatkan sesuai dengan apa yang ia niatkan."
 ```
 
 ---
@@ -51,15 +51,15 @@ MATN: "Sesungguhnya setiap amal itu tergantung pada niatnya, dan setiap orang
 
 ## Kumpulan Utama | Major Collections
 
-### Enam Kitab Induk (Kutub al-Sittah):
+### Enam Kitab Induk (Al-Kutub as-Sittah):
 | Kumpulan | Penyusun | Wafat | Jumlah Hadis |
 |------------|----------|-------|--------------|
 | **Sahih al-Bukhari** | Imam al-Bukhari | 870 M | ~7.275 |
 | **Sahih Muslim** | Imam Muslim | 875 M | ~7.500 |
 | **Sunan Abu Dawud** | Abu Dawud | 889 M | ~4.800 |
-| **Sunan al-Tirmidhi** | al-Tirmidhi | 892 M | ~3.956 |
-| **Sunan al-Nasa'i** | al-Nasa'i | 915 M | ~5.700 |
-| **Sunan Ibn Majah** | Ibn Majah | 887 M | ~4.341 |
+| **Sunan at-Tirmidzi** | at-Tirmidzi | 892 M | ~3.956 |
+| **Sunan an-Nasa'i** | an-Nasa'i | 915 M | ~5.700 |
+| **Sunan Ibnu Majah** | Ibnu Majah | 887 M | ~4.341 |
 
 > "Salah satu kumpulan hadis yang paling berwibawa di kalangan Muslim Sunni adalah kitab himpunan Ṣaḥīḥ karya al-Bukhārī."
 
@@ -68,19 +68,19 @@ MATN: "Sesungguhnya setiap amal itu tergantung pada niatnya, dan setiap orang
 ## Hadis-Hadis Terkenal | Famous Hadith
 
 ### Tentang Niat:
-> "Sesungguhnya setiap amal itu tergantung pada niatnya, dan setiap orang akan mendapatkan balasan sesuai dengan niatnya." (Bukhari)
+> "Sesungguhnya amal-amal itu tergantung niatnya, dan sesungguhnya setiap orang mendapatkan sesuai dengan apa yang ia niatkan." (HR. Bukhari)
 
 ### Tentang Persaudaraan:
-> "Tidak sempurna iman salah seorang di antara kalian sampai ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri." (Bukhari, Muslim)
+> "Tidak beriman salah seorang di antara kalian hingga ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri." (HR. Bukhari dan Muslim)
 
 ### Tentang Ilmu:
-> "Menuntut ilmu adalah kewajiban bagi setiap Muslim." (Ibn Majah)
+> "Menuntut ilmu itu wajib atas setiap Muslim." (HR. Ibnu Majah)
 
 ### Tentang Kelembutan:
-> "Sesungguhnya Allah itu lembut dan menyukai kelembutan dalam segala hal." (Bukhari, Muslim)
+> "Sesungguhnya Allah Maha Lembut dan mencintai kelembutan dalam segala urusan." (HR. Bukhari dan Muslim)
 
 ### Tentang Akhlak:
-> "Sebaik-baik kalian adalah yang paling baik akhlaknya." (Bukhari)
+> "Sebaik-baik kalian adalah yang paling baik akhlaknya." (HR. Bukhari)
 
 ---
 
@@ -103,17 +103,17 @@ Para ulama mengembangkan metode yang ketat untuk memastikan keaslian hadis:
 
 | Metode | Tujuan |
 |--------|---------|
-| **Analisis Isnad** | Memeriksa rantai periwayatan |
+| **Analisis Sanad** | Memeriksa rantai periwayatan |
 | **Biografi Perawi** | Memeriksa keandalan para penyampai hadis |
-| **Analisis Matn** | Menelaah keselarasan isi secara internal |
+| **Analisis Matan** | Menelaah keselarasan isi secara internal |
 | **Perbandingan** | Membandingkan dengan hadis lain |
 
 ### Kriteria Penilaian Perawi:
-- Keadilan (adalah)
-- Ketelitian (dabt)
-- Sanad bersambung (ittisal)
-- Tidak ada cacat tersembunyi (salama min shudhdh)
-- Tidak ada kejanggalan (salama min illa)
+- Keadilan perawi ('adalah)
+- Kekuatan hafalan dan ketelitian (dhabth)
+- Sanad bersambung (ittishal)
+- Tidak ada kejanggalan (salamah min asy-syudzudz)
+- Tidak ada cacat tersembunyi (salamah min al-'illah)
 
 ---
 
@@ -121,7 +121,7 @@ Para ulama mengembangkan metode yang ketat untuk memastikan keaslian hadis:
 
 > "Terdapat banyak riwayat tentang keutamaan menghafal, memelihara, dan mengajarkan empat puluh hadis."
 
-Yang paling terkenal adalah **Arba'in al-Nawawi (Empat Puluh Hadis Imam al-Nawawi)**, kumpulan ajaran pokok yang mencakup prinsip-prinsip inti Islam.
+Yang paling terkenal adalah **Arba'in an-Nawawi (Empat Puluh Hadis Imam an-Nawawi)**, kumpulan ajaran pokok yang mencakup prinsip-prinsip inti Islam.
 
 ---
 
@@ -131,7 +131,7 @@ Yang paling terkenal adalah **Arba'in al-Nawawi (Empat Puluh Hadis Imam al-Nawaw
 | حديث (Hadith) | Hadis | Tradisi atau sabda |
 | سنة (Sunnah) | Sunnah | Jalan Nabi |
 | إسناد (Isnad) | Isnad (sanad) | Rantai periwayatan |
-| متن (Matn) | Matn | Isi teks |
+| متن (Matn) | Matan | Isi teks |
 | صحيح (Sahih) | Sahih | Otentik |
 | راوي (Rawi) | Rawi | Perawi |
 

@@ -18,7 +18,7 @@ Tauhidi shi ne farkon rukuni na shaidar imanin Musulmi. A bisa ilimin tauhidin M
 ### Bayyanawar: | The Declaration:
 **Larabci:** لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ
 
-**Fassara:** "Babu abin bautawa da gaskiya sai Allah, kuma Muhammadu Manzon Allah ne."
+**Fassara:** "Babu abin bautawa sai Allah, kuma Muhammadu Manzonsa ne."
 
 > "Shahada furuci ne da baki na Tauhidi, wanda ke tabbatar da imani da kaɗaitakar Allah da annabcin Muhammadu (tsira da amincin Allah su tabbata a gare shi)."
 
@@ -39,14 +39,14 @@ Tauhidi shi ne farkon rukuni na shaidar imanin Musulmi. A bisa ilimin tauhidin M
 ---
 ## Shirka: Akasin Tauhidi | Shirk: The Opposite of Tawhid
 
-> "Danganta ibada ko ubangijanci ga wani abu ko wani mutum ba Allah ba, ana ɗaukarsa shirka, wadda zunubi ne da ba a yafewa sai an tuba daga baya, a bisa Alƙur'ani."
+> "Danganta allantaka ga wani abu ko wani mutum ba Allah ba, ana ɗaukarsa shirka, wadda zunubi ne da ba a yafewa sai an tuba daga baya, a bisa Alƙur'ani."
 
 ### Nau'ikan Shirka: | Types of Shirk:
 | Nau'i | Bayani |
 |------|-------------|
 | **Babba (Shirk Akbar)** | Haɗa abokan tarayya da Allah a cikin ibada |
 | **Ƙarami (Shirk Asghar)** | Shirka ta ɓoye (nuna kai a cikin ibada) |
-| **Ɓoyayyiya (Shirk Khafi)** | Nau'ikan rarrabuwar biyayya masu dabara |
+| **Ɓoyayyiya (Shirk Khafi)** | Siffofin raba biyayya masu ɓoyuwa |
 
 ### Girman Lamarin: | The Gravity:
 Shirka ita ce zunubin da Allah ba zai yafe ba idan mutum ya mutu bai tuba daga gare ta ba (Alƙur'ani 4:48).
@@ -59,7 +59,7 @@ Shirka ita ce zunubin da Allah ba zai yafe ba idan mutum ya mutu bai tuba daga g
 ### Makarantun Ilimin Tauhidi: | Theological Schools:
 | Makaranta | Abin da ta fi mayar da hankali a kai |
 |--------|----------|
-| **Ash'ari** | Ilimin tauhidi na hankali tare da iyakokin al'ada |
+| **Ash'ari** | Ilimin tauhidi bisa hankali cikin iyakokin magabata |
 | **Maturidi** | Daidaita hankali da wahayi |
 | **Athari** | Hanyar bin zahirin nassi |
 | **Sufi/Irfani** | Haɗuwa da Allah ta hanyar gogewar ruhi |
@@ -69,7 +69,7 @@ Shirka ita ce zunubin da Allah ba zai yafe ba idan mutum ya mutu bai tuba daga g
 ---
 ## Muhimmancinsa a Rayuwar Yau da Kullum | Significance in Daily Life
 
-> "A bisa ilimin tauhidin Musulunci, Tauhidi shi ne ginshiƙin da ke ƙayyade yadda mutum yake fahimtar komai a zahiri: ibada, ɗabi'a, kimiyya, mu'amala tsakanin mutane, manufar rayuwa, da kuma haƙiƙanin al'amura da kansu. Kowane koyarwa guda ɗaya a Musulunci tana samuwa ne daga Tauhidi."
+> "A bisa ilimin tauhidin Musulunci, Tauhidi shi ne ginshiƙin da ke ƙayyade yadda mutum yake fahimtar komai a zahiri: ibada, ɗabi'a, kimiyya, mu'amala tsakanin mutane, manufar rayuwa, da kuma haƙiƙanin al'amura da kansu. Kowace koyarwa a Musulunci tana samo asali ne daga Tauhidi."
 
 ### Aiwatarwa: | Applications:
 | Fage | Ma'ana |
@@ -87,7 +87,7 @@ Shirka ita ce zunubin da Allah ba zai yafe ba idan mutum ya mutu bai tuba daga g
 | Tawhid (توحيد) | Tauhidi | Kaɗaitakar Allah |
 | Allah (الله) | Allah | Allah |
 | Shahada (شهادة) | Shahada | Shaidar imani |
-| Shirk (شرك) | Shirka | Bautar gumaka da yin tarayya da Allah |
+| Shirk (شرك) | Shirka | Yin tarayya da Allah (bautar alloli da yawa) |
 | Ahad (أحد) | Ahad | Ɗaya (a zatinsa) |
 | Wahid (واحد) | Wahid | Ɗaya (makaɗaici) |
 

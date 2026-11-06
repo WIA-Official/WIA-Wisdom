@@ -20,9 +20,9 @@ Bát Chánh Đạo (Phạn: āryāṣṭāṅgamārga; Pali: ariya aṭṭhaṅg
 
 | Nhóm | Pali | Các chi phần | Hán tự |
 |----------|------|---------|------|
-| **Tuệ (Paññā)** | Tuệ | Chánh Kiến, Chánh Tư Duy | 正見, 正思惟 |
-| **Giới (Sīla)** | Giới | Chánh Ngữ, Chánh Nghiệp, Chánh Mạng | 正語, 正業, 正命 |
-| **Định (Samādhi)** | Định | Chánh Tinh Tấn, Chánh Niệm, Chánh Định | 正精進, 正念, 正定 |
+| **Tuệ (Paññā)** | Paññā | Chánh Kiến, Chánh Tư Duy | 正見, 正思惟 |
+| **Giới (Sīla)** | Sīla | Chánh Ngữ, Chánh Nghiệp, Chánh Mạng | 正語, 正業, 正命 |
+| **Định (Samādhi)** | Samādhi | Chánh Tinh Tấn, Chánh Niệm, Chánh Định | 正精進, 正念, 正定 |
 
 ---
 
@@ -44,13 +44,13 @@ Chánh Tư Duy là nuôi dưỡng những tư tưởng xuất ly (buông bỏ th
 
 > Lời nói chân thật, hòa hợp, dịu dàng, có ý nghĩa
 
-Chánh Ngữ là tránh: nói dối (vọng ngữ), nói lời chia rẽ, nói lời thô ác và nói lời phù phiếm. Chánh Ngữ nuôi dưỡng những lời nói chân thật, có lợi ích, hợp thời và đưa đến sự hòa hợp.
+Chánh Ngữ là tránh: nói dối (vọng ngữ), nói hai lưỡi (chia rẽ), nói lời thô ác và nói lời phù phiếm (ỷ ngữ). Chánh Ngữ nuôi dưỡng những lời nói chân thật, có lợi ích, hợp thời và đưa đến sự hòa hợp.
 
 ### 4. Chánh Nghiệp (正業 · Sammā-kammanta) | 4. Right Action
 
 > Hành vi đạo đức qua thân
 
-Chánh Nghiệp là tránh sát sinh, trộm cắp và tà hạnh trong dục vọng. Về mặt tích cực, đó là bảo vệ sự sống, thực hành bố thí và tôn trọng các mối quan hệ bằng sự chính trực.
+Chánh Nghiệp là tránh sát sinh, trộm cắp và tà dâm. Về mặt tích cực, đó là bảo vệ sự sống, thực hành bố thí và tôn trọng các mối quan hệ bằng sự chính trực.
 
 ### 5. Chánh Mạng (正命 · Sammā-ājīva) | 5. Right Livelihood
 
@@ -84,7 +84,7 @@ Chánh Định là sự phát triển trạng thái nhập định sâu (jhāna)
 
 ## Thực hành | Practice
 
-Như Tỳ-kheo Theravada Walpola Rahula giải thích, tám chi phần "cần được phát triển gần như đồng thời, tùy theo khả năng của mỗi cá nhân. Tất cả đều liên kết với nhau và mỗi chi phần giúp cho việc tu tập các chi phần khác."
+Như Tỳ-kheo Thượng tọa bộ Walpola Rahula giải thích, tám chi phần "cần được phát triển gần như đồng thời, tùy theo khả năng của mỗi cá nhân. Tất cả đều liên kết với nhau và mỗi chi phần giúp cho việc tu tập các chi phần khác."
 
 Con đường này không phải là việc đi đến một đích mà là sự tu tập liên tục. Mỗi bước thực hành làm sâu sắc thêm các bước khác—Chánh Kiến hỗ trợ Chánh Tư Duy, Chánh Tư Duy hướng dẫn Chánh Nghiệp, và cứ thế theo một vòng xoắn đi lên.
 
@@ -95,7 +95,7 @@ Con đường này không phải là việc đi đến một đích mà là sự
 ### Trong Phật giáo | Within Buddhism
 
 - **[Tứ Diệu Đế](./four-noble-truths.md)**: Khuôn khổ của con đường
-- **[Thập nhị nhân duyên](./dependent-origination.md)**: Logic của giải thoát
+- **[Duyên khởi](./dependent-origination.md)**: Logic của giải thoát
 
 ### Các trụ cột khác | Other Pillars
 

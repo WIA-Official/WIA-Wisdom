@@ -27,8 +27,8 @@ Embora a palavra «Trindade» não apareça na Bíblia, os cristãos creem que o
 1. **Um só Deus**: Há um único Deus (monoteísmo)
 2. **Três Pessoas**: O Pai, o Filho e o Espírito são pessoas distintas
 3. **Plena divindade**: Cada pessoa é plenamente Deus
-4. **Iguais em dignidade**: As pessoas são iguais em glória e majestade
-5. **Co-eternas**: Nenhuma é anterior ou posterior às outras
+4. **Coiguais**: As pessoas são iguais em glória e majestade
+5. **Coeternas**: Nenhuma é anterior ou posterior às outras
 
 ---
 
@@ -55,11 +55,11 @@ Embora a palavra «Trindade» não apareça na Bíblia, os cristãos creem que o
 | **Calcedónia** | 451 | Definiu as duas naturezas de Cristo |
 
 ### O Credo Niceno:
-> «Cremos num só Deus, Pai todo-poderoso... e num só Senhor, Jesus Cristo, Filho unigénito de Deus... e no Espírito Santo, Senhor que dá a vida...»
+> «Cremos num só Deus, Pai todo-poderoso... e num só Senhor, Jesus Cristo, Filho Unigénito de Deus... e no Espírito Santo, Senhor que dá a vida...»
 
 ### Termos principais:
 - **Homoousios** (ὁμοούσιος): «Da mesma substância» - o Pai e o Filho partilham a mesma essência divina
-- **Hypostasis** (ὑπόστασις): Pessoa ou subsistência - a existência distinta de cada pessoa
+- **Hipóstase** (ὑπόστασις): Pessoa ou subsistência - a existência distinta de cada pessoa
 
 ---
 
@@ -125,4 +125,4 @@ A Igreja do Ocidente acrescentou ao Credo a expressão «e do Filho» (*filioque
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Beneficiar toda a humanidade*

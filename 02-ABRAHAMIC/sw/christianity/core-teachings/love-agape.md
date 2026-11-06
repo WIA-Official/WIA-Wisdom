@@ -8,9 +8,9 @@
 
 Agape (Kigiriki: ἀγάπη, *agápē*) ni neno la Kigiriki linalotumika katika Agano Jipya kuelezea kiwango cha juu kabisa cha upendo—upendo usio na masharti na wa kujitoa kwa dhabihu wa Mungu kwa wanadamu, na upendo ambao Wakristo wameitwa kuudhihirisha kwa Mungu na kwa jirani.
 
-Tofauti na upendo wa kibinadamu ambao mara nyingi hujibu mvuto au ustahili wa anayependwa, agape inajulikana kwa kutokuwa na masharti. Agape ya Mungu haipatikani kwa sifa za mwanadamu bali hutolewa bure. Kama alivyoandika Mtume Paulo, "Mungu aonyesha pendo lake yeye mwenyewe kwetu sisi, kwa kuwa, tulipokuwa tungali wenye dhambi, Kristo alikufa kwa ajili yetu" (Warumi 5:8).
+Tofauti na upendo wa kibinadamu ambao mara nyingi hujibu mvuto au ustahili wa anayependwa, agape inajulikana kwa kutokuwa na masharti. Agape ya Mungu haipatikani kwa mastahili ya mwanadamu bali hutolewa bure. Kama alivyoandika Mtume Paulo, "Mungu aonyesha pendo lake yeye mwenyewe kwetu sisi, kwa kuwa Kristo alikufa kwa ajili yetu, tulipokuwa tungali wenye dhambi" (Warumi 5:8).
 
-Agape si hisia tu hasa, bali ni dhamira—uamuzi wa hiari wa kutafuta wema wa mwingine, bila kujali gharama kwake mwenyewe. Upendo huu ndio asili ya Mungu ("Mungu ni upendo," 1 Yohana 4:8) na alama bainifu ya uanafunzi wa Kikristo ("Kwa hili watu wote watajua ya kuwa mmekuwa wanafunzi wangu, mkiwa na upendo ninyi kwa ninyi," Yohana 13:35).
+Agape si hisia hasa, bali ni dhamira—uamuzi wa hiari wa kutafuta wema wa mwingine, bila kujali gharama kwake mwenyewe. Upendo huu ndio asili ya Mungu ("Mungu ni upendo," 1 Yohana 4:8) na alama bainifu ya uanafunzi wa Kikristo ("Hivyo watu wote watatambua ya kuwa ninyi mmekuwa wanafunzi wangu, mkiwa na upendo ninyi kwa ninyi," Yohana 13:35).
 
 ---
 
@@ -31,7 +31,7 @@ Lugha ya Kigiriki hutofautisha aina kadhaa za upendo, na hivyo kutoa vivuli vya 
 
 ## Agape na Aina Nyingine za Upendo | Agape vs. Other Loves
 
-Mwanateolojia wa Uswidi Anders Nygren, katika kazi yake yenye ushawishi *Agape and Eros* (1930-1936), alilinganisha agape na eros kwa tofauti kali:
+Mwanatheolojia wa Uswidi Anders Nygren, katika kazi yake yenye ushawishi *Agape and Eros* (1930-1936), alilinganisha agape na eros kwa tofauti kali:
 
 | Kipengele | Eros | Agape |
 |-----------|------|-------|
@@ -39,7 +39,7 @@ Mwanateolojia wa Uswidi Anders Nygren, katika kazi yake yenye ushawishi *Agape a
 | **Kichocheo** | Hujibu thamani iliyo kwa anayependwa | Huumba thamani kwa anayependwa |
 | **Hali** | Upendo kwa kinachopendeza | Upendo kwa kisichopendeza |
 | **Lengo** | Hutafuta kupata/kumiliki | Hutafuta kutoa/kutumikia |
-| **Chanzo** | Tamaa ya mwanadamu | Mpango wa Mungu wa kwanza |
+| **Chanzo** | Tamaa ya mwanadamu | Hatua ya kwanza ya Mungu |
 
 Ingawa baadhi ya wasomi hujadili ukali wa tofauti hii, ulinganisho huo unaangazia kile kilicho cha pekee katika agape: chimbuko lake ni tabia ya mwenye kupenda, si ustahili wa anayependwa.
 
@@ -49,25 +49,25 @@ Ingawa baadhi ya wasomi hujadili ukali wa tofauti hii, ulinganisho huo unaangazi
 
 ### Agape ya Mungu kwa Wanadamu | God's Agape for Humanity
 
-**Yohana 3:16** — "Kwa maana jinsi hii Mungu aliupenda (*ēgapēsen*) ulimwengu, hata akamtoa Mwanawe pekee, ili killa amwaminiye asipotee, bali awe na uzima wa milele."
+**Yohana 3:16** — "Kwa maana jinsi hii Mungu aliupenda (*ēgapēsen*) ulimwengu, hata akamtoa Mwanawe pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele."
 
-**Warumi 5:8** — "Lakini Mungu aonyesha pendo lake (*agapēn*) yeye mwenyewe kwetu sisi, kwa kuwa, tulipokuwa tungali wenye dhambi, Kristo alikufa kwa ajili yetu."
+**Warumi 5:8** — "Bali Mungu aonyesha pendo lake (*agapēn*) yeye mwenyewe kwetu sisi, kwa kuwa Kristo alikufa kwa ajili yetu, tulipokuwa tungali wenye dhambi."
 
-**1 Yohana 4:8-10** — "Yeyote asiyependa hamjui Mungu, kwa kuwa Mungu ni upendo (*agapē*). Pendo la Mungu lilidhihirishwa kwetu kwa njia hii: Mungu alimtuma Mwanawe pekee ulimwenguni ili tupate uzima kwa yeye."
+**1 Yohana 4:8-10** — "Yeye asiyependa hakumjua Mungu, kwa maana Mungu ni upendo (*agapē*). Katika hili pendo la Mungu limeonekana kwetu, kwamba Mungu amemtuma Mwanawe pekee ulimwenguni ili tupate uzima kwa yeye."
 
 ---
 
 ### Amri Kuu | The Great Commandment
 
-**Mathayo 22:37-39** — "'Mpende (*agapēseis*) Bwana Mungu wako kwa moyo wako wote, na kwa roho yako yote, na kwa akili zako zote.' Hii ndiyo amri iliyo kuu, tena ya kwanza. Na ya pili inafanana nayo: 'Mpende (*agapēseis*) jirani yako kama nafsi yako.'"
+**Mathayo 22:37-39** — "'Mpende (*agapēseis*) Bwana Mungu wako kwa moyo wako wote, na kwa roho yako yote, na kwa akili zako zote.' Hii ndiyo amri iliyo kuu, tena ni ya kwanza. Na ya pili yafanana nayo, ndiyo hii, 'Mpende (*agapēseis*) jirani yako kama nafsi yako.'"
 
-Hapa Yesuananukuu Shema (Kumbukumbu la Torati 6:5) na kuiunganisha na Mambo ya Walawi 19:18, akifanya upendo kuwa muhtasari wa sheria yote ya Mungu.
+Hapa Yesu ananukuu Shema (Kumbukumbu la Torati 6:5) na kuiunganisha na Mambo ya Walawi 19:18, akifanya upendo kuwa muhtasari wa sheria yote ya Mungu.
 
 ---
 
 ### Kuwapenda Adui | Love of Enemies
 
-**Mathayo 5:44-45** — "Lakini mimi nawaambia, Wapendeni (*agapate*) adui zenu, na kuwaombea wanaowaudhi; ili mpate kuwa wana wa Baba yenu aliye mbinguni."
+**Mathayo 5:44-45** — "Lakini mimi nawaambia, Wapendeni (*agapate*) adui zenu, waombeeni wanaowaudhi, ili mpate kuwa wana wa Baba yenu aliye mbinguni."
 
 Amri hii inawakilisha kielelezo cha kina kabisa cha agape—upendo unaowafikia hasa wale wasiostahili, ukiakisi tabia ya Mungu mwenyewe.
 
@@ -77,7 +77,7 @@ Amri hii inawakilisha kielelezo cha kina kabisa cha agape—upendo unaowafikia h
 
 **1 Wakorintho 13** ni wimbo maarufu wa Paulo kuhusu upendo (*agapē*):
 
-"Upendo huvumilia, hufadhili; upendo hauhusudu; upendo hautakabari, hautaji; haukosi adabu, hautafuti mambo yake, hauoni uchungu, hauhesabu mabaya; haufurahii udhalimu, bali hufurahi pamoja na kweli; hustahimili yote, huamini yote, hutumaini yote, huvumilia yote. Upendo haupungui neno wakati wo wote."
+"Upendo huvumilia, hufadhili; upendo hauhusudu; upendo hautakabari; haujivuni; haukosi kuwa na adabu; hautafuti mambo yake; hauoni uchungu; hauhesabu mabaya; haufurahii udhalimu, bali hufurahi pamoja na kweli; huvumilia yote, huamini yote, hutumaini yote, hustahimili yote. Upendo haupungui neno wakati wo wote."
 
 ---
 
@@ -89,13 +89,13 @@ Amri hii inawakilisha kielelezo cha kina kabisa cha agape—upendo unaowafikia h
 
 ### Upendo na Msalaba | Love and the Cross
 
-Msalaba ni udhihirisho wa mwisho wa agape. Upendo wa Mungu si hisia tu bali ni tendo lenye gharama—Mwana wa Mungu akitoa uhai wake kwa ajili ya wenye dhambi. Kama Yesu alivyosema, "Hakuna aliye na upendo mkuu kuliko huu, mtu autoe uhai wake kwa ajili ya rafiki zake" (Yohana 15:13).
+Msalaba ni udhihirisho wa mwisho wa agape. Upendo wa Mungu si hisia tu bali ni tendo lenye gharama—Mwana wa Mungu akitoa uhai wake kwa ajili ya wenye dhambi. Kama Yesu alivyosema, "Hakuna mtu aliye na upendo mwingi kuliko huu, wa mtu kuutoa uhai wake kwa ajili ya rafiki zake" (Yohana 15:13).
 
 ### Upendo kama Alama ya Uanafunzi | Love as Mark of Discipleship
 
-"Amri mpya nawapa, Mpendane; kama nilivyowapenda ninyi, nanyi mpendane vivyo hivyo. Kwa hili watu wote watajua ya kuwa mmekuwa wanafunzi wangu, mkiwa na upendo ninyi kwa ninyi" (Yohana 13:34-35).
+"Amri mpya nawapa, Mpendane. Kama vile nilivyowapenda ninyi, nanyi mpendane vivyo hivyo. Hivyo watu wote watatambua ya kuwa ninyi mmekuwa wanafunzi wangu, mkiwa na upendo ninyi kwa ninyi" (Yohana 13:34-35).
 
-Upendo wa Kikristo si uchangamfu wa kibinadamu tu, bali ni upendo uliofuata kielelezo cha kujitoa kwa Kristo mwenyewe—"kama nilivyowapenda ninyi."
+Upendo wa Kikristo si uchangamfu wa kibinadamu tu, bali ni upendo uliofuata kielelezo cha kujitoa kwa Kristo mwenyewe—"kama vile nilivyowapenda ninyi."
 
 ---
 
@@ -108,7 +108,7 @@ Upendo wa Kikristo si uchangamfu wa kibinadamu tu, bali ni upendo uliofuata kiel
 | Agapetos | ἀγαπητός | Mpendwa |
 | Philia | φιλία | Upendo wa kirafiki |
 | Phileo | φιλέω | Kupenda kama rafiki |
-| Kenosis | κένωσις | Kujitoa nafsi / kujifanya si kitu (Wafilipi 2:7) |
+| Kenosis | κένωσις | Kujifanya kuwa hana utukufu, kujinyenyekeza (Wafilipi 2:7) |
 
 ---
 
@@ -118,13 +118,13 @@ Upendo wa Kikristo si uchangamfu wa kibinadamu tu, bali ni upendo uliofuata kiel
 
 2. **Augustino**: Upendo (*caritas*) kama fadhila pekee inayopanga fadhila nyingine zote kwa usahihi; "Penda, kisha ufanye upendavyo"
 
-3. **Thomas Aquinas**: Hisani (*caritas*, tafsiri ya Kilatini ya agape) kama umbo la fadhila zote, inayomiminwa na Mungu
+3. **Thomas wa Akwino**: Mapendo (*caritas*, tafsiri ya Kilatini ya agape) kama umbo la fadhila zote, inayomiminwa na Mungu
 
 4. **Martin Luther**: Alitofautisha kati ya upendo wa Mungu (unaoumba thamani) na upendo wa mwanadamu (unaojibu thamani)
 
 5. **Anders Nygren**: *Agape and Eros* (miaka ya 1930) — ulinganisho wenye ushawishi kati ya agape ya kujitoa na eros ya kujitafutia
 
-6. **Papa Benedikto wa XVI**: *Deus Caritas Est* (2005) — alihoji kwamba eros na agape zinaweza kuunganishwa katika upendo wa kweli
+6. **Papa Benedikto wa XVI**: *Deus Caritas Est* (2005) — alieleza kwamba eros na agape zinaweza kuunganishwa katika upendo wa kweli
 
 ---
 
@@ -156,7 +156,7 @@ Upendo wa agape hubadilisha maisha ya kila siku:
 - **[Utatu](./trinity.md)**: Upendo wa ndani wa Utatu ambao ndio chanzo cha agape
 - **[Shema (Uyahudi)](../judaism/core-teachings/shema.md)**: Amri ya kumpenda Mungu kwa nafsi yote
 - **[Metta (Ubudha)](../../../01-DHARMIC/buddhism/practices/metta.md)**: Tafakari ya Kibudha ya wema na huruma
-- **[Ren (Ukonfusio)](../../../03-EAST-ASIAN/confucianism/core-teachings/ren.md)**: Wema/utu wa Kikonfusio
+- **[Ren (Ukonfyusiasi)](../../../03-EAST-ASIAN/confucianism/core-teachings/ren.md)**: Wema/utu wa Kikonfyusiasi
 ---
 
 ## Vyanzo | Sources
@@ -167,7 +167,7 @@ Upendo wa agape hubadilisha maisha ya kila siku:
 - [C.S. Lewis Institute - "Theme Study: Love"](https://www.cslewisinstitute.org/wp-content/uploads/Theme-Study-Love-II.pdf)
 - [Ken Boa - "Is Agape Love The Highest?"](https://www.kenboa.org/five-loves-greatest-agape/)
 
-### Rasilimali za Kielimu
+### Nyenzo za Kielimu
 
 ---
 ---

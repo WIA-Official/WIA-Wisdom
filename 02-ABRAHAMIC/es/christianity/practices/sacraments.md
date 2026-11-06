@@ -8,7 +8,7 @@
 
 Los sacramentos son ritos sagrados del cristianismo, considerados signos visibles y cauces eficaces de la gracia de Dios para todos los que los reciben con la debida disposición. La palabra «sacramento» proviene del latín *sacramentum*, que significa juramento sagrado o misterio.
 
-En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occidental: bautismo, confirmación, eucaristía, penitencia, orden sacerdotal, matrimonio y unción de los enfermos (entonces llamada extremaunción). Estos fueron reafirmados por el Concilio de Trento (1545-63). Las iglesias protestantes clásicas (luterana, anglicana, reformada) reconocen solo dos —el bautismo y la eucaristía— como instituidos por Cristo en los Evangelios.
+En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occidental: bautismo, confirmación, eucaristía, penitencia, orden sacerdotal, matrimonio y extremaunción. Estos fueron reafirmados por el Concilio de Trento (1545-63). Las iglesias protestantes clásicas (luterana, anglicana, reformada) reconocen solo dos —el bautismo y la eucaristía— como instituidos por Cristo en los Evangelios.
 
 ---
 ## Clasificación de los sacramentos | Classification of Sacraments
@@ -16,13 +16,13 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 | Categoría | Sacramentos | Propósito |
 |----------|------------|---------|
 | **Iniciación** | Bautismo, confirmación, eucaristía | Ingreso en la vida cristiana |
-| **Sanación** | Penitencia, unción de los enfermos | Sanación espiritual y física |
+| **Curación** | Penitencia, unción de los enfermos | Sanación espiritual y física |
 | **Servicio** | Orden sacerdotal, matrimonio | Comunidad y familia |
 
 ---
 ## Los siete sacramentos | The Seven Sacraments
 
-### 1. Bautismo (聖事):
+### 1. Bautismo:
 > «Por el bautismo nos hacemos miembros de la Iglesia, Cuerpo de Cristo.»
 
 - Ingreso en la comunidad cristiana
@@ -46,7 +46,7 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 
 ### 4. Penitencia/Reconciliación:
 - Confesión de los pecados
-- Absolución por el sacerdote
+- Absolución impartida por el sacerdote
 - Reconciliación con Dios y con la Iglesia
 - Sanación espiritual
 
@@ -112,8 +112,8 @@ En el siglo XII, Pedro Lombardo definió siete sacramentos para la Iglesia occid
 
 | Tradición | Número | Visión |
 |-----------|--------|------|
-| **Católica romana** | 7 | Cauces de gracia instituidos por Cristo |
-| **Ortodoxa oriental** | 7 (misterios) | Misterios divinos para la salvación |
+| **Católica** | 7 | Cauces de gracia instituidos por Cristo |
+| **Ortodoxa** | 7 (misterios) | Misterios divinos para la salvación |
 | **Luterana** | 2-3 | Promesas del Evangelio con elementos visibles |
 | **Reformada/Presbiteriana** | 2 | Signos y sellos de la gracia de la alianza |
 | **Metodista** | 2 | Medios de gracia |

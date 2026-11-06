@@ -6,25 +6,25 @@
 
 ## Gambaran Umum | Overview
 
-Ramadan (bahasa Arab: رمضان) adalah bulan kesembilan dalam kalender Hijriah (kalender lunar Islam) dan merupakan bulan paling suci dalam Islam. Pada bulan ini, umat Muslim di seluruh dunia menjalankan *sawm* (puasa) dari terbit fajar hingga terbenam matahari, yang merupakan salah satu dari Lima Rukun Islam. Lebih dari sekadar menahan diri dari makan dan minum, Ramadan adalah bulan penyucian rohani, perenungan, peningkatan ibadah, dan pendalaman hubungan dengan Allah (SWT).
+Ramadan (bahasa Arab: رمضان) adalah bulan kesembilan dalam kalender Hijriah (kalender lunar Islam) dan merupakan bulan paling suci dalam Islam. Pada bulan ini, umat Muslim di seluruh dunia menjalankan *sawm* (puasa) dari terbit fajar hingga terbenam matahari, yang merupakan salah satu dari Lima Rukun Islam. Lebih dari sekadar menahan diri dari makan dan minum, Ramadan adalah bulan penyucian rohani, perenungan, peningkatan ibadah, dan pendalaman hubungan dengan Allah Swt.
 
 Kata "Ramadan" berasal dari akar kata bahasa Arab "ramdh" (رمض), yang berarti "sangat panas" atau "membakar"—merujuk pada bagaimana puasa membakar dosa-dosa, menghadirkan kehangatan rohani, dan menguatkan ibadah. Yang terpenting, Ramadan adalah bulan ketika Al-Qur'an pertama kali diturunkan kepada Nabi Muhammad, sehingga menjadikannya bulan yang memiliki kaitan istimewa dengan wahyu Ilahi.
 
 ---
 ## Landasan Qur'ani | Quranic Foundation
 
-> "Bulan Ramadan adalah bulan ketika Al-Qur'an pertama kali diturunkan sebagai petunjuk bagi seluruh manusia, yang di dalamnya terdapat bukti-bukti nyata tentang petunjuk Ilahi dan pembeda antara yang benar dan yang salah." (Al-Qur'an 2:185)
+> "Bulan Ramadan adalah (bulan) yang di dalamnya diturunkan Al-Qur'an, sebagai petunjuk bagi manusia dan penjelasan-penjelasan mengenai petunjuk itu dan pembeda (antara yang hak dan yang batil)." (QS. Al-Baqarah [2]: 185)
 
 ### Lailatul Qadar (Malam Kemuliaan):
 - Malam ketika Al-Qur'an pertama kali diturunkan
 - Jatuh pada sepuluh malam terakhir Ramadan
-- "Lebih baik daripada seribu bulan" (Al-Qur'an 97:3)
+- "Lebih baik daripada seribu bulan" (QS. Al-Qadr [97]: 3)
 - Para malaikat turun membawa berkah Ilahi
 
 ---
 ## Manfaat Rohani | Spiritual Benefits
 
-> "Umat Muslim menjalankan Ramadan sebagai perintah dari Allah (SWT). Ramadan adalah bulan penyucian rohani, perenungan, dan ibadah."
+> "Umat Muslim menjalankan Ramadan sebagai perintah dari Allah Swt. Ramadan adalah bulan penyucian rohani, perenungan, dan ibadah."
 
 ### Pengembangan Takwa (Kesadaran akan Allah):
 | Aspek | Pengembangan |
@@ -37,7 +37,7 @@ Kata "Ramadan" berasal dari akar kata bahasa Arab "ramdh" (رمض), yang berarti
 ### Pahala Ilahi:
 > "Dikatakan bahwa Allah mengampuni dosa-dosa masa lalu orang-orang yang menjalankan bulan suci dengan puasa, salat, dan niat yang tulus."
 
-> "Setiap amal manusia adalah untuk dirinya sendiri—kecuali puasa, yang untuk Allah, dan Dialah sendiri yang membalasnya."
+> "Setiap amal anak Adam adalah untuk dirinya, kecuali puasa; puasa itu untuk Allah, dan Dia sendiri yang akan membalasnya."
 
 ---
 ## Puasa (Sawm) | The Fast (Sawm)
@@ -52,7 +52,7 @@ Kata "Ramadan" berasal dari akar kata bahasa Arab "ramdh" (رمض), yang berarti
 | Waktu makan | Waktu | Nama |
 |------|------|------|
 | Makan sebelum fajar | Sebelum Subuh | Sahur |
-| Berbuka puasa | Saat Magrib | Iftar (Buka puasa) |
+| Berbuka puasa | Saat Magrib | Buka puasa (iftar) |
 
 ### Keringanan:
 - Anak-anak sebelum balig
@@ -70,10 +70,10 @@ Kata "Ramadan" berasal dari akar kata bahasa Arab "ramdh" (رمض), yang berarti
 ### Peningkatan Ibadah:
 | Amalan | Penjelasan |
 |----------|-------------|
-| **Tilawah Al-Qur'an** | Khatam membaca Al-Qur'an selama sebulan |
+| **Tilawah Al-Qur'an** | Mengkhatamkan Al-Qur'an selama sebulan |
 | **Tarawih** | Salat malam yang diperpanjang |
 | **I'tikaf** | Berdiam diri untuk beribadah di masjid (10 hari terakhir) |
-| **Sedekah** | Peningkatan amal |
+| **Sedekah** | Memperbanyak sedekah |
 | **Zikir** | Mengingat Allah |
 
 ---

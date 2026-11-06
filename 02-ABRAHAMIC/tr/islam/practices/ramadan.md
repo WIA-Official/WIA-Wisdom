@@ -6,20 +6,20 @@
 
 ## Genel Bakış | Overview
 
-Ramazan (Arapça: رمضان), İslam kameri takviminin dokuzuncu ayı ve İslam'ın en mübarek aydır. Bu ay boyunca dünyanın dört bir yanındaki Müslümanlar, İslam'ın beş şartından biri olan orucu (savm) tutar; yani tan yerinin ağarmasından güneş batıncaya kadar oruçlu olurlar. Ramazan, yeme içmeden uzak durmaktan çok daha fazlasıdır: manevi arınma, tefekkür, ibadetin çoğaltılması ve Allah'a (celle celâluhû) yakınlığın derinleşmesi ayıdır.
+Ramazan (Arapça: رمضان), Hicrî kamerî takvimin dokuzuncu ayı ve İslam'da en mübarek aydır. Bu ay boyunca dünyanın dört bir yanındaki Müslümanlar, İslam'ın beş şartından biri olan orucu (savm) tutar; yani tan yerinin ağarmasından güneş batıncaya kadar oruçlu olurlar. Ramazan, yeme içmeden uzak durmaktan çok daha fazlasıdır: manevi arınma, tefekkür, ibadetin çoğaltılması ve Allah'a (celle celâluhû) yakınlığın derinleşmesi ayıdır.
 
-"Ramazan" kelimesi, "aşırı sıcak" veya "yakıcı" anlamına gelen Arapça "ramdh" (رمض) kökünden türemiştir. Bu, orucun günahları yakıp eritmesine, manevi bir sıcaklık oluşturmasına ve ibadet aşkını artırmasına işaret eder. En önemlisi, Kur'an-ı Kerim'in Hz. Muhammed'e (sallallâhu aleyhi ve sellem) ilk kez bu ayda indirilmiş olmasıdır; bu nedenle Ramazan, ilahi vahye özel bir yakınlık ayıdır.
+"Ramazan" kelimesi, "aşırı sıcak" veya "yakıcı" anlamına gelen Arapça "ramdh" (رمض) kökünden türemiştir. Bu, orucun günahları yakıp eritmesine, manevi bir sıcaklık oluşturmasına ve ibadet aşkını artırmasına işaret eder. En önemlisi, Kur'an-ı Kerim'in Hz. Muhammed'e ilk kez bu ayda indirilmiş olmasıdır; bu nedenle Ramazan, ilahi vahye özel bir yakınlık ayıdır.
 
 ---
 
 ## Kur'an'daki Dayanak | Quranic Foundation
 
-> "Ramazan ayı, insanlara yol gösterici, hidayetin ve hak ile batılı ayırmanın açık delillerini taşıyan Kur'an'ın indirildiği aydır." (Bakara, 2/185)
+> "Ramazan ayı, insanlar için bir hidayet rehberi, doğru yolun ve hak ile batılı birbirinden ayırmanın açık delilleri olarak Kur'an'ın indirildiği aydır." (Bakara 2/185)
 
 ### Kadir Gecesi (Leyletü'l-Kadr):
 - Kur'an'ın ilk kez indirildiği gece
 - Ramazan'ın son on gecesi içinde yer alır
-- "Bin aydan daha hayırlıdır" (Kadr, 97/3)
+- "Bin aydan daha hayırlıdır" (Kadr 97/3)
 - Melekler ilahi bereketlerle iner
 
 ---
@@ -57,7 +57,7 @@ Ramazan (Arapça: رمضان), İslam kameri takviminin dokuzuncu ayı ve İslam
 | Tan öncesi öğün | Fecr'den önce | Sahur |
 | Orucu açma | Akşam (Mağrib) vakti | İftar |
 
-### Muafiyetler:
+### Oruçtan Muaf Olanlar:
 - Ergenlik çağına gelmemiş çocuklar
 - Oruç tutamayacak durumdaki yaşlılar
 - Hamile veya emziren kadınlar
@@ -100,7 +100,7 @@ Ramazan (Arapça: رمضان), İslam kameri takviminin dokuzuncu ayı ve İslam
 Ay, Ramazan Bayramı ("Orucu Açma Bayramı") ile sona erer:
 - Üç gün süren kutlama
 - Özel bayram namazı (cemaatle)
-- Fıtır sadakası (Zekât'ül-fıtr; yoksullara verilen sadaka)
+- Fıtır sadakası (zekâtü'l-fıtr; yoksullara verilen sadaka)
 - Ziyafet ve aile ziyaretleri
 - Hediyeleşme
 
@@ -116,7 +116,7 @@ Ay, Ramazan Bayramı ("Orucu Açma Bayramı") ile sona erer:
 | إفطار (İftar) | İftar | Orucu açma |
 | تقوى (Takva) | Takva | Allah bilinci |
 | تراويح (Teravih) | Teravih | Gece namazları |
-| ليلة القدر (Leyletü'l-Kadr) | Kadir Gecesi | Kadir Gecesi (Güç Gecesi) |
+| ليلة القدر (Leyletü'l-Kadr) | Kadir Gecesi | Kudret ve şeref gecesi |
 
 ---
 

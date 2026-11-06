@@ -1,4 +1,4 @@
-# Namaz (İslam duası) | Salat (الصلاة)
+# Namaz (İslam ibadəti) | Salat (الصلاة)
 
 > Gündəlik beş vaxt namaz
 
@@ -19,7 +19,7 @@ Namazın əsas məqsədi Allahla ünsiyyət vasitəsi olmaqdır. Digər vurğula
 |--------|--------|------|---------|
 | **Sübh** | الفجر | Dan yeri ağarmazdan əvvəl | Dan yeri |
 | **Zöhr** | الظهر | Günortadan sonra | Günorta |
-| **Əsr** | العصر | Günortadan sonra, axşamüstü | Günortadan sonrakı vaxt |
+| **Əsr** | العصر | Günortadan sonra, axşamüstü | İkindi |
 | **Məğrib** | المغرب | Gün batanda | Gün batımı |
 | **İşa** | العشاء | Gecə | Gecə |
 
@@ -32,18 +32,18 @@ Namazın əsas məqsədi Allahla ünsiyyət vasitəsi olmaqdır. Digər vurğula
 | Duruş | Ərəbcə | Təsvir |
 |---------|---------|-------------|
 | **Qiyam (ayaq üstə durma)** | Qiyam | Quran oxumaq |
-| **Rüku (əyilmə)** | Ruku | Belindən əyilmək |
-| **Səcdə** | Sujud | Alnını yerə qoymaq |
-| **Oturma** | Juloos | İki səcdə arasında |
+| **Rüku (əyilmə)** | Rüku | Belindən əyilmək |
+| **Səcdə** | Sücud | Alnını yerə qoymaq |
+| **Oturma** | Cülus | İki səcdə arasında |
 
 ### Əsas qiraətlər:
-> "Ayaq üstə durduqdan sonra namaz qılanlar rükuya gedir və 'subhana rabbiyal azim' ('Böyük Rəbbim hər nöqsandan uzaqdır') deyirlər. Bundan sonra səcdəyə gedərək 'subhana rabbiyal a'laa' ('Uca Rəbbim hər nöqsandan uzaqdır') deyirlər."
+> "Ayaq üstə durduqdan sonra namaz qılanlar rükuya gedir və 'Sübhanə Rəbbiyəl-Əzim' ('Əzəmətli Rəbbim hər nöqsandan uzaqdır') deyirlər. Bundan sonra səcdəyə gedərək 'Sübhanə Rəbbiyəl-Əla' ('Uca Rəbbim hər nöqsandan uzaqdır') deyirlər."
 
 ---
 ## Hazırlıq | Preparation
 
 ### Dəstəmaz (ritual yuyunma):
-> "İslam təlimi müsəlmanlardan namazdan əvvəl əllərin, ayaqların və qolların rituala uyğun yuyulmasını, yəni dəstəmaz (wudu) almağı tələb edir."
+> "İslam təlimi müsəlmanlardan namazdan əvvəl əllərin, ayaq pəncələrinin, qolların və ayaqların rituala uyğun yuyulmasını, yəni dəstəmaz (vüzu) almağı tələb edir."
 
 ### Tələblər:
 - Təmiz bədən (dəstəmaz)
@@ -66,7 +66,7 @@ Namazın əsas məqsədi Allahla ünsiyyət vasitəsi olmaqdır. Digər vurğula
 | **İntizam** | Günün nizamlanması |
 | **Cəmiyyət** | Bütün müsəlmanlarla birlik |
 
-> "İnanılır ki, ruhun dolanması və sağlam qalması üçün namaza və Allaha yaxınlığa ehtiyacı var."
+> "İnanılır ki, ruh qidalanmaq və sağlam qalmaq üçün namaza və Allaha yaxınlığa möhtacdır."
 
 ---
 ## Müasir təcrübə | Modern Practice
@@ -93,4 +93,4 @@ Namazın əsas məqsədi Allahla ünsiyyət vasitəsi olmaqdır. Digər vurğula
 - [Daily Prayer Times - Learn Religions](https://www.learnreligions.com/islamic-prayer-timings-2003811)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - İnsanlığa fayda ver*

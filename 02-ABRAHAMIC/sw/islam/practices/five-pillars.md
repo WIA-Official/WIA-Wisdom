@@ -1,30 +1,30 @@
 # Nguzo Tano za Uislamu | The Five Pillars of Islam (أركان الإسلام)
 
-> Msingi wa Maisha ya Muislamu
+> Msingi wa Maisha ya Mwislamu
 
 ---
 
 ## Muhtasari | Overview
 
-Nguzo Tano za Uislamu (Kiarabu: أركان الإسلام, Arkān al-Islām) ni matendo ya msingi ya ibada na utekelezaji yanayounda msingi wa maisha ya Muislamu. Nazo ni: Shahada (tamko la imani), Swala (sala), Zaka (utoaji sadaka), Saumu (funga), na Hija (safari ya kuhiji).
+Nguzo Tano za Uislamu (Kiarabu: أركان الإسلام, Arkān al-Islām) ni matendo ya msingi ya ibada na utekelezaji yanayounda msingi wa maisha ya Mwislamu. Nazo ni: Shahada (tamko la imani), Swala (sala), Zaka (utoaji sadaka), Saumu (funga), na Hija (safari ya kuhiji).
 
-Mtume Muhammad (rehema na amani ziwe juu yake) alieleza kwamba Uislamu "umejengwa juu ya mambo matano" (Al-Bukhari na Muslim). Matendo haya ni faradhi kwa kila Muislamu mtu mzima mwenye uwezo wa kuyatekeleza, na yanasaidia kuimarisha imani ya mtu binafsi, kukuza kumcha Mungu (taqwa), na kujenga mshikamano ndani ya jamii ya Waislamu ulimwenguni (Ummah).
+Mtume Muhammad (rehema na amani ziwe juu yake) alieleza kwamba Uislamu "umejengwa juu ya mambo matano" (Al-Bukhari na Muslim). Matendo haya ni faradhi kwa kila Mwislamu mtu mzima mwenye uwezo wa kuyatekeleza, na yanasaidia kuimarisha imani ya mtu binafsi, kukuza kumcha Mungu (taqwa), na kujenga mshikamano ndani ya jamii ya Waislamu ulimwenguni (Ummah).
 
 ---
 
 ## 1. Shahada (Tamko la Imani) | 1. Shahada (Declaration of Faith)
 
-Shahada ndiyo imani kuu ya Uislamu—tamko la imani linalomfanya mtu kuwa Muislamu:
+Shahada ndiyo imani kuu ya Uislamu—tamko la imani linalomfanya mtu kuwa Mwislamu:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Hakuna mungu ila Mwenyezi Mungu, na Muhammad ni Mtume wa Mwenyezi Mungu."
+> "Hakuna mungu apasaye kuabudiwa isipokuwa Mwenyezi Mungu, na Muhammad ni Mtume wa Mwenyezi Mungu."
 
 ### Sehemu Mbili | Two Parts
 
 1. **Tawhidi:** Kukiri umoja kamili wa Mwenyezi Mungu
 2. **Risala:** Kumtambua Muhammad kuwa Mtume wa mwisho
 
-Mtu huwa Muislamu kwa kutamka tamko hili kwa dhati na kwa uthabiti wa moyo. Hunong'onezwa katika sikio la mtoto mchanga, na hutamkwa wakati wa kufa.
+Mtu huwa Mwislamu kwa kutamka tamko hili kwa dhati na kwa uthabiti wa moyo. Hunong'onezwa katika sikio la mtoto mchanga, na hutamkwa wakati wa kufa.
 
 ---
 
@@ -35,14 +35,14 @@ Waislamu husali mara tano kila siku kwa nyakati zilizowekwa, wakielekea Kaaba mj
 | Sala | Kiarabu | Wakati |
 |--------|--------|------|
 | Alfajiri (Fajr) | الفجر | Alfajiri |
-| Adhuhuri (Dhuhr) | الظهر | Mchana wa kati |
+| Adhuhuri (Dhuhr) | الظهر | Mchana |
 | Alasiri (Asr) | العصر | Alasiri |
 | Magharibi (Maghrib) | المغرب | Machweo |
 | Isha | العشاء | Usiku |
 
 ### Vipengele vya Swala | Elements of Prayer
 
-- Kujitwahirisha kiibada (udhu) kabla ya swala
+- Kutawadha (udhu) kabla ya swala
 - Kusimama, kurukuu, kusujudu, kukaa
 - Kusoma aya za Qur'ani
 - Kuelekea qibla (upande wa Makka)
@@ -56,7 +56,7 @@ Waislamu husali mara tano kila siku kwa nyakati zilizowekwa, wakielekea Kaaba mj
 
 Zaka ni utoaji wa faradhi wa sehemu ya mali ya mtu kwa wanaohitaji:
 
-> "Kila Muislamu mtu mzima anayestahili kutoa, mwenye mali inayozidi kiwango fulani—kinachojulikana kama nisabu—lazima atoe asilimia 2.5 ya mali hiyo kama Zaka mara moja kwa mwaka."
+> "Kila Mwislamu mtu mzima anayestahili kutoa, mwenye mali inayozidi kiwango fulani—kinachojulikana kama nisabu—lazima atoe asilimia 2.5 ya mali hiyo kama Zaka mara moja kwa mwaka."
 
 ### Madhumuni | Purposes
 
@@ -68,7 +68,7 @@ Zaka ni utoaji wa faradhi wa sehemu ya mali ya mtu kwa wanaohitaji:
 
 ### Wanaostahili kupokea (makundi manane katika Qur'ani 9:60) | Recipients (eight categories in Quran 9:60)
 
-Mafukara, maskini, wakusanyaji wa zaka, wale wanaopatanishwa nyoyo zao, kuwakomboa watumwa, wenye madeni, katika njia ya Mwenyezi Mungu, na wasafiri wenye uhitaji.
+Mafakiri, masikini, wakusanyaji wa zaka, wanaotiwa nguvu nyoyo zao, kuwakomboa watumwa, wenye madeni, katika njia ya Mwenyezi Mungu, na wasafiri wenye uhitaji.
 
 ---
 
@@ -94,9 +94,9 @@ Wagonjwa, wasafiri, wajawazito, wanaonyonyesha, wazee, au wanawake walio katika 
 
 ## 5. Hija (Safari ya Kuhiji) | 5. Hajj (Pilgrimage)
 
-Hija ni safari ya kwenda Makka ambayo kila Muislamu lazima aifanye angalau mara moja katika maisha yake, ikiwa ana uwezo wa kimwili na wa kifedha:
+Hija ni safari ya kwenda Makka ambayo kila Mwislamu lazima aifanye angalau mara moja katika maisha yake, ikiwa ana uwezo wa kimwili na wa kifedha:
 
-> "Kila Muislamu ambaye afya na fedha zake zinamruhusu lazima afanye ziara angalau moja katika mji mtakatifu wa Makka."
+> "Kila Mwislamu ambaye afya na fedha zake zinamruhusu lazima afanye ziara angalau moja katika mji mtakatifu wa Makka."
 
 ### Ibada Kuu | Key Rituals
 
@@ -108,7 +108,7 @@ Hija ni safari ya kwenda Makka ambayo kila Muislamu lazima aifanye angalau mara 
 
 ### Umuhimu | Significance
 
-- Kaaba: Nyumba aliyoijenga Ibrahimu kwa ajili ya Mwenyezi Mungu
+- Kaaba: Nyumba aliyoijenga Ibrahim kwa ajili ya Mwenyezi Mungu
 - Umoja: Waislamu wa asili zote husimama sawa mbele ya Mwenyezi Mungu
 - Mavazi ya Ihramu: Nguo nyeupe rahisi zinazoashiria usawa
 - Mamilioni hukusanyika kila mwaka kutoka kila taifa
@@ -132,7 +132,7 @@ Hija ni safari ya kwenda Makka ambayo kila Muislamu lazima aifanye angalau mara 
 | Sawm | Saumu | Funga |
 | Hajj | Hija | Safari ya kuhiji kwenda Makka |
 | Taqwa | Taqwa | Kumcha Mungu |
-| Ummah | Ummah | Jamii ya Waislamu ulimwenguni |
+| Ummah | Umma | Jamii ya Waislamu ulimwenguni |
 
 ---
 
@@ -145,4 +145,4 @@ Hija ni safari ya kwenda Makka ambayo kila Muislamu lazima aifanye angalau mara 
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 - Kuwanufaisha wanadamu wote*

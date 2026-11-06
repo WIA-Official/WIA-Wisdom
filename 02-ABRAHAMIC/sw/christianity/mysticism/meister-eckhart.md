@@ -6,7 +6,7 @@
 
 ## Muhtasari | Overview
 
-Meister Eckhart (takriban 1260–1328) alikuwa mtawa wa Shirika la Wadominiko kutoka Ujerumani, mwanateolojia na mtaalamu wa fumbo la Kikristo. Mahubiri na maandishi yake yanahesabiwa kuwa miongoni mwa maonyesho ya kina kabisa ya fumbo la Kikristo. Mafundisho yake kuhusu "kuzaliwa kwa Mungu rohoni," kujitenga na vitu (Gelassenheit), na cheche ya kimungu iliyo ndani ya kila mtu yanaendelea kuwaathiri wanaotafuta uzima wa kiroho hadi leo.
+Meister Eckhart (takriban 1260–1328) alikuwa mtawa wa Shirika la Wadominiko kutoka Ujerumani, mwanatheolojia na mtu wa fumbo la Kikristo. Mahubiri na maandishi yake yanahesabiwa kuwa miongoni mwa maonyesho ya kina kabisa ya fumbo la Kikristo. Mafundisho yake kuhusu "kuzaliwa kwa Mungu rohoni," kujitenga na vitu (Gelassenheit), na cheche ya kimungu iliyo ndani ya kila mtu yanaendelea kuwaathiri wanaotafuta uzima wa kiroho hadi leo.
 
 Mtazamo wa Eckhart wa kiapofatiki—kumweleza Mungu kwa njia ya kukana, yaani kusisitiza yale ambayo Mungu si—unamweka katika mapokeo ya Pseudo-Dionisio na unatangulia maendeleo ya baadaye ya fumbo la Kikristo. Ingawa Kanisa lililaani baadhi ya hoja zake, maono yake kuhusu muungano wa kimungu na kiini cha roho yangali yanathaminiwa na watu wa tafakari kote duniani.
 
@@ -15,13 +15,13 @@ Mtazamo wa Eckhart wa kiapofatiki—kumweleza Mungu kwa njia ya kukana, yaani ku
 ## Njia ya Kiapofatiki | The Apophatic Way
 
 ### Via Negativa (Njia ya Kukana):
-> "Teolojia hasi ya Meister Eckhart, au teolojia ya kiapofatiki, ilianza kwa kueleza yale ambayo Mungu si. Mchakato huu, unaofanana na ukanushi wa Zen, unakusudia kufikia hali ya akili na roho ambamo Mungu peke yake anaweza kuingia."
+> "Theolojia hasi ya Meister Eckhart, au theolojia ya kiapofatiki, ilianza kwa kueleza yale ambayo Mungu si. Mchakato huu, unaofanana na ukanushi wa Zen, unakusudia kufikia hali ya akili na roho ambamo Mungu peke yake anaweza kuingia."
 
 ### Zaidi ya Majina Yote:
 Mungu yu juu ya dhana zote, taswira zote na maneno yote. Ili kumjua Mungu kwa kweli, ni lazima tuziache fikra zetu kuhusu Mungu.
 
 ### Wingu la Kutojua:
-> "Mtu wa fumbo huingia katika kujua kiapofatiki—maarifa ya Mungu kwa njia ya kutojua. Hili ndilo wingu linalozungumziwa katika *The Cloud of Unknowing*, ambapo akili hunyamaza mbele ya fumbo la Mungu."
+> "Mtu wa fumbo huingia katika kujua kiapofatiki—maarifa ya Mungu kwa njia ya kutojua. Hili ndilo wingu linalozungumziwa katika kitabu *The Cloud of Unknowing* (Wingu la Kutojua), ambapo akili hunyamaza mbele ya fumbo la Mungu."
 
 ---
 
@@ -39,7 +39,7 @@ Mungu yu juu ya dhana zote, taswira zote na maneno yote. Ili kumjua Mungu kwa kw
 
 ## Kujitenga (Gelassenheit) | Detachment (Gelassenheit)
 
-> "Mtu wa fumbo wa zama za kati kutoka Rhineland, Meister Eckhart, alisisitiza kujitenga. Alidhani kuwa ni fadhila iliyo kuu kuliko hata upendo. Ingawa upendo unaweza kumbeba mtafutaji kwa bidii kuelekea kwa Mungu, kujitenga kunamlazimisha Mungu kumjia mtafutaji."
+> "Mtu wa fumbo wa zama za kati kutoka Rhineland, Meister Eckhart, alisisitiza kujitenga. Aliona kuwa ni fadhila iliyo kuu kuliko hata upendo. Ingawa upendo unaweza kumbeba mtafutaji kwa bidii kuelekea kwa Mungu, kujitenga kunamlazimisha Mungu kumjia mtafutaji."
 
 ### Maana Yake:
 - Kuachilia viambatisho vyote
@@ -64,7 +64,7 @@ Mungu yu juu ya dhana zote, taswira zote na maneno yote. Ili kumjua Mungu kwa kw
 Katika kiini cha roho hakuna tofauti kati ya Mungu na roho—kuna umoja tu.
 
 ### Maneno Maarufu:
-> "Jicho ambalo kwalo ninamwona Mungu ni jicho lilelile ambalo kwalo Munguananiona."
+> "Jicho ambalo kwalo ninamwona Mungu ni jicho lilelile ambalo kwalo Mungu ananiona."
 
 > "Kama sala pekee unayoisema ni 'asante,' hiyo ingetosha."
 
@@ -91,4 +91,4 @@ Katika kiini cha roho hakuna tofauti kati ya Mungu na roho—kuna umoja tu.
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+*弘益人間 – Kuinufaisha binadamu wote*

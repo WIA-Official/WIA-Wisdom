@@ -62,7 +62,7 @@ Dans l'idéologie moderne et dans les conversations au sein du judaïsme, le tik
 > « Le judaïsme associe une vision libérale, utopique et universelle de transformation complète de la planète à une méthode de transformation conservatrice, réaliste et particulariste. »
 
 ### Le rôle de l'être humain :
-- Partenaire de Dieu dans la création
+- Partenaires de Dieu dans la création
 - Acteurs actifs du changement
 - Responsables de la justice
 - Tenus de guérir ce qui est brisé

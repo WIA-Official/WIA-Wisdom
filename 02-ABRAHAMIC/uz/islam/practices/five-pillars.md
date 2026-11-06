@@ -6,9 +6,9 @@
 
 ## Umumiy ma'lumot | Overview
 
-Islomning besh ustuni (arabcha: أركان الإسلام, Arkān al-Islām) — musulmon hayotining poydevorini tashkil etuvchi asosiy ibodat va amallardir. Ular: shahodat (imon kalimasi), namoz (salot), zakot (xayr-ehson), ro'za (sawm) va haj (ziyorat).
+Islomning besh ustuni (arabcha: أركان الإسلام, Arkān al-Islām) — musulmon hayotining poydevorini tashkil etuvchi asosiy ibodat va amallardir. Ular: shahodat (imon kalimasi), namoz (salot), zakot (xayr-ehson), ro'za (savm) va haj (ziyorat).
 
-Payg'ambar Muhammad (unga Allohning salomi va rahmati bo'lsin) Islom «besh narsa ustiga qurilgan» ekanini bayon qilganlar (Buxoriy va Muslim). Bu amallar ularni ado etishga qodir har bir balog'atga yetgan musulmon uchun farzdir; ular shaxsning imonini mustahkamlaydi, Allohdan qo'rquv va taqvoni (taqwa) kamol toptiradi hamda butun dunyo musulmonlari jamoasi — ummat (Ummah) o'rtasida hamjihatlikni barpo etadi.
+Payg'ambar Muhammad (sollallohu alayhi vasallam) Islom «besh narsa ustiga qurilgan» ekanini bayon qilganlar (Buxoriy va Muslim). Bu amallar ularni ado etishga qodir har bir balog'atga yetgan musulmon uchun farzdir; ular shaxsning imonini mustahkamlaydi, Allohni doimo yodda tutishni — taqvoni kamol toptiradi hamda butun dunyo musulmonlari jamoasi — ummat o'rtasida hamjihatlikni barpo etadi.
 
 ---
 
@@ -17,7 +17,7 @@ Payg'ambar Muhammad (unga Allohning salomi va rahmati bo'lsin) Islom «besh nars
 Shahodat — Islomning asosiy e'tiqodi, kishini musulmon qiluvchi imon kalimasidir:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> «Allohdan o'zga iloh yo'q va Muhammad Allohning elchisidir.»
+> «Allohdan o'zga iloh yo'q va Muhammad Allohning rasulidir.»
 
 ### Ikki qism | Two Parts
 
@@ -36,13 +36,13 @@ Musulmonlar Makkadagi Ka'baga yuzlanib, belgilangan vaqtlarda kuniga besh mahal 
 |--------|--------|------|
 | Bomdod (Fajr) | الفجر | Tong |
 | Peshin (Dhuhr) | الظهر | Kunning o'rtasi |
-| Asr (Asr) | العصر | Kunning ikkinchi yarmi |
+| Asr | العصر | Kunning ikkinchi yarmi |
 | Shom (Maghrib) | المغرب | Quyosh botishi |
 | Xufton (Isha) | العشاء | Tun |
 
 ### Namoz arkonlari | Elements of Prayer
 
-- Namozdan oldin tahorat (wudu) olish
+- Namozdan oldin tahorat (vuzu') olish
 - Qiyom (tik turish), ruku', sajda va o'tirish
 - Qur'on oyatlarini o'qish
 - Qiblaga (Makka tomonga) yuzlanish
@@ -56,7 +56,7 @@ Musulmonlar Makkadagi Ka'baga yuzlanib, belgilangan vaqtlarda kuniga besh mahal 
 
 Zakot — boylikning bir qismini muhtojlarga berishning farz etilgan shaklidir:
 
-> «Nisob deb ataladigan ma'lum miqdordan ortiq mol-mulkka ega bo'lgan har bir shartlarga muvofiq balog'atga yetgan musulmon har yili o'sha mol-mulkning 2,5 foizini zakot sifatida to'lashi shart.»
+> «Nisob deb ataladigan ma'lum miqdordan ortiq mol-mulkka ega bo'lgan, shartlarga to'g'ri keladigan har bir balog'atga yetgan musulmon har yili o'sha mol-mulkning 2,5 foizini zakot sifatida to'lashi shart.»
 
 ### Maqsadlari | Purposes
 
@@ -72,9 +72,9 @@ Faqirlar, miskinlar, zakot yig'uvchilar, qalblari (Islomga) ulfat qilinadigan ki
 
 ---
 
-## 4. Ro'za (sawm) | 4. Sawm (Fasting)
+## 4. Ro'za (savm) | 4. Sawm (Fasting)
 
-Sawm — hijriy yil hisobining to'qqizinchi oyi bo'lgan muqaddas Ramazon oyida tutiladigan ro'zadir:
+Savm — hijriy yil hisobining to'qqizinchi oyi bo'lgan muqaddas Ramazon oyida tutiladigan ro'zadir:
 
 > «Ro'za har kuni tong otishidan quyosh botguncha tutiladi; shu vaqt davomida imonlilar har qanday taom, ichimlik, jinsiy aloqa yoki chekishdan o'zlarini tiyishlari lozim.»
 
@@ -103,7 +103,7 @@ Haj — jismonan va moliyaviy jihatdan qodir bo'lgan har bir musulmon umrida kam
 | Kun | Marosim |
 |-----|--------|
 | 1 | Ehrom (muqaddas holat), Tavof (Ka'bani 7 marta aylanish) |
-| 2-3 | Arafotda turish (vuquf), Minoda shaytonga tosh otish |
+| 2-3 | Arafotda turish (vuquf), Minoda jamaralarga tosh otish |
 | 4-5 | Qurbon hayiti qurbonligi, yana tosh otish, Tavofi ifoza |
 
 ### Ahamiyati | Significance
@@ -123,13 +123,13 @@ Haj — jismonan va moliyaviy jihatdan qodir bo'lgan har bir musulmon umrida kam
 
 ## Asosiy atamalar | Key Terms
 
-| Arabcha | Ma'nosi (o'zbekcha) | Ma'nosi |
+| Arabcha | O'zbekcha | Ma'nosi |
 |--------|--------|---------|
 | Arkān | Arkon | Ustunlar, poydevorlar |
 | Shahada | Shahodat | Imon kalimasi |
 | Salat | Namoz (salot) | Rasmiy ibodat — namoz |
 | Zakat | Zakot | Farz xayr-ehson |
-| Sawm | Ro'za (sawm) | Ro'za tutish |
+| Sawm | Ro'za (savm) | Ro'za tutish |
 | Hajj | Haj | Makkaga ziyorat |
 | Taqwa | Taqvo | Allohni doimo yodda tutish va Undan qo'rqish |
 | Ummah | Ummat | Butun dunyo musulmonlari jamoasi |

@@ -6,7 +6,7 @@
 
 ## Genel Bakış | Overview
 
-"İkinci Öğretmen" (Aristoteles'ten sonra) unvanıyla bilinen Ebû Nasr el-Fârâbî (y. 872–950), siyaset felsefesi, metafizik, mantık ve müzik felsefesine önemli katkılarda bulunmuş, İslam düşüncesinin erken dönemine ait ünlü bir filozoftur. Özellikle Eflatun ile Aristoteles'in felsefelerini uzlaştırma çabasıyla tanınır.
+"Muallim-i Sânî" (İkinci Öğretmen; Aristoteles'ten sonra) unvanıyla bilinen Ebû Nasr el-Fârâbî (yak. 872–950), siyaset felsefesi, metafizik, mantık ve müzik felsefesine önemli katkılarda bulunmuş, İslam düşüncesinin erken dönemine ait ünlü bir filozoftur. Özellikle Eflatun ile Aristoteles'in felsefelerini uzlaştırma çabasıyla tanınır.
 
 > Fârâbî'nin *Erdemli Şehir* (*el-Medînetü'l-Fâzıla*) adlı eseri, Eflatun'un *Devlet*'ini İslami bir bağlama uyarlar; felsefi hikmeti peygamberlik vahyiyle birleştiren bir filozof-peygamberin yönettiği ideal devleti tasvir eder.
 
@@ -65,7 +65,7 @@ Fârâbî'nin sentezi:
 Sudûr:
 1. **Bir/İlk Sebep** →
 2. **Birinci Akıl** →
-3. **Semavi Küreler** →
+3. **Gök Felekleri** →
 4. **Faal Akıl** →
 5. **İnsan Nefsi**
 
@@ -86,7 +86,7 @@ Mantık üzerine de kapsamlı eserler yazmış, ilimleri sınıflandırmış ve 
 ## Çapraz Başvurular | Cross-References
 
 - [[04-HELLENIC/classical/philosophers/plato|Eflatun]] - Siyaset felsefesi
-- [[04-HELLENIC/classical/philosophers/aristotle|Aristoteles]] - "Birinci Öğretmen"
+- [[04-HELLENIC/classical/philosophers/aristotle|Aristoteles]] - "Muallim-i Evvel" (Birinci Öğretmen)
 - [[02-ABRAHAMIC/islam/philosophy/averroes|İbn Rüşd]] - Sonraki gelişim
 - [[02-ABRAHAMIC/islam/philosophy/avicenna|İbn Sînâ]] - Eserinin takipçisi
 

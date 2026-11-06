@@ -46,15 +46,15 @@ Salla ita ce addu'ar ibada da ake yi sau biyar a rana a lokutan da aka shimfiɗa
 | **Azahar (Dhuhr)** | ظُهْر | Tsakar rana (bayan rana ta wuce tsakiyar sama) |
 | **La'asar (Asr)** | عَصْر | Rana ta yamma |
 | **Magariba (Maghrib)** | مَغْرِب | Faɗuwar rana (kai tsaye bayan rana ta faɗi) |
-| **Isha'i (Isha)** | عِشَاء | Dare (bayan jan hwaihwayin yamma ya ɓace) |
+| **Isha'i (Isha)** | عِشَاء | Dare (bayan jan shafaƙi ya ɓace) |
 
 **Abubuwan da Salla Ta Ƙunsa:**
 
 1. **Niyya** (nufi) — Yin niyyar yin salla
 2. **Kabbara** — Ɗaga hannuwa da faɗin "Allahu Akbar" (Allah ne Mafi Girma)
-3. **Alƙiyama (Qiyam)** — Tsayawa da karanta Suratul Fatiha da sauran ayoyi
+3. **Tsayuwa (Qiyam)** — Tsayawa da karanta Suratul Fatiha da sauran ayoyi
 4. **Ruku'u** — Rusunawa da hannuwa a kan gwiwoyi
-5. **Sujada** — Sunkuyawa har goshi ya taɓa ƙasa
+5. **Sujada** — Faɗuwa sujada har goshi ya taɓa ƙasa
 6. **Tahiyya (Tashahhud)** — Zama da karanta shaidawar imani
 7. **Sallama (Taslim)** — Kammalawa da "Assalamu alaikum" (Aminci ya tabbata a gare ku)
 
@@ -66,7 +66,7 @@ Zakka ita ce bayar da wani kaso na dukiyar mutum ga masu bukata, wanda wajibi ne
 
 **Muhimman Abubuwa:**
 
-- **Adadi**: Gabaɗaya kashi 2.5% (1/40) na dukiyar da aka tara kuma ta shafe shekara guda ta wata
+- **Adadi**: Gabaɗaya kashi 2.5% (1/40) na dukiyar da aka tara kuma ta cika shekara guda bisa kalandar wata (hauli)
 - **Nisabi**: Mafi ƙarancin adadin dukiya kafin zakka ta zama wajibi
 - **Masu karɓa**: Alƙur'ani ya bayyana rukunoni takwas (9:60):
   1. Matalauta (al-fuqara)
@@ -108,11 +108,11 @@ Hajji shi ne aikin ziyara na shekara-shekara zuwa Makka wanda wajibi ne kowane M
 
 1. **Harama (Ihram)**: Shiga yanayin tsarki na ibada; sanya fararen tufafi masu sauƙi waɗanda ke kawar da bambancin aji, ƙasa, da al'ada
 
-2. **ɗawafi (Tawaf)**: Kewaya Ka'aba sau bakwai a gaba da agogo
+2. **Ɗawafi (Tawaf)**: Kewaya Ka'aba sau bakwai akasin yadda agogo ke juyawa
 
 3. **Sa'ayi (Sa'i)**: Tafiya sau bakwai tsakanin tuddan Safa da Marwa, don tunawa da neman ruwa da Hajaratu ta yi
 
-4. **Arafa (Arafat)**: Tsayawa cikin addu'a a filin Arafa (ɗaya daga cikin ayyukan da suka fi muhimmanci)
+4. **Arafa (Arafat)**: Tsayawa cikin addu'a a filin Arafa (aikin da ya fi kowanne muhimmanci)
 
 5. **Muzdalifa (Muzdalifah)**: Tattara tsakuwa da yin addu'a bayan faɗuwar rana
 
@@ -120,7 +120,7 @@ Hajji shi ne aikin ziyara na shekara-shekara zuwa Makka wanda wajibi ne kowane M
 
 7. **Layya (Qurbani)**: Yanka dabba, don tunawa da shirin Annabi Ibrahim na yanka ɗansa
 
-8. **ɗawafin Ifada (Tawaf al-Ifadah)**: Kewaya Ka'aba na ƙarshe
+8. **Ɗawafin Ifada (Tawaf al-Ifadah)**: Kewaya Ka'aba na ƙarshe
 
 **Muhimmancinsa na Ruhi:**
 
@@ -138,7 +138,7 @@ Hajji babbar alama ce ta haɗin kan Musulmai. Miliyoyin mahajjata daga kowace ƙ
 | Hajji | حَجّ | Aikin ziyara |
 | Harama (Ihram) | إِحْرَام | Yanayin tsarki na ibada |
 | Ka'aba | كَعْبَة | Tsarkakakken ginin murabba'i a Makka |
-| ɗawafi (Tawaf) | طَوَاف | Kewayawa |
+| Ɗawafi (Tawaf) | طَوَاف | Kewayawa |
 | Umra (Umrah) | عُمْرَة | Ƙaramar ziyara |
 ---
 ## Ra'ayoyin Sunni da Shi'a | Sunni and Shia Perspectives
@@ -155,13 +155,13 @@ Ko da yake Musulmin Sunni da na Shi'a suna tarayya a Ginshiƙai Biyar, Musulunci
 11. (Wasu suna ƙarawa) **Tabarra** — Barranta daga maƙiyan iyalan Annabi
 
 ---
-## Haɗin Ginshiƙan Juna | The Unity of the Pillars
+## Haɗin Kan Ginshiƙai | The Unity of the Pillars
 
 Ginshiƙai Biyar suna aiki tare a matsayin tsari guda ɗaya:
 
 - **Shahada** tana kafa tushen imani da Allah Ɗaya
 - **Salla** tana kiyaye alaƙar yau da kullum da Allah ta hanyar ibada mai tsari
-- **Zakka** tana shimfiɗa ibada a kwance don kula da al'umma
+- **Zakka** tana faɗaɗa ibada zuwa ga kula da al'umma
 - **Azumi** yana tsarkake rai ta hanyar keɓewa ta ruhi a kowace shekara
 - **Hajji** yana haɗa al'ummar Musulmi ta duniya a ibada ta gamayya
 
@@ -171,7 +171,7 @@ Tare, suna magana kan dukkan fannonin rayuwar ɗan Adam: imani, ibada, nauyin za
 ## Manyan Madogara | Primary Sources
 
 ### Hadisi kan Ginshiƙai Biyar | Hadith on the Five Pillars
-> "An gina Musulunci a kan abubuwa biyar [ginshiƙai]: shaidawa cewa babu abin bautawa da gaskiya sai Allah kuma Muhammadu Manzon Allah ne, tsayar da salla, bayar da zakka, aikin hajji zuwa Gida, da azumin Ramadan." (Sahihul Bukhari, Sahih Muslim)
+> "An gina Musulunci a kan abubuwa biyar [ginshiƙai]: shaidawa cewa babu abin bautawa da gaskiya sai Allah kuma Muhammadu Manzon Allah ne, tsayar da salla, bayar da zakka, aikin hajjin Ɗakin Allah, da azumin Ramadan." (Sahihul Bukhari, Sahih Muslim)
 
 ### Nassoshin Alƙur'ani | Quranic References
 - **Shahada**: Sura ta 3:18, 47:19
@@ -191,7 +191,7 @@ Ginshiƙai Biyar suna ba da hikima ta zahiri ga rayuwar yau da kullum:
 5. **Nemi al'umma** — Ana rayuwar imani a cikin dangantaka da wasu
 
 ---
-## Nassoshin Giciye | Cross-References
+## Duba Kuma | Cross-References
 
 - **[Tauhidi](./tawhid.md)**: Tushen ilimin addini wanda ke ƙarƙashin dukkan Ginshiƙai Biyar
 - **[Shema (Yahudanci)](../judaism/core-teachings/shema.md)**: Shaidawar imani ta Yahudawa da ta yi kama da Shahada
@@ -210,4 +210,4 @@ Ginshiƙai Biyar suna ba da hikima ta zahiri ga rayuwar yau da kullum:
 
 ---
 ---
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Amfanar da Dukkan Ɗan Adam**

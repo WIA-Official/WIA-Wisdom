@@ -8,9 +8,9 @@
 
 Ágape (grego: ἀγάπη, *agápē*) é a palavra grega usada no Novo Testamento para descrever a mais elevada forma de amor: o amor incondicional e sacrificial de Deus pela humanidade, e o amor que os cristãos são chamados a manifestar para com Deus e o próximo.
 
-Diferentemente do amor humano, que muitas vezes responde à atratividade ou ao merecimento do ser amado, o ágape se caracteriza por sua incondicionalidade. O ágape de Deus não é conquistado por mérito humano, mas dado gratuitamente. Como escreveu o apóstolo Paulo: "Mas Deus prova o seu próprio amor para conosco: Cristo morreu por nós quando ainda éramos pecadores" (Romanos 5:8).
+Diferentemente do amor humano, que muitas vezes responde à atratividade ou ao merecimento do ser amado, o ágape se caracteriza por sua incondicionalidade. O ágape de Deus não é conquistado por mérito humano, mas dado gratuitamente. Como escreveu o apóstolo Paulo: "Mas Deus prova o seu próprio amor para conosco pelo fato de ter Cristo morrido por nós, sendo nós ainda pecadores" (Romanos 5:8).
 
-O ágape não é primariamente um sentimento, mas um compromisso: uma escolha voluntária de buscar o bem do outro, independentemente do custo para si mesmo. Esse amor é a própria natureza de Deus ("Deus é amor", 1 João 4:8) e a marca definidora do discipulado cristão ("Com isto todos saberão que vocês são meus discípulos: se vocês amarem uns aos outros", João 13:35).
+O ágape não é primariamente um sentimento, mas um compromisso: uma escolha voluntária de buscar o bem do outro, independentemente do custo para si mesmo. Esse amor é a própria natureza de Deus ("Deus é amor", 1 João 4:8) e a marca definidora do discipulado cristão ("Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros", João 13:35).
 
 ---
 
@@ -49,17 +49,17 @@ Embora alguns estudiosos debatam o quanto essa distinção é rígida, o contras
 
 ### O Ágape de Deus pela Humanidade | God's Agape for Humanity
 
-**João 3:16** — "Porque Deus amou (*ēgapēsen*) o mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna."
+**João 3:16** — "Porque Deus amou (*ēgapēsen*) ao mundo de tal maneira que deu o seu Filho unigênito, para que todo o que nele crê não pereça, mas tenha a vida eterna."
 
-**Romanos 5:8** — "Mas Deus prova o seu amor (*agapēn*) para conosco, em que Cristo morreu por nós quando ainda éramos pecadores."
+**Romanos 5:8** — "Mas Deus prova o seu próprio amor (*agapēn*) para conosco pelo fato de ter Cristo morrido por nós, sendo nós ainda pecadores."
 
-**1 João 4:8-10** — "Aquele que não ama não conhece a Deus, porque Deus é amor (*agapē*). Nisto se manifestou o amor de Deus entre nós: que Deus enviou seu Filho unigênito ao mundo, para vivermos por meio dele."
+**1 João 4:8-10** — "Aquele que não ama não conhece a Deus, pois Deus é amor (*agapē*). Nisto se manifestou o amor de Deus em nós: em haver Deus enviado o seu Filho unigênito ao mundo, para vivermos por meio dele."
 
 ---
 
 ### O Grande Mandamento | The Great Commandment
 
-**Mateus 22:37-39** — "'Amarás (*agapēseis*) o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento.' Este é o grande e primeiro mandamento. E o segundo, semelhante a este, é: 'Amarás (*agapēseis*) o teu próximo como a ti mesmo.'"
+**Mateus 22:37-39** — "'Amarás (*agapēseis*) o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento.' Este é o grande e primeiro mandamento. O segundo, semelhante a este, é: 'Amarás (*agapēseis*) o teu próximo como a ti mesmo.'"
 
 Jesus cita aqui o Shemá (Deuteronômio 6:5) e o une a Levítico 19:18, fazendo do amor a síntese de toda a lei divina.
 
@@ -67,7 +67,7 @@ Jesus cita aqui o Shemá (Deuteronômio 6:5) e o une a Levítico 19:18, fazendo 
 
 ### O Amor aos Inimigos | Love of Enemies
 
-**Mateus 5:44-45** — "Eu, porém, vos digo: Amai (*agapate*) os vossos inimigos e orai pelos que vos perseguem, para que sejais filhos do vosso Pai que está nos céus."
+**Mateus 5:44-45** — "Eu, porém, vos digo: amai (*agapate*) os vossos inimigos e orai pelos que vos perseguem; para que vos torneis filhos do vosso Pai celeste."
 
 Esse mandamento representa a expressão mais radical do ágape: o amor estendido precisamente àqueles que não o merecem, refletindo o próprio caráter de Deus.
 
@@ -77,7 +77,7 @@ Esse mandamento representa a expressão mais radical do ágape: o amor estendido
 
 **1 Coríntios 13** é o célebre hino de Paulo ao amor (*agapē*):
 
-"O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta. O amor jamais acaba."
+"O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece, não se conduz inconvenientemente, não procura os seus interesses, não se exaspera, não se ressente do mal; não se alegra com a injustiça, mas regozija-se com a verdade; tudo sofre, tudo crê, tudo espera, tudo suporta. O amor jamais acaba."
 
 ---
 
@@ -89,11 +89,11 @@ Esse mandamento representa a expressão mais radical do ágape: o amor estendido
 
 ### O Amor e a Cruz | Love and the Cross
 
-A cruz é a demonstração suprema do ágape. O amor de Deus não é mero sentimento, mas ação custosa: o Filho de Deus entregando a sua vida por pecadores. Como disse Jesus: "Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos" (João 15:13).
+A cruz é a demonstração suprema do ágape. O amor de Deus não é mero sentimento, mas ação custosa: o Filho de Deus entregando a sua vida por pecadores. Como disse Jesus: "Ninguém tem maior amor do que este: de dar alguém a própria vida em favor dos seus amigos" (João 15:13).
 
 ### O Amor como Marca do Discipulado | Love as Mark of Discipleship
 
-"Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei, que também vós ameis uns aos outros. Nisto todos conhecerão que sois meus discípulos, se tiverdes amor uns aos outros" (João 13:34-35).
+"Novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei, que também vos ameis uns aos outros. Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros" (João 13:34-35).
 
 O amor cristão não é simplesmente calor humano, mas um amor modelado pela entrega do próprio Cristo: "assim como eu vos amei".
 

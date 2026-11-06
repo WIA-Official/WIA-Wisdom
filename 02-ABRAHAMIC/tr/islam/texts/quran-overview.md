@@ -6,7 +6,7 @@
 
 ## Genel Bakış | Overview
 
-Kur'an-ı Kerim (Arapça: القرآن, el-Kur'ân, "Okunan"), İslam'ın merkezî dinî metnidir. Müslümanlar onun, Cebrail (Cibrîl) aracılığıyla Hz. Muhammed'e indirilen Allah'ın birebir kelamı olduğuna inanır. Vahiy yaklaşık 23 yıl sürmüş; Hz. Muhammed'in 40 yaşında olduğu 610'da başlamış, vefat ettiği yıl olan 632'de tamamlanmıştır.
+Kur'an-ı Kerim (Arapça: القرآن, el-Kur'ân, "Okunan"), İslam'ın merkezî dinî metnidir. Müslümanlar onun, Cebrail (Cibrîl) aracılığıyla Hz. Muhammed'e indirilen Allah'ın lafzen kelâmı olduğuna inanır. Vahiy yaklaşık 23 yıl sürmüş; Hz. Muhammed'in 40 yaşında olduğu Milâdî 610'da başlamış, vefat ettiği yıl olan 632'de tamamlanmıştır.
 
 Kur'an, Tevrat ve İncil dahil önceki kitapları doğrulayan ve onların hükmünü ortadan kaldıran son ve eksiksiz vahiy olarak kabul edilir. İslam hukukunun (Şeriat), kelamın ve Müslümanın hayatının her alanındaki rehberliğin temel kaynağıdır.
 
@@ -19,10 +19,10 @@ Kur'an şu bölümlerden oluşur:
 | Bölüm | Açıklama |
 |-------|----------|
 | **114 Sure** | Bölümler; 3 ile 286 ayet arasında değişir |
-| **~6.200 Ayet** | Âyetler (sözlük anlamıyla "deliller, işaretler") |
+| **~6.200 Ayet** | Ayetler (sözlük anlamıyla "işaretler, deliller") |
 | **30 Cüz** | Okuma amacıyla yapılmış bölümler |
 
-Sureler kronolojik olarak değil, genel hatlarıyla uzunluklarına göre, en uzundan en kısaya doğru dizilmiştir (açılış suresi Fâtiha hariç). Dokuzuncu sure (Tevbe) dışında her sure Besmele ile başlar: "Rahman ve Rahim olan Allah'ın adıyla."
+Sureler kronolojik olarak değil, genel hatlarıyla uzunluklarına göre, en uzundan en kısaya doğru dizilmiştir (açılış suresi Fâtiha hariç). Dokuzuncu sure (Tevbe) dışında her sure Besmele ile başlar: "Rahmân ve Rahîm olan Allah'ın adıyla."
 
 ---
 
@@ -32,9 +32,9 @@ Müslümanlar, Kur'an'ın Hz. Muhammed'e Mekke ve Medine şehirlerinde indirildi
 
 ### İlk Vahiy | The First Revelation
 
-Alak Suresi'nin ilk beş ayetinin (96:1-5), Hz. Muhammed'in Hira Mağarası'ndaki inzivası sırasında aldığı ilk vahiy olduğuna inanılır:
+Alak Suresi'nin ilk beş ayetinin (96/1-5), Hz. Muhammed'in Hira Mağarası'ndaki inzivası sırasında aldığı ilk vahiy olduğuna inanılır:
 
-> "Oku! Yaratan Rabbinin adıyla—insanı bir alaktan yarattı. Oku! Rabbin en büyük kerem sahibidir."
+> "Yaratan Rabbinin adıyla oku! O, insanı alaktan yarattı. Oku! Rabbin en büyük kerem sahibidir."
 
 ### Mekke ve Medine Sureleri | Meccan vs. Medinan Surahs
 
@@ -47,7 +47,7 @@ Alak Suresi'nin ilk beş ayetinin (96:1-5), Hz. Muhammed'in Hira Mağarası'ndak
 
 ### 1. Tevhid (Allah'ın Birliği) | Tawḥīd (Oneness of God)
 
-İslam'ın mutlak tek tanrıcılığı: Allah birdir, eşsizdir ve ortağı yoktur.
+İslam'ın mutlak tevhid inancı: Allah birdir, eşi ve benzeri yoktur, ortağı yoktur.
 
 ### 2. Nübüvvet (Peygamberlik) | Prophethood (Nubuwwah)
 
@@ -55,11 +55,11 @@ Hz. Muhammed, Âdem, İbrahim, Musa ve İsa'yı da içeren peygamberler silsiles
 
 ### 3. Âhiret | Afterlife (Ākhirah)
 
-Hesap Günü, Cennet (Cennet) ve Cehennem.
+Hesap Günü, Cennet ve Cehennem.
 
 ### 4. Hidayet | Guidance (Hidāyah)
 
-Dürüst bir hayata götüren Sırat-ı Müstakim (Doğru Yol, al-Ṣirāṭ al-Mustaqīm).
+Salih bir hayata götüren Sırât-ı Müstakîm (dosdoğru yol, es-Sırâtu'l-Müstakîm).
 
 ### 5. Önceki Kitaplar | Previous Scriptures
 
@@ -80,8 +80,8 @@ Kur'an şu yollarla korunmuştur:
 ### Yazılı Derleme | Written Compilation
 
 - Başlangıçta hurma yaprakları, kemikler ve deri üzerine kaydedilmiştir
-- Halife Osman döneminde (644-656) tek bir kitap (mushaf) hâlinde derlenmiştir
-- Osman Mushafı standart metin olmuştur
+- Halife Hz. Osman döneminde (644-656) tek bir kitap (mushaf) hâlinde derlenmiştir
+- Hz. Osman'ın mushafı standart metin olmuştur
 
 Kur'an'ın ritmik ve şiirsel yapısı ezberlemeyi kolaylaştırır; o, insanlık tarihinde en çok ezberlenen kitap olmayı sürdürmektedir.
 
@@ -105,8 +105,8 @@ Açılış suresi Fâtiha, Müslümanların namazının her rekâtında okunur v
 Kur'an okuyuşu, tecvid adı verilen belirli kurallara tabidir; bu kurallar şunları düzenler:
 - Harflerin telaffuzu
 - Seslerin süresi
-- Duraklar ve vakıflar
-- Makam yapıları (maqāmāt)
+- Sekteler ve vakıflar
+- Makamlar (makāmât)
 
 Kur'an okumak bir ibadet sayılır ve güzel Kur'an okuyuşu İslam kültüründe çok değerlidir.
 
@@ -129,13 +129,13 @@ Kur'an okumak bir ibadet sayılır ve güzel Kur'an okuyuşu İslam kültüründ
 
 | Arapça | Türkçe | Anlamı |
 |--------|--------|--------|
-| Qur'ān | Kur'an | Okunan |
-| Sūrah | Sure | Bölüm |
-| Āyah | Ayet | Âyet, delil, işaret |
-| Waḥy | Vahiy | İlahi vahiy |
-| Ḥāfiẓ | Hâfız | Kur'an'ı ezberleyen kişi |
-| Tajwīd | Tecvid | Okuma sanatı |
-| Tafsīr | Tefsir | Kur'an yorumu |
+| القرآن (Kur'ân) | Kur'an | Okunan |
+| سورة (Sûre) | Sure | Bölüm |
+| آية (Âyet) | Ayet | Ayet, delil, işaret |
+| وحي (Vahy) | Vahiy | İlahi vahiy |
+| حافظ (Hâfız) | Hâfız | Kur'an'ı ezberleyen kişi |
+| تجويد (Tecvîd) | Tecvid | Okuma sanatı |
+| تفسير (Tefsîr) | Tefsir | Kur'an yorumu |
 
 ---
 

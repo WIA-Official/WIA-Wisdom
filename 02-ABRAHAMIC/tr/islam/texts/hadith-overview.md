@@ -17,12 +17,12 @@ Hadis, önce Peygamber'in ashâbı tarafından sözlü olarak aktarılmış, ard
 | Kısım | Arapça | Açıklama |
 |------|--------|-------------|
 | **İsnad** | إسناد | Râvîlerin zinciri |
-| **Metin (Matn)** | متن | Asıl metin/içerik |
+| **Metin (Metn)** | متن | Asıl metin/içerik |
 
 ### Örnek:
 ```
 İSNAD: "Ebû Hüreyre'den rivayet edildiğine göre Allah'ın Resûlü şöyle buyurdu..."
-METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir."
+METİN: "Ameller ancak niyetlere göredir. Herkese ancak niyet ettiği şey vardır."
 ```
 
 ---
@@ -33,8 +33,8 @@ METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir.
 |------|--------|-------------|
 | **Sahih** | صحيح | Sağlam/sahih - en yüksek güvenilirlik |
 | **Hasen** | حسن | İyi - güvenilir râvîler, hafızada hafif zayıflık |
-| **Zayıf (Da'îf)** | ضعيف | Zayıf - senedde veya metinde eksiklik |
-| **Mevzû'** | موضوع | Uydurma - yalan olarak reddedilmiş |
+| **Zayıf (Da'îf)** | ضعيف | Zayıf - senette veya metinde eksiklik |
+| **Mevzû** | موضوع | Uydurma - yalan olarak reddedilmiş |
 
 ### Kaynak Açısından:
 | Tür | Açıklama |
@@ -42,13 +42,13 @@ METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir.
 | **Hadîs-i Nebevî** | Peygamber'e ait hadis |
 | **Hadîs-i Kudsî** | Kutsal hadis - Peygamber aracılığıyla aktarılan Allah sözleri |
 
-> "Kudsî hadisler, Yüce Allah tarafından Hz. Muhammed'e vahyedilen sözlerdir. Çoğunluğu oluşturan Nebevî hadislerden farklı olarak bunların dayanağı Peygamber'e değil, Yüce Allah'a kadar uzanır."
+> "Kudsî hadisler, Hz. Muhammed'in, Yüce Allah'ın kendisine vahyettiği şekliyle naklettiği sözlerdir. Çoğunluğu oluşturan Nebevî hadislerden farklı olarak bunların dayanağı Peygamber'e değil, Yüce Allah'a kadar uzanır."
 
 ---
 ## Başlıca Derlemeler | Major Collections
 
 ### Altı Kanonik Kitap (Kütüb-i Sitte):
-| Derleme | Derleyen | Vefatı | Hadis Sayısı |
+| Derleme | Derleyen | Vefatı (M.) | Hadis Sayısı |
 |------------|----------|-------|--------------|
 | **Sahîh-i Buhârî** | İmam Buhârî | 870 | ~7.275 |
 | **Sahîh-i Müslim** | İmam Müslim | 875 | ~7.500 |
@@ -63,7 +63,7 @@ METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir.
 ## Meşhur Hadisler | Famous Hadith
 
 ### Niyet Hakkında:
-> "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir." (Buhârî)
+> "Ameller ancak niyetlere göredir. Herkese ancak niyet ettiği şey vardır." (Buhârî)
 
 ### Kardeşlik Hakkında:
 > "Sizden biriniz, kendisi için istediğini kardeşi için de istemedikçe gerçek anlamda iman etmiş olmaz." (Buhârî, Müslim)
@@ -80,13 +80,13 @@ METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir.
 ---
 ## İslam Hukukundaki Yeri | Role in Islamic Law
 
-### İslam Hukukunun Kaynakları:
+### İslam Hukukunun (Fıkhın) Kaynakları:
 1. **Kur'ân** - Asıl kaynak, Allah'ın kelâmı
 2. **Hadis/Sünnet** - İkinci kaynak, Peygamber'in örnekliği
 3. **İcmâ** - Âlimlerin görüş birliği
 4. **Kıyas** - Benzetme yoluyla çıkarım
 
-> "Hadisler esas itibarıyla Muhammed'in sözleri, fiilleri ve davranışlarıdır. Kur'ân'dan farklıdırlar, ancak bizzat Peygamber'in hayatına dayanarak kutsal bir hayatın nasıl yaşanacağına dair yol haritaları sunarlar."
+> "Hadisler esas itibarıyla Hz. Muhammed'in sözleri, fiilleri ve davranışlarıdır. Kur'ân'dan farklıdırlar, ancak bizzat Peygamber'in hayatına dayanarak kutsal bir hayatın nasıl yaşanacağına dair yol haritaları sunarlar."
 
 ---
 ## Hadis İlmi | Science of Hadith
@@ -102,11 +102,11 @@ METİN: "Ameller niyetlere göredir ve herkese niyetinin karşılığı verilir.
 | **Karşılaştırma** | Diğer hadislerle çapraz kontrol yapmak |
 
 ### Râvîleri Değerlendirme Ölçütleri:
-- Adalet (adalah)
-- Zabt (dabt)
-- Zincirin kesintisiz olması (ittisal)
-- Gizli kusurun bulunmaması (salama min shudhdh)
-- Düzensizliğin bulunmaması (salama min illa)
+- Doğruluk ve güvenilirlik (adâlet)
+- Hafıza ve kayıtta sağlamlık (zabt)
+- Zincirin kesintisiz olması (ittisâl)
+- Gizli kusurun bulunmaması (illetten selâmet)
+- Düzensizliğin bulunmaması (şüzûzdan selâmet)
 
 ---
 ## Kırk Hadis Geleneği | Forty Hadith Tradition
@@ -117,14 +117,14 @@ En meşhuru, İslam'ın temel ilkelerini kapsayan esas öğretilerden oluşan **
 
 ---
 ## Temel Terimler | Key Terms
-| Arapça | Anlamı |
-|--------|---------|
-| حديث (Hadis) | Rivayet/söz |
-| سنة (Sünnet) | Peygamber'in yolu |
-| إسناد (İsnad) | Rivayet zinciri |
-| متن (Metin) | Metin içeriği |
-| صحيح (Sahih) | Sahih, sağlam |
-| راوي (Râvî) | Aktaran |
+| Arapça | Türkçe | Anlamı |
+|--------|--------|---------|
+| حديث (Hadîs) | Hadis | Rivayet/söz |
+| سنة (Sünnet) | Sünnet | Peygamber'in yolu |
+| إسناد (İsnâd) | İsnad | Rivayet zinciri |
+| متن (Metn) | Metin | Metin içeriği |
+| صحيح (Sahîh) | Sahih | Sağlam, sahih |
+| راوي (Râvî) | Râvî | Aktaran |
 
 ---
 ## Kaynakça | References

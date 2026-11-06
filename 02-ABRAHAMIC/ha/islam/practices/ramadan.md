@@ -6,9 +6,9 @@
 
 ## Gabatarwa | Overview
 
-Ramadan (Larabci: رمضان) shi ne wata na tara a kalandar wata ta Musulunci, kuma shi ne wata mafi tsarki a Musulunci. A cikin wannan wata, Musulmi a duk faɗin duniya suna yin sawm (azumi) tun daga alfijir har zuwa faɗuwar rana, kuma shi ne ɗaya daga cikin Origin biyar na Musulunci. Fiye da kauracewa ci da sha, Ramadan wata ne na tsarkake rai, tunani, ƙarin ibada, da ƙara kusanci ga Allah (SWT).
+Ramadan (Larabci: رمضان) shi ne wata na tara a kalandar wata ta Musulunci, kuma shi ne wata mafi tsarki a Musulunci. A cikin wannan wata, Musulmi a duk faɗin duniya suna yin sawm (azumi) tun daga alfijir har zuwa faɗuwar rana, kuma shi ne ɗaya daga cikin rukunan Musulunci guda biyar. Fiye da ƙauracewa ci da sha, Ramadan wata ne na tsarkake rai, tunani, ƙarin ibada, da ƙara kusanci ga Allah (SWT).
 
-Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "zafi mai tsanani" ko "ƙonewa" — tana nuni ga yadda azumi ke ƙone zunubai, yana haifar da ɗumin ruhi, kuma yana ƙara tsananin ibada. Mafi muhimmanci, Ramadan ne lokacin da aka fara saukar da Alƙur'ani ga Annabi Muhammad, wanda hakan ya sa shi wata na musamman wajen alaƙa da wahayin Allah.
+Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "zafi mai tsanani" ko "ƙonewa" — tana nuni ga yadda azumi ke ƙone zunubai, yana haifar da ɗumin ruhi, kuma yana ƙara tsananin ibada. Mafi muhimmanci, Ramadan ne lokacin da aka fara saukar da Alƙur'ani ga Annabi Muhammadu, wanda hakan ya sa shi wata na musamman wajen alaƙa da wahayin Allah.
 
 ---
 
@@ -16,10 +16,10 @@ Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "z
 
 > "Watan Ramadan ne wanda aka fara saukar da Alƙur'ani a cikinsa a matsayin shiriya ga dukkan mutane, yana ɗauke da bayyanannun hujjoji na shiriya ta Allah da kuma mizanin rarrabewa tsakanin gaskiya da ƙarya." (Alƙur'ani 2:185)
 
-### Laylat al-Qadr (Daren Ƙadari):
+### Laylat al-Qadr (Lailatul Ƙadri):
 - Daren da aka fara saukar da Alƙur'ani
 - Yana cikin goman ƙarshe na Ramadan
-- "Ya fi watanni dubu" (Alƙur'ani 97:3)
+- "Mafi alheri ne daga wata dubu" (Alƙur'ani 97:3)
 - Mala'iku suna sauka da albarkar Allah
 
 ---
@@ -28,12 +28,12 @@ Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "z
 
 > "Musulmi suna yin azumin Ramadan a matsayin umarni daga Allah (SWT). Wata ne na tsarkake rai, tunani da ibada."
 
-### Haɓakar Taqwa (Tsoron Allah da Sanin Allah):
+### Haɓakar Taƙawa (Tsoron Allah da Sanin Allah):
 | Fuska | Haɓaka |
 |--------|-------------|
 | **Lura da zuciya** | Dawwamammen sanin kasancewar Allah |
 | **Horon kai** | Mallakar sha'awa da motsin rai |
-| **Ɗaukar nauyi** | Ƙarin fahimtar nauyin da ke kansa |
+| **Ɗaukar nauyi** | Ƙarin fahimtar nauyin da ke wuyan mutum |
 | **Dogaro** | Amincewa da dogaro ga Allah |
 
 ### Lada daga Allah:
@@ -48,14 +48,14 @@ Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "z
 ### Sharuɗɗa:
 - **Farawa**: Kafin alfijir (Fajr)
 - **Ƙarewa**: Da faɗuwar rana (Maghrib)
-- **Kauracewa**: Abinci, abin sha, shan taba, saduwa ta aure
+- **Ƙauracewa**: Abinci, abin sha, shan taba, saduwa ta aure
 - **Tsawon lokaci**: Wata guda gaba ɗaya (kwana 29-30)
 
 ### Jadawalin Yau da Kullum:
 | Abinci | Lokaci | Suna |
 |------|------|------|
-| Abincin kafin alfijir | Kafin Fajr | Suhur/Sehri |
-| Buɗe baki | Da Maghrib | Iftar |
+| Abincin kafin alfijir | Kafin Asuba (Fajr) | Sahur (Suhur/Sehri) |
+| Buɗe baki | Da Magariba (Maghrib) | Buɗe baki (Iftar) |
 
 ### Waɗanda aka yi wa rangwame:
 - Yara kafin balaga
@@ -68,17 +68,17 @@ Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "z
 
 ## Ayyukan Ibada | Worship Practices
 
-### Sallar Tarawih:
-> "A lokacin Ramadan, Musulmi da yawa suna zuwa masallaci kuma suna shafe sa'o'i da dama suna sallah. Baya ga sallolin yau da kullum guda biyar, Musulmi suna karanta wata sallah ta musamman da ake kira sallar Tarawih."
+### Sallar Tarawihi:
+> "A lokacin Ramadan, Musulmi da yawa suna zuwa masallaci kuma suna shafe sa'o'i da dama suna sallah. Baya ga sallolin yau da kullum guda biyar, Musulmi suna karanta wata sallah ta musamman da ake kira sallar Tarawihi."
 
 ### Ƙarin Ibada:
 | Aiki | Bayani |
 |----------|-------------|
 | **Karatun Alƙur'ani** | Kammala karatun Alƙur'ani cikin wata |
-| **Tarawih** | Dogon sallar dare |
-| **I'tikaf** | Zaman ibada a masallaci (kwana 10 na ƙarshe) |
-| **Sadaqah** | Ƙarin sadaka |
-| **Dhikr** | Ambaton Allah |
+| **Tarawihi** | Doguwar sallar dare |
+| **I'itikafi** | Zaman ibada a masallaci (kwana 10 na ƙarshe) |
+| **Sadaka** | Ƙarin sadaka |
+| **Zikiri** | Ambaton Allah |
 
 ---
 
@@ -95,12 +95,12 @@ Kalmar "Ramadan" ta fito daga tushen Larabci "ramdh" (رمض), wanda ke nufin "z
 
 ---
 
-## Sallar Idin Ƙaramar Sallah | Eid al-Fitr
+## Idin Ƙaramar Sallah | Eid al-Fitr
 
-Wata yana ƙarewa da Eid al-Fitr ("Bikin Buɗe Baki"):
+Watan yana ƙarewa da Idin Ƙaramar Sallah (Idul Fitr, "Bikin Buɗe Baki"):
 - Kwana uku na biki
 - Sallar jam'i ta musamman
-- Zakat al-Fitr (sadaka ga talakawa)
+- Zakkar Fid-da-kai (Zakat al-Fitr, sadaka ga talakawa)
 - Ci da sha da ziyarar dangi
 - Musayar kyaututtuka
 
@@ -113,10 +113,10 @@ Wata yana ƙarewa da Eid al-Fitr ("Bikin Buɗe Baki"):
 | صوم/صيام (Sawm) | Azumi | Yin azumi |
 | رمضان (Ramadan) | Ramadan | Wata mai tsarki |
 | سحور (Suhur) | Sahur | Abincin kafin alfijir |
-| إفطار (Iftar) | Buɗe baki | Karya azumi |
-| تقوى (Taqwa) | Taqwa | Tsoron Allah da sanin Allah |
-| تراويح (Tarawih) | Tarawih | Sallar dare |
-| ليلة القدر (Laylat al-Qadr) | Daren Ƙadari | Daren Ƙarfi |
+| إفطار (Iftar) | Buɗe baki | Buɗe azumi |
+| تقوى (Taqwa) | Taƙawa | Tsoron Allah da sanin Allah |
+| تراويح (Tarawih) | Tarawihi | Sallar dare |
+| ليلة القدر (Laylat al-Qadr) | Lailatul Ƙadri | Daren Ɗaukaka |
 
 ---
 

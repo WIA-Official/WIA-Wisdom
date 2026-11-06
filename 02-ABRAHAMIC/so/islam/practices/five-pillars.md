@@ -6,25 +6,25 @@
 
 ## Guudmar | Overview
 
-Shanta Tiir ee Islaamka (Carabi: أركان الإسلام, Arkān al-Islām) waa falalka asaasiga ah ee cibaadada iyo ku dhaqanka ah ee aasaas u ah nolosha Muslimka. Waxay yihiin: Shahaada (shaacinta iimaanka), Salaad (tukasho), Sakaad (bixinta sadaqada waajibka ah), Soon (sooma), iyo Xajka (ziyaarada Makka).
+Shanta Tiir ee Islaamka (Carabi: أركان الإسلام, Arkān al-Islām) waa falalka asaasiga ah ee cibaadada iyo ku dhaqanka ah ee aasaas u ah nolosha Muslimka. Waxay yihiin: Shahaado (shaacinta iimaanka), Salaad (tukasho), Sako (bixinta sadaqada waajibka ah), Soon (soomid), iyo Xaj (safarka cibaadada ee Makka).
 
-Nabi Muxammad (naxariis iyo nabadgelyo korkiisa ha ahaato) wuxuu sharraxay in Islaamku "ku dhisan yahay shan" tiir (Al-Bukhaari iyo Muslim). Ku dhaqankaan waa waajib ku saaran Muslin kasta oo qaan ah oo awooda inuu fuliyo, wuxuuna xoojiyaa iimaanka qofka, kobciyaa ogaanshaha iyo cabsida Alle (taqwa), wuxuuna dhisaa wadajirka bulshada Muslimka ee caalamka (Ummadda).
+Nabi Muxammad (naxariis iyo nabadgelyo korkiisa ha ahaato) wuxuu sharraxay in Islaamku "ku dhisan yahay shan" tiir (Al-Bukhaari iyo Muslim). Ku dhaqankaan waa waajib ku saaran Muslim kasta oo qaangaar ah oo awooda inuu fuliyo, wuxuuna xoojiyaa iimaanka qofka, kobciyaa ogaanshaha iyo cabsida Alle (taqwo), wuxuuna dhisaa wadajirka bulshada Muslimka ee caalamka (Ummadda).
 
 ---
 
-## 1. Shahaada (Shaacinta Iimaanka) | 1. Shahada (Declaration of Faith)
+## 1. Shahaado (Shaacinta Iimaanka) | 1. Shahada (Declaration of Faith)
 
 Shahaadadu waa caqiidada udub-dhexaadka u ah Islaamka—shaacinta iimaanka ee qofka ka dhigta Muslim:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Ma jiro ilaah xaq u elman in la caabudo ilaa Alle, Muxammadna waa rasuulka Alle."
+> "Ilaah aan Alle ahayn ma jiro, Muxammadna waa Rasuulka Alle."
 
 ### Laba Qaybood: | Two Parts:
 
 1. **Tawxiid:** Xaqiijinta keliyaynta iyo midnimada buuxda ee Alle
 2. **Risaalo:** Aqoonsiga Muxammad inuu yahay nabiga ugu dambeeya
 
-Qofku wuxuu noqdaa Muslim marka uu si daacad ah oo yaqiin leh u dhawaaqo shaacintaan. Waxaa lagu ducaystaa dhegta ilmaha dhashay, waxaana la akhriyaa markii dhimasho timaado.
+Qofku wuxuu noqdaa Muslim marka uu si daacad ah oo yaqiin leh u dhawaaqo shaacintaan. Waxaa lagu hoos yiraahdaa dhegta ilmaha dhashay, waxaana la akhriyaa marka geeridu timaado.
 
 ---
 
@@ -34,15 +34,15 @@ Muslimiintu waxay tukadaan shan jeer maalintii wakhtiyo go'an, iyagoo u jeeda Ka
 
 | Salaad | Carabi | Wakhti |
 |--------|--------|------|
-| Fajr | الفجر | Waaberi |
-| Dhuhr | الظهر | Duhur |
-| Asr | العصر | Galab |
-| Maghrib | المغرب | Dhaqdhaqaaq qorrax-dhac |
-| Isha | العشاء | Habeen |
+| Fajar | الفجر | Waaberi |
+| Duhur | الظهر | Hadh-cad (duhurnimo) |
+| Casar | العصر | Galab |
+| Maqrib | المغرب | Qorrax-dhac |
+| Cishaa | العشاء | Habeen |
 
 ### Qaybaha Salaadda: | Elements of Prayer:
 
-- Daahirinta cibaadada (wudu) kahor salaadda
+- Qaadashada weesada (wuduu') kahor salaadda
 - Istaag, rukuuc, sujuud, iyo fadhiisasho
 - Akhriska aayadaha Qur'aanka
 - U jeedka qiblada (jihada Makka)
@@ -52,51 +52,51 @@ Muslimiintu waxay tukadaan shan jeer maalintii wakhtiyo go'an, iyagoo u jeeda Ka
 
 ---
 
-## 3. Sakaad (Bixinta Sadaqada Waajibka ah) | 3. Zakat (Almsgiving)
+## 3. Sako (Bixinta Sadaqada Waajibka ah) | 3. Zakat (Almsgiving)
 
-Sakaaddu waa bixinta waajibka ah ee qayb ka mid ah hantida si loogu daro kuwa u baahan:
+Sakadu waa bixinta waajibka ah ee qayb ka mid ah hantida, oo loo bixiyo kuwa u baahan:
 
-> "Muslin kasta oo qaan ah oo xaq u leh, oo haysta hanti dhaafta cabbir cayiman—oo loo yaqaan niisaab—waa inuu sannad kasta hal mar bixiyaa 2.5% hantidaas si uu u noqdo Sakaad."
+> "Muslim kasta oo qaangaar ah oo ay ku waajibtay, oo haysta hanti dhaafta cabbir cayiman—oo loo yaqaan nisaab—waa inuu sannad kasta hal mar bixiyaa 2.5% hantidaas, isagoo sako ahaan u bixinaya."
 
 ### Ujeeddooyin: | Purposes:
 
 - Waxay daahirisaa hantida iyo nafta
-- Waxay taageertaa masaakiinta iyo kuwa baahan
+- Waxay taageertaa fuqaraada iyo masaakiinta
 - Waxay abuurtaa mas'uuliyad bulsho
 - Waxay yareysaa sinnaan la'aanta
 - Waxay xoojisaa xidhiidhka bulshada
 
-### Qaadayaasha (siddeed qaybood, Qur'aanka 9:60): | Recipients (eight categories in Quran 9:60):
+### Kuwa xaqa u leh (siddeed qaybood, Qur'aanka 9:60): | Recipients (eight categories in Quran 9:60):
 
-Masaakiinta, fuqaraada, kuwa ururiya sakaadda, kuwa quluubtooda la heshiisinayo, xorrayntii addoomaha, dayn-qabayaasha, kuwa jidka Alle ku jira, iyo socotada baahan.
+Fuqaraada, masaakiinta, kuwa sakada ka shaqeeya, kuwa quluubtooda la soo jiidanayo, xoraynta addoomaha, kuwa deynta qaba, kuwa jidka Alle ku jira, iyo socotada u baahan.
 
 ---
 
-## 4. Soon (Sooma) | 4. Sawm (Fasting)
+## 4. Soon (Soomid) | 4. Sawm (Fasting)
 
-Soonku waa sooma bisha barakeysan ee Ramadaan, bisha sagaalaad ee taariikhda Islaamka:
+Soonku waa soomidda bisha barakeysan ee Ramadaan, bisha sagaalaad ee kalandarka Islaamka:
 
 > "Soonku wuxuu dhacaa waaberi ilaa qorrax-dhac maalin kasta, intaas oo ay mu'miniintu ka fogaadaan wax kasta oo cunto, cabitaan, xidhiidh galmo, ama sigaar ah."
 
 ### Muhiimadda: | Significance:
 
 - Waxay xusuusinaysaa soo dejinta Qur'aanka
-- Waxay kobcisaa anfariirka iyo ogaanshaha Alle
+- Waxay kobcisaa is-xakamaynta iyo ogaanshaha Alle
 - Waxay kobcisaa dareenka u naxariista kuwa gaajaysan
 - Waxay daahirisaa jidhka iyo nafta
 - Waxay xoojisaa xidhiidhka bulshada iyadoo la wadaagayo khibrad
 
 ### Dhaafisyada: | Exemptions:
 
-Kuwa buka, socdaalka ah, uurka leh, nuujinaya, da'da weyn, ama dhiig-bax haysta waa laga fasixi karaa, iyagoo qabsan doona maalmaha dambe ama bixin doona sadaqo beddel ah.
+Kuwa buka, safarka ku jira, uurka leh, naas-nuujinaya, waayeelka ah, ama caadada qaba waa laga dhaafi karaa, iyadoo maalmaha gadaal laga qadaynayo ama la bixinayo sadaqo beddel ah.
 
 ---
 
-## 5. Xajka (Ziyaarada Makka) | 5. Hajj (Pilgrimage)
+## 5. Xaj (Safarka Cibaadada ee Makka) | 5. Hajj (Pilgrimage)
 
-Xajku waa ziyaaradda Makka ee ay tahay in Muslin kasta sameeyo ugu yaraan hal mar nolosheeda haddii uu jidh ahaan iyo maal ahaanba awoodo:
+Xajku waa safarka cibaadada ee Makka ee ay tahay in Muslim kasta sameeyo ugu yaraan hal mar noloshiisa haddii uu jidh ahaan iyo maal ahaanba awoodo:
 
-> "Muslin kasta oo caafimaadkiisa iyo maaliyaddiisu u oggol yihiin waa inuu ugu yaraan hal mar booqdaa magaalada barakeysan ee Makka."
+> "Muslim kasta oo caafimaadkiisa iyo maaliyaddiisu u oggol yihiin waa inuu ugu yaraan hal mar booqdaa magaalada barakeysan ee Makka."
 
 ### Cibaadooyinka Muhiimka ah: | Key Rituals:
 
@@ -109,7 +109,7 @@ Xajku waa ziyaaradda Makka ee ay tahay in Muslin kasta sameeyo ugu yaraan hal ma
 ### Muhiimadda: | Significance:
 
 - Kacbada: Gurigii Ibraahim u dhisay Alle
-- Midnimo: Muslimiinta asal kasta leh way isle taagaan Alle hortiisa
+- Midnimo: Muslimiinta asal kasta leh waxay si siman ugu wada taagan yihiin Alle hortiisa
 - Dharka Ixraamka: Dhar fudud oo cadaan ah oo astaan u ah sinnaanta
 - Malaayiin ayaa sannad kasta ka soo ururta quruun kasta
 
@@ -117,7 +117,7 @@ Xajku waa ziyaaradda Makka ee ay tahay in Muslin kasta sameeyo ugu yaraan hal ma
 
 ## Midnimada Ummadda | Unity of the Ummah
 
-> "Shanta Tiir ee Islaamku waxay door muhiim ah ka ciyaaraan dhisidda iyo xoojinta bulshada Muslimka ee caalamka (Ummadda). Salaadaha jamaacada lagu tukado waxay kobciyaan xidhiidhka Muslimiinta. Sakaaddu waxay abuurtaa dareen mas'uuliyad wadajir ah oo ku saabsan danaha bulshada. Soonka wadajirka ah ee Ramadaan wuxuu Muslimiinta ka dhaweeyaa khibrad ruuxi ah oo la wadaago. Xajku wuxuu tusaale u yahay midnimada iyo sinnaanta ugu dambeysa ee aadamaha Allaha hortiisa."
+> "Shanta Tiir ee Islaamku waxay door muhiim ah ka ciyaaraan dhisidda iyo xoojinta bulshada Muslimka ee caalamka (Ummadda). Salaadaha jamaacada lagu tukado waxay kobciyaan xidhiidhka Muslimiinta. Sakadu waxay abuurtaa dareen mas'uuliyad wadajir ah oo ku saabsan danaha bulshada. Soonka wadajirka ah ee Ramadaan wuxuu Muslimiinta isu soo dhaweeyaa iyagoo wadaaga khibrad ruuxi ah. Xajku wuxuu tusaale u yahay midnimada iyo sinnaanta ugu dambeysa ee aadanaha Alle hortiisa."
 
 ---
 
@@ -128,9 +128,9 @@ Xajku waa ziyaaradda Makka ee ay tahay in Muslin kasta sameeyo ugu yaraan hal ma
 | Arkān | Tiirar | Tiirar, aasaasyo |
 | Shahada | Shahaado | Shaacinta iimaanka |
 | Salat | Salaad | Cibaado ku salaysan tukasho |
-| Zakat | Sakaad | Sadaqo waajib ah |
-| Sawm | Soon | Sooma |
-| Hajj | Xaj | Ziyaarada Makka |
+| Zakat | Sako | Sadaqo waajib ah |
+| Sawm | Soon | Soomid |
+| Hajj | Xaj | Safarka cibaadada ee Makka |
 | Taqwa | Taqwo | Ogaanshaha iyo cabsida Alle |
 | Ummah | Ummad | Bulshada Muslimka ee caalamka |
 

@@ -8,7 +8,7 @@
 
 Lima Rukun Islam (bahasa Arab: أركان الإسلام, Arkān al-Islām) ialah amalan ibadah asas yang menjadi dasar kehidupan seorang Muslim. Rukun-rukun tersebut ialah: Syahadah (pengakuan iman), Solat (sembahyang), Zakat (sedekah wajib), Puasa (*sawm*), dan Haji (ibadah haji ke Makkah).
 
-Nabi Muhammad ﷺ (صلى الله عليه وسلم) menerangkan bahawa Islam itu "dibina atas lima" perkara (riwayat Al-Bukhari dan Muslim). Amalan-amalan ini wajib bagi setiap Muslim dewasa yang mampu melaksanakannya, dan berfungsi mengukuhkan iman seseorang, memupuk kesedaran terhadap Allah (taqwa), serta membina perpaduan dalam kalangan umat Islam sedunia (Ummah).
+Nabi Muhammad ﷺ menerangkan bahawa Islam itu "dibina atas lima" perkara (riwayat Al-Bukhari dan Muslim). Amalan-amalan ini wajib bagi setiap Muslim dewasa yang mampu melaksanakannya, dan berfungsi mengukuhkan iman seseorang, memupuk kesedaran terhadap Allah (takwa), serta membina perpaduan dalam kalangan umat Islam sedunia (Ummah).
 
 ---
 
@@ -17,7 +17,7 @@ Nabi Muhammad ﷺ (صلى الله عليه وسلم) menerangkan bahawa Islam i
 Syahadah ialah akidah teras Islam—pengakuan iman yang menjadikan seseorang itu Muslim:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Tiada tuhan selain Allah, dan Muhammad ialah utusan Allah."
+> "Tiada Tuhan melainkan Allah, Muhammad itu pesuruh Allah."
 
 ### Dua Bahagian | Two Parts
 
@@ -42,7 +42,7 @@ Umat Islam bersolat lima kali sehari pada waktu yang ditetapkan, menghadap Kaaba
 
 ### Unsur-unsur Solat | Elements of Prayer
 
-- Bersuci secara ritual (wudhuk) sebelum solat
+- Bersuci (mengambil wuduk) sebelum solat
 - Berdiri, rukuk, sujud, dan duduk
 - Membaca ayat-ayat Al-Quran
 - Menghadap kiblat (arah Makkah)
@@ -68,15 +68,15 @@ Zakat ialah pemberian wajib sebahagian daripada harta kepada mereka yang memerlu
 
 ### Golongan Penerima (lapan asnaf dalam Al-Quran 9:60) | Recipients (eight categories in Quran 9:60)
 
-Fakir, miskin, amil (pengurus zakat), muallaf (mereka yang dijinakkan hatinya), memerdekakan hamba, orang yang berhutang (gharimin), fi sabilillah (di jalan Allah), dan musafir (ibnu sabil) yang kehabisan bekalan.
+Fakir, miskin, amil (pengurus zakat), muallaf (mereka yang dijinakkan hatinya), riqab (memerdekakan hamba), orang yang berhutang (gharimin), fi sabilillah (di jalan Allah), dan musafir (ibnu sabil) yang kehabisan bekalan.
 
 ---
 
 ## 4. Puasa (Sawm) | 4. Sawm (Fasting)
 
-Sawm ialah berpuasa pada bulan suci Ramadan, bulan kesembilan dalam takwim Islam:
+Puasa (*sawm*) ialah ibadah berpuasa pada bulan suci Ramadan, bulan kesembilan dalam takwim Islam:
 
-> "Puasa dilaksanakan dari fajar hingga matahari terbenam setiap hari, dan pada waktu itu orang beriman dikehendaki menahan diri daripada sebarang makanan, minuman, hubungan seksual, atau merokok."
+> "Puasa dilaksanakan dari fajar hingga matahari terbenam setiap hari, dan pada waktu itu orang beriman dikehendaki menahan diri daripada sebarang makanan, minuman, hubungan suami isteri, atau merokok."
 
 ### Kepentingan | Significance
 
@@ -98,9 +98,9 @@ Haji ialah ibadah ke Makkah yang wajib dilaksanakan oleh setiap Muslim sekurang-
 
 > "Setiap Muslim yang kesihatan dan kewangannya mengizinkan wajib mengunjungi kota suci Makkah sekurang-kurangnya sekali."
 
-### Ritual Utama | Key Rituals
+### Manasik Utama | Key Rituals
 
-| Hari | Ritual |
+| Hari | Manasik |
 |-----|--------|
 | 1 | Ihram (keadaan suci), Tawaf (mengelilingi Kaabah 7 kali) |
 | 2-3 | Wukuf di Arafah, melontar jamrah di Mina |

@@ -32,7 +32,7 @@ Temas principais:
 
 > Agostinho desenvolveu a doutrina do pecado original de forma mais completa do que qualquer pensador anterior. Pela queda de Adão, toda a humanidade herdou uma natureza corrompida, inclinada para o pecado.
 
-> «Sem a graça, os seres humanos não conseguem abster-se do pecado. A vontade é livre, mas é uma liberdade escravizada ao pecado, à parte da graça.»
+> «Sem a graça, os seres humanos não conseguem abster-se do pecado. A vontade é livre, mas é uma liberdade escravizada ao pecado, fora da graça.»
 
 Doutrinas principais:
 - **Pecado original**: culpa e corrupção herdadas

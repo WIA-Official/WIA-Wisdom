@@ -1,6 +1,6 @@
 # L'amour agapè | Agape Love (Ἀγάπη)
 
-> L'amour inconditionnel et plein de don de soi de Dieu, qui définit le cœur de la foi chrétienne
+> L'amour inconditionnel et oblatif de Dieu, qui est au cœur de la foi chrétienne
 
 ---
 
@@ -16,7 +16,7 @@ L'agapè n'est pas d'abord un sentiment, mais un engagement : le choix délibér
 
 ## Les mots grecs pour l'amour | The Greek Words for Love
 
-La langue grecque distingue plusieurs types d'amour, ce qui apporte des nuances aidant à éclairer le caractère unique de l'agapè :
+La langue grecque distingue plusieurs types d'amour, et ces nuances aident à éclairer le caractère unique de l'agapè :
 
 | Type | Grec | Description |
 |------|------|-------------|
@@ -25,13 +25,13 @@ La langue grecque distingue plusieurs types d'amour, ce qui apporte des nuances 
 | **Éros** | ἔρως | Amour romantique et passionné ; désir |
 | **Storgè** | στοργή | Amour familial, affection naturelle |
 
-Seuls *agapè* et *philia* (et leurs dérivés) apparaissent directement dans le Nouveau Testament. Il est à noter que *éros* n'apparaît pas dans l'Écriture, bien que l'amour romantique soit célébré dans des textes comme le Cantique des cantiques.
+Seuls *agapè* et *philia* (et leurs dérivés) apparaissent directement dans le Nouveau Testament. Il est à noter qu'*éros* n'apparaît pas dans l'Écriture, bien que l'amour romantique soit célébré dans des textes comme le Cantique des cantiques.
 
 ---
 
 ## L'agapè et les autres amours | Agape vs. Other Loves
 
-Le théologien suédois Anders Nygren, dans son ouvrage influent *Agape et Éros* (1930-1936), a nettement opposé l'agapè et l'éros :
+Le théologien suédois Anders Nygren, dans son ouvrage influent *Érôs et Agapè* (1930-1936), a nettement opposé l'agapè et l'éros :
 
 | Aspect | Éros | Agapè |
 |--------|------|-------|
@@ -118,11 +118,11 @@ L'amour chrétien n'est pas simplement une chaleur humaine, mais un amour model�
 
 2. **Augustin** : l'amour (*caritas*) comme l'unique vertu qui ordonne correctement toutes les autres ; « Aime, et fais ce que tu veux »
 
-3. **Thomas d'Aquin** : la charité (*caritas*, traduction latine d'agapè) comme forme de toutes les vertus, infuse par Dieu
+3. **Thomas d'Aquin** : la charité (*caritas*, traduction latine d'agapè) comme forme de toutes les vertus, infusée par Dieu
 
 4. **Martin Luther** : distinction entre l'amour de Dieu (qui crée la valeur) et l'amour humain (qui répond à la valeur)
 
-5. **Anders Nygren** : *Agape et Éros* (années 1930) — contraste influent entre l'agapè qui se donne et l'éros qui cherche son propre intérêt
+5. **Anders Nygren** : *Érôs et Agapè* (années 1930) — contraste influent entre l'agapè qui se donne et l'éros qui cherche son propre intérêt
 
 6. **Le pape Benoît XVI** : *Deus caritas est* (2005) — a soutenu que l'éros et l'agapè peuvent s'intégrer dans un amour authentique
 

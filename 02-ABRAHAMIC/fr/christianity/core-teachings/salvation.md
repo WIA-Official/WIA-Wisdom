@@ -1,14 +1,14 @@
 # Le salut dans le christianisme | Salvation in Christianity
 
-> Sauvés par la grâce, par la foi
+> Sauvés par la grâce, par le moyen de la foi
 
 ---
 
-## Aperçu | Overview
+## Vue d'ensemble | Overview
 
 Le salut (grec : σωτηρία, *sôtêria*) dans le christianisme désigne la délivrance de l'être humain du péché et de ses conséquences — la mort et la séparation d'avec Dieu — par la mort et la résurrection du Christ. Cette doctrine, appelée sotériologie (du grec *sôtêr*, « sauveur »), est au cœur de la foi chrétienne et a été comprise de diverses manières selon les traditions.
 
-Les chrétiens croient que, la nature humaine étant fondamentalement corrompue par le péché, la grâce de Dieu est nécessaire au salut. Si les différentes confessions mettent l'accent sur des aspects différents — la foi, les œuvres, les sacrements, la prédestination —, toutes s'accordent à dire que le salut vient ultimement de Jésus-Christ.
+Les chrétiens croient que, la nature humaine étant fondamentalement corrompue par le péché, la grâce de Dieu est nécessaire au salut. Si les différentes confessions mettent l'accent sur des aspects différents — la foi, les œuvres, les sacrements, la prédestination —, toutes s'accordent à dire que le salut vient en définitive par Jésus-Christ.
 
 ---
 
@@ -35,7 +35,7 @@ Les chrétiens croient que, la nature humaine étant fondamentalement corrompue 
 
 > **Éphésiens 2, 8-9** : « Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les œuvres, afin que personne ne se glorifie. »
 
-> **Romains 10, 9** : « Si tu confesses de ta bouche que Jésus est Seigneur, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. »
+> **Romains 10, 9** : « Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. »
 
 > **Jean 3, 16** : « Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle. »
 
@@ -72,7 +72,7 @@ Met l'accent sur le salut par la grâce seule (*sola gratia*) par la foi seule (
 > « Les arminiens classiques soulignent que la grâce gratuite de Dieu (grâce prévenante) permet aux êtres humains de répondre librement au salut offert par le Christ, ou de le rejeter. »
 
 ### Point de vue orthodoxe :
-Met l'accent sur la théosis (divinisation) — la participation à la nature divine par les sacrements et la vie spirituelle.
+Met l'accent sur la théosis (déification) — la participation à la nature divine par les sacrements et la vie spirituelle.
 
 ---
 

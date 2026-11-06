@@ -8,15 +8,15 @@
 
 Ramazan (ərəbcə: رمضان) İslam qəməri təqvimində doqquzuncu ay və İslamda ən müqəddəs aydır. Bu ayda bütün dünyada müsəlmanlar İslamın beş şərtindən biri olan orucu (səvm) sübh vaxtından gün batana qədər tuturlar. Ramazan yemək-içməkdən çəkinməkdən daha artıq, mənəvi paklanma, təfəkkür, daha çox ibadət və Allaha (s.v.t.) olan bağlılığın dərinləşməsi ayıdır.
 
-"Ramazan" sözü ərəbcə "ramz" (رمض) kökündən gəlir və "şiddətli isti" və ya "yandıran" mənasını verir. Bu, orucun günahları yandırıb necə mənəvi hərarət yaratdığına və ibadəti necə gücləndirdiyinə işarədir. Ən mühümü isə, Ramazan Quranın Peyğəmbər Muhəmmədə (s.ə.s.) ilk dəfə nazil olduğu aydır və buna görə İlahi vəhylə xüsusi bağlılıq ayıdır.
+"Ramazan" sözü ərəbcə "rəmd" (رمض) kökündən gəlir və "şiddətli isti" və ya "yandıran" mənasını verir. Bu, orucun günahları necə yandırdığına, mənəvi hərarət yaratdığına və ibadəti gücləndirdiyinə işarədir. Ən mühümü isə, Ramazan Quranın Peyğəmbər Muhəmmədə ilk dəfə nazil olduğu aydır və buna görə İlahi vəhylə xüsusi bağlılıq ayıdır.
 
 ---
 
 ## Quran əsası | Quranic Foundation
 
-> "Ramazan ayı o aydır ki, insanlar üçün hidayət olaraq, doğru yolun və haqqı batildən ayırdetmənin aydın dəlilləri olaraq Quran ilk dəfə həmin ayda nazil edilmişdir." (Quran 2:185)
+> "Ramazan ayı insanlar üçün hidayət, doğru yolun və haqqı batildən ayıran (Furqanın) açıq-aydın dəlilləri olaraq Quranın ilk dəfə nazil edildiyi aydır." (Quran 2:185)
 
-### Qədr gecəsi (Laylat al-Qadr):
+### Qədr gecəsi (Leylətül-Qədr):
 - Quranın ilk dəfə nazil olduğu gecə
 - Ramazanın son on gecəsi içərisinə düşür
 - "Min aydan daha xeyirlidir" (Quran 97:3)
@@ -28,13 +28,13 @@ Ramazan (ərəbcə: رمضان) İslam qəməri təqvimində doqquzuncu ay və �
 
 > "Müsəlmanlar Ramazanı Allahdan (s.v.t.) gələn bir əmr kimi tuturlar. Bu, mənəvi paklanma, təfəkkür və ibadət ayıdır."
 
-### Təqvanın (Allah şüurunun) inkişafı:
+### Təqvanın (Allah qorxusunun) inkişafı:
 | Cəhət | İnkişaf |
 |--------|-------------|
 | **Diqqətlilik** | Allahın hüzurunun daimi dərk edilməsi |
 | **Özünütərbiyə** | Nəfs istəklərinə və meyllərinə nəzarət |
 | **Məsuliyyət** | Artmış məsuliyyət hissi |
-| **Asılılıq** | Allaha arxalanmanın dərk edilməsi |
+| **Təvəkkül** | Allaha arxalanmanın dərk edilməsi |
 
 ### İlahi mükafatlar:
 > "Deyilir ki, bu mübarək ayı oruc, namaz və səmimi niyyətlə qarşılayanların keçmiş günahlarını Allah bağışlayır."
@@ -47,14 +47,14 @@ Ramazan (ərəbcə: رمضان) İslam qəməri təqvimində doqquzuncu ay və �
 
 ### Şərtlər:
 - **Başlanğıc**: Sübhdən əvvəl (Fəcr)
-- **Sonluq**: Gün batanda (Məğrib)
+- **Bitmə**: Gün batanda (Məğrib)
 - **Çəkinmək lazım olanlar**: Yemək, içmək, siqaret çəkmək, cinsi əlaqə
 - **Müddət**: Bütün ay (29-30 gün)
 
 ### Gündəlik cədvəl:
 | Yemək | Vaxt | Adı |
 |------|------|------|
-| Sübhdən əvvəl yemək | Fəcrdən əvvəl | Suhur/Səhri |
+| Sübhdən əvvəl yemək | Fəcrdən əvvəl | Səhur/Sehri |
 | Orucun açılması | Məğrib vaxtı | İftar |
 
 ### İstisnalar:
@@ -76,7 +76,7 @@ Ramazan (ərəbcə: رمضان) İslam qəməri təqvimində doqquzuncu ay və �
 |----------|-------------|
 | **Quran tilavəti** | Ay ərzində Quranın tam oxunması |
 | **Təravih** | Uzadılmış gecə namazları |
-| **İ'tikaf** | Məsciddə mənəvi xəlvət (son 10 gün) |
+| **Etikaf** | Məsciddə mənəvi xəlvət (son 10 gün) |
 | **Sədəqə** | Artırılmış xeyriyyə |
 | **Zikr** | Allahın yad edilməsi |
 
@@ -95,12 +95,12 @@ Ramazan (ərəbcə: رمضان) İslam qəməri təqvimində doqquzuncu ay və �
 
 ---
 
-## Ramazan bayramı (Eid əl-Fitr) | Eid al-Fitr
+## Ramazan bayramı (Fitr bayramı) | Eid al-Fitr
 
 Ay Ramazan bayramı ("Orucun açılması bayramı") ilə başa çatır:
 - Üç günlük bayram
-- Xüsusi cəm şəklində bayram namazı
-- Fitr zəkatı (yoxsullara sədəqə)
+- Xüsusi camaat namazı (bayram namazı)
+- Fitrə zəkatı (yoxsullara sədəqə)
 - Bayram süfrəsi və qohum ziyarəti
 - Hədiyyələrin mübadiləsi
 
@@ -112,11 +112,11 @@ Ay Ramazan bayramı ("Orucun açılması bayramı") ilə başa çatır:
 |--------|--------|---------|
 | صوم/صيام (Səvm) | Oruc | Oruc tutmaq |
 | رمضان (Ramazan) | Ramazan | Mübarək ay |
-| سحور (Suhur) | Səhər yeməyi (suhur) | Sübhdən əvvəl yemək |
+| سحور (Səhur) | Səhur | Sübhdən əvvəl yemək |
 | إفطار (İftar) | İftar | Orucun açılması |
-| تقوى (Təqva) | Təqva | Allah şüuru |
+| تقوى (Təqva) | Təqva | Allah qorxusu |
 | تراويح (Təravih) | Təravih | Gecə namazları |
-| ليلة القدر (Laylat al-Qadr) | Qədr gecəsi | Qüdrət gecəsi |
+| ليلة القدر (Leylətül-Qədr) | Qədr gecəsi | Qüdrət gecəsi |
 
 ---
 

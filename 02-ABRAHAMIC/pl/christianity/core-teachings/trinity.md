@@ -6,12 +6,12 @@
 
 ## Przegląd | Overview
 
-Trójca Święta jest centralną doktryną głównego nurtu chrześcijaństwa. Głosi ona, że Bóg istnieje jako trzy odrębne Osoby — Ojciec, Syn (Jezus Chrystus) i Duch Święty — które są jednym w istocie, naturze i bycie. Doktryna ta odróżnia chrześcijaństwo od innych religii monoteistycznych i jest potwierdzana przez sobory powszechne od IV wieku.
+Trójca Święta jest centralną prawdą wiary głównego nurtu chrześcijaństwa. Głosi ona, że Bóg istnieje jako trzy odrębne Osoby — Ojciec, Syn (Jezus Chrystus) i Duch Święty — które są jednym w istocie, naturze i bycie. Doktryna ta odróżnia chrześcijaństwo od innych religii monoteistycznych i jest potwierdzana przez sobory powszechne od IV wieku.
 
 Choć słowo „Trójca” nie występuje w Biblii, chrześcijanie wierzą, że ta prawda jest objawiona w całym Piśmie Świętym. Doktryna została sformułowana, aby wyjaśnić, w jaki sposób Bóg może być jeden, a zarazem być Ojcem, Synem i Duchem — każdy w pełni Bogiem, a mimo to nie trzema bogami, lecz jednym Bogiem.
 
 ---
-## Podstawowe twierdzenia | Core Affirmations
+## Podstawowe prawdy wiary | Core Affirmations
 
 ### Trzy Osoby:
 
@@ -36,7 +36,7 @@ Choć słowo „Trójca” nie występuje w Biblii, chrześcijanie wierzą, że 
 
 > **Mt 28,19**: „Idźcie więc i nauczajcie wszystkie narody, udzielając im chrztu w imię Ojca i Syna, i Ducha Świętego.”
 
-> **2 Kor 13,13**: „Łaska Pana naszego Jezusa Chrystusa, miłość Boga i dar jedności Ducha Świętego niech będą ze wszystkimi wami.”
+> **2 Kor 13,13**: „Łaska Pana naszego Jezusa Chrystusa, miłość Boga i dar jedności w Duchu Świętym niech będą z wszystkimi wami!”
 
 > **J 1,1**: „Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo.”
 
@@ -47,12 +47,12 @@ Choć słowo „Trójca” nie występuje w Biblii, chrześcijanie wierzą, że 
 
 | Sobór | Rok | Wkład |
 |---------|------|--------------|
-| **Nicea I** | 325 | Potwierdził, że Syn jest „współistotny” Ojcu |
-| **Konstantynopol I** | 381 | Potwierdził bóstwo Ducha Świętego |
-| **Chalcedon** | 451 | Określił dwie natury Chrystusa |
+| **Sobór nicejski I** | 325 | Potwierdził, że Syn jest „współistotny” Ojcu |
+| **Sobór konstantynopolitański I** | 381 | Potwierdził bóstwo Ducha Świętego |
+| **Sobór chalcedoński** | 451 | Określił dwie natury Chrystusa |
 
 ### Symbol nicejski:
-> „Wierzymy w jednego Boga, Ojca wszechmogącego… i w jednego Pana, Jezusa Chrystusa, Syna Bożego, Jednorodzonego… i w Ducha Świętego, Pana i Ożywiciela…”
+> „Wierzymy w jednego Boga, Ojca wszechmogącego… i w jednego Pana Jezusa Chrystusa, Syna Bożego Jednorodzonego… i w Ducha Świętego, Pana i Ożywiciela…”
 
 ### Kluczowe pojęcia:
 - **Homoousios** (ὁμοούσιος): „Współistotny” – Ojciec i Syn mają tę samą istotę Bożą
@@ -70,7 +70,7 @@ Choć słowo „Trójca” nie występuje w Biblii, chrześcijanie wierzą, że 
 - ❌ **Modalizm**: Bóg przechodzący między trzema „sposobami” istnienia
 - ❌ **Tryteizm**: trzej oddzielni bogowie
 - ❌ **Arianizm**: Syn jako istota stworzona
-- ❌ **Subordynacjanizm**: Syn lub Duch jako mniejszy od Ojca
+- ❌ **Subordynacjanizm**: Syn lub Duch jako niższy od Ojca
 
 ---
 ## Perspektywy wyznaniowe | Denominational Perspectives
@@ -93,7 +93,7 @@ Kościół zachodni dodał do wyznania wiary słowa „i Syna” (filioque), gł
 2. **Modlitwa**: Modlimy się do Ojca, przez Syna, w Duchu
 3. **Miłość**: Bóg jest odwiecznie relacyjny — miłość wymaga osób
 4. **Wspólnota**: Ludzka wspólnota odzwierciedla wspólnotę Boską
-5. **Kult**: Oddajemy cześć jednemu Bogu w trzech Osobach
+5. **Uwielbienie**: Oddajemy cześć jednemu Bogu w trzech Osobach
 
 > „Trójca objawia, że Bóg nie jest samotny, lecz istnieje odwiecznie we wzajemnej relacji miłości.”
 
@@ -116,4 +116,4 @@ Kościół zachodni dodał do wyznania wiary słowa „i Syna” (filioque), gł
 - [Nicene Creed - Wikipedia](https://en.wikipedia.org/wiki/Nicene_Creed)
 
 ---
-**弘益人間 · Benefit All Humanity**
+*弘益人間 – Przynosić pożytek całej ludzkości*

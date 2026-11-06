@@ -1,4 +1,4 @@
-# L'Alliance (Berith) | The Covenant (בְּרִית)
+# L'Alliance (בְּרִית) | The Covenant (Berith)
 
 > La promesse de Dieu à son peuple
 
@@ -28,8 +28,8 @@ La relation d'alliance entre Dieu et Israël définit le caractère fondamental 
 
 ## L'alliance abrahamique | The Abrahamic Covenant
 
-### Brit Bein HaBetarim (l'alliance entre les morceaux) :
-> « Le Brit Bein HaBetarim est l'un des événements les plus importants de l'histoire juive. Dans cette alliance, D.ieu a parlé à Abraham du destin de ses descendants : ils seraient étrangers dans un pays où ils seraient opprimés et réduits en esclavage. Mais finalement, D.ieu les rachèterait, et ils hériteraient du pays de Canaan. »
+### Brit bein habetarim (l'alliance entre les morceaux) :
+> « La Brit bein habetarim est l'un des événements les plus importants de l'histoire juive. Dans cette alliance, D.ieu a parlé à Abraham du destin de ses descendants : ils seraient étrangers dans un pays où ils seraient opprimés et réduits en esclavage. Mais finalement, D.ieu les rachèterait, et ils hériteraient du pays de Canaan. »
 
 ### Genèse 12, 1-3 :
 Les promesses de Dieu à Abraham :
@@ -43,17 +43,17 @@ Les promesses de Dieu à Abraham :
 
 ---
 
-## Brit Milah (la circoncision) | Brit Milah (בְּרִית מִילָה)
+## Brit mila (בְּרִית מִילָה) | Brit Milah (Circumcision)
 
-> « La brit milah est la cérémonie de circoncision dans le judaïsme, au cours de laquelle le prépuce d'un nouveau-né de sexe masculin est retiré chirurgicalement. »
+> « La brit mila est la cérémonie de circoncision dans le judaïsme, au cours de laquelle le prépuce d'un nouveau-né de sexe masculin est retiré chirurgicalement. »
 
-> « La brit milah est considérée comme l'un des commandements les plus importants et les plus centraux du judaïsme, et ce rite a joué un rôle central dans l'histoire et la civilisation juives. »
+> « La brit mila est considérée comme l'un des commandements les plus importants et les plus centraux du judaïsme, et ce rite a joué un rôle central dans l'histoire et la civilisation juives. »
 
 ### Signification théologique :
-> « Dans le passage de l'Écriture où Abraham reçoit l'ordre de circoncire sa propre personne et les membres de sa maison, la Torah mentionne le mot brit, "alliance", pas moins de treize fois. Cela signifie que la circoncision incarne le lien d'alliance suprême entre le peuple juif et D.ieu. »
+> « Dans le passage de l'Écriture où Abraham reçoit l'ordre de se circoncire lui-même et les membres de sa maison, la Torah mentionne le mot brit, "alliance", pas moins de treize fois. Cela signifie que la circoncision incarne le lien d'alliance suprême entre le peuple juif et D.ieu. »
 
 ### Le huitième jour :
-> « Comme on le trouve en Genèse 17, 1-14, la brit milah est considérée comme si importante que, si le huitième jour tombe un shabbat, des actes normalement interdits en raison de la sainteté du jour sont permis afin d'accomplir l'obligation de circoncire. »
+> « Comme on le trouve en Genèse 17, 1-14, la brit mila est considérée comme si importante que, si le huitième jour tombe un Shabbat, des actes normalement interdits en raison de la sainteté du jour sont permis afin d'accomplir l'obligation de circoncire. »
 
 ---
 
@@ -62,11 +62,11 @@ Les promesses de Dieu à Abraham :
 L'alliance du Sinaï a établi :
 - Les Dix Commandements
 - La Torah comme constitution d'Israël
-- Israël comme « bien précieux » de Dieu
-- Le shabbat comme signe de l'alliance
+- Israël comme « trésor » de Dieu
+- Le Shabbat comme signe de l'alliance
 
 ### Exode 19, 5-6 :
-« Maintenant, si vous écoutez ma voix et si vous gardez mon alliance, vous serez mon bien précieux parmi tous les peuples... et vous serez pour moi un royaume de prêtres et une nation sainte. »
+« Et maintenant, si vous êtes dociles à ma voix, si vous gardez mon alliance, vous serez mon trésor entre tous les peuples... et vous, vous serez pour moi une dynastie de pontifes et une nation sainte. »
 
 ---
 
@@ -75,7 +75,7 @@ L'alliance du Sinaï a établi :
 ### Une relation réciproque :
 L'alliance n'est pas à sens unique, mais comporte des obligations mutuelles :
 - **Obligations de Dieu** : protection, providence, fidélité
-- **Obligations d'Israël** : obéissance, culte, vie éthique
+- **Obligations d'Israël** : obéissance, service divin, vie éthique
 
 ### Conditionnelle ou inconditionnelle :
 Certaines alliances (noachique, abrahamique) sont inconditionnelles ; d'autres (mosaïque) comportent des conditions.
@@ -90,9 +90,9 @@ Tout au long de l'histoire juive, l'alliance a été renouvelée (Josué, Josias
 | Hébreu | Signification |
 |--------|---------|
 | Berith (בְּרִית) | Alliance |
-| Brit Milah | Alliance de la circoncision |
+| Brit mila | Alliance de la circoncision |
 | Ot (אוֹת) | Signe |
-| Chesed (חֶסֶד) | Fidélité / amour d'alliance |
+| 'Hessed (חֶסֶד) | Fidélité / amour d'alliance |
 | Torah | Enseignement / Loi |
 
 ---

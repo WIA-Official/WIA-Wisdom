@@ -12,7 +12,7 @@
 
 ---
 
-## 四念處 | The Four Foundations of Mindfulness （四念處）
+## 四念處 | The Four Foundations of Mindfulness
 
 ### 《念處經》 | Satipatthana Sutta
 
@@ -22,8 +22,8 @@
 - 呼吸正念（ānāpānasati，安那般那念）
 - 覺知身體的姿勢
 - 在一切活動中保持清楚的了知
-- 觀察身體的各個部分與四大元素
-- 墓地觀（觀死屍）
+- 觀察身體的各個部分與四界
+- 塚間觀（觀死屍）
 
 **2. 受念處（Vedanānupassanā，觀受）**
 - 覺知樂受、苦受與不苦不樂受
@@ -71,7 +71,7 @@
 
 止與觀都是「修習念處（satipaṭṭhāna）的方式」，不過在止的修習中，正念與強而有力的專注（samādhi，三昧）一同運作，以培養清明的禪定（jhāna），這可作為觀（vipassanā）的基礎。
 
-包括尚克曼（Shankman）在內的學者主張「止與觀不可分離」——在經典中，它們是「一起被培養的心的品質」。近來，凱倫・阿貝爾（Keren Arbel）「主張正念、禪那、止與觀構成一個整合的整體，導向警覺、喜悅且具慈悲的心態」。
+包括尚克曼（Shankman）在內的學者主張「止與觀不可分離」——在經典中，它們是「一起被培養的心的品質」。近來，凱倫·阿貝爾（Keren Arbel）「主張正念、禪那、止與觀構成一個整合的整體，導向警覺、喜悅且具慈悲的心態」。
 
 ---
 
@@ -81,10 +81,10 @@
 
 一項近期研究「探討了以《念處經》為基礎的正念課程之效果」，並發現在「專注力、心之漫遊、去中心化、正向情感與幸福感方面，有顯著的訓練效果」。
 
-針對資深內觀馬哈希禪修者的質性研究，發現了以下總體主題：
+針對資深馬哈希內觀禪修者的質性研究，發現了以下總體主題：
 - 享樂型幸福與實現型幸福的提升
 - 對自我、他人與現實知覺的洞見
-- 獲得平等捨心
+- 證得捨（平等心）
 - 身體與人際方面的困難（修行的挑戰）
 
 研究者指出，進一步的研究「將需要西方沉思科學家、佛教學者與禪修者之間更多的合作」。
@@ -95,7 +95,7 @@
 
 ### MBSR 及其衍生療法 | MBSR and Derivatives
 
-喬・卡巴金（Jon Kabat-Zinn）於 1979 年發展出正念減壓（Mindfulness-Based Stress Reduction，MBSR），將佛教的正念調整後運用於臨床場域。這衍生出許多相關療法：
+喬·卡巴金（Jon Kabat-Zinn）於 1979 年發展出正念減壓（Mindfulness-Based Stress Reduction，MBSR），將佛教的正念調整後運用於臨床場域。這衍生出許多相關療法：
 - 正念認知療法（Mindfulness-Based Cognitive Therapy，MBCT）
 - 辯證行為療法（Dialectical Behavior Therapy，DBT）
 - 接納與承諾療法（Acceptance and Commitment Therapy，ACT）
@@ -123,10 +123,10 @@
 
 ---
 
-## 相關參照 | Cross-References
+## 相互參照 | Cross-References
 
 - [[01-DHARMIC/buddhism/practices/meditation|佛教禪修]] - 更廣的脈絡
-- [[01-DHARMIC/buddhism/practices/metta|慈心修習（Metta Bhavana）]] - 互補的修行
+- [[01-DHARMIC/buddhism/practices/metta|慈心禪（Metta Bhavana）]] - 互補的修行
 - [[01-DHARMIC/buddhism/core-teachings/four-noble-truths|四聖諦]] - 教義基礎
 - [[08-SCIENCE/neuroscience/meditation|禪修的神經科學]] - 科學視角
 
@@ -149,4 +149,4 @@
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · 利益全人類**

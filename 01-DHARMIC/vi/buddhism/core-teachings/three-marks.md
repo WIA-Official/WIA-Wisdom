@@ -1,4 +1,4 @@
-# Tam pháp ấn | Three Marks of Existence (三法印)
+# Tam pháp ấn (三法印) | Three Marks of Existence
 
 > Vô thường, Khổ, Vô ngã
 
@@ -46,7 +46,7 @@ Piyadassi Thera viết rằng vô thường là "chính cốt lõi của giáo p
 
 ## Vô ngã (Anattā) | Anattā (Non-Self)
 
-> "Giáo lý vô ngã (anattā) của Phật giáo phủ nhận việc có bất cứ điều gì thường hằng trong một con người để gọi là cái Ngã của mình, và cho rằng niềm tin vào một cái Ngã là nguồn gốc của dukkha."
+> "Giáo lý vô ngã (anattā) của Phật giáo phủ nhận việc có bất cứ điều gì thường hằng trong một con người để gọi là cái Ngã của mình, và cho rằng niềm tin vào một cái Ngã là nguồn gốc của khổ (dukkha)."
 
 > "Không như nhiều truyền thống nói về linh hồn hay một bản thể vĩnh cửu, Phật giáo dạy rằng cái mà ta gọi là 'cái tôi' chỉ là một khối các điều kiện—thân, thọ, tưởng, tư tưởng và thức—luôn luôn chuyển đổi."
 
@@ -70,13 +70,13 @@ Piyadassi Thera viết rằng vô thường là "chính cốt lõi của giáo p
 2. Ta chấp thủ vào những gì biến đổi → Ta khổ đau
 3. Thấu hiểu điều này → Giải thoát
 
-> "Quan niệm rằng con người bị mê lầm về ba pháp ấn, sự mê lầm này dẫn đến khổ đau, và việc đoạn trừ mê lầm ấy dẫn đến sự chấm dứt dukkha, là một chủ đề trung tâm trong Tứ diệu đế của Phật giáo."
+> "Quan niệm rằng con người bị mê lầm về ba pháp ấn, sự mê lầm này dẫn đến khổ đau, và việc đoạn trừ mê lầm ấy dẫn đến sự chấm dứt khổ (dukkha), là một chủ đề trung tâm trong Tứ Diệu Đế của Phật giáo."
 
 ---
 
 ## Thực hành | Practice
 
-> "Lời khuyên của Đức Phật dành cho các tỳ-kheo là hãy cố gắng duy trì sự nhận biết về Anicca, Dukkha hay Anatta trong mọi oai nghi, dù ngồi, đứng, đi hay nằm."
+> "Lời khuyên của Đức Phật dành cho các Tỷ-kheo là hãy cố gắng duy trì sự nhận biết về Anicca, Dukkha hay Anatta trong mọi oai nghi, dù ngồi, đứng, đi hay nằm."
 
 ### Lợi ích của tuệ quán: | Benefits of Insight:
 > "Ba đặc tính này có tầm quan trọng lớn lao vì sự thấy biết trực tiếp bằng kinh nghiệm về một trong các đặc tính ấy mở ra cánh cửa đến Niết-bàn (Nibbāna)."

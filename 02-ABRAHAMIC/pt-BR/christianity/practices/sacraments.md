@@ -8,7 +8,7 @@
 
 Os sacramentos são ritos sagrados do cristianismo, vistos como sinais visíveis e canais eficazes da graça de Deus para todos os que os recebem com a devida disposição. A palavra "sacramento" vem do latim *sacramentum*, que significa juramento sagrado ou mistério.
 
-No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocidente: batismo, confirmação, eucaristia, penitência, ordem, matrimônio e unção dos enfermos (então chamada extrema-unção). Eles foram reafirmados pelo Concílio de Trento (1545-63). As igrejas protestantes clássicas (luterana, anglicana, reformada) reconhecem apenas dois — o batismo e a eucaristia — como instituídos por Cristo nos Evangelhos.
+No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocidente: batismo, confirmação, eucaristia, penitência, ordem, matrimônio e extrema-unção. Eles foram reafirmados pelo Concílio de Trento (1545-63). As igrejas protestantes clássicas (luterana, anglicana, reformada) reconhecem apenas dois — o batismo e a eucaristia — como instituídos por Cristo nos Evangelhos.
 
 ---
 
@@ -24,7 +24,7 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 
 ## Os sete sacramentos | The Seven Sacraments
 
-### 1. Batismo (聖事):
+### 1. Batismo:
 
 > "Pelo Batismo nos tornamos membros da Igreja, o Corpo de Cristo."
 

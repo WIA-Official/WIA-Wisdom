@@ -6,7 +6,7 @@
 
 ## Überblick | Overview
 
-Die Auferstehung Jesu ist der christliche Glaube, dass Gott Jesus am dritten Tag nach seiner Kreuzigung von den Toten auferweckt hat und damit sein erhöhtes Leben als Christus und Herr begann – oder wiederherstellte. In der christlichen Theologie gilt die Auferstehung als „das zentrale Geheimnis des christlichen Glaubens“.
+Die Auferstehung Jesu bezeichnet den christlichen Glauben, dass Gott Jesus am dritten Tag nach seiner Kreuzigung von den Toten auferweckt und damit sein erhöhtes Leben als Christus und Herr begründet – oder wiederhergestellt – hat. In der christlichen Theologie gilt die Auferstehung als „das zentrale Geheimnis des christlichen Glaubens“.
 
 Dieses Ereignis ist für Christen nicht bloß geschichtlich, sondern soteriologisch: Es ist das Fundament des Heils, der Sieg über den Tod und die Verheißung neuen Lebens für alle Gläubigen.
 
@@ -36,7 +36,7 @@ Dieses Ereignis ist für Christen nicht bloß geschichtlich, sondern soteriologi
 
 ### Kein Gespenst:
 
-> „Wichtig ist: Jesus ist nicht als bloßer Geist wieder auferstanden. Seine Auferstehung vollzog sich auch nicht bloß im Bewusstsein der Apostel, die eine subjektive Wahrnehmung seiner geistlichen Gegenwart hatten. Jesus ist an Leib und Seele wieder auferstanden.“
+> „Wichtig ist: Jesus ist nicht als bloßer Geist auferstanden. Seine Auferstehung vollzog sich auch nicht bloß im Bewusstsein der Apostel, die eine subjektive Wahrnehmung seiner geistlichen Gegenwart hatten. Jesus ist mit Leib und Seele auferstanden.“
 
 ---
 
@@ -57,7 +57,7 @@ Dieses Ereignis ist für Christen nicht bloß geschichtlich, sondern soteriologi
 
 ## Ostern und neues Leben | Easter and New Life
 
-> „Geschichtlich und theologisch bedeutet die Auferstehung die Verheißung neuen Lebens. Im Kirchenjahr steht Ostern als Leuchtfeuer der Hoffnung und erinnert die Gläubigen an die unergründliche Liebe und das Opfer Jesu Christi.“
+> „Geschichtlich und theologisch bedeutet die Auferstehung die Verheißung neuen Lebens. Im Kirchenjahr leuchtet Ostern als Zeichen der Hoffnung und erinnert die Gläubigen an die unergründliche Liebe und das Opfer Jesu Christi.“
 
 > „Für die frühen Christen feiert Ostern die Rechtfertigung des zu Unrecht hingerichteten Christus, bekräftigt seine volle Göttlichkeit und volle Menschlichkeit, gedenkt des Beginns der neuen Schöpfung und erinnert die Christen daran, dass sie am Werk dieser neuen Schöpfung teilhaben.“
 
@@ -77,7 +77,7 @@ Dieses Ereignis ist für Christen nicht bloß geschichtlich, sondern soteriologi
 
 ### Wissenschaftliche Perspektiven:
 
-> „Nach dem einflussreichen Werk von N. T. Wright lautete die Antwort der frühen Christen, dass Jesus tatsächlich leiblich von den Toten auferweckt worden war; deshalb riefen sie ihn als messianischen ‚Sohn Gottes' aus. Kein moderner Historiker hat eine überzeugendere Erklärung gefunden.“
+> „Nach dem einflussreichen Werk von N. T. Wright lautete die Antwort der frühen Christen, dass Jesus tatsächlich leiblich von den Toten auferweckt worden war; deshalb riefen sie ihn als messianischen ‚Sohn Gottes‘ aus. Kein moderner Historiker hat eine überzeugendere Erklärung gefunden.“
 
 ---
 
@@ -104,7 +104,7 @@ Dieses Ereignis ist für Christen nicht bloß geschichtlich, sondern soteriologi
 | Deutsch | Griechisch | Bedeutung |
 |---------|------------|-----------|
 | Auferstehung | Anastasis | Wiederaufstehen |
-| Ostern | Pascha | Passa/Fest der Auferstehung |
+| Ostern | Pascha | Pessach/Fest der Auferstehung |
 | Leeres Grab | - | Ort der Auferstehung |
 | Erscheinung | - | Offenbarwerden nach der Auferstehung |
 | Neue Schöpfung | - | Erneuerter Kosmos |

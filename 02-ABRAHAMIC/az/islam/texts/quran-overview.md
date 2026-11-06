@@ -8,7 +8,7 @@
 
 Quran (ərəbcə: القرآن, əl-Quran, "Qiraət", "Oxunan") İslamın mərkəzi dini mətnidir. Müsəlmanlar inanırlar ki, o, mələk Cəbrail (Cibril) vasitəsilə Peyğəmbər Muhəmmədə nazil edilmiş Allahın hərfi kəlamıdır. Vəhy təxminən 23 il ərzində baş vermişdir: 610-cu ildə, Muhəmməd 40 yaşında olarkən başlamış və onun vəfat etdiyi 632-ci ildə başa çatmışdır.
 
-Quran son və tam vəhy sayılır; o, Tövrat və İncil də daxil olmaqla əvvəlki səmavi kitabları təsdiq edir və onların hökmünü əvəz edir. O, İslam hüququnun (Şəriət), kəlamın (teologiyanın) və müsəlman həyatının bütün sahələri üçün istiqamətin əsas qaynağıdır.
+Quran son və tam vəhy sayılır; o, Tövrat və İncil də daxil olmaqla əvvəlki səmavi kitabları təsdiq edir və onların hökmünü əvəz edir. O, İslam hüququnun (Şəriət), kəlamın (ilahiyyatın) və müsəlman həyatının bütün sahələri üçün istiqamətin əsas qaynağıdır.
 
 ---
 
@@ -22,11 +22,11 @@ Quran aşağıdakılardan ibarətdir:
 | **~6 200 ayə** | Ayələr (hərfi mənada "əlamətlər") |
 | **30 cüz** | Qiraət məqsədilə bölmələr |
 
-Surələr xronoloji ardıcıllıqla deyil, ümumən uzunluğa görə, ən uzundan ən qısaya doğru düzülmüşdür (açılış surəsi olan əl-Fatihə istisna olmaqla). Doqquzuncu surə (ət-Tövbə) istisna olmaqla, hər surə Bismillahla başlayır: "Mehriban və Rəhimli Allahın adı ilə."
+Surələr xronoloji ardıcıllıqla deyil, ümumən uzunluğa görə, ən uzundan ən qısaya doğru düzülmüşdür (açılış surəsi olan əl-Fatihə istisna olmaqla). Doqquzuncu surə (ət-Tövbə) istisna olmaqla, hər surə Bismillahla başlayır: "Mərhəmətli, Rəhmli Allahın adı ilə!"
 
 ---
 
-## Vəhy (Vəhy) | Revelation (Waḥy)
+## Vəhy | Revelation (Waḥy)
 
 Müsəlmanlar inanırlar ki, Quran Muhəmmədə Məkkə və Mədinə şəhərlərində nazil olmuşdur:
 
@@ -34,12 +34,12 @@ Müsəlmanlar inanırlar ki, Quran Muhəmmədə Məkkə və Mədinə şəhərlə
 
 Əl-Ələq surəsinin ilk beş ayəsinin (96:1-5) Muhəmmədin Hira mağarasında xəlvətə çəkildiyi zaman alınmış ilk vəhy olduğuna inanılır:
 
-> "Oxu! Yaradan Rəbbinin adı ilə—insanı laxtalanmış qandan yaradan. Oxu! Sənin Rəbbin ən Kərəmlidir."
+> "Oxu! Yaradan Rəbbinin adı ilə! O, insanı laxtalanmış qandan yaratdı. Oxu! Sənin Rəbbin ən böyük kərəm sahibidir!"
 
 ### Məkkə və Mədinə surələri | Meccan vs. Medinan Surahs
 
-- **Məkki surələr** (610-622): Təkallahlılıq, axirət dirilişi və əxlaq üzərində cəmləşir
-- **Mədəni surələr** (622-632): İcma qanunlarına və ictimai münasibətlərə toxunur
+- **Məkki surələr** (610-622): Tövhid, öldükdən sonra dirilmə və əxlaq üzərində cəmləşir
+- **Mədəni surələr** (622-632): Ümmətə aid hökmlərə və ictimai münasibətlərə toxunur
 
 ---
 
@@ -47,23 +47,23 @@ Müsəlmanlar inanırlar ki, Quran Muhəmmədə Məkkə və Mədinə şəhərlə
 
 ### 1. Tövhid (Allahın birliyi) | Tawḥīd (Oneness of God)
 
-İslamın mütləq təkallahlılığı—Allah birdir, tək və misilsizdir, şəriki yoxdur.
+İslamın mütləq tövhid inancı—Allah birdir, təkdir və misilsizdir, şəriki yoxdur.
 
 ### 2. Peyğəmbərlik (Nübüvvət) | Prophethood (Nubuwwah)
 
 Muhəmməd Adəm, İbrahim, Musa və İsanı da əhatə edən peyğəmbərlər silsiləsinin sonuncu peyğəmbəridir.
 
-### 3. Axirət (Axirət) | Afterlife (Ākhirah)
+### 3. Axirət | Afterlife (Ākhirah)
 
 Qiyamət günü, Cənnət və Cəhənnəm.
 
-### 4. Hidayət (Hidayət) | Guidance (Hidāyah)
+### 4. Hidayət | Guidance (Hidāyah)
 
-Saleh həyata aparan Düz Yol (əs-Sirat əl-Müstəqim).
+Saleh həyata aparan Düz Yol (Sirati-müstəqim).
 
 ### 5. Əvvəlki səmavi kitablar | Previous Scriptures
 
-Tövrat, Zəbur və İncilə daha əvvəlki vəhylər kimi istinadlar.
+Tövrat, Zəbur və İncilin daha əvvəlki vəhylər kimi xatırlanması.
 
 ---
 
@@ -74,8 +74,8 @@ Quran aşağıdakı yollarla qorunmuşdur:
 ### Şifahi ənənə | Oral Tradition
 
 - Əzbərləmə Muhəmmədin sağlığında başlamışdır
-- Quranı tamamilə əzbərləyənlərə *hafiz* (cəm: *huffaz*) deyilir
-- Bu gün dünyada təxminən 10 milyondan çox hafiz olduğu hesab edilir
+- Quranı tamamilə əzbərləyənlərə *hafiz* (cəm: *hüffaz*) deyilir
+- Bu gün dünyada 10 milyondan çox hafiz olduğu təxmin edilir
 
 ### Yazılı tərtib | Written Compilation
 
@@ -96,19 +96,19 @@ Quran klassik ərəb dilinin ədəbi şah əsəri sayılır:
 - Quran müasir ərəb dilinin formalaşmasına əhəmiyyətli təsir göstərmişdir
 - Tərcümələr "mənaların izahı" (təfsir) hesab olunur
 
-Açılış surəsi olan əl-Fatihə müsəlman namazının hər rükətində oxunur və "Kitabın anası" (Ummul-Kitab) adlanır.
+Açılış surəsi olan əl-Fatihə müsəlman namazının hər rəkətində oxunur və "Kitabın anası" (Ümmül-Kitab) adlanır.
 
 ---
 
 ## Qiraət (Təcvid) | Recitation (Tajwīd)
 
-Quran qiraəti təcvid adlanan xüsusi qaydalara tabedir və bunları tənzimləyir:
+Quran qiraəti təcvid adlanan xüsusi qaydalara tabedir; bu qaydalar aşağıdakıları tənzimləyir:
 - Hərflərin tələffüzü
 - Səslərin uzunluğu
 - Fasilələr və dayanmalar
 - Melodik qəliblər (məqamat)
 
-Qiraət ibadət aktı sayılır və gözəl Quran qiraəti İslam mədəniyyətində yüksək qiymətləndirilir.
+Qiraət ibadət əməli sayılır və gözəl Quran qiraəti İslam mədəniyyətində yüksək qiymətləndirilir.
 
 ---
 
@@ -118,10 +118,10 @@ Qiraət ibadət aktı sayılır və gözəl Quran qiraəti İslam mədəniyyəti
 |-------|------|--------------|
 | 1 | əl-Fatihə (Açılış) | Hər namazda oxunur |
 | 2 | əl-Bəqərə (İnək) | Ən uzun surə, əhatəli hökmlər |
-| 12 | Yusif (Yusif) | Tam bir hekayə-nəql |
+| 12 | Yusif (Yusif peyğəmbər) | Başdan sona tam bir qissə |
 | 36 | Ya-Sin | "Quranın qəlbi" adlanır |
-| 55 | ər-Rəhman (Rəhmli) | Nemətlərin gözəl təsviri |
-| 112 | əl-İxlas (Səmimiyyət) | Təkallahlılığın mahiyyəti |
+| 55 | ər-Rəhman (Mərhəmətli) | Nemətlərin gözəl təsviri |
+| 112 | əl-İxlas (Səmimiyyət) | Tövhidin mahiyyəti |
 
 ---
 
@@ -148,4 +148,4 @@ Qiraət ibadət aktı sayılır və gözəl Quran qiraəti İslam mədəniyyəti
 
 ---
 
-*弘益人間 - İnsanlığa fayda gətir*
+*弘益人間 - İnsanlığa fayda ver*

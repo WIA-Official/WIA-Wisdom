@@ -1,4 +1,4 @@
-# Os Sacramentos | Sacraments (聖事/聖禮)
+# Os Sacramentos | The Sacraments (聖事/聖禮)
 
 > Ritos sagrados: sinais visíveis da graça invisível
 
@@ -8,7 +8,7 @@
 
 Os sacramentos são ritos sagrados do cristianismo, vistos como sinais visíveis e canais eficazes da graça de Deus para todos os que os recebem com as devidas disposições. A palavra «sacramento» provém do latim *sacramentum*, que significa juramento sagrado ou mistério.
 
-No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocidente: o Baptismo, a Confirmação, a Eucaristia, a Penitência, a Ordem, o Matrimónio e a Unção dos Enfermos (então chamada extrema-unção). Foram confirmados pelo Concílio de Trento (1545-63). As Igrejas protestantes clássicas (luterana, anglicana, reformada) reconhecem apenas dois — o Baptismo e a Eucaristia — como instituídos por Cristo nos Evangelhos.
+No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocidente: o Batismo, a Confirmação, a Eucaristia, a Penitência, a Ordem, o Matrimónio e a Extrema-Unção. Foram confirmados pelo Concílio de Trento (1545-63). As Igrejas protestantes clássicas (luterana, anglicana, reformada) reconhecem apenas dois — o Batismo e a Eucaristia — como instituídos por Cristo nos Evangelhos.
 
 ---
 
@@ -16,7 +16,7 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 
 | Categoria | Sacramentos | Finalidade |
 |----------|------------|---------|
-| **Iniciação** | Baptismo, Confirmação, Eucaristia | Entrada na vida cristã |
+| **Iniciação** | Batismo, Confirmação, Eucaristia | Entrada na vida cristã |
 | **Cura** | Penitência, Unção dos Enfermos | Cura espiritual e física |
 | **Serviço** | Ordem, Matrimónio | Comunidade e família |
 
@@ -24,8 +24,8 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 
 ## Os sete sacramentos | The Seven Sacraments
 
-### 1. Baptismo (Baptisma):
-> «Pelo Baptismo tornamo-nos membros da Igreja, Corpo de Cristo.»
+### 1. Batismo (Baptisma):
+> «Pelo Batismo tornamo-nos membros da Igreja, Corpo de Cristo.»
 
 - Entrada na comunidade cristã
 - Purificação do pecado original
@@ -33,8 +33,8 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 - Recebido uma só vez na vida
 
 ### 2. Confirmação (Chrismatio):
-- Fortalecimento da graça baptismal
-- Recepção da plenitude do Espírito Santo
+- Fortalecimento da graça batismal
+- Receção da plenitude do Espírito Santo
 - Compromisso com uma fé adulta
 - Unção com óleo sagrado (crisma)
 
@@ -43,8 +43,8 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 
 - Participação no corpo e no sangue de Cristo
 - Memorial do sacrifício de Cristo
-- Acção de graças (em grego: *eucharistia*)
-- Acto central do culto cristão
+- Ação de graças (em grego: *eucharistia*)
+- Ato central do culto cristão
 
 ### 4. Penitência/Reconciliação (Poenitentia):
 - Confissão dos pecados
@@ -84,16 +84,16 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 ### Perspectivas protestantes:
 | Tradição | Sacramentos | Compreensão |
 |-----------|------------|---------------|
-| **Luterana** | Baptismo, Eucaristia, (Penitência) | Meios da graça |
-| **Reformada** | Baptismo, Eucaristia | Sinais e selos da aliança |
-| **Anglicana** | Baptismo, Eucaristia + 5 outros | Sinais exteriores da graça interior |
-| **Baptista** | Baptismo, Ceia do Senhor | Ordenanças, não sacramentos |
+| **Luterana** | Batismo, Eucaristia, (Penitência) | Meios da graça |
+| **Reformada** | Batismo, Eucaristia | Sinais e selos da aliança |
+| **Anglicana** | Batismo, Eucaristia + 5 outros | Sinais exteriores da graça interior |
+| **Batista** | Batismo, Ceia do Senhor | Ordenanças, não sacramentos |
 
 ---
 
-## Baptismo e Eucaristia | Baptism and Eucharist
+## Batismo e Eucaristia | Baptism and Eucharist
 
-### Baptismo:
+### Batismo:
 > «A imersão na água simboliza não só a morte e a purificação, mas também a regeneração e a renovação.»
 
 | Elemento | Simbolismo |
@@ -118,12 +118,12 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 | Tradição | Número | Perspectiva |
 |-----------|--------|------|
 | **Católica Romana** | 7 | Canais da graça instituídos por Cristo |
-| **Ortodoxa Oriental** | 7 (Mistérios) | Mistérios divinos para a salvação |
+| **Ortodoxa** | 7 (Mistérios) | Mistérios divinos para a salvação |
 | **Luterana** | 2-3 | Promessas do Evangelho com elementos visíveis |
 | **Reformada/Presbiteriana** | 2 | Sinais e selos da graça da aliança |
 | **Metodista** | 2 | Meios da graça |
-| **Baptista** | 2 (Ordenanças) | Actos simbólicos de obediência |
-| **Quaker** | 0 | A experiência interior acima das formas exteriores |
+| **Batista** | 2 (Ordenanças) | Atos simbólicos de obediência |
+| **Quacre** | 0 | A experiência interior acima das formas exteriores |
 
 ---
 
@@ -132,8 +132,8 @@ No século XII, Pedro Lombardo definiu sete sacramentos para a Igreja do Ocident
 | Latim/Grego | Português | Significado |
 |-------------|--------|---------|
 | Sacramentum | Sacramento | Sinal sagrado |
-| Baptisma | Baptismo | Imersão |
-| Eucharistia | Eucaristia | Acção de graças |
+| Baptisma | Batismo | Imersão |
+| Eucharistia | Eucaristia | Ação de graças |
 | Poenitentia | Penitência | Arrependimento |
 | Chrismatio | Confirmação | Unção |
 | Ordo | Ordem | Ordem sagrada |

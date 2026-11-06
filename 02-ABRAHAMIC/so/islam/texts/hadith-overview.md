@@ -1,6 +1,6 @@
 # Xadiis | Hadith (حديث)
 
-> Hadalladii iyo Sunnada Nabi Muxammad (SCW)
+> Hadalladii iyo Sunnada Nabi Muxammad
 
 ---
 
@@ -8,51 +8,51 @@
 
 Xadiis (Carabi: حديث, wadar: axaadiis) waa uruurinta hadalladii, falalkii iyo ogolaanshaha Nabi Muxammad (naxariis iyo nabadgelyo korkiisa ha ahaato), oo Muslimiintu u arkaan il weyn oo sharci diineed iyo hage akhlaaqeed ah, Qur'aanka agtiisa. Halka Qur'aanku yahay hadalka toosan ee Allaah, Xadiisku wuxuu matalaa Sunnada (jidka) Nabiga—tusaalaha nool ee sida loo dhaqan galiyo waxbarashada Qur'aanka.
 
-Xadiiska waxaa ugu horreyn afka ku gudbiyey Saxaabada Nabiga, kadibna waxaa qoraal lagu duubay laga bilaabo bilowgii qarnigii 700-aadkii miilaadiga. Uruurinta ugu kalsoonida badan waxaa qarniyadii 9-aad iyo 10-aad ururiyey culimo samaystay habab adag oo lagu xaqiijiyo run-ahaanshaha.
+Xadiiska waxaa ugu horreyn afka ku gudbiyey Saxaabada Nabiga, kadibna waxaa qoraal lagu diiwaangeliyey laga bilaabo horraantii sannadihii 700-aad ee miilaadiga. Uruurinta ugu kalsoonida badan waxaa qarniyadii 9-aad iyo 10-aad ururiyey culimo samaystay habab adag oo lagu xaqiijiyo run-ahaanshaha.
 
 ---
 
 ## Qaab-dhismeedka Xadiiska | Structure of Hadith
 
-### Qaybaha: | Components:
+### Qaybaha | Components:
 
 | Qaybta | Carabi | Sharaxaad |
 |------|--------|-------------|
 | **Isnaad** | إسناد | Silsiladda weriyayaasha |
 | **Matn** | متن | Qoraalka/macnaha dhabta ah |
 
-### Tusaale: | Example:
+### Tusaale | Example:
 ```
-ISNAD: "Abu Hurayrah wuxuu weriyey in Rasuulka Allaah yidhi..."
-MATN: "Shuqullada waxaa lagu xukumaa niyadaha, qof kastana wuxuu helayaa 
-       abaal-marin sida niyadiisa ahayd."
+ISNAAD: "Abu Hurayrah wuxuu weriyey in Rasuulkii Allaah yiri..."
+MATN: "Camallada waxaa lagu xukumaa niyadaha, qof kastana waxaa 
+       la siinayaa abaalmarin u dhiganta niyaddiisa."
 ```
 
 ---
 
 ## Kala-soocidda Xadiiska | Classification of Hadith
 
-### Marka loo eego Saxnaanta: | By Authenticity:
+### Marka loo eego Saxnaanta | By Authenticity:
 | Nooca | Carabi | Sharaxaad |
 |------|--------|-------------|
 | **Saxiix** | صحيح | Sax/run ah - kalsoonida ugu sarreysa |
-| **Xasan** | حسن | Wanaagsan - weriyayaal la aamini karo oo xusuus yar oo daciif ah leh |
-| **Dacíif** | ضعيف | Daciif - gaabis ku jira silsiladda ama qoraalka |
-| **Mawduuc** | موضوع | Been abuur ah - lagu didiay inuu been yahay |
+| **Xasan** | حسن | Wanaagsan - weriyayaal la isku halleyn karo oo xifdigoodu wax yar daciif yahay |
+| **Daciif** | ضعيف | Daciif - dhaliil ku jirta silsiladda ama matnka |
+| **Mawduuc** | موضوع | Been-abuur - waa la diiday iyadoo been ah |
 
-### Marka loo eego Isha: | By Source:
+### Marka loo eego Isha | By Source:
 | Nooca | Sharaxaad |
 |------|-------------|
-| **Xadiis Nabawi** | Xadiis ka timid Nabiga |
-| **Xadiis Qudsi** | Xadiis quduus ah - hadalka Allaah oo Nabiga laga soo weriyey |
+| **Xadiis Nabawi** | Xadiis Nabiga laga soo weriyey |
+| **Xadiis Qudsi** | Xadiis quduus ah - hadalka Allaah oo Nabiga loo sii maray |
 
-> "Xadiis Qudsi waa hadallada Nabi Muxammad oo Allaah Weyne uu u waxyooday. Si ka duwan inta badan Xadiiska oo ah Xadiis Nabawi, awooddooda ma loo celiyo Nabiga laakiin Allaah Weyne."
+> "Xadiis Qudsi waa hadallada Nabi Muxammad oo Allaah Weyne uu u waxyooday. Si ka duwan inta badan Xadiiska oo ah Xadiis Nabawi, xujadooda looma celiyo Nabiga ee waxaa loo celiyaa Allaah Weyne."
 
 ---
 
 ## Uruurinnada Waaweyn | Major Collections
 
-### Lixda Kitaab ee Caanka ah (Kutub al-Sittah): | The Six Canonical Books (Kutub al-Sittah):
+### Lixda Kitaab ee Xadiiska (Kutub al-Sittah) | The Six Canonical Books (Kutub al-Sittah):
 | Uruurinta | Ururiyaha | Geeridii | Tirada Xadiiska |
 |------------|----------|-------|--------------|
 | **Saxiix al-Bukhaari** | Imaam al-Bukhaari | 870 M | ~7,275 |
@@ -62,44 +62,44 @@ MATN: "Shuqullada waxaa lagu xukumaa niyadaha, qof kastana wuxuu helayaa
 | **Sunan al-Nasaa'i** | al-Nasaa'i | 915 M | ~5,700 |
 | **Sunan Ibn Maajah** | Ibn Maajah | 887 M | ~4,341 |
 
-> "Mid ka mid ah uruurinnada Xadiiska ugu kalsoonida badan ee Muslimiinta Sunniga ah waa kitaabka Ṣaḥīḥ ee al-Bukhārī."
+> "Mid ka mid ah uruurinnada Xadiiska ugu kalsoonida badan ee Muslimiinta Sunniga ah waa kitaabka Saxiix al-Bukhaari."
 
 ---
 
 ## Xadiisyo Caan ah | Famous Hadith
 
-### Ku saabsan Niyadda: | On Intention:
-> "Shuqullada waxaa lagu xukumaa niyadaha, qof kastana wuxuu helayaa abaal-marin sida niyadiisa ahayd." (Bukhaari)
+### Ku saabsan Niyadda | On Intention:
+> "Camallada waxaa lagu xukumaa niyadaha, qof kastana waxaa la siinayaa abaalmarin u dhiganta niyaddiisa." (Bukhaari)
 
-### Ku saabsan Walaaltinnimada: | On Brotherhood:
-> "Midkiin ma rumaysna runtii ilaa uu walaalkiis u jeclaado waxa naftiisa u jecel." (Bukhaari, Muslim)
+### Ku saabsan Walaaltinnimada | On Brotherhood:
+> "Midkiin si dhab ah iimaan uma lahaan karo ilaa uu walaalkiis u jeclaado waxa uu naftiisa u jecel yahay." (Bukhaari, Muslim)
 
-### Ku saabsan Aqoonta: | On Knowledge:
-> "Raadinta aqoontu waa waajib saaran Muslim kasta." (Ibn Maajah)
+### Ku saabsan Aqoonta | On Knowledge:
+> "Cilmi-doonistu waa waajib saaran Muslim kasta." (Ibn Maajah)
 
-### Ku saabsan Naxariista: | On Kindness:
-> "Allaah waa much-loowe oo wuxuu jecel yahay yaraanta iyo samafalka wax kasta." (Bukhaari, Muslim)
+### Ku saabsan Naxariista | On Kindness:
+> "Allaah waa Rafiiq (debecsan), wuxuuna jecel yahay debecsanaanta arrin kasta." (Bukhaari, Muslim)
 
-### Ku saabsan Akhlaaqda: | On Character:
-> "Kuwiinna ugu wanaagsan waa kuwa akhlaaqdu ugu wanaagsan tahay." (Bukhaari)
+### Ku saabsan Akhlaaqda | On Character:
+> "Kuwa idiinku khayr badan waa kuwa idiinku akhlaaq wanaagsan." (Bukhaari)
 
 ---
 
-## Door ka Cayn ah Sharciga Islaamka | Role in Islamic Law
+## Doorka uu ku Leeyahay Sharciga Islaamka | Role in Islamic Law
 
-### Isha Fiqhiga Islaamka: | Sources of Islamic Jurisprudence:
+### Ilaha Fiqhiga Islaamka | Sources of Islamic Jurisprudence:
 1. **Qur'aan** - Isha koowaad, hadalka Allaah
 2. **Xadiis/Sunno** - Isha labaad, tusaalaha Nabiga
 3. **Ijmaac** - Isku-raacidda culimada
-4. **Qiyaas** - Is-barbar-dhigga sabab-ku-saleysan
+4. **Qiyaas** - Is-barbardhig caqli ah (qiyaasid)
 
-> "Xadiisku asal ahaan waa hadallada, falalka iyo ficillada Muxammad. Waxay ka duwan yihiin Qur'aanka, laakiin waxay bixiyaan nashqado ku saabsan siyaabaha loo noolaado nolol quduus ah oo ku salaysan nolosha Nabiga laftiisa."
+> "Xadiisku asal ahaan waa hadallada, falalka iyo ficillada Muxammad. Waxay ka duwan yihiin Qur'aanka, laakiin waxay bixiyaan tilmaamo ku saabsan siyaabaha loo noolaado nolol quduus ah oo ku salaysan nolosha Nabiga laftiisa."
 
 ---
 
 ## Cilmiga Xadiiska | Science of Hadith
 
-### Dhaleecaynta Xadiiska: | Hadith Criticism:
+### Naqdinta Xadiiska | Hadith Criticism:
 Culimadu waxay samaysteen habab adag oo lagu xaqiijiyo xadiiska:
 
 | Habka | Ujeedada |
@@ -109,12 +109,12 @@ Culimadu waxay samaysteen habab adag oo lagu xaqiijiyo xadiiska:
 | **Falanqaynta Matnka** | In la baaro isku-dheelitirnaanta gudaha |
 | **Is-barbar-dhig** | In la isla eego xadiisyada kale |
 
-### Shuruudaha Qiimeynta Weriyaha: | Narrator Evaluation Criteria:
+### Shuruudaha Qiimeynta Weriyaha | Narrator Evaluation Criteria:
 - Cadaaladda (adalah)
-- Dhabbitaanka (dabt)
+- Hubsiimada xifdiga (dabt)
 - Silsilad joogto ah (ittisal)
 - Cillad qarsoon la'aan (salama min shudhdh)
-- Qaldanaan la'aan (salama min illa)
+- Ka-duwanaansho la'aan (salama min illa)
 
 ---
 
@@ -122,7 +122,7 @@ Culimadu waxay samaysteen habab adag oo lagu xaqiijiyo xadiiska:
 
 > "Waxaa jira weris badan oo ku saabsan fadliga xifdinta, ilaalinta iyo barista afartan xadiis."
 
-Kan ugu caansan waa **Afartanka Xadiis ee Imaam al-Nawawi**, oo ah uruurin barashooyin aasaasi ah oo ka wada hadlaya mabaadi'da asaasiga ah ee Islaamka.
+Kan ugu caansan waa **Afartanka Xadiis ee Imaam al-Nawawi**, oo ah uruurin waxbarashooyin aasaasi ah oo daboolaya mabaadi'da asaasiga ah ee Islaamka.
 
 ---
 
@@ -132,7 +132,7 @@ Kan ugu caansan waa **Afartanka Xadiis ee Imaam al-Nawawi**, oo ah uruurin baras
 | حديث (Xadiis) | Dhaqan/hadal |
 | سنة (Sunno) | Jidka Nabiga |
 | إسناد (Isnaad) | Silsiladda weriska |
-| متن (Matn) | Qoraalka macnaha |
+| متن (Matn) | Qoraalka xadiiska (matnka) |
 | صحيح (Saxiix) | Run ah/Sax |
 | راوي (Raawi) | Weriye |
 

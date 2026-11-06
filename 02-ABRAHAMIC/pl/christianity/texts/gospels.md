@@ -8,7 +8,7 @@
 
 Cztery Ewangelie — według Mateusza, Marka, Łukasza i Jana — są fundamentalnymi tekstami chrześcijaństwa, przedstawiającymi życie, nauczanie, śmierć i zmartwychwstanie Jezusa z Nazaretu. Słowo „ewangelia” (gr. εὐαγγέλιον, euangelion) oznacza „dobrą nowinę”. Razem te cztery relacje ukazują komplementarne portrety Jezusa; każda została napisana dla innych odbiorców i podkreśla odmienne aspekty jego tożsamości i misji.
 
-Pierwsze trzy ewangelie (według Mateusza, Marka i Łukasza) nazywane są „Ewangeliami synoptycznymi”, ponieważ „patrzą razem” (gr. συν-οπτικός, syn-optikos) — mają wiele wspólnego materiału, często w tym samym układzie. Ewangelia według Jana wyróżnia się własną perspektywą teologiczną i odmiennym doborem wydarzeń.
+Pierwsze trzy Ewangelie (według Mateusza, Marka i Łukasza) nazywane są „Ewangeliami synoptycznymi”, ponieważ „patrzą razem” (gr. συν-οπτικός, syn-optikos) — mają wiele wspólnego materiału, często w tym samym układzie. Ewangelia według Jana wyróżnia się własną perspektywą teologiczną i odmiennym doborem wydarzeń.
 
 ---
 
@@ -21,7 +21,7 @@ Według konsensusu badaczy:
 | Marka | ok. 65–70 r. n.e. | Chrześcijanie rzymscy |
 | Mateusza | ok. 80–90 r. n.e. | Chrześcijanie pochodzenia żydowskiego |
 | Łukasza | ok. 80–90 r. n.e. | Chrześcijanie pochodzenia pogańskiego |
-| Jana | ok. 90–100 r. n.e. | Uniwersalni/teologiczni |
+| Jana | ok. 90–100 r. n.e. | Odbiorcy uniwersalni / ujęcie teologiczne |
 
 Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza, a Mateusz i Łukasz niezależnie od siebie korzystali z niej jako ze źródła, wraz z hipotetycznym źródłem wypowiedzi zwanym „Q” (od niem. Quelle, „źródło”). Jest to tzw. „hipoteza dwóch źródeł”.
 
@@ -37,7 +37,7 @@ Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza
 
 **Najważniejsze cechy:**
 - Rozpoczyna się rodowodem prowadzącym od Jezusa do Abrahama i Dawida
-- Podkreśla wypełnienie proroctw Starego Testamentu („Stało się to, aby się spełniło słowo proroka...”)
+- Podkreśla wypełnienie proroctw Starego Testamentu („Stało się to, aby się wypełniło słowo proroka...”)
 - Zawiera pięć wielkich mów (nawiązujących do pięciu ksiąg Mojżesza):
   1. Kazanie na Górze (rozdziały 5–7)
   2. Mowa misyjna (rozdział 10)
@@ -69,7 +69,7 @@ Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza
 ### Ewangelia według Łukasza | Gospel of Luke
 
 **Autor:** Tradycyjnie przypisywana Łukaszowi, lekarzowi, towarzyszowi Pawła.
-**Odbiorcy:** Chrześcijanie pochodzenia pogańskiego (nieżydowskiego), a konkretnie „Teofil”
+**Odbiorcy:** Chrześcijanie pochodzenia pogańskiego (nieżydowskiego), w szczególności „Teofil”
 **Jezus ukazany jako:** Zbawiciel wszystkich ludzi, zwłaszcza zepchniętych na margines
 
 **Najważniejsze cechy:**
@@ -96,8 +96,8 @@ Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza
 - Wysoce teologiczny, filozoficzny prolog: „Na początku było Słowo”
 - Brak przypowieści (w odróżnieniu od synoptyków)
 - Siedem wypowiedzi „Ja jestem”, objawiających boską tożsamość Jezusa:
-  1. „Ja jestem chlebem życia” (6,35)
-  2. „Ja jestem światłem świata” (8,12)
+  1. „Jam jest chlebem życia” (6,35)
+  2. „Ja jestem światłością świata” (8,12)
   3. „Ja jestem bramą” (10,9)
   4. „Ja jestem dobrym pasterzem” (10,11)
   5. „Ja jestem zmartwychwstaniem i życiem” (11,25)
@@ -105,7 +105,7 @@ Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza
   7. „Ja jestem prawdziwym krzewem winnym” (15,1)
 - Siedem „znaków” (cudów) ukazujących chwałę Jezusa
 - Rozbudowana mowa pożegnalna (rozdziały 13–17)
-- Nacisk na miłość, wiarę, życie wieczne i zamieszkiwanie
+- Nacisk na miłość, wiarę, życie wieczne i trwanie w Chrystusie
 
 ---
 
@@ -114,8 +114,8 @@ Większość badaczy uważa, że Ewangelia według Marka powstała jako pierwsza
 | Aspekt | Mateusz | Marek | Łukasz | Jan |
 |--------|---------|------|------|------|
 | Początek | Rodowód | Chrzest | Dedykacja | Hymn o Logosie |
-| Jezus jako | Mesjasz/Król | Sługa | Zbawiciel | Słowo Boże |
-| Odbiorcy | Żydowscy | Rzymscy | Poganie | Uniwersalni |
+| Jezus jako | Mesjasz/Król | Sługa | Zbawiciel | Boskie Słowo |
+| Odbiorcy | Żydzi | Rzymianie | Poganie | Wszyscy |
 | Tylko u danego ewangelisty | Kazanie na Górze | Nagłe zakończenie | Syn marnotrawny | Wypowiedzi „Ja jestem” |
 | Ton | Pouczający | Naglący | Pełen współczucia | Mistyczny |
 
@@ -143,7 +143,7 @@ Dominująca teoria (hipoteza dwóch źródeł) zakłada, że:
 ### Królestwo Boże | Kingdom of God
 
 Centralne miejsce w Ewangeliach synoptycznych zajmuje głoszenie przez Jezusa Królestwa Bożego (u Mateusza także „Królestwa Niebieskiego”). To Królestwo jest:
-- Już obecne w działalności Jezusa („Królestwo Boże już jest pośród was”)
+- Już obecne w działalności Jezusa („królestwo Boże pośród was jest”)
 - A jednak jeszcze przyjdzie w pełni
 - Wchodzi się do niego przez nawrócenie i wiarę
 - Cechuje je sprawiedliwość, pokój i radość

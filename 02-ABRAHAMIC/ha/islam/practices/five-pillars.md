@@ -1,4 +1,4 @@
-# Madogaran Musulunci Guda Biyar | The Five Pillars of Islam (أركان الإسلام)
+# Ginshiƙan Musulunci Guda Biyar | The Five Pillars of Islam (أركان الإسلام)
 
 > Harsashin Rayuwar Musulmi
 
@@ -6,9 +6,9 @@
 
 ## Gabatarwa | Overview
 
-Madogaran Musulunci guda biyar (Larabci: أركان الإسلام, Arkān al-Islām) su ne muhimman ayyukan ibada da aiki waɗanda suke zama harsashin rayuwar Musulmi. Su ne: Shahada (shaidar imani), Salat (sallah), Zakat (zakka), Sawm (azumi), da Hajj (aikin Hajji).
+Ginshiƙan Musulunci guda biyar (Larabci: أركان الإسلام, Arkān al-Islām) su ne muhimman ayyukan ibada da aiki waɗanda suke zama harsashin rayuwar Musulmi. Su ne: Shahada (shaidar imani), Salat (sallah), Zakat (zakka), Sawm (azumi), da Hajj (aikin Hajji).
 
-Annabi Muhammad (tsira da amincin Allah su tabbata a gare shi) ya bayyana cewa an "gina Musulunci a kan abubuwa biyar" (Al-Bukhari da Muslim). Waɗannan ibadu wajibi ne ga kowane babban Musulmi wanda yake da ikon aiwatar da su, kuma suna ƙarfafa imanin mutum, suna haɓaka tsoron Allah da sanin girmansa (taqwa), tare da gina haɗin kai tsakanin al'ummar Musulmi ta duniya (Ummah).
+Annabi Muhammadu (tsira da amincin Allah su tabbata a gare shi) ya bayyana cewa an "gina Musulunci a kan abubuwa biyar" (Al-Bukhari da Muslim). Waɗannan ibadu wajibi ne ga kowane Musulmi baligi wanda yake da ikon aiwatar da su, kuma suna ƙarfafa imanin mutum, suna haɓaka tsoron Allah da sanin girmansa (taqwa), tare da gina haɗin kai tsakanin al'ummar Musulmi ta duniya (Ummah).
 
 ---
 
@@ -17,12 +17,12 @@ Annabi Muhammad (tsira da amincin Allah su tabbata a gare shi) ya bayyana cewa a
 Shahada ita ce tushen imanin Musulunci, wato shaidar imani wadda take sa mutum ya zama Musulmi:
 
 > **لَا إِلٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ**
-> "Babu abin bauta da gaskiya sai Allah, kuma Muhammad Manzon Allah ne."
+> "Babu abin bautawa da gaskiya sai Allah, kuma Muhammadu Manzon Allah ne."
 
 ### Sassa Biyu | Two Parts
 
 1. **Tauhidi (Tawhid):** Tabbatar da kaɗaitakar Allah ta cikakkiyar ma'ana
-2. **Risala (Risalah):** Amincewa cewa Muhammad shi ne cikamakin annabawa
+2. **Risala (Risalah):** Amincewa cewa Muhammadu shi ne cikamakon annabawa
 
 Mutum yana zama Musulmi ne idan ya furta wannan shaida da gaskiya da tabbatacciyar zuciya. Ana raɗa ta a kunnen jariri sabon haihuwa, kuma ana karanta ta a lokacin mutuwa.
 
@@ -43,12 +43,12 @@ Musulmi suna yin sallah sau biyar a kowace rana a lokutan da aka shata, suna fus
 ### Abubuwan Sallah | Elements of Prayer
 
 - Tsarkaka ta ibada (alwala, wudu) kafin sallah
-- Tsayuwa, rukuʼi, sujada, da zama
+- Tsayuwa, ruku'u, sujada, da zama
 - Karatun ayoyin Alƙur'ani
 - Fuskantar alƙibla (inda Makka take)
 - Ana iya yinta shi kaɗai ko a jam'i
 
-> "Tsayuwa, rukuʼi, durƙusawa, da sujadar jiki ga Allah tare da karanta ayoyin Alƙur'ani suna koyar da ƙasƙantar da kai da dogaro ga Allah."
+> "Tsayuwa, ruku'u, durƙusawa, da sujadar jiki ga Allah tare da karanta ayoyin Alƙur'ani suna koyar da ƙasƙantar da kai da dogaro ga Allah."
 
 ---
 
@@ -56,7 +56,7 @@ Musulmi suna yin sallah sau biyar a kowace rana a lokutan da aka shata, suna fus
 
 Zakka ita ce bayar da wani kaso na dukiyar mutum wanda yake wajibi ga mabuƙata:
 
-> "Kowane babban Musulmi wanda ya cancanta, mai mallakar dukiya fiye da wani adadi da ake kira nisabi, dole ne ya fitar da kashi 2.5% na dukiyar a matsayin zakka sau ɗaya a shekara."
+> "Kowane Musulmi baligi wanda ya cancanta, mai mallakar dukiya fiye da wani adadi da ake kira nisabi, dole ne ya fitar da kashi 2.5% na dukiyar a matsayin zakka sau ɗaya a shekara."
 
 ### Manufofi | Purposes
 
@@ -68,7 +68,7 @@ Zakka ita ce bayar da wani kaso na dukiyar mutum wanda yake wajibi ga mabuƙata:
 
 ### Masu karɓa (rukuni takwas a Alƙur'ani 9:60) | Recipients (eight categories in Quran 9:60)
 
-Matalauta, mabuƙata, masu karɓar zakka, waɗanda ake ƙulla zukatansu, 'yantar da bayi, masu bashi, masu yaƙi a hanyar Allah, da matafiya mabuƙata.
+Matalauta, mabuƙata, masu karɓar zakka, waɗanda ake ƙulla zukatansu, 'yantar da bayi, masu bashi, waɗanda ke cikin hanyar Allah, da matafiya mabuƙata.
 
 ---
 
@@ -103,21 +103,21 @@ Hajji shi ne ziyarar Makka wadda kowane Musulmi dole ne ya yi aƙalla sau ɗaya 
 | Rana | Ibada |
 |-----|--------|
 | 1 | Harama (Ihram, hali mai tsarki), Ɗawafi (Tawaf, kewaya Ka'aba sau 7) |
-| 2-3 | Tsayuwa a Arafat (wuquf), jifan ginshiƙai a Mina |
+| 2-3 | Tsayuwa a Arafa (wuquf), jifan ginshiƙai a Mina |
 | 4-5 | Yankan layya na Idin Layya (Eid al-Adha), ƙarin jifa, Ɗawafin Ifada (Tawaf al-Ifadah) |
 
 ### Muhimmanci | Significance
 
 - Ka'aba: Gidan da Ibrahim ya gina saboda Allah
-- Haɗuwa: Musulmi daga kowane yanayi suna tsaye daidai a gaban Allah
+- Haɗin kai: Musulmi daga kowane yanayi suna tsaye daidai a gaban Allah
 - Tufafin harama: Fararen tufafi masu sauƙi waɗanda ke alamta daidaito
 - Miliyoyin mutane suna taruwa kowace shekara daga kowace al'umma
 
 ---
 
-## Haɗuwar Ummah | Unity of the Ummah
+## Haɗin Kan Ummah | Unity of the Ummah
 
-> "Madogaran Musulunci guda biyar suna taka muhimmiyar rawa wajen gina da ƙarfafa al'ummar Musulmi ta duniya (Ummah). Sallar jam'i tana renon ɗaurin zumunci tsakanin Musulmi. Zakka tana haifar da jin nauyin tarayya game da jin daɗin zamantakewa. Azumin Ramadan na jama'a yana ƙara kusantar Musulmi da juna a cikin gogewar ruhi ta bai ɗaya. Aikin Hajji yana nuna mafi girman haɗuwa da daidaiton ɗan'adam a gaban Allah."
+> "Ginshiƙan Musulunci guda biyar suna taka muhimmiyar rawa wajen gina da ƙarfafa al'ummar Musulmi ta duniya (Ummah). Sallar jam'i tana renon ɗaurin zumunci tsakanin Musulmi. Zakka tana haifar da jin nauyin tarayya game da jin daɗin zamantakewa. Azumin Ramadan na jama'a yana ƙara kusantar Musulmi da juna a cikin gogewar ruhi ta bai ɗaya. Aikin Hajji yana nuna mafi girman haɗuwa da daidaiton ɗan'adam a gaban Allah."
 
 ---
 
@@ -125,7 +125,7 @@ Hajji shi ne ziyarar Makka wadda kowane Musulmi dole ne ya yi aƙalla sau ɗaya 
 
 | Larabci | Hausa | Ma'ana |
 |--------|--------|---------|
-| Arkān | Madogara | Ginshiƙai, harsashi |
+| Arkān | Rukunai | Ginshiƙai, harsashi |
 | Shahada | Shahada | Shaidar imani |
 | Salat | Sallah | Sallar ibada |
 | Zakat | Zakka | Sadaka ta wajibi |

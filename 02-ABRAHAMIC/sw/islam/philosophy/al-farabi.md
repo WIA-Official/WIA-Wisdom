@@ -6,11 +6,11 @@
 
 ## Muhtasari | Overview
 
-Abu Nasr al-Farabi (takriban 872–950 BK), anayejulikana kama "Mwalimu wa Pili" (baada ya Aristotle), alikuwa mwanafalsafa mashuhuri wa awali wa Kiislamu aliyetoa michango mikubwa katika falsafa ya siasa, metafizikia, mantiki, na falsafa ya muziki. Anajulikana hasa kwa jitihada yake ya kupatanisha falsafa za Plato na Aristotle.
+Abu Nasr al-Farabi (takriban 872–950 M), anayejulikana kama "Mwalimu wa Pili" (baada ya Aristotle), alikuwa mwanafalsafa mashuhuri wa awali wa Kiislamu aliyetoa michango mikubwa katika falsafa ya siasa, metafizikia, mantiki, na falsafa ya muziki. Anajulikana hasa kwa jitihada yake ya kupatanisha falsafa za Plato na Aristotle.
 
 > Kitabu cha al-Farabi *Mji Fadhili* (*al-Madina al-Fadila*) kinaurekebisha *Jamhuri* ya Plato kwa muktadha wa Kiislamu, kikieleza dola bora inayotawaliwa na mwanafalsafa-nabii anayeunganisha hekima ya kifalsafa na wahyi wa kinabii.
 
-Kazi yake ilishawishi kwa kina wanafalsafa wa Kiislamu waliofuata, wakiwemo Avicenna na Averroes, pamoja na wanazuoni wa skolastiki wa Kiyahudi na Kikristo.
+Kazi yake ilishawishi kwa kina wanafalsafa wa Kiislamu waliofuata, wakiwemo Ibn Sina (Avicenna) na Ibn Rushd (Averroes), pamoja na wanazuoni wa skolastiki wa Kiyahudi na Kikristo.
 
 ---
 
@@ -35,7 +35,7 @@ Muundo wa mji:
 > Nabii hupokea kweli kupitia fikira na wahyi, ilhali mwanafalsafa huifikia kupitia hoja za kiakili. Wote wawili hufikia kweli ile ile, lakini kwa njia tofauti.
 
 Nabii-mwanafalsafa:
-- Hupokea kweli kutoka kwa Akili Tendaji (Active Intellect)
+- Hupokea kweli kutoka kwa Akili Tendaji (al-ʿAql al-Faʿʿāl)
 - Huwasilisha kupitia taswira na alama
 - Hutawala mji bora
 - Huunganisha tafakuri na vitendo
@@ -54,7 +54,7 @@ Muunganiko wake wa fikra:
 - Plato na Aristotle wanatafuta kweli ile ile
 - Tofauti ziko katika mbinu, si katika msingi
 - Wote wawili wanasisitiza akili na fadhila
-- Mtiririko wa Kiplatoni mamboleo (emanation) unawaunganisha
+- Mtiririko wa Kiplatoni mamboleo (fayḍ) unawaunganisha
 
 ---
 
@@ -69,7 +69,7 @@ Mtiririko:
 4. **Akili Tendaji** →
 5. **Nafsi ya Mwanadamu**
 
-> Akili Tendaji huziangaza akili za wanadamu, ikiwezesha maarifa. Kosmolojia hii ilimshawishi Avicenna na falsafa ya Kiislamu ya baadaye.
+> Akili Tendaji huziangaza akili za wanadamu, ikiwezesha maarifa. Kosmolojia hii ilimshawishi Ibn Sina na falsafa ya Kiislamu ya baadaye.
 
 ---
 
@@ -87,8 +87,8 @@ Pia aliandika kwa upana kuhusu mantiki, akiainisha sayansi na kueleza jinsi mant
 
 - [[04-HELLENIC/classical/philosophers/plato|Plato]] - Falsafa ya siasa
 - [[04-HELLENIC/classical/philosophers/aristotle|Aristotle]] - "Mwalimu wa Kwanza"
-- [[02-ABRAHAMIC/islam/philosophy/averroes|Averroes]] - Maendeleo ya baadaye
-- [[02-ABRAHAMIC/islam/philosophy/avicenna|Avicenna]] - Mwanafunzi wa kazi yake
+- [[02-ABRAHAMIC/islam/philosophy/averroes|Ibn Rushd]] - Maendeleo ya baadaye
+- [[02-ABRAHAMIC/islam/philosophy/avicenna|Ibn Sina]] - Alijifunza kutokana na kazi zake
 
 ---
 
@@ -97,8 +97,8 @@ Pia aliandika kwa upana kuhusu mantiki, akiainisha sayansi na kueleza jinsi mant
 - [Stanford Encyclopedia of Philosophy: Al-Farabi](https://plato.stanford.edu/entries/al-farabi/)
 - [Internet Encyclopedia of Philosophy: Al-Farabi](https://iep.utm.edu/alfarabi/)
 - [Wikipedia: Al-Farabi](https://en.wikipedia.org/wiki/Al-Farabi)
-- Al-Farabi. *The Virtuous City* (trans. Richard Walzer)
+- Al-Farabi. *The Virtuous City* (tafsiri ya Richard Walzer)
 
 ---
 
-**弘益人間 · Benefit All Humanity**
+**弘益人間 · Kuwanufaisha Wanadamu Wote**

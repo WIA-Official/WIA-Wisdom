@@ -21,9 +21,9 @@
 - **不是虚无主义**：空并不意味着什么都不存在
 - **不是否定现实**：事物在世俗层面上确实存在
 - **不是一种本质**：空本身不是一个存在的“东西”
-- **不是消沉或绝望**：证悟空性是解脱的
+- **不是消沉或绝望**：证悟空性带来解脱
 
-> “空若被错误地执取，就像错抓蛇尾而被蛇所伤。”——龙树
+> “不能正观空，钝根则自害，如不善咒术，不善捉毒蛇。”——龙树
 
 空本身也是空的——它不是某种绝对或究竟的实体，而是事物本来的样貌。
 
@@ -85,7 +85,7 @@
 ## 相关参考 | Cross-References
 
 - [[01-DHARMIC/buddhism/core-teachings/dependent-origination|缘起]] - 空性的基础
-- [[01-DHARMIC/hinduism/schools/advaita-vedanta|不二论吠檀多]] - 不二的相似之处
+- [[01-DHARMIC/hinduism/schools/advaita-vedanta|不二吠檀多]] - 不二的相似之处
 - [[03-EAST-ASIAN/taoism/core-teachings/tao|道]] - 不可言说的根源
 - [[07-MODERN-PHIL/analytic/philosophers/wittgenstein|维特根斯坦]] - 语言的界限
 
